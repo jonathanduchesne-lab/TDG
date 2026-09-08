@@ -2,10 +2,20 @@
 
 Ce dépôt sert désormais de mémoire documentaire versionnée du programme TDG.
 
+## Nouvelle conversation : commencer ici
+
+Pour toute nouvelle conversation, commencer par :
+
+- [00_START_HERE_NEW_CONVERSATION.md](00_START_HERE_NEW_CONVERSATION.md)
+- puis [CURRENT_STATE.md](CURRENT_STATE.md)
+
+Le bootstrap définit l’ordre de lecture, les firewalls, la politique de savepoints/GitHub, le statut du vieux TDG et le comportement attendu si GitHub n’est pas accessible.
+
 ## État réel du dépôt au 8 septembre 2026
 
 Le dépôt contient actuellement :
 
+- `00_START_HERE_NEW_CONVERSATION.md` : bootstrap canonique de reprise;
 - `CURRENT_STATE.md` : front scientifique courant et règles de Sentinelle;
 - `history/README.md` : carte du patrimoine TDG;
 - `history/ADDONS_STATUS.md` : statut actuel des add-ons historiques #0–22;
