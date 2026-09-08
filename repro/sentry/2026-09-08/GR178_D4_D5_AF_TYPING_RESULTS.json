@@ -1,0 +1,29 @@
+{
+  "checks": {
+    "D4_threshold_not_intrinsic_Q_phase_definition": true,
+    "fixed_finite_D_analytic_class_extends_to_D5": true,
+    "no_new_Q_law_at_GR178_rewrite": true,
+    "observed_exits_are_exactly_D5": true,
+    "prior_D4_AF_flatness_does_not_claim_rootwide_D5_no_go": true,
+    "successor_max_upper_is_5": true
+  },
+  "derived": {
+    "AF_consequence": "post-exit endpoint/response change alone is insufficient; require non-endpoint transition/process residual beyond matched endpoint/direct-product response control",
+    "exit_successor_max_incidence": 5,
+    "successor_max_upper_bound": 5,
+    "typing": "D4->D5 bounded-incidence certificate crossing, not a Q-selected singular phase transition"
+  },
+  "facts": {
+    "gr154_fixed_D_bound_is_generic_in_finite_D": true,
+    "gr155_bounded_incidence_is_sufficient_certificate_not_definition": true,
+    "gr178_adds_new_Q_law": false,
+    "input_phase_bound_D": 4,
+    "new_b3_incidence": 2,
+    "observed_exit_condition_min": 5,
+    "observed_exit_count": 12,
+    "old_port_incidence_increment_max": 1,
+    "prior_D4_AF_flatness_scope_root_wide": false
+  },
+  "passed": 6,
+  "total": 6
+}
