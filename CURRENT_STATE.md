@@ -38,36 +38,61 @@ Signature idéale :
 
 Ces résultats ne sont pas des no-go globaux contre toute future classe `Ext` ou tout secteur de phase.
 
-## Nouveau jalon positif — RC40F-D5 / phase exit
+## Correction de nomenclature — GR178 phase-exit ≠ RC40F-D5
 
-Checkpoint :
-`checkpoints/SENTRY/2026-09-08/TDG_GR178_D4_TO_D5_PHASE_EXIT_AF_FRONTIER_2026-09-08.md`
+Checkpoint correctif :
+`checkpoints/SENTRY/2026-09-08/TDG_CORRECTION_GR178_PHASE_EXIT_VS_RC40F_D5_NAMING_2026-09-08.md`
 
-GR178 fournit une **vraie transition locale de state/descriptor Q-native à travers la frontière de phase** :
+Le checkpoint précédent avait utilisé le nom `RC40F-D5` pour les sorties GR178 de la phase d'incidence `D=4` vers des successeurs avec `max B3 incidence >=5`. Cette identification était incorrecte.
+
+### GR178 D>4 phase-exit — résultat positif séparé
+
+GR178 conserve :
 
 - 40 mouvements légaux testés;
 - **40/40** successor descriptors prédits exactement égaux aux carriers réellement développés;
 - 28 restent dans D=4;
 - **12 quittent D=4** et produisent `max B3 incidence >=5`;
-- ces 12 sorties ne sont pas projetées artificiellement vers D=4.
+- ces 12 sorties ne sont pas projetées artificiellement vers D=4;
+- la réponse `[C6]` et la récursion processuelle restent certifiées seulement sur la phase D=4.
 
-Mais la réponse `[C6]` et la récursion processuelle sont certifiées explicitement seulement **sur la phase D=4**. Les recoveries ultérieurs conservent **RC40F-D5 OPEN and separate**.
+Classification correcte : **POSITIVE D>4 SOURCE-STATE PHASE-EXIT / POST-EXIT RESPONSE OPEN**, sans utiliser le nom RC40F-D5.
 
-Classification live :
+### RC40F-D5 historique — vraie définition restaurée
 
-**POSITIVE SOURCE-STATE PHASE-EXIT PASS / POST-EXIT PROCESS RESPONSE NOT DERIVED / AF `N_12` NOT YET EARNED.**
+RC40F-D5 est le gate :
 
-### Cible exacte maintenant
+**OCCURRENCE-RESOLVED PREDICTIVE INCIDENCE GROUPOID / PATHFUL AMPLITUDE-LIFT**.
 
-**RC40F-D5 — D>4 POST-EXIT PROCESS-RESPONSE DERIVATION.**
+Son objectif est de partir des identités prédictives parent/face **avant shared-port flattening**, seulement si la réponse future les distingue, puis de demander s'il existe un transport d'arête :
 
-1. prendre les 12 successeurs D>4 déjà gagnés;
-2. évaluer le Q retenu directement sur ces carriers sans importer la formule/alignement C6 de D4;
-3. déterminer si un response object/ray canonique D5 existe;
-4. construire des next legal moves depuis D5;
-5. demander si le premier phase-exit change réellement le **second transition morphism**;
-6. soustraire one-event/composition avant toute interprétation géométrique;
-7. seulement si le connected residual est non nul : causal break, AF controls, naturalité, coarse-graining, puis blind AC quotient-lock.
+- inversible (`U(e^-1)=U(e)^-1`);
+- associatif sous composition de chemins;
+- autorisant une holonomie same-endpoint;
+- dont le quotient orthogonal/projectif reproduit RC40E sans refit;
+- conservant BF `z^-4`, BH `alpha=beta=-1/3`, BR, Q-B1846 et la naturalité b4/b24;
+- avec une composante noncompacte/amplitude réellement soudée au SAME-Q physical `Dh3`.
+
+D4 avait déjà établi : vraie courbure/générateur + vraie connexion projective réversible, **mais aucune primitive d'arête nonprojective réversible avec amplitude n'était dérivée**.
+
+Le diagnostic BW occurrence-split restait non certifié : il supprimait une dépendance immédiate H3/H4 dans un stress-test, mais n'avait pas passé b24 ni préservé BF/BH/BR, et la nécessité physique de l'occurrence splitting n'était pas démontrée.
+
+Aucun résultat RC40F-D5 fermé/certifié n'a été retrouvé; seuls D4 et le resume prompt D5 sont retrouvés.
+
+## Cible exacte maintenant
+
+**Priorité 1 — historique RC40F-D5, exactement comme défini.**
+
+Premier sous-gate :
+
+1. récupérer la famille BV/BW repeated-parent et sa provenance légale;
+2. tester si les identités parent-face avant flattening sont **future-response-distinguishable** sous le Q gelé;
+3. si oui seulement, construire RAW vs occurrence-resolved carriers en b4 et b24;
+4. vérifier BF/BH/BR/Q-B1846/RC40E avant de chercher l'holonomie d'amplitude;
+5. exiger inverse-edge + path composition + quotient RC40E + SAME-Q `Dh3` solder;
+6. si aucune occurrence-resolution forcée ne survit, fermer D5 comme inadéquation de la réalisation microscopique actuelle, sans ajouter de registre à la main.
+
+**Priorité 2 — GR178 D>4 post-exit response**, conservée séparément comme loophole de phase.
 
 ## Do-not-re-mine
 
