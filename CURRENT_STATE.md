@@ -32,13 +32,15 @@ Si une déformation candidate tombe non trivialement dans le quotient AC unidime
 
 ## Dernières fermetures Sentinelle — 8 septembre 2026
 
-Trois routes supplémentaires sont maintenant fermées dans leur scope exact :
+Quatre routes supplémentaires sont maintenant fermées dans leur scope exact :
 
 1. **Q-B1825L dependent enablement -> AF : TYPE FAIL.** Le résultat causal fini `A<C` est retenu : C est illégal à la racine, devient légal après A, reste illégal après B et est légal après AB. Mais dans la réalisation Q-B1824A/Q-B1819A récupérée, cette dépendance est portée par le domaine légal; une fois C permis, les Grams de transition testés sont invariants aux ajouts spectateurs, les injections B/C vers le même `ABC` coïncident et le premier cross-terme des routes est nul. Donc causalité de domaine réelle, mais aucun nouveau normal de processus AF n'est obtenu.
 
 2. **Q-B1206 critical H160 amplifier comme rescue GR88 -> TYPE/PROVENANCE FAIL.** Q-B1206 conserve sa valeur historique : le même Q H160 contient un amplificateur critique local avec `gap ~ a^2` et `||R|| ~ a^-2`. Mais ce résolvant agit sur une construction selected-future/B2 future-Gram distincte du primitive process-normal à deux événements de GR88. Aucun intertwiner Q-derived ne les identifie. Un gain linéaire singulier ne transforme pas le zéro exact locked de GR88 en vertex connecté; et les tests historiques Q-B1207/Q-B1210/Q-B1211 ferment déjà les pôles H160 comme phase locale+sheaf conjointe dans leur classe testée.
 
 3. **Q-B1634→Q-B1637 affine moving-cut anchor -> AF : REPRESENTATION/PROCESS TYPE FAIL.** Q-B1634/1635 conservent une vraie ancre semi-directe Q-derived : la réponse support `P0` donne exactement `spatial(delta_g P0)=g`, et le diamant affine fini produit `Delta x_spatial = a^2(N0 grad M-M0 grad N)+O(a^3)` avec holonomie de frame non nulle. Q-B1638 conserve aussi son atlas Q-selected/non-Stueckelberg. Mais Q-B1637 teste le vrai full separating Active43 two-cell process avec la base Herm2 complète et trouve des résidus d'ordre seulement `~1e-19–1e-21`, donc flat/order-independent à la précision numérique, cohérent avec l'associativité Schur/Feshbach. L'ancre non abélienne est donc une propriété réelle de la représentation géométrique/support/fibre, pas un `N_12` microscopique connecté du processus sous-jacent.
+
+4. **Q-B1014→Q-B1204 alternative Ext / higher-process historique -> AF : TYPE/PROVENANCE FAIL.** La ligne conserve de vrais résultats positifs : response-Cons courbe avec 2-morphisme de frame, algèbre naturelle Q de six directions par paire, vrai B2 full-future Schur process sheaf dans H130, puis process sheaf selected-future exact dans le H160 enrichi. Mais les endroits où apparaît un canal ordonné leader restent construits plutôt que Root-dérivés : la loi C/K et son response-inverse ne sont pas sélectionnées par Root1, le H nu ne produit qu'un mixed two-port `~a^6.041` contre `~a^2.013` pour le direct (ratio `~a^4.028`), les blocs Green non conditionnés ne sont pas des Ext sharp, et le registre d'occurrence B2 de H160 est un enrichissement explicitement non dérivé du root minimal. Cette famille démontre une **capacité higher/process forte**, mais pas un `N_12(a) != 0` source-level Root-derived.
 
 Ces fermetures ne constituent pas un no-go global contre une loi Q future plus riche.
 
@@ -52,15 +54,19 @@ Ne pas re-promouvoir non plus comme preuve AF :
 - le diamant affine Q-B1635;
 - la boucle Thomas/Wigner / frame holonomy;
 - l'identifiabilité de chart Q-B1638;
+- Q-B1014 curved response-Cons;
+- Q-B1149 response-inverse;
+- les médiateurs/registres explicites Q-B1151, Q-B1177 et Q-B1193;
+- les Green blocks H130 non conditionnés comme Ext sharp;
 
-car Q-B1637 montre que leur base processuelle séparante testée reste order-flat.
+car ces objets ne fournissent pas un couplage ordonné source-level Root-dérivé normal au processus direct-product.
 
-Chercher uniquement un nouvel objet microscopique qui n'est pas réductible à cette edge algebra ni à une représentation géométrique mobile posée sur un process flat, notamment :
+Chercher uniquement un nouvel objet microscopique qui n'est pas réductible à cette edge algebra ni à une représentation/readout enrichie posée sur un process flat, notamment :
 
-- un bloc inter-fibre multi-événement irréductible;
-- une coherent higher/pseudonatural Cons cell dont le **full separating microscopic process** conserve un résidu ordonné non nul;
+- un bloc inter-fibre multi-événement irréductible directement présent dans le générateur/process source;
+- une coherent higher/pseudonatural Cons cell dont la **loi source elle-même** est Q/Root-derived et dont le full separating microscopic process conserve un résidu ordonné non nul;
 - un map Q-generated boundary/inflow promu dans le processus prédictif quotienté avec signature causal-break propre;
-- un autre degré/process state Root-licencié hors de la classe Active43 grade-one / Schur-flat;
+- un **whole-cut / phase-exit / autre Ext concrète Root-licenciée** hors de la classe Active43 grade-one / Schur-flat et hors des enrichissements historiques construits;
 - idéalement un bloc process-normal `N_12(a) != 0` où **le couplage ordonné à deux événements et un éventuel soft/critical sector sont dérivés dans le même opérateur source**, avec la règle de sélection gelée avant tout test gravitationnel.
 
 Q-B1828 reste un résultat utile de mémoire prédictive : le couple de résidus `(R_2,R_4)` est Q-native, prédictif-basic, quasilocal et refinement-natural, mais ses incréments s'additionnent exactement sous internalisations successives. Il ne fournit donc pas, à lui seul, le terme connecté multi-événement recherché.
