@@ -13,7 +13,7 @@
 
 ## Cible Sentinelle
 
-Chercher uniquement un datum Q-native de PROCESS/transition ordonné, cohérent et mixte avec source-level `N_12(a) != 0`, avant endpoint/readout/geometric reduction, non reconstructible depuis one-event maps, propagation diagonale, composition stricte, support/légalité, état endpoint ou géométrie de réponse.
+Chercher uniquement un datum Q-native de PROCESS/transition ordonné, cohérent et mixte avec source-level `N_12(a) != 0`, avant endpoint/readout/geometric reduction, non reconstructible depuis one-event maps, propagation diagonale, composition stricte, support/légalité, état endpoint/current-carrier ou géométrie de réponse.
 
 ## Fermetures récentes binding
 
@@ -25,12 +25,13 @@ Chercher uniquement un datum Q-native de PROCESS/transition ordonné, cohérent 
 - GR62 : whole-cut second morphism underdetermined.
 - GR176→179 D4 : local Markov/cocycle, connected two-event remainder nul dans le scope certifié.
 - RC40F-D5/GR5 : strong structural/path-groupoid PASS historique, mais AF FAIL moderne par contrôle direct-product et source endpoint-count order-blind.
+- **GR174/EventRef C8+ exact all-z : CLOSED.** Nonzero higher-detail physics survives, but exact builder depends only on canonical current carrier; same-final AB/BA defects are exactly zero at fine-H, retained transfer and detail-correction levels; matched static-common-boundary defect `0`; 15/15 PASS.
 
 ## GR178 D4→D5
 
 Checkpoint : `checkpoints/SENTRY/2026-09-08/TDG_GR178_D4_TO_D5_PHASE_EXIT_AF_TYPING_NOGO_2026-09-08.md`.
 
-Les 12 sorties GR178 sont **exactement D=5** : les anciens ports gagnent `+1`, les nouveaux B3 naissent à `2`, donc depuis `D<=4` aucun successeur ne dépasse 5. GR178 n'introduit aucune nouvelle loi Q. GR154/155 montrent que D fini est une classe analytique avec constantes dépendant de D et que le bound D est un certificat, pas la définition physique de la phase.
+Les 12 sorties GR178 sont exactement D=5. GR178 n'introduit aucune nouvelle loi Q. D fini reste une classe analytique avec constantes dépendant de D; le seuil D=4 était un certificat d'analyse, pas une frontière physique Q.
 
 **D4→D5 threshold crossing -> AF = CLOSED / TYPE FAIL.** Repro 6/6.
 
@@ -38,65 +39,72 @@ Les 12 sorties GR178 sont **exactement D=5** : les anciens ports gagnent `+1`, l
 
 Checkpoint : `checkpoints/SENTRY/2026-09-08/TDG_GR178_D5_SECOND_STEP_DEPENDENCY_ENDPOINT_MARKOV_NOGO_2026-09-08.md`.
 
-Les trois pulse controls ont un TIP `{4,2,2,2}`. Après le premier move, toutes les anciennes faces deviennent `{5,3,3,3}`.
+TIP pulse `{4,2,2,2}`. Après le premier move, anciennes faces `{5,3,3,3}`.
 
-- sélectionner la face forte -> successor TIP `{5,2,2,2}`; au pas suivant la face forte force `5→6`;
-- sélectionner une face faible -> successor TIP `{3,2,2,2}`; au pas suivant la face forte reste `5`.
+- high-port choisi -> successor TIP `{5,2,2,2}` -> au move suivant high face `5→6`;
+- low-port choisi -> successor TIP `{3,2,2,2}` -> high face reste `5` à ce pas.
 
-Donc **SEQUENTIAL INCIDENCE DEPENDENCY = POSITIVE STRUCTURAL PASS**, mais la dépendance est entièrement médiée par des endpoints locaux déjà distincts. **NONENDPOINT HISTORY RESIDUAL = ZERO au niveau du rewrite d'incidence.** Repro 8/8.
+**SEQUENTIAL INCIDENCE DEPENDENCY = POSITIVE STRUCTURAL PASS**, mais elle est entièrement médiée par des endpoints locaux différents. **NONENDPOINT HISTORY RESIDUAL = ZERO au niveau du rewrite d'incidence.** Repro 8/8.
 
-## Nouveau verrou — le vrai endpoint Q doit inclure `(R2,R4)`
+## Endpoint prédictif exact : inclure `(R2,R4)`
 
 Checkpoint : `checkpoints/SENTRY/2026-09-08/TDG_GR178_D5_FULL_RESIDUE_ENDPOINT_MATCHING_FIREWALL_2026-09-08.md`.
 
-Q-B1827 montre que l'histoire internalisée est conservée exactement par Feshbach sous forme de self-énergie mémoire; un simple graphe local ne constitue donc pas toujours l'état prédictif exact.
-
-Dans le secteur Active43 deux-pôles de Q-B1828 :
+Dans le secteur Active43 Q-B1828 :
 
 `Sigma_I(z)=R_2(I)/(z-3)+R_4(I)/(z-17/4)`.
 
-Chaque internalisation apporte un incrément PSD `Delta R_j(c)`; les incréments multiples s'additionnent exactement. Les internalisations indépendantes ont une somme finale order-independent. Le couple `(R2,R4)` est **predictive-basic** : l'égalité de la réponse rationnelle future complète fixe les deux résidus uniquement.
+Les incréments de résidus PSD s'additionnent exactement, les internalisations indépendantes sont same-final order-independent, et le couple `(R2,R4)` est predictive-basic pour la famille rationnelle complète.
 
-Un seul `Sigma(z0)` ne suffit pas — le kernel scalaire s'annule à `z=41/12`.
+Donc deux D5 ne sont « même endpoint » qu'après matching :
 
-### Conséquence AF
+**local process/geometry + interface canonique + full `(R2,R4)`**.
 
-Pour comparer deux D5 comme « même endpoint », il faut matcher au minimum :
+Un seul `z` est interdit/insuffisant.
 
-**géométrie/process local + interface canonique + couple complet `(R2,R4)`**, pas seulement le graphe radius-5.
+## Réconciliation C8/EventRef
 
-- même graphe, résidus différents -> endpoints prédictifs différents;
-- même graphe + mêmes résidus, histoires différentes -> cette mémoire Q est order-silent;
-- seule échappatoire : même full endpoint, mais next transition morphism/operator différent à cause d'un datum Q hors fermeture additive des résidus.
+Checkpoint : `checkpoints/SENTRY/2026-09-08/TDG_GR174_C8_EVENTREF_ALLZ_RECONCILIATION_NOGO_2026-09-08.md`.
 
-Scope strict : exact/conditional sur grammaire Active43 1→4 + interface persistante/canoniquement injectée; pas theorem universel de tout Root. Repro documentaire 8/8; vérificateur historique Q-B1828 residue-order 27/27 dans son scope.
+L'ancien GR174 laissait légitimement ouvert le higher-detail `O(a^4)`/C8 à son époque. Un audit Sentinelle ultérieur a cependant récupéré et rerun froidement `gr174p_exact_eventref_detail_memory.py`.
+
+Source typing décisif :
+
+- `build_fine_H(B4,a)` consomme seulement le current carrier et commence par `B4=sorted(B4)`;
+- `analyze_carrier(K,a,z)` réduit `K` à `all_faces(K,4)` comme sorted set;
+- aucun factual-order/history/conditional-second-transition argument.
+
+Le détail est réellement non nul : `K_SD=O(a^4)` et retained correction `O(a^8)`. Mais pour same-final `root,A,B` vs `root,B,A` :
+
+- full fine-H order defect `0`;
+- retained all-z transfer order defect `0`;
+- detail-correction order defect `0`;
+- matched static-common-boundary defect `0`.
+
+Vérificateur exact all-z : **15/15 PASS**.
+
+Donc **ne plus miner le current finite GR174/EventRef builder à C8, ordre supérieur ou autre z comme preuve AF**. L'ancien opening est superseded dans ce builder.
 
 ## Front exact maintenant
 
-Chercher uniquement :
+La recherche quitte les builders déterminés uniquement par current carrier/final endpoint.
 
-`same local process geometry + same canonically identified (R2,R4) + different realized history`
+Chercher seulement un source dont la signature contient réellement quelque chose de plus que le final carrier :
 
-puis tester :
+1. **Q-native conditional transition morphism** avec prior realized transition/branch comme entrée et qui change le second morphism après matching full endpoint/common-boundary;
+2. **off-diagonal inter-fibre/two-event kernel** non reconstructible comme fonction statique du carrier final;
+3. **coherent higher/pseudonatural cell** dont la valeur n'est pas déterminée par final carrier/common boundary;
+4. **Q-derived boundary/inflow law** battant un matched static-boundary control;
+5. **Root-allowed process class outside Active43/current-carrier grammar**.
 
-`different next Q transition morphism/operator ?`
-
-Si oui : geler la source et soustraire le matched endpoint/residue control avant causal-break. Si non : branche GR178-D5 fermée comme source AF sous le Q courant.
-
-Cibles légales hors fermeture additive :
-
-- conditional instrument Q-native history-dependent;
-- bloc inter-fibre/multi-event réellement non additif;
-- coherent higher/pseudonatural cell;
-- Q-derived boundary/inflow promotion law;
-- process Root-allowed hors grammaire Active43.
+Pour tout candidat : geler la source, matcher geometry + `(R2,R4)` + current-carrier/common-boundary, soustraire ce contrôle, puis seulement causal-break/recovery et panel AF.
 
 ## Garde-fous
 
-Ne pas remonter comme AF : simple sensibilité d'incidence, D5 `5→6`, GR5/BRAW/C1, Q-B1828 additive residue memory, deeper `H^n`, moving-frame/support holonomy, ou différence observée à un seul `z`.
+Ne pas remonter comme AF : simple sensibilité d'incidence, D5 `5→6`, GR5/BRAW/C1, Q-B1828 additive memory, GR174/EventRef C8+/all-z current-carrier builder, deeper `H^n`, moving-frame/support holonomy, différence à un seul z.
 
 Pas d'EH/ADM, TT, tetrad, clock/shift, preferred z, fitted gain/projector/decoder sans dérivation indépendante.
 
 ## Sauvegarde
 
-Chaque verdict stable : checkpoint append-only + repro + `CURRENT_STATE.md` + `MASTER_RECOVERY_LIVE.md` + commit GitHub.
+Chaque verdict stable : checkpoint append-only + repro/provenance + `CURRENT_STATE.md` + `MASTER_RECOVERY_LIVE.md` + commit GitHub.
