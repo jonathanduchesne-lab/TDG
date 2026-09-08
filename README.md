@@ -1,84 +1,96 @@
 # Complete TDG / Root 2.0 — Strategy C
 
-Sauvegarde de recherche A→Z du **6 septembre 2026** : **P10O CLOSED LOCALLY / P10P NOT STARTED**.
+Ce dépôt sert désormais de mémoire documentaire versionnée du programme TDG.
 
-Ce dépôt conserve le handoff P10O et sert désormais aussi de mémoire documentaire versionnée du programme TDG. Les documents historiques sont archivés sans être automatiquement promus au canon scientifique courant.
+## État réel du dépôt au 8 septembre 2026
 
-## Commencer ici
+Le dépôt contient actuellement :
 
-| Besoin | Document |
-| --- | --- |
-| Connaître le front scientifique actuel | [CURRENT_STATE.md](CURRENT_STATE.md) |
-| Comprendre le projet P10O | [Guide « grand-mère »](docs/01_GRANDMOTHER_GUIDE_TDG_A_TO_Z_P10O_2026-09-06.md) |
-| Reconstituer l'historique A→Z | [Recovery complet](docs/Complete_TDG_ROOT2_A_TO_Z_GRANDMOTHER_WORK_RECOVERY_P10O_CLOSED_P10P_NOT_STARTED_2026-09-06.md) |
-| Connaître l'état canonique P10O | [État canonique P10O](docs/02_TDG_CURRENT_CANONICAL_STATE_P10O_2026-09-06.md) |
-| Examiner P10O | [Audit P10O](docs/03_TDG_P10O_AUDIT_v1_0_2026-09-06.md) et [delta P10N→P10O](docs/04_TDG_A2Z_DELTA_P10N_TO_P10O_2026-09-06.md) |
-| Reprendre dans une conversation | [Prompt exact](docs/06_EXACT_WORK_RESUME_PROMPT.txt) |
-| Retrouver une étape historique | [Chronologie](indexes/CHECKPOINT_TIMELINE_INDEX.txt) et [index des titres](indexes/FULL_RECOVERY_HEADING_INDEX.tsv) |
-| Examiner le patrimoine TDG antérieur | [history/README.md](history/README.md) et [statut des add-ons](history/ADDONS_STATUS.md) |
-| Examiner les sources historiques retrouvées | [Inventaire Library → GitHub](provenance/HISTORICAL_LIBRARY_INVENTORY_2026-09-08.md) |
-| Examiner la provenance P10O et les limites | [Reproduction](docs/05_REPRODUCTION_AND_PROVENANCE.md) et [lacunes connues](docs/07_KNOWN_GAPS_AND_DO_NOT_FABRICATE.md) |
+- `CURRENT_STATE.md` : front scientifique courant et règles de Sentinelle;
+- `history/README.md` : carte du patrimoine TDG;
+- `history/ADDONS_STATUS.md` : statut actuel des add-ons historiques #0–22;
+- `provenance/HISTORICAL_LIBRARY_INVENTORY_2026-09-08.md` : inventaire des sources historiques réellement retrouvées dans la Library.
 
-## Statut scientifique courant
+Le handoff P10O complet — recovery A→Z, audits, index, repro, manifests et outils — est **confirmé dans la Library**, mais n'est pas encore importé intégralement dans ce dépôt GitHub. Les anciens README qui pouvaient laisser croire le contraire étaient trop optimistes; cette version corrige explicitement ce point.
 
-Le front actif est maintenant piloté par `CURRENT_STATE.md`. Le point défendable reste :
+## Front scientifique courant
+
+Voir [CURRENT_STATE.md](CURRENT_STATE.md).
+
+Le point défendable reste :
 
 - noyau **retained-memory / effective-history** fort conservé;
 - forte cohérence relativiste linéaire et premier non-linéaire dans les scopes gelés;
 - **full nonlinear GR from TDG : NOT ESTABLISHED**.
 
-La Sentinelle ne doit signaler que des prémisses microscopiques réellement nouvelles, des no-go décisifs ou de vrais jalons de fermeture non linéaire. Un scan négatif ou répétitif ne justifie ni notification scientifique ni commit.
+La Sentinelle ne doit signaler que :
 
-## État scientifique P10O préservé
+- une prémisse microscopique réellement nouvelle avec marge de soldering non nulle;
+- un no-go décisif supplémentaire;
+- un vrai jalon de fermeture non linéaire.
 
-- Autorité historique **FINAL-CERTIFIED : Q-B1858L**, inchangée.
-- P10O : fermeture locale sur le carrier scalaire Cons/Feshbach documenté ; **1812/1920 wedges non nuls**, **16/16 mouvements séparés**, vérificateur **29/29 PASS**.
-- La pertinence physique de ce défaut D4 à l'IR reste ouverte dans le scope P10O/P10P.
-- Root1/UAP conservé ; `A_path` retiré ; Q global non effondré ; ledger factuel append-only, séparé de Q.
-- Born et durée métrique/propre : **NOT DERIVED** ; QSC candidat nonbinding ; O(3) : **FAIL / NOT CLOSED** ; Lambda : **OPEN**.
-- Les statuts historiques HDA/spin-2/GR restent limités à leurs scopes documentés.
-
-Les PASS du vérificateur sont des contrôles de certificat et de reproductibilité, pas des confirmations physiques indépendantes.
+Un scan négatif ou répétitif ne justifie ni notification scientifique ni commit.
 
 ## Patrimoine historique
 
-Le vieux TDG n'est pas jeté. Les anciens manuscrits, add-ons, stress tests, branches de reconstruction et anciens bridges sont conservés comme banque de données et de provenance. Leur règle est :
+Le vieux TDG n'est pas jeté. Les anciens manuscrits, add-ons, stress tests, branches de reconstruction et anciens bridges sont conservés comme banque de données et de provenance.
+
+Règle absolue :
 
 **ARCHIVÉ ≠ CANONIQUE ≠ DÉRIVÉ ≠ VALIDÉ PHYSIQUEMENT.**
 
-Ils peuvent redevenir utiles comme couche IR/downstream, comparator ou source d'intuition seulement si le front courant les re-dérive ou montre explicitement qu'ils défont un no-go antérieur.
+Voir :
 
-## Vérifier et reproduire P10O
+- [Carte historique](history/README.md)
+- [Statut des add-ons #0–22](history/ADDONS_STATUS.md)
+- [Inventaire Library → GitHub](provenance/HISTORICAL_LIBRARY_INVENTORY_2026-09-08.md)
 
-Prérequis : **Python 3.12 ou ultérieur**. Depuis la racine du dépôt :
+## Corpus historique confirmé dans la Library
 
-```sh
-python3 tools/verify_handoff.py
-```
+Sont notamment retrouvés :
 
-Pour rejouer les deux scripts P10O archivés :
+- `FinalTDG`;
+- `TDGpaper`;
+- `TDGStressTest`;
+- `TDGEX`;
+- `AddTDG22`;
+- `TDG_Core_Model_Unified_v1`;
+- `TDG_Unified_Conservative_Specification_v3_1`;
+- `TDG_Mathematical_Hardening_and_Verification_v4_0`;
+- `TDG_Bridge_Program_Complete_Transfer_Dossier_EN`;
+- `TDG_Root_Reconstruction_Recovery_2026-08-10.md`;
+- `Complete_TDG_MASTER_AUDIT_HISTORIQUE_2026-09-03.md`;
+- `Complete_TDG_ROOT2_A_TO_Z_GRANDMOTHER_WORK_RECOVERY_P10O_CLOSED_P10P_NOT_STARTED_2026-09-06.md`;
+- les pièces P10O associées, manifests et recoveries connexes.
 
-```sh
-python3 -m venv .venv
-.venv/bin/python -m pip install -r requirements-repro.txt
-.venv/bin/python tools/verify_handoff.py --replay
-```
+## Handoff P10O historique
 
-Sous Windows, utiliser `.venv\Scripts\python.exe` à la place de `.venv/bin/python`.
+Le handoff retrouvé indique :
 
-## Organisation
+- autorité historique **FINAL-CERTIFIED : Q-B1858L**, inchangée;
+- P10O : fermeture locale sur le carrier scalaire Cons/Feshbach documenté;
+- **1812/1920** wedges non nuls;
+- **16/16** mouvements séparés;
+- vérificateur historique **29/29 PASS**;
+- P10P était le next gate de ce handoff.
 
-- `CURRENT_STATE.md` : front scientifique courant et firewalls de Sentinelle.
-- `docs/` : documentation canonique du handoff P10O.
-- `history/` : patrimoine historique et statuts des anciens add-ons.
-- `indexes/` : index historiques d'origine.
-- `repro/` : archive P10O originale et éléments de reproduction.
-- `provenance/` : provenance P10O et inventaires historiques.
-- `tools/` : vérification d'intégrité et rejeu P10O.
-- `verification/` : journaux historiques et rapports de vérification.
+Ces éléments restent historiques et doivent être lus avec leurs scopes et firewalls. Le front actif actuel est défini dans `CURRENT_STATE.md`.
 
-## Limites de complétude
+## Lacunes documentaires connues
 
-Le handoff P10O ne prétend pas disposer des éléments déjà déclarés manquants : **Q-B506→555**, **Q-B759→878**, et certains raw repro **Q-B1831→1835**. Ces trous ne doivent jamais être reconstruits par interpolation.
+Ne jamais reconstruire par interpolation :
 
-L'inventaire patrimonial du 8 septembre confirme que plusieurs originaux historiques restent actuellement ancrés dans la Library ChatGPT et ne sont pas encore tous importés byte-identical dans GitHub. Leur présence dans l'inventaire ne doit donc pas être confondue avec une copie binaire déjà présente dans le dépôt.
+- `Q-B506→555`;
+- `Q-B759→878`;
+- certains raw repro `Q-B1831→1835`.
+
+## Prochaine étape documentaire
+
+Importer progressivement dans GitHub, avec provenance explicite et sans changement de statut scientifique :
+
+1. les fichiers textuels canoniques/recovery déjà retrouvés dans la Library;
+2. les originaux historiques pertinents lorsque l'export byte-identical est disponible;
+3. les manifests/repro associés;
+4. les index de checkpoints.
+
+Jusqu'à cette importation complète, **la Library reste l'ancre matérielle principale pour une partie du patrimoine TDG historique**.
