@@ -49,111 +49,135 @@ Retain as closed in tested scope:
 
 # 4. HISTORICAL RC40F-D5 / GR5 RECONCILIATION
 
-Historical D5 was the `OCCURRENCE-RESOLVED PREDICTIVE INCIDENCE GROUPOID / PATHFUL AMPLITUDE-LIFT` gate, not an incidence=5 label.
+Historical D5 was the occurrence-resolved predictive incidence/path-groupoid amplitude-lift gate, not an incidence=5 label.
 
-GR5 later substantially realized the intended path-level object:
+GR5 later substantially realized the intended path-level object `g_i(C)=(R_i(C), tau_{F_i(C)})`, with noncompact affine translation, formal comparison inverse, associative composition, response-visible same-final paths, exact `F^(2)->HN`, path curvature -> BRAW, BRAW -> HB, Bianchi closure and held-out C1 reconstruction. GR6 strengthened the associated covariant response picture.
 
-`g_i(C)=(R_i(C), tau_{F_i(C)})`,
+Historical structural/physical PASS retained.
 
-with noncompact affine translation, formal comparison inverse, associative composition, response-visible same-final paths, exact `F^(2)->HN`, path curvature -> BRAW, BRAW -> HB, Bianchi closure and held-out C1 reconstruction. GR6 strengthened the associated covariant response picture.
-
-Historical structural/physical PASS is retained.
-
-Modern Sentry no-gos are binding:
-
-1. an exactly commuting direct-product microscopic base can reproduce the complete GR5 affine response law and all deterministic descendants;
-2. the actual GR5 source chain `K_of(c)->state_counts(c)->slot_move` is endpoint-count only and order blind.
-
-Thus D5/GR5 earns zero AF microscopic process-normal/causal-break margin. Do not re-mine GR5/BRAW/C1/GR6 descendants as AF.
+Modern Sentry no-gos are binding: the full affine law can be reproduced over a commuting direct-product base, and the actual GR5 source hierarchy terminates at endpoint-count/order-blind state. Therefore D5/GR5 earns zero AF microscopic process-normal/causal-break margin. Do not re-mine GR5/BRAW/C1/GR6 descendants as AF.
 
 ---
 
 # 5. GR178 — EXACT D4→D5 RETYPING
 
-New checkpoint:
-
+Checkpoint:
 `checkpoints/SENTRY/2026-09-08/TDG_GR178_D4_TO_D5_PHASE_EXIT_AF_TYPING_NOGO_2026-09-08.md`
 
-GR178 retains:
+GR178 retains 40/40 exact successor descriptors, 28 in D=4 and 12 exits.
 
-- 40 legal moves tested;
-- 40/40 successor descriptors exact;
-- 28 stay in D=4;
-- 12 leave D=4;
-- no artificial projection back into D4.
+Exact stellar update:
 
-But the exact stellar update gives a stronger theorem than the old wording `>=5`.
+- every old B3 port gets `+1` incidence;
+- every new x-containing B3 intersection is born at incidence `2`.
 
-Starting from `max B3 incidence <=4`:
+Starting from `max<=4`, every successor has `max<=5`; every exit has `max>4`; therefore **all 12 exits are exactly D=5**.
 
-- each old B3 port gains at most `+1`;
-- each new B3 intersection is born with incidence `2`.
-
-Therefore every successor has `max incidence <=5`. Since every phase exit has `max incidence >4`, **all 12 exits are exactly D=5**.
-
-GR178 provenance explicitly says it introduces **no new Q law**; it applies the same exact local stellar incidence rewrite to the frozen GR177 graph.
-
-Verification: `6/6 PASS` under `repro/sentry/2026-09-08/`.
-
----
-
-# 6. WHY D4→D5 IS NOT A PHYSICAL PHASE TRANSITION BY ITSELF
-
-GR154 already derives, for any fixed finite incidence bound `D`, carrier-size-independent analytic response bounds:
-
-`||Delta section|| <= C_BG(D) a^2`
-
-and, on an open nondegenerate tangent phase,
-
-`||Delta tangent|| <= C_TAN(D,delta) a^2`.
-
-The constants may depend on D; no universal D-independent bound is claimed.
-
-GR155 then separates:
-
-- intrinsic Q/response regularity = physical criterion;
-- bounded incidence = sufficient structural certificate;
-- topology/manifold/incidence label = not the phase definition.
-
-Therefore `4 -> 5` crosses the analyst's fixed certificate used by GR177/178; it does not identify a Q-selected singular surface or new operator law.
+GR178 introduces no new Q law. GR154 covers arbitrary fixed finite D with carrier-size-independent analytic `O(a^2)` response bounds whose constants may depend on D; GR155 makes bounded incidence only a sufficient certificate, not the intrinsic response-phase definition.
 
 Binding classification:
 
-**GR178 D4→D5 threshold crossing -> AF source premise = CLOSED / TYPE FAIL.**
+**D4→D5 threshold crossing -> AF source premise = CLOSED / TYPE FAIL.**
 
-The actual post-exit D=5 C6 response remains scientifically open, but a changed ray, amplitude or incidence-sensitive endpoint response alone cannot count as `N_12`.
+A changed D5 response ray/amplitude/coefficient alone cannot count as `N_12`.
+
+Verification: `6/6 PASS`.
+
+---
+
+# 6. GR178 D5 — POSITIVE SECOND-STEP DEPENDENCY, EXACT ENDPOINT-MARKOV MEDIATION
+
+Checkpoint:
+`checkpoints/SENTRY/2026-09-08/TDG_GR178_D5_SECOND_STEP_DEPENDENCY_ENDPOINT_MARKOV_NOGO_2026-09-08.md`
+
+GR177's three terminal pulse controls (`pulse_d2`, `pulse_d5`, `pulse_d8`) each have current TIP incidence profile
+
+`{4,2,2,2}`.
+
+All four legal first moves increment all old ports, giving global old-port incidences
+
+`{5,3,3,3}`.
+
+Thus all 12 first moves enter D=5.
+
+But the selected old port determines the successor TIP:
+
+### Direct-high branch
+
+Select the incidence-4 port. The associated new B4 is the successor TIP and contains the same old face after `4→5`, plus three new incidence-2 faces:
+
+`TIP_A={5,2,2,2}`.
+
+Exactly one such move per pulse -> 3 branches total.
+
+### Side branch
+
+Select one of the three incidence-2 ports. The successor TIP is
+
+`TIP_B={3,2,2,2}`.
+
+The old high face is still globally incidence 5 but lies on the neighboring new B4 associated with the high port rather than on the chosen TIP.
+
+Three such moves per pulse -> 9 branches total.
+
+### Second step
+
+The same stellar rewrite increments all ports of the current TIP.
+
+- From `TIP_A`, the concentrated face is a current port, so any legal second move forces `5→6`.
+- From `TIP_B`, the concentrated face is not a current TIP port, so at this second step it stays `5`.
+
+Therefore the first event genuinely changes the second-step incidence law.
+
+Classification:
+
+**SEQUENTIAL INCIDENCE DEPENDENCY = POSITIVE STRUCTURAL PASS.**
+
+However the two successor local states are already different: `{5,2,2,2}` versus `{3,2,2,2}`. Once the full successor local state is conditioned on, the second update is deterministic. The dependence factors as
+
+`first move -> successor local endpoint state -> second update`.
+
+So at exact incidence-rewrite level:
+
+**NONENDPOINT HISTORY RESIDUAL = ZERO / ENDPOINT-MARKOV CONTROL SUFFICIENT.**
+
+No AF promotion.
+
+Verification: `8/8 PASS` under `repro/sentry/2026-09-08/`.
 
 ---
 
 # 7. HIGH-INCIDENCE GUARDRAIL
 
-GR153/154 already show what high incidence can do without creating a new law.
+GR153/154 already show what incidence can change without a new law. On finite concentrated carriers, Cons/sheaf sewing stays exact in tested scopes, tangent rank remains 4 and response order remains `O(a^2)`, while coefficients can change strongly with incidence. Concentrated unbounded-incidence legal histories remain response-singular adversaries and no root-wide D-independent constant is derived.
 
-On finite concentrated carriers, Cons/sheaf sewing remains exact in tested scopes, targeted tangent rank remains 4 and retained/coarse order remains `O(a^2)`, while the coefficients depend materially on incidence. At depth 16, for example, concentrated max-incidence 18 has larger tangent coefficients than spread D=4 controls.
-
-Concentrated unbounded-incidence legal histories can become response-singular adversaries and no root-wide D-independent constant is derived. But this must not be conflated with the finite exact D=5 successors of GR178.
-
-Thus **incidence sensitivity alone is not AF evidence**.
+Therefore incidence sensitivity or the deterministic `5→6` branching is not AF evidence by itself.
 
 ---
 
-# 8. EXACT ACTIVE FRONTIER NOW
+# 8. EXACT ACTIVE FRONTIER NOW — SAME ENDPOINT, DIFFERENT NEXT Q OPERATOR
 
-The next useful calculation is not “does C6 change after D4?”. It must attack the **D5 transition law after complete endpoint-response matching**.
+The live target is now stricter than “dependent second step”:
+
+> Find two realized histories with the **same complete successor local state `M_Q^(2)`** (or same stronger source state if needed) but a different next Q transition operator/morphism/instrument.
+
+This is the minimal way to defeat the endpoint-Markov control exposed above.
 
 Priority sequence:
 
-1. reconstruct one or more of the 12 exact GR178 D=5 successors;
-2. freeze the complete local/endpoint Q response attached to those successors;
-3. enumerate legal next moves, prioritizing causally comparable/dependent/overlapping pairs rather than incomparable schedule swaps;
-4. test whether event 1 changes the **operator/morphism/instrument of event 2**, not only its legality, endpoint or incidence label;
-5. subtract the complete matched endpoint/direct-product response control;
-6. only a nonzero source-level residual may be called a candidate `N_12(a)`;
-7. then require causal-break/recovery, naturality/higher coherence, coarse-graining and held-out AF controls before any geometry/GR interpretation.
+1. search archived GR177/178/related high-incidence cases for cross-history pairs with isomorphic radius-5 `Qlocal_r5` / `M_Q^(2)` successor state;
+2. compare any available next-transition Q response/operator on those matched states;
+3. if the next law is identical, strengthen the Markov/no-history closure;
+4. if it differs, freeze the source before interpretation and define the residual after complete matched endpoint response subtraction;
+5. only a nonzero residual may be candidate `N_12(a)`;
+6. then causal-break/recovery, direct-product-normal held-outs, naturality/higher coherence, coarse-graining, q2/common-cone preservation;
+7. only then blind AC quotient-lock.
 
-Other legal source targets remain:
+Do not use direct-high versus side D5 branches as AF evidence because their successor endpoint states are not matched.
 
-- Q-native conditional morphism depending on realized legal history rather than endpoint state;
+Other legal source targets:
+
+- Q-native conditional morphism depending on realized history rather than endpoint;
 - irreducible off-diagonal multi-event/inter-fibre block;
 - coherent higher/pseudonatural cell;
 - Q-derived boundary/inflow promotion law.
@@ -162,16 +186,25 @@ Other legal source targets remain:
 
 # 9. DOCUMENTARY/REPRO STATUS OF GR177/178
 
-Known exact historical provenance:
+Known exact provenance:
 
-- GR177 production source: `gr177p_state_descriptor_finite_recursion.py`, SHA-256 `a9b2ab94a84ffc295af259283e5156de0dd8f7a90a07ec9ba3f94dd45c9a7993`;
-- GR177 repro bundle historically existed, size 4,581,511 bytes, SHA-256 `77f387acef952ee441693a2298180fe6d287cd87675fca5f2257fdc27db2997d`;
-- GR177 result SHA-256 `324cf1c415ad5b9c464d20a133d24afa858cd0710db34a53f4f952b3d98f2d2b`;
-- GR178 result SHA-256 `4c79edc68313c438b8ceacf6531dbd482dadf58d5e1720282c7ee1db0f0d93bf`.
+- GR177 production `gr177p_state_descriptor_finite_recursion.py`, SHA-256 `a9b2ab94a84ffc295af259283e5156de0dd8f7a90a07ec9ba3f94dd45c9a7993`;
+- historical GR177 repro bundle size 4,581,511 bytes, SHA-256 `77f387acef952ee441693a2298180fe6d287cd87675fca5f2257fdc27db2997d`;
+- GR177 results SHA-256 `324cf1c415ad5b9c464d20a133d24afa858cd0710db34a53f4f952b3d98f2d2b`;
+- GR178 results SHA-256 `4c79edc68313c438b8ceacf6531dbd482dadf58d5e1720282c7ee1db0f0d93bf`.
 
-The historical GR177 repro bundle is currently attested by manifest/hash but is not exposed as a materializable Library binary in this session. Do not claim a cold post-exit C6 rerun until that source chain is actually recovered. Do not reconstruct its Hamiltonian by interpolation.
+The GR177 repro bundle is attested but not currently exposed as a materializable Library binary. Do not claim a cold post-D5 Q replay until the exact source chain is recovered. Do not synthesize missing Hamiltonian code.
 
-GR174 repro is available, but depends on an older qb1712/base path not currently mounted; that is not a license to synthesize missing parent code.
+GR174 repro is accessible but depends on an older qb1712/base path not currently mounted.
+
+Documentary facts already accessible:
+
+- radius-5 local descriptor is the first audited sufficient state for C6 in D4;
+- cross-history cases with the same radius-5 class have C6 rays matching to ~`1e-10` H and ~`6e-11` K in the certified D4 set;
+- GR178's local state/action split is explicitly Markov on the certified phase and adds no hidden state;
+- stored history-list reversal gives zero response-ray backflow in frozen GR177 controls.
+
+These do not prove D5 same-state next-operator equality, but they establish the exact control the next search must beat.
 
 ---
 
@@ -189,16 +222,17 @@ Do not present as new AF evidence without independently new source law:
 - GR5/GR6 affine response/path descendants;
 - GR176→179 D4 cocycle descendants;
 - Q-B1828 additive residue memory;
-- simple D=5 amplitude/ray/incidence-coefficient changes.
+- simple D5 amplitude/ray/incidence changes;
+- direct-high vs side `5→6` dependency while their successor local endpoint states differ.
 
 ---
 
 # 11. SAVEPOINT POLICY
 
-Every stable frontier change: append Sentry checkpoint, include DERIVED/ASSUMED/OPEN/NEXT, distinguish cold rerun vs documentary audit, update CURRENT_STATE and this master, commit to GitHub.
+Every stable frontier change: append Sentry checkpoint, include DERIVED/ASSUMED/OPEN/NEXT, distinguish cold rerun vs documentary audit, update CURRENT_STATE and this master, commit GitHub.
 
 ---
 
 # 12. ONE-LINE STATUS
 
-**Strong retained-memory/effective-history core retained; Q-B1858L remains historical FINAL-CERTIFIED; historical D5/GR5 remains a valuable structural response/path-groupoid PASS but is closed as AF source evidence; GR178's 12 apparent D>4 exits are exactly finite D=5 successors and therefore cross only a bounded-incidence certificate, not a Q-selected physical phase boundary; the live AF frontier is now the D=5 transition law itself after complete matched endpoint-response subtraction, looking specifically for a Q-native non-endpoint operator/morphism residual; full nonlinear GR remains NOT ESTABLISHED.**
+**Strong retained-memory/effective-history core retained; Q-B1858L remains historical FINAL-CERTIFIED; D5/GR5 is structurally valuable but AF-closed; GR178's 12 exits are exact finite D5 successors; a genuine first-event/second-step incidence dependency has now been isolated, but it is exactly mediated by distinguishable successor local endpoint states and therefore earns no AF residual; the live frontier is the sharper same-full-endpoint/different-realized-history test for a different next Q operator or morphism; full nonlinear GR remains NOT ESTABLISHED.**
