@@ -9,7 +9,10 @@ Le dépôt contient actuellement :
 - `CURRENT_STATE.md` : front scientifique courant et règles de Sentinelle;
 - `history/README.md` : carte du patrimoine TDG;
 - `history/ADDONS_STATUS.md` : statut actuel des add-ons historiques #0–22;
-- `provenance/HISTORICAL_LIBRARY_INVENTORY_2026-09-08.md` : inventaire des sources historiques réellement retrouvées dans la Library.
+- `provenance/HISTORICAL_LIBRARY_INVENTORY_2026-09-08.md` : inventaire des sources historiques réellement retrouvées dans la Library;
+- `provenance/IMPORT_STATUS_2026-09-08.md` : état exact de la migration Library → GitHub;
+- `provenance/TDG_WORK_A2Z_MANIFEST_SHA256_2026-09-06.txt` : manifeste Work P10O original;
+- `checkpoints/P10O/TDG_A2Z_DELTA_P10N_TO_P10O_2026-09-06.md` : delta P10N→P10O importé intégralement.
 
 Le handoff P10O complet — recovery A→Z, audits, index, repro, manifests et outils — est **confirmé dans la Library**, mais n'est pas encore importé intégralement dans ce dépôt GitHub. Les anciens README qui pouvaient laisser croire le contraire étaient trop optimistes; cette version corrige explicitement ce point.
 
@@ -44,6 +47,9 @@ Voir :
 - [Carte historique](history/README.md)
 - [Statut des add-ons #0–22](history/ADDONS_STATUS.md)
 - [Inventaire Library → GitHub](provenance/HISTORICAL_LIBRARY_INVENTORY_2026-09-08.md)
+- [Statut d'import exact](provenance/IMPORT_STATUS_2026-09-08.md)
+- [Manifeste P10O Work](provenance/TDG_WORK_A2Z_MANIFEST_SHA256_2026-09-06.txt)
+- [Delta P10N→P10O](checkpoints/P10O/TDG_A2Z_DELTA_P10N_TO_P10O_2026-09-06.md)
 
 ## Corpus historique confirmé dans la Library
 
@@ -84,13 +90,12 @@ Ne jamais reconstruire par interpolation :
 - `Q-B759→878`;
 - certains raw repro `Q-B1831→1835`.
 
-## Prochaine étape documentaire
+## Règle d'intégrité de migration
 
-Importer progressivement dans GitHub, avec provenance explicite et sans changement de statut scientifique :
+Un fichier n'est marqué **importé intégralement** que lorsqu'il a été écrit dans GitHub sans troncature et que son intégrité peut être contrôlée. Une tentative de gros payload textuel tronqué a été détectée puis supprimée; aucun fragment incomplet n'est conservé comme archive valide.
 
-1. les fichiers textuels canoniques/recovery déjà retrouvés dans la Library;
-2. les originaux historiques pertinents lorsque l'export byte-identical est disponible;
-3. les manifests/repro associés;
-4. les index de checkpoints.
+Le recovery P10O complet retrouvé fait **6 607 314 octets** et son SHA-256 est :
 
-Jusqu'à cette importation complète, **la Library reste l'ancre matérielle principale pour une partie du patrimoine TDG historique**.
+`c31639d0ae6c07037120e69dfcf65f114acf094efd705356660d914567923d26`
+
+Jusqu'à ce qu'un chemin d'upload local/binaire fiable soit disponible dans le connecteur, **la Library reste l'ancre matérielle principale pour les gros artefacts historiques non encore copiés dans GitHub**.
