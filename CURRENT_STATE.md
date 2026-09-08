@@ -16,7 +16,7 @@ Root1 gelé; `A_path` retiré; global Q non collapsed; ledger factuel append-onl
 
 Chercher uniquement un datum Q-native de **PROCESS/transition ordonné, cohérent, mixte** avec source-level `N_12(a) != 0` avant endpoint/readout/geometric reduction, normal aux contrôles direct-product/compositionnels, survivant causal-break/recovery ou explicitement boundary/inflow, naturel régionalement, stable sous coarse-graining et préservant `q^2`/cône commun.
 
-## Fermetures récentes principales
+## Fermetures principales récentes
 
 - GR88 coherent two-event : `J2_conn,new=0`.
 - Q-B1825L : vraie dépendance de légalité `A<C`, mais pas de nouveau payload operator-valued une fois C légal.
@@ -24,71 +24,69 @@ Chercher uniquement un datum Q-native de **PROCESS/transition ordonné, cohéren
 - Q-B1634→1637 : vraie géométrie affine/moving-support, mais process separating order-flat.
 - Q-B1014→1204 : fortes capacités higher/full-future, pas de transition law Root-selected.
 - GR62 : whole-cut second morphism underdetermined.
-- GR176→179 : vraie loi locale/cocycle, connected two-event remainder nul dans le scope certifié.
+- GR176→179 : vraie loi locale/cocycle, connected two-event remainder nul dans le scope D=4 certifié.
 - grade-one `H^n/f(H)` : fermeture compositionnelle exacte.
+- RC40F-D5/GR5 : strong structural/path-groupoid PASS historique, mais AF FAIL moderne car source endpoint-count-state/order-blind et contrôle direct-product exact.
 
-## Correction : GR178 D>4 ≠ RC40F-D5
-
-GR178 conserve séparément : 40/40 successor descriptors exacts; 28 mouvements restent D=4; **12 quittent D=4** vers `max B3 incidence >=5`; aucune projection de retour; réponse C6 post-exit non dérivée. Classification : **positive source-state phase exit / post-exit response OPEN**.
-
-## RC40F-D5 — réconciliation historique finale
-
-Le gate historique RC40F-D5 (`OCCURRENCE-RESOLVED PREDICTIVE INCIDENCE GROUPOID / PATHFUL AMPLITUDE-LIFT`) a été **substantiellement réalisé plus tard sous le nom RC40F-GR5**.
+## GR178 — reclassification D4→D5
 
 Checkpoint :
-`checkpoints/SENTRY/2026-09-08/TDG_RC40F_D5_REALIZED_AS_GR5_AF_ENDPOINT_SOURCE_CLOSURE_2026-09-08.md`
+`checkpoints/SENTRY/2026-09-08/TDG_GR178_D4_TO_D5_PHASE_EXIT_AF_TYPING_NOGO_2026-09-08.md`
 
-### Positif historique retenu — GR5/GR6
+GR178 conserve 40/40 successor descriptors exacts, 28 mouvements restant en D=4 et 12 sorties hors D=4.
 
-GR5 construit un groupoïde affine prédictif minimal :
+Le rewrite exact implique :
 
-`g_i(C)=(R_i(C), tau_{F_i(C)})`,
+- chaque ancien port B3 augmente d'incidence d'au plus `+1`;
+- toute nouvelle intersection B3 naît à incidence `2`;
+- l'entrée est dans `max incidence <=4`.
 
-avec translation noncompacte/nonprojective, inverse de comparaison, composition associative et identité de chemin conservée seulement si elle change la réponse complète.
+Donc tout successeur a `max incidence <=5`. Puisque les 12 sorties ont `max incidence >4`, elles sont **exactement D=5**.
 
-Sur le carrier régulier support-21 :
+GR178 n'introduit aucune nouvelle loi Q : il applique le même rewrite stellaire local au graphe GR177 gelé.
 
-- `F_i^(2) -> HN` : exact;
-- same-final path curvature -> `BRAW` bit-for-bit;
-- `BRAW -> HB` : exact;
-- Bianchi/coboundary : floor numérique;
-- `C1` tenu en aveugle : reconstruit exactement comme dérivée/second-fundamental response de la même courbure, sans fit;
-- verifiers GR5 : 46/46, 47/47, 47/47 PASS.
+GR154 avait déjà établi pour tout `D` fini fixé une classe analytique bornée avec
 
-GR6 renforce la cohérence : dérivée covariante retourne dans le generator bundle à `~1e-16`; shift Standard3 retrouvé; normal-memory ~2.012% réel/refinement-natural; `[D,D]` physique restait ouvert.
+`||Delta section|| <= C_BG(D) a^2`
 
-### Verdict AF moderne — CLOSED comme prémisse source
+et, sur phase tangentielle non dégénérée,
 
-Deux no-go existants sont binding :
+`||Delta tangent|| <= C_TAN(D,delta) a^2`.
 
-1. **GR5 full response-affine direct-product control (2026-09-04)** : un base process strictement direct-product peut reproduire exactement tout `F_i`, `B_ij`, BRAW, Bianchi, readouts HB et descendants C1. Microscopic base commutator = 0; AF margin = 0.
-2. **GR5 slot_move endpoint-source audit (2026-09-07)** : `K_of(c)`, `state_counts(c)` et `slot_move(c,s)` dépendent seulement de l'endpoint count-state, sans argument d'histoire. Les insertions élémentaires commutent; aucune transition morphism ordonnée cachée n'existe sous `F_i(C)` dans cette source chain.
+GR155 précise que l'incidence bornée est un **certificat suffisant**, pas la définition physique intrinsèque de la phase de réponse.
 
-Donc :
+### Verdict binding
 
-**historical D5/GR5 = strong structural/physical partial PASS**, mais
+**D4→D5 = franchissement d'un certificat d'analyse, pas transition de phase physique Q sélectionnée.**
 
-**D5/GR5 -> AF microscopic process-normal = CLOSED / ZERO direct-product + causal-break margin**.
+**phase-exit seule -> AF microscopic process-normal = CLOSED / TYPE FAIL.**
 
-Le checkpoint BW du 8 septembre reste compatible : naive OCC3 physical port split n'est pas forcé; GR5 utilisait justement la bonne version économique — path identity au-dessus d'une interface partagée.
+La réponse C6 post-sortie D=5 reste scientifiquement ouverte, mais une variation de ray/amplitude/coefficient due au nouvel endpoint/incidence ne comptera pas comme `N_12`.
+
+Repro : `6/6 PASS` sous `repro/sentry/2026-09-08/`.
 
 ## Front exact maintenant
 
-Ne plus miner GR5/BRAW/C1/GR6 ni leurs descendants comme AF.
+Ne plus traiter le seuil D=4 comme physique et ne plus miner GR5/BRAW/C1/GR6 comme AF.
 
-Chercher uniquement hors de l'endpoint-count/active-set hierarchy :
+Priorité : **transition law D=5 après soustraction du champ endpoint complet**.
 
-1. un morphisme conditionnel Q-native dépendant d'une histoire réalisée et non du seul endpoint;
-2. une paire comparable/dépendante/overlapping où le premier événement change **l'opérateur du second**;
-3. un bloc inter-fibre multi-événement irréductible / off-diagonal source kernel;
-4. une higher/boundary/inflow cell Q-derived qui survit au matched endpoint-state control;
-5. en parallèle, la **réponse post-exit GR178 D>4**, qui reste une vraie frontière ouverte distincte.
+1. reconstruire un ou plusieurs des 12 successeurs D=5;
+2. figer leur réponse Q locale/endpoint complète;
+3. générer les prochains moves légaux, en privilégiant paires comparables/dépendantes/overlapping;
+4. demander si le premier événement change réellement l'opérateur/morphisme du second;
+5. soustraire le matched endpoint/direct-product response control;
+6. seulement un résidu source non nul peut devenir candidat `N_12(a)` et passer causal-break/recovery, naturalité, coarse-graining et contrôles held-out.
 
-Tout candidat doit d'abord battre matched endpoint-state/response-connection + causal-break avant toute interprétation géométrique.
+Autres cibles légales : morphisme conditionnel Q-native history-dependent; bloc inter-fibre multi-event irréductible; coherent higher cell; Q-derived boundary/inflow promotion law.
+
+## Garde-fou haute incidence
+
+GR153/154 montrent déjà que la haute incidence peut changer fortement les **constantes** de réponse sans créer une nouvelle loi : les rangs locaux restent 4 et l'ordre `O(a^2)` subsiste sur les carriers finis testés, tandis que les constantes dépendent de l'incidence. Les histoires concentrées non bornées restent des adversaires légaux mais ne doivent pas être confondues avec les D=5 finis de GR178.
 
 ## Do-not-re-mine
 
-Ne pas réutiliser comme preuve AF : deeper grade-one `H^n`, Q-B990 C/K, Q-B1014 curved Cons, Q-B1149 response-inverse, Q-B1151/1177/1193 enrichments, H130 Green blocks comme sharp Ext, Q-B1206 criticality isolée, Q-B1634/35 anchor/frame holonomy, GR48→53, GR5/6 response-affine descendants, GR176→179 D4 cocycle, Q-B1828 additive residue memory.
+Ne pas réutiliser comme preuve AF : deeper grade-one `H^n`, Q-B990 C/K, Q-B1014 curved Cons, Q-B1149 response-inverse, Q-B1151/1177/1193 enrichments, H130 Green blocks comme sharp Ext, Q-B1206 criticality isolée, Q-B1634/35 anchor/frame holonomy, GR48→53, GR5/6 response-affine descendants, GR176→179 D4 cocycle, Q-B1828 additive residue memory, ou une simple sensibilité de coefficient à l'incidence D=5.
 
 ## Firewalls
 
