@@ -9,13 +9,13 @@
 - autorité historique FINAL-CERTIFIED : **Q-B1858L**, inchangée;
 - Root1 gelé; `A_path` retiré; global Q non collapsed; ledger factuel append-only/séparé;
 - actualisation soustractive = contribution conceptuelle de Jonathan Duchesne;
-- Born, durée métrique, Lambda, O(3), HDA et GR non linéaire restent non dérivés/non fermés selon leurs firewalls.
+- Born, durée métrique, Lambda, O(3), HDA et GR non linéaire restent non dérivés/non fermés.
 
 ## Cible Sentinelle
 
-Chercher uniquement un datum Q-native de PROCESS/transition ordonné, cohérent et mixte avec source-level `N_12(a) != 0`, avant endpoint/readout/geometric reduction, non reconstructible depuis one-event maps, propagation diagonale, composition stricte, support/légalité, état endpoint/current-carrier ou géométrie de réponse.
+La cible AF reste un source-level `N_12(a) != 0` Q-native : un datum ordonné/cohérent/mixte de PROCESS/transition qui survit après matching complet du current carrier, de la common boundary, de l'état prédictif/Hankel et de `(R2,R4)` là où ce typing s'applique.
 
-## Fermetures récentes binding
+## Fermetures binding récentes
 
 - GR88 : `J2_conn,new=0`.
 - Q-B1825L : dépendance de légalité réelle, pas de nouveau payload opérateur une fois légal.
@@ -24,86 +24,102 @@ Chercher uniquement un datum Q-native de PROCESS/transition ordonné, cohérent 
 - Q-B1014→1204 : higher/full-future capacities sans leading transition law Root-selected.
 - GR62 : whole-cut second morphism underdetermined.
 - GR176→179 D4 : local Markov/cocycle, connected two-event remainder nul dans le scope certifié.
-- RC40F-D5/GR5 : strong structural/path-groupoid PASS historique, mais AF FAIL moderne par contrôle direct-product et source endpoint-count order-blind.
-- **GR174/EventRef C8+ exact all-z : CLOSED.** Nonzero higher-detail physics survives, but exact builder depends only on canonical current carrier; same-final AB/BA defects are exactly zero at fine-H, retained transfer and detail-correction levels; matched static-common-boundary defect `0`; 15/15 PASS.
+- RC40F-D5/GR5 : strong path-groupoid PASS historique, AF FAIL moderne par contrôle direct-product et source endpoint-count order-blind.
+- GR178 D4→D5 : 12 sorties = exactement D5; seuil D4 = certificat analytique, pas phase Q. Repro 6/6.
+- GR178 D5 second step : vraie dépendance `5→6`, mais entièrement médiée par endpoint local. Repro 8/8.
+- Q-B1828 : `(R2,R4)` = mémoire prédictive additive/predictive-basic dans son scope; history-order silent à endpoint complet fixé.
+- GR174/EventRef C8+ all-z : higher-detail non nul mais final-carrier typed; same-final fine-H/transfer/detail defects = 0; static-common-boundary defect = 0; 15/15 PASS.
 
-## GR178 D4→D5
+## Ext-Hankel retyping
 
-Checkpoint : `checkpoints/SENTRY/2026-09-08/TDG_GR178_D4_TO_D5_PHASE_EXIT_AF_TYPING_NOGO_2026-09-08.md`.
+Checkpoint : `checkpoints/SENTRY/2026-09-08/TDG_EXT_HANKEL_PREDICTIVE_ENDPOINT_NOT_AF_RESIDUAL_2026-09-08.md`.
 
-Les 12 sorties GR178 sont exactement D=5. GR178 n'introduit aucune nouvelle loi Q. D fini reste une classe analytique avec constantes dépendant de D; le seuil D=4 était un certificat d'analyse, pas une frontière physique Q.
+Le cut-Hankel historique est
 
-**D4→D5 threshold crossing -> AF = CLOSED / TYPE FAIL.** Repro 6/6.
+`H_Sigma(f,p)=Resp_Q(f o p)`.
 
-## D5 second-step dependency
+Son quotient droit-null est précisément l'état prédictif minimal. Donc :
 
-Checkpoint : `checkpoints/SENTRY/2026-09-08/TDG_GR178_D5_SECOND_STEP_DEPENDENCY_ENDPOINT_MARKOV_NOGO_2026-09-08.md`.
+- Hankel différent = **endpoint prédictif différent**;
+- Hankel identique contre tous futurs admissibles = différence prédictive nulle/quotientée.
 
-TIP pulse `{4,2,2,2}`. Après le premier move, anciennes faces `{5,3,3,3}`.
+Le vieux vocabulaire `contextual Ext-Hankel` est donc un détecteur d'état prédictif, pas un `N_12` restant après full endpoint matching.
 
-- high-port choisi -> successor TIP `{5,2,2,2}` -> au move suivant high face `5→6`;
-- low-port choisi -> successor TIP `{3,2,2,2}` -> high face reste `5` à ce pas.
+## Nouveau mur central — Root autorise les canaux, RefinedQ ne réalise pas encore l'instrument
 
-**SEQUENTIAL INCIDENCE DEPENDENCY = POSITIVE STRUCTURAL PASS**, mais elle est entièrement médiée par des endpoints locaux différents. **NONENDPOINT HISTORY RESIDUAL = ZERO au niveau du rewrite d'incidence.** Repro 8/8.
+Checkpoint : `checkpoints/SENTRY/2026-09-08/TDG_ROOT_CHANNEL_RESOLUTION_VS_REFINEDQ_INSTRUMENT_REALIZATION_GAP_2026-09-08.md`.
 
-## Endpoint prédictif exact : inclure `(R2,R4)`
+Frozen Root R14-S est explicitement channel-resolved :
 
-Checkpoint : `checkpoints/SENTRY/2026-09-08/TDG_GR178_D5_FULL_RESIDUE_ENDPOINT_MATCHING_FIREWALL_2026-09-08.md`.
+`H = sum_alpha H_alpha`.
 
-Dans le secteur Active43 Q-B1828 :
+Chaque `alpha` est une classe de canal physique après quotient descriptif, et **des canaux physiques distincts partageant les mêmes endpoints doivent rester séparément résolus** si l'ontologie les distingue.
 
-`Sigma_I(z)=R_2(I)/(z-3)+R_4(I)/(z-17/4)`.
+Donc Root n'est pas intrinsèquement endpoint-Markov : il permet exactement le type de degré processuel dont AF a besoin.
 
-Les incréments de résidus PSD s'additionnent exactement, les internalisations indépendantes sont same-final order-independent, et le couple `(R2,R4)` est predictive-basic pour la famille rationnelle complète.
+### Mais Q-B972 ferme le H non conditionné
 
-Donc deux D5 ne sont « même endpoint » qu'après matching :
+Un Hamiltonien/résolvant/canal CP non conditionné ne sélectionne pas une branche fine physique unique. Un même canal CPTP admet des Kraus remix donnant des branches determinant-normalized de type boost, identité ou rotation.
 
-**local process/geometry + interface canonique + full `(R2,R4)`**.
+Classification :
 
-Un seul `z` est interdit/insuffisant.
+**UNCONDITIONED H / RESOLVENT / CHANNEL -> UNIQUE SHARP BRANCH M = EXACT FAIL.**
 
-## Réconciliation C8/EventRef
+Le Q concret doit fournir une branche/intervention physiquement distinguée; on ne peut pas choisir une décomposition de Kraus.
 
-Checkpoint : `checkpoints/SENTRY/2026-09-08/TDG_GR174_C8_EVENTREF_ALLZ_RECONCILIATION_NOGO_2026-09-08.md`.
+### Q-B988→1000 montre la capacité, mais pas la dérivation
 
-L'ancien GR174 laissait légitimement ouvert le higher-detail `O(a^4)`/C8 à son époque. Un audit Sentinelle ultérieur a cependant récupéré et rerun froidement `gr174p_exact_eventref_detail_memory.py`.
+Cette branche construit le bon type d'objet : `M_{g|f}=N_gf M_f^-1`, perturbation conditionnelle non-endpoint, affine diamond branch-aware. Mais la loi C/K qui définit le processus conditionnel est constructive/sandbox et non dérivée de frozen Root/current Q.
 
-Source typing décisif :
+Donc capacité/identifiabilité = oui; source physique Q-derived = non.
 
-- `build_fine_H(B4,a)` consomme seulement le current carrier et commence par `B4=sorted(B4)`;
-- `analyze_carrier(K,a,z)` réduit `K` à `all_faces(K,4)` comme sorted set;
-- aucun factual-order/history/conditional-second-transition argument.
+### GR42 atteint le même mur
 
-Le détail est réellement non nul : `K_SD=O(a^4)` et retained correction `O(a^8)`. Mais pour same-final `root,A,B` vs `root,B,A` :
+Pour le process actuel déterminé par active set `S`, retenir passivement l'occurrence intermédiaire donne exactement un second différentiel connecté symétrique `C_ij=C_ji`. L'étiquette d'ordre ajoute de la mémoire mais **aucune nouvelle loi order-odd indépendante**.
 
-- full fine-H order defect `0`;
-- retained all-z transfer order defect `0`;
-- detail-correction order defect `0`;
-- matched static-common-boundary defect `0`.
+GR42 identifie le contenu manquant comme :
 
-Vérificateur exact all-z : **15/15 PASS**.
+> **a Q-derived distributed-full-future -> local Jordan/metric adjunction, or a genuinely ordered instrument morphism carrying information not determined by endpoint active sets.**
 
-Donc **ne plus miner le current finite GR174/EventRef builder à C8, ordre supérieur ou autre z comme preuve AF**. L'ancien opening est superseded dans ce builder.
+### GR43 ferme l'adjonction déjà disponible
+
+Le Standard3 distribué Q-B1855 est réel/O(1), mais les adjonctions Q déjà gagnées ne le transportent pas vers le même local Herm2/Jordan source avec poids O(1) et normalisation canonique : meilleure amplitude `~a^2`, autres pairings sous-rang/leaky/non-normalisés.
+
+Classification GR43 :
+
+**MISSING READOUT-FREE NONHOMOGENEOUS DISTRIBUTED-FUTURE -> LOCAL HERMITIAN/JORDAN CONSTITUTIVE INTERTWINER.**
+
+Donc les deux sorties de GR42 sont fermées dans le RefinedQ existant : ni passive history, ni adjunction déjà gagnée.
 
 ## Front exact maintenant
 
-La recherche quitte les builders déterminés uniquement par current carrier/final endpoint.
+Le prochain travail utile n'est plus un nouveau descendant GR/metric/readout. Il est **microscopique/processuel** :
 
-Chercher seulement un source dont la signature contient réellement quelque chose de plus que le final carrier :
+### dériver le channel/instrument layer de Q
 
-1. **Q-native conditional transition morphism** avec prior realized transition/branch comme entrée et qui change le second morphism après matching full endpoint/common-boundary;
-2. **off-diagonal inter-fibre/two-event kernel** non reconstructible comme fonction statique du carrier final;
-3. **coherent higher/pseudonatural cell** dont la valeur n'est pas déterminée par final carrier/common boundary;
-4. **Q-derived boundary/inflow law** battant un matched static-boundary control;
-5. **Root-allowed process class outside Active43/current-carrier grammar**.
+Chercher une identité Q/Cons/Feshbach/process qui produit directement un conditional transition morphism
 
-Pour tout candidat : geler la source, matcher geometry + `(R2,R4)` + current-carrier/common-boundary, soustraire ce contrôle, puis seulement causal-break/recovery et panel AF.
+`M_{g|f}`
 
-## Garde-fous
+ou équivalent, avec :
 
-Ne pas remonter comme AF : simple sensibilité d'incidence, D5 `5→6`, GR5/BRAW/C1, Q-B1828 additive memory, GR174/EventRef C8+/all-z current-carrier builder, deeper `H^n`, moving-frame/support holonomy, différence à un seul z.
+1. `f,g` = vrais canaux Root `Ext/H_alpha`, pas labels descriptifs/Kraus;
+2. même full predictive endpoint/current carrier/common boundary fixé;
+3. Q distingue physiquement la branche `f`;
+4. le next morphism dépend de `f` au-delà des one-event endpoint maps;
+5. dépendance détruite/modifiée sous causal break;
+6. aucune loi C/K effective, aucun fitted coefficient, aucun history feedback du factual ledger;
+7. seulement ensuite test AF et géométrie.
 
-Pas d'EH/ADM, TT, tetrad, clock/shift, preferred z, fitted gain/projector/decoder sans dérivation indépendante.
+Autres ouvertures légales : inter-fibre two-event kernel, coherent higher cell, Q-derived boundary/inflow, ou Root-allowed realization hors Active43/current-carrier grammar.
+
+## Verdict GR
+
+🟢 On avance **en localisation du vrai mur** : le Root autorise déjà le bon type de degré processuel et le Q complet possède des sources distribuées réelles.
+
+🟡 Mais la réalisation finite RefinedQ actuelle est **constitutivement/instrumentalement insuffisante** pour la soudure AF : elle ne fournit pas encore le morphisme conditionnel physiquement sélectionné.
+
+🔴 O(3), HDA, spin-2 et GR non linéaire restent non fermés.
 
 ## Sauvegarde
 
