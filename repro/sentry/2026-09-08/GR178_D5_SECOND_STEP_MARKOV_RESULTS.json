@@ -1,0 +1,26 @@
+{
+  "checks": {
+    "all_first_moves_enter_D5": true,
+    "conditional_second_update_is_endpoint_determined": true,
+    "direct_branch_forces_5_to_6_next": true,
+    "four_first_moves": true,
+    "one_direct_D5_tip_branch": true,
+    "side_branches_leave_high_at_5_next": true,
+    "successor_endpoint_states_distinguish_branches": true,
+    "three_nearby_D5_branches": true
+  },
+  "classification": {
+    "AF_status": "NO PROMOTION: branch dependence is fully mediated by distinguishable successor endpoint/local state",
+    "nonendpoint_history_residual": "ZERO AT EXACT INCIDENCE-REWRITE LEVEL",
+    "sequential_incidence_dependency": "POSITIVE STRUCTURAL PASS"
+  },
+  "passed": 8,
+  "pre_tip_incidence_profile": [4,2,2,2],
+  "rows": [
+    {"first_successor_tip_profile":[2,2,2,5],"global_high_after_first":5,"high_face_after_second_move":6,"high_face_on_successor_tip":true,"second_successor_tip_profile_if_any_next_port":[3,3,3,6],"selected_port":0,"selected_pre_incidence":4},
+    {"first_successor_tip_profile":[2,2,2,3],"global_high_after_first":5,"high_face_after_second_move":5,"high_face_on_successor_tip":false,"second_successor_tip_profile_if_any_next_port":[3,3,3,4],"selected_port":1,"selected_pre_incidence":2},
+    {"first_successor_tip_profile":[2,2,2,3],"global_high_after_first":5,"high_face_after_second_move":5,"high_face_on_successor_tip":false,"second_successor_tip_profile_if_any_next_port":[3,3,3,4],"selected_port":2,"selected_pre_incidence":2},
+    {"first_successor_tip_profile":[2,2,2,3],"global_high_after_first":5,"high_face_after_second_move":5,"high_face_on_successor_tip":false,"second_successor_tip_profile_if_any_next_port":[3,3,3,4],"selected_port":3,"selected_pre_incidence":2}
+  ],
+  "total": 8
+}
