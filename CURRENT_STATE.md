@@ -4,121 +4,92 @@
 
 ## Statut défendable
 
-Le point scientifique actuellement défendable est :
-
 - **retained-memory / effective-history : noyau fort conservé**;
-- **cohérence relativiste linéaire et premier non-linéaire : forte dans les scopes déjà gelés**;
-- **GR non linéaire complète dérivée de TDG : NON ÉTABLIE**.
+- **cohérence relativiste linéaire et premier non-linéaire : forte dans les scopes gelés**;
+- deux hélicités `q^2` et cône de Lorentz commun : actifs downstream;
+- **GR non linéaire complète dérivée de TDG : NON ÉTABLIE**;
+- autorité historique FINAL-CERTIFIED : **Q-B1858L**, inchangée.
 
-Cette page n'élève aucun résultat historique, exploratoire ou conversationnel au rang de preuve physique. Elle sert de porte d'entrée documentaire.
+Root1 reste gelé; `A_path` retiré; global Q non collapsed; ledger factuel append-only et séparé. L'**actualisation soustractive** reste la contribution conceptuelle de Jonathan Duchesne. Born, durée métrique, Lambda et O(3) restent non dérivés/non fermés selon leurs firewalls respectifs.
 
-## Front de recherche actif
+## Front de recherche actif — Sentinelle
 
-Le programme travaille maintenant en mode **Sentinelle** : recherche uniquement de prémisses microscopiques réellement nouvelles susceptibles d'ouvrir le pont après les checkpoints A–AG.
+La cible AF reste un **datum microscopique de PROCESS/transition ordonné, cohérent et mixte généré par Q**, normal au processus direct-product/compositionnel, avec causal-break/recovery ou typing boundary/inflow, marge held-out positive, naturalité régionale/higher coherence, stabilité sous coarse-graining, et préservation du secteur `q^2`/cône commun.
 
-Cible décisive : trouver dans le processus régional retenu un **datum de processus ordonné, cohérent, mixte et généré par TDG** qui passe le harness de soldering AF gelé et échappe au no-go AE.
+Signature idéale :
 
-Une prémisse positive doit notamment :
+`N_12(a) != 0`
 
-1. être microscopique et porter une réponse de **PROCESS/transition**, pas seulement un état conjoint corrélé;
-2. survivre à un test causal-break/recovery, ou être explicitement typée boundary/inflow;
-3. posséder une composante non nulle normale à la variété de processus direct-product;
-4. battre des contrôles appariés direct-product, relativistic-spin-2 génériques, projective/topological génériques et static-common-cause avec marge held-out positive;
-5. respecter la composition/naturalité régionale stricte, ou une loi higher/pseudonatural cohérente microscopiquement générée;
-6. rester stable sous recovery/coarse-graining sectoriel;
-7. préserver le secteur deux hélicités q^2 et le cône de Lorentz commun.
+**avant** endpoint/current-carrier/geometric reduction, non reconstructible depuis one-event maps, propagation diagonale, Schur/Feshbach strict, support/legality, moving-frame geometry ou response-inverse.
 
-Si une déformation candidate tombe non trivialement dans le quotient AC unidimensionnel déjà gelé, l'alignement doit être classé **blind quotient-lock** avec la classe de Lie AC; il ne faut pas re-cibler la dérivée de Lie.
+## Fermetures décisives récentes
 
-## Dernières fermetures Sentinelle — 8 septembre 2026
+1. **GR88 coherent two-event jet -> AF : CLOSED.** Le Jordan symétrique factorise dans le carrier Herm2 one-event; le canal order-odd `1 wedge 3` est exactement nul; le `3'` axial survivant est l'ancien canal Lie/frame. `J2_conn,new=0`.
 
-Quatre routes supplémentaires sont maintenant fermées dans leur scope exact :
+2. **Q-B1825L dependent enablement -> AF : TYPE FAIL.** `A<C` est une vraie dépendance causale de domaine, mais une fois C légal le payload testé est spectator-invariant et le square B/C est plat.
 
-1. **Q-B1825L dependent enablement -> AF : TYPE FAIL.** Le résultat causal fini `A<C` est retenu : C est illégal à la racine, devient légal après A, reste illégal après B et est légal après AB. Mais dans la réalisation Q-B1824A/Q-B1819A récupérée, cette dépendance est portée par le domaine légal; une fois C permis, les Grams de transition testés sont invariants aux ajouts spectateurs, les injections B/C vers le même `ABC` coïncident et le premier cross-terme des routes est nul. Donc causalité de domaine réelle, mais aucun nouveau normal de processus AF n'est obtenu.
+3. **Q-B1206 critical H160 amplifier comme rescue GR88 -> TYPE/PROVENANCE FAIL.** Le gain `gap~a^2`, `||R||~a^-2` est réel mais agit sur un autre objet selected-future/B2; il ne peut pas créer un source-normal à partir du zéro exact GR88.
 
-2. **Q-B1206 critical H160 amplifier comme rescue GR88 -> TYPE/PROVENANCE FAIL.** Q-B1206 conserve sa valeur historique : le même Q H160 contient un amplificateur critique local avec `gap ~ a^2` et `||R|| ~ a^-2`. Mais ce résolvant agit sur une construction selected-future/B2 future-Gram distincte du primitive process-normal à deux événements de GR88. Aucun intertwiner Q-derived ne les identifie. Un gain linéaire singulier ne transforme pas le zéro exact locked de GR88 en vertex connecté; et les tests historiques Q-B1207/Q-B1210/Q-B1211 ferment déjà les pôles H160 comme phase locale+sheaf conjointe dans leur classe testée.
+4. **Q-B1634→1637 affine moving-cut anchor -> REPRESENTATION/PROCESS TYPE FAIL.** L'ancre `Delta x_spatial=a^2(N0 grad M-M0 grad N)+O(a^3)` et l'holonomie de frame sont réelles/Q-derived, mais le full separating Active43 two-cell process a des order residuals `~1e-19–1e-21`: la base microscopique testée reste order-flat.
 
-3. **Q-B1634→Q-B1637 affine moving-cut anchor -> AF : REPRESENTATION/PROCESS TYPE FAIL.** Q-B1634/1635 conservent une vraie ancre semi-directe Q-derived : la réponse support `P0` donne exactement `spatial(delta_g P0)=g`, et le diamant affine fini produit `Delta x_spatial = a^2(N0 grad M-M0 grad N)+O(a^3)` avec holonomie de frame non nulle. Q-B1638 conserve aussi son atlas Q-selected/non-Stueckelberg. Mais Q-B1637 teste le vrai full separating Active43 two-cell process avec la base Herm2 complète et trouve des résidus d'ordre seulement `~1e-19–1e-21`, donc flat/order-independent à la précision numérique, cohérent avec l'associativité Schur/Feshbach. L'ancre non abélienne est donc une propriété réelle de la représentation géométrique/support/fibre, pas un `N_12` microscopique connecté du processus sous-jacent.
+5. **Q-B1014→1204 alternative-Ext / higher-process historique -> TYPE/PROVENANCE FAIL comme source AF.** Curved response-Cons, six Q response directions, bare-H B2 full-future sheaf et H160 occurrence sheaf sont de vraies capacités. Mais la loi C/K/response-inverse et les occurrence/mediator architectures leaders ne sont pas Root-selected; le bare-H mixed two-port est `~a^6.041` contre direct `~a^2.013` (ratio `~a^4.028`); Green blocks non conditionnés ne sont pas des Ext sharp.
 
-4. **Q-B1014→Q-B1204 alternative Ext / higher-process historique -> AF : TYPE/PROVENANCE FAIL.** La ligne conserve de vrais résultats positifs : response-Cons courbe avec 2-morphisme de frame, algèbre naturelle Q de six directions par paire, vrai B2 full-future Schur process sheaf dans H130, puis process sheaf selected-future exact dans le H160 enrichi. Mais les endroits où apparaît un canal ordonné leader restent construits plutôt que Root-dérivés : la loi C/K et son response-inverse ne sont pas sélectionnées par Root1, le H nu ne produit qu'un mixed two-port `~a^6.041` contre `~a^2.013` pour le direct (ratio `~a^4.028`), les blocs Green non conditionnés ne sont pas des Ext sharp, et le registre d'occurrence B2 de H160 est un enrichissement explicitement non dérivé du root minimal. Cette famille démontre une **capacité higher/process forte**, mais pas un `N_12(a) != 0` source-level Root-derived.
+6. **GR62 whole-cut occurrence -> unique whole-cut instrument : UNDERDETERMINED.** Une occurrence cohérente Q-native existe, mais trois stage laws naturelles/stables donnent des deux-step laws inequivalentes. Le Q courant ne sélectionne pas le deuxième whole-cut morphism.
 
-Ces fermetures ne constituent pas un no-go global contre une loi Q future plus riche.
+Ces résultats ne sont pas des no-go globaux contre toute future classe `Ext` ou tout secteur de phase.
 
-## Cible source exacte après ces fermetures
+## Nouveau jalon positif — RC40F-D5 / phase exit
 
-Ne pas poursuivre les puissances `H^n` ou les autres readouts analytiques du même générateur grade-one Q-B1824 : leur contenu mixed squarefree est dans la fermeture algébrique des one-event maps et de la propagation sectorielle déjà acquise.
+Checkpoint :
+`checkpoints/SENTRY/2026-09-08/TDG_GR178_D4_TO_D5_PHASE_EXIT_AF_FRONTIER_2026-09-08.md`
 
-Ne pas re-promouvoir non plus comme preuve AF :
+GR178 fournit une **vraie transition locale de state/descriptor Q-native à travers la frontière de phase** :
 
-- l'ancre support Q-B1634;
-- le diamant affine Q-B1635;
-- la boucle Thomas/Wigner / frame holonomy;
-- l'identifiabilité de chart Q-B1638;
-- Q-B1014 curved response-Cons;
-- Q-B1149 response-inverse;
-- les médiateurs/registres explicites Q-B1151, Q-B1177 et Q-B1193;
-- les Green blocks H130 non conditionnés comme Ext sharp;
+- 40 mouvements légaux testés;
+- **40/40** successor descriptors prédits exactement égaux aux carriers réellement développés;
+- 28 restent dans D=4;
+- **12 quittent D=4** et produisent `max B3 incidence >=5`;
+- ces 12 sorties ne sont pas projetées artificiellement vers D=4.
 
-car ces objets ne fournissent pas un couplage ordonné source-level Root-dérivé normal au processus direct-product.
+Mais la réponse `[C6]` et la récursion processuelle sont certifiées explicitement seulement **sur la phase D=4**. Les recoveries ultérieurs conservent **RC40F-D5 OPEN and separate**.
 
-Chercher uniquement un nouvel objet microscopique qui n'est pas réductible à cette edge algebra ni à une représentation/readout enrichie posée sur un process flat, notamment :
+Classification live :
 
-- un bloc inter-fibre multi-événement irréductible directement présent dans le générateur/process source;
-- une coherent higher/pseudonatural Cons cell dont la **loi source elle-même** est Q/Root-derived et dont le full separating microscopic process conserve un résidu ordonné non nul;
-- un map Q-generated boundary/inflow promu dans le processus prédictif quotienté avec signature causal-break propre;
-- un **whole-cut / phase-exit / autre Ext concrète Root-licenciée** hors de la classe Active43 grade-one / Schur-flat et hors des enrichissements historiques construits;
-- idéalement un bloc process-normal `N_12(a) != 0` où **le couplage ordonné à deux événements et un éventuel soft/critical sector sont dérivés dans le même opérateur source**, avec la règle de sélection gelée avant tout test gravitationnel.
+**POSITIVE SOURCE-STATE PHASE-EXIT PASS / POST-EXIT PROCESS RESPONSE NOT DERIVED / AF `N_12` NOT YET EARNED.**
 
-Q-B1828 reste un résultat utile de mémoire prédictive : le couple de résidus `(R_2,R_4)` est Q-native, prédictif-basic, quasilocal et refinement-natural, mais ses incréments s'additionnent exactement sous internalisations successives. Il ne fournit donc pas, à lui seul, le terme connecté multi-événement recherché.
+### Cible exacte maintenant
+
+**RC40F-D5 — D>4 POST-EXIT PROCESS-RESPONSE DERIVATION.**
+
+1. prendre les 12 successeurs D>4 déjà gagnés;
+2. évaluer le Q retenu directement sur ces carriers sans importer la formule/alignement C6 de D4;
+3. déterminer si un response object/ray canonique D5 existe;
+4. construire des next legal moves depuis D5;
+5. demander si le premier phase-exit change réellement le **second transition morphism**;
+6. soustraire one-event/composition avant toute interprétation géométrique;
+7. seulement si le connected residual est non nul : causal break, AF controls, naturalité, coarse-graining, puis blind AC quotient-lock.
+
+## Do-not-re-mine
+
+Ne pas réutiliser comme nouvelle preuve AF sans nouvelle loi source indépendante :
+
+- higher `H^n` / analytic readouts du grade-one Q-B1824;
+- Q-B990 C/K, Q-B1014 curved response-Cons, Q-B1149 response-inverse;
+- Q-B1151/Q-B1177/Q-B1193 mediator/occurrence enrichments;
+- H130 Green blocks non conditionnés comme Ext sharp;
+- Q-B1205+ criticality comme substitut au missing transition law;
+- Q-B1634/35 support/affine anchor, Thomas/Wigner/frame holonomy, Q-B1638 chart;
+- GR48→GR53 response descendants;
+- GR176→179 D4 commuting/one-cocycle descendants comme mixed vertex.
 
 ## Firewalls actifs
 
-Ne pas réintroduire sans dérivation microscopique indépendante :
+Ne pas introduire sans dérivation indépendante : bicharacter, clock/shift, stabilizer, TT/divergence/trace, EH/ADM, nonlinear diffeo target, tetrad, FP/TEGR coefficients, metric projector, gravitational decoder, preferred `z`, fitted gain ou inverse-regulator repair.
 
-- bicharacter;
-- clock/shift algebra;
-- stabilizer;
-- contraintes TT/divergence/trace;
-- structure Einstein-Hilbert ou ADM;
-- cible de difféomorphisme non linéaire;
-- tetrad;
-- coefficients FP/TEGR;
-- metric projector;
-- gravitational decoder.
+## Checkpoint AG — orthogonal
 
-Ne pas rouvrir une route fermée sans une prémisse qui défait explicitement son no-go.
+Blind synthetic prospective-history strong pass : 3000 épisodes, 4 bassins, TDG retained winner **80.57%**, best baseline **74.47%**, marge **+6.10 points**, bootstrap 95% **[4.33,7.80]**. Ce n'est ni une validation prédictive physique ni une implication de gravité.
 
-## Checkpoint AG — statut orthogonal
+## Politique de sauvegarde
 
-Le checkpoint AG du 7 août 2026 reste séparé du pont gravitationnel : premier blind synthetic prospective-history prediction pass.
-
-- benchmark future-masked : 3000 épisodes, 4 bassins;
-- TDG_retained winner accuracy : **80.57 %**;
-- meilleur baseline : **74.47 %**;
-- marge : **+6.10 points**;
-- bootstrap 95 % : **[4.33, 7.80]**;
-- winner accuracy par classe prédite : strong **95.22 %**, weak **84.55 %**, quasi **62.21 %**;
-- précision de la classe quasi prédite pour true future quasi : **80.83 %**.
-
-Classification : **SYNTHETIC PROSPECTIVE STRONG PASS**. Cela ne constitue ni une validation prédictive physique ni une implication de gravité.
-
-## Politique de Sentinelle
-
-La Sentinelle ne doit produire une notification scientifique que pour :
-
-- un escape microscopique reproductible avec marge de soldering non nulle;
-- un no-go supplémentaire réellement décisif;
-- un jalon authentique de fermeture non linéaire.
-
-Aucun commit ne doit être créé pour un simple scan négatif ou une répétition.
-
-## Hiérarchie documentaire
-
-- `CURRENT_STATE.md` : front scientifique courant.
-- `MASTER_RECOVERY_LIVE.md` : recovery autonome vivant pour nouvelle conversation.
-- `history/` : patrimoine historique, jamais automatiquement canonique.
-- `recoveries/` : snapshots/recoveries autonomes.
-- `checkpoints/` : états scientifiques promus avec leur scope.
-- `provenance/` : inventaires, empreintes et audits de source.
-
-Le patrimoine historique peut être utile comme banque d'idées ou couche IR/downstream, mais il ne remplace pas les firewalls du front courant.
+Chaque changement stable du front doit avoir un checkpoint append-only sous `checkpoints/SENTRY/YYYY-MM-DD/`, puis une synchronisation de `CURRENT_STATE.md` et `MASTER_RECOVERY_LIVE.md`. Un simple scan négatif répétitif ne mérite pas de commit.
