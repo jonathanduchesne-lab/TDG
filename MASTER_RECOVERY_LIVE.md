@@ -33,7 +33,7 @@ Read, in order:
 1. `00_START_HERE_NEW_CONVERSATION.md`
 2. `MASTER_RECOVERY_LIVE.md` — this file
 3. `CURRENT_STATE.md`
-4. the newest checkpoint(s) named in sections 7–9 below
+4. the newest checkpoint(s) named in sections 6–10 below
 5. `README.md` only for repository map / migration status
 6. older history/provenance/repro only if the next test requires it
 
@@ -117,7 +117,7 @@ The decisive target is a **TDG/Q-generated ordered, coherent, mixed microscopic 
 
 A positive premise must:
 
-1. be a genuine microscopic process/transition object, not only a joint state, endpoint geometry, legality table, history label or readout;
+1. be a genuine microscopic process/transition object, not only a joint state, endpoint geometry, legality table, history label, support displacement, moving response frame or readout;
 2. possess a nonzero component normal to the matched direct-product/compositional process manifold;
 3. survive causal-break/recovery, or be explicitly and independently typed as boundary/inflow;
 4. beat held-out direct-product, generic relativistic-spin-2, generic projective/topological and static-common-boundary/common-cause controls with positive margin;
@@ -150,7 +150,7 @@ Do not re-mine the same Herm2/Jordan/axial descendants as AF evidence.
 
 ---
 
-# 7. 2026-09-08 BURST — TWO ADDITIONAL DECISIVE CLOSURES
+# 7. 2026-09-08 BURST — THREE ADDITIONAL DECISIVE CLOSURES
 
 ## 7.1 Q-B1825L dependent enablement
 
@@ -192,9 +192,43 @@ Classification: **Q-B1206-as-GR88-rescue CLOSED / TYPE-PROVENANCE FAIL**.
 
 This is not a universal no-go against all future critical TDG phases.
 
+## 7.3 Q-B1634→Q-B1637 affine moving-cut anchor vs full process
+
+Checkpoint:
+
+`checkpoints/SENTRY/2026-09-08/TDG_QB1634_QB1637_AF_AFFINE_ANCHOR_PROCESS_FLAT_NOGO_2026-09-08.md`
+
+Historical fresh positive results retained:
+
+- Q-B1634 uses the active-comb B4→B3 crossing amplitude `X` to define
+  `P0 = X X^dagger/(Tr[X X^dagger]/2)`;
+- under the Q-derived SL2 boost, `spatial(delta_g P0)=g` exactly;
+- Q-B1635 combines the Q-selected chart, boost and support displacement in one finite affine move and obtains
+  `Delta x_spatial = a^2(N0 grad M-M0 grad N)+O(a^3)`
+  plus nonzero frame holonomy;
+- Q-B1638 shows the chart is Q-selected/non-Stueckelberg rather than freely tuned.
+
+Decisive AF discriminator:
+
+Q-B1637 tests the correctly typed **full separating Active43 two-cell process** on 90 local Q-cells, with independent complete Herm2 insertions `{I,sigma_x,sigma_y,sigma_z}` on both exchanged B3 cells. The two elimination orders give frozen fresh maxima:
+
+- Schur boundary-kernel order residual `~1e-20–1e-21`;
+- boundary Green-response residual `~1e-19–1e-21`;
+- arbitrary bilinear dual-test-function curvature `~1e-19–1e-21`.
+
+Thus the microscopic separating process in this tested class is order-flat at numerical floor / structural Schur-Feshbach associativity. The nonabelian Q-B1634/1635 anchor is real, but it lives in the **moving geometric/support/fibre representation**, not in a connected source-level two-event transition law.
+
+Classification:
+
+**DECISIVE SCOPED AF TYPE NO-GO / NONABELIAN MOVING-CUT REPRESENTATION RETAINED / MICROSCOPIC `N_12` NOT EARNED.**
+
+Provenance firewall: the 2026-09-08 Sentry checkpoint is a documentary/type cross-audit of the frozen fresh Q-B1630→1638 delta and current AF rules; it is not presented as a new cold rerun of those historical scripts.
+
 ---
 
-# 8. IMPORTANT SEARCH-SPACE CLOSURE
+# 8. IMPORTANT SEARCH-SPACE CLOSURES
+
+## 8.1 Grade-one analytic depth
 
 Within the declared Q-B1824 grade-one configuration-Q architecture, higher powers / ordinary analytic readouts do not create a new primitive mixed event law merely by increasing process depth.
 
@@ -206,7 +240,20 @@ The squarefree mixed multi-event coefficients remain in the algebraic closure of
 
 Therefore do **not** search `H^9`, `H^11`, deeper analytic propagators or another ordinary `f(H)` of the same grade-one generator expecting a new primitive AF vertex.
 
-A legal escape must add a genuinely new Q-generated microscopic degree/state that is not reducible to those grade-one edges and diagonal propagation.
+## 8.2 Moving representation over a flat microscopic process
+
+A Q-derived support displacement, affine moving-cut anchor, Thomas/Wigner/SU2 frame holonomy, response-bundle curvature or Q-selected chart can all be scientifically real while the correctly typed underlying two-event process remains direct-product/composition-flat.
+
+Therefore do **not** promote the following as stand-alone `N_12` evidence:
+
+- Q-B1634 support anchor;
+- Q-B1635 affine semidirect diamond;
+- Thomas/Wigner / frame holonomy descendants;
+- Q-B1638 chart identifiability;
+- RC22/RC23 semidirect source-history forcing / associated connection;
+- BF/RC16 moving response-frame curvature.
+
+A legal escape must put the nonzero ordered residual in the **full separating microscopic process itself**, or come from a separately typed boundary/inflow law with its own causal-break signature.
 
 ---
 
@@ -229,24 +276,32 @@ Do not confuse 'ordered memory exists' with 'mixed transition coupling exists'.
 The next search must be for a genuinely new microscopic degree such as:
 
 - an irreducible jointly generated multi-event inter-fibre block;
-- a coherent Q-native higher / pseudonatural Cons cell not strict-composition-equivalent to the grade-one edge algebra;
-- an explicitly typed Q-generated boundary/inflow promotion map into the fully quotient predictive regional process;
-- another Root-licensed process degree/state outside the present Active43 grade-one configuration-Q class.
+- a coherent Q-native higher / pseudonatural Cons cell whose **full separating microscopic process** retains a nonzero ordered residual after subtracting one-event/composition structure;
+- an explicitly typed Q-generated boundary/inflow promotion map into the fully quotient predictive regional process with its own nonzero causal-break signature;
+- another Root-licensed process degree/state outside the present Active43 grade-one / Schur-flat configuration-Q class.
 
 The highest-value signature is a source-level off-diagonal/process-normal block
 
 `N_12(a) != 0`
 
-that exists **before endpoint/current-carrier reduction** and is not reconstructible from the one-event maps plus diagonal propagation.
+that exists **before endpoint/current-carrier/geometric representation reduction** and is not reconstructible from:
+
+- one-event maps;
+- diagonal propagation;
+- strict Schur/Feshbach composition;
+- support/legal-domain bookkeeping;
+- moving response/support/frame geometry over a flat process.
+
+A particularly valuable escape would be a dependent/overlapping transition law in which the first event changes the **second transition morphism itself** on a matched comparison space.
 
 If critical amplification is involved, the closing gap / soft mode must be selected by Q and act on **that same process-normal sector**, not be imported from a separate response construction because its scaling is convenient.
 
 First tests for any candidate:
 
 1. freeze source and typing before geometry-facing evaluation;
-2. direct-product/composition subtraction;
+2. subtract one-event/composition/support/representation contributions;
 3. causal-break/recovery or explicit boundary/inflow classification;
-4. held-out AF control panel;
+4. require nonzero direct-product-normal residual and positive held-out AF control margin;
 5. regional composition/naturality/higher coherence;
 6. recovery/coarse-graining;
 7. preserve `q^2` two-helicity sector/common Lorentz cone;
@@ -306,4 +361,4 @@ That is sufficient for normal scientific continuation when the repository is acc
 
 # 14. ONE-LINE CURRENT STATUS
 
-**Strong retained-memory/effective-history core retained; historical FINAL-CERTIFIED authority Q-B1858L unchanged; GR88/Q-B1825L/Q-B1206 rescue routes are now sharply closed in their tested scopes; grade-one analytic depth cannot generate the missing primitive; active search = a genuinely new Q-generated irreducible multi-event/higher/boundary process degree with `N_12(a) != 0`; full nonlinear GR remains NOT ESTABLISHED.**
+**Strong retained-memory/effective-history core retained; historical FINAL-CERTIFIED authority Q-B1858L unchanged; GR88/Q-B1825L/Q-B1206-rescue/Q-B1634→1637 affine-anchor routes are now sharply closed in their tested scopes; grade-one analytic depth and moving geometric representations over Schur-flat process cannot generate the missing microscopic primitive; active search = a genuinely new Q-generated irreducible multi-event/higher/boundary process degree with source-level `N_12(a) != 0`; full nonlinear GR remains NOT ESTABLISHED.**
