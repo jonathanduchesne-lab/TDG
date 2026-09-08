@@ -1,0 +1,7 @@
+6/6 PASS
+successor_max_upper_is_5: PASS
+observed_exits_are_exactly_D5: PASS
+no_new_Q_law_at_GR178_rewrite: PASS
+fixed_finite_D_analytic_class_extends_to_D5: PASS
+D4_threshold_not_intrinsic_Q_phase_definition: PASS
+prior_D4_AF_flatness_does_not_claim_rootwide_D5_no_go: PASS
