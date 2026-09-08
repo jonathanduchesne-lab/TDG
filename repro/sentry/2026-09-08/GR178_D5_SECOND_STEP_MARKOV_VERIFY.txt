@@ -1,0 +1,9 @@
+8/8 PASS
+four_first_moves: PASS
+all_first_moves_enter_D5: PASS
+one_direct_D5_tip_branch: PASS
+three_nearby_D5_branches: PASS
+direct_branch_forces_5_to_6_next: PASS
+side_branches_leave_high_at_5_next: PASS
+successor_endpoint_states_distinguish_branches: PASS
+conditional_second_update_is_endpoint_determined: PASS
