@@ -2,40 +2,39 @@
 
 **Date:** 2026-09-08 (America/Toronto)  
 **Repository:** `jonathanduchesne-lab/TDG`  
-**Role:** self-contained scientific restart state for a new conversation  
 **Historical FINAL-CERTIFIED authority:** `Q-B1858L`, unchanged  
-**Current live mode:** Unified Bridge / Sentinelle
+**Live mode:** Unified Bridge / Sentinelle
 
 ---
 
-# 0. RESTART RULE
+# 0. RESTART PROCEDURE
 
 Read, in order:
 
 1. `00_START_HERE_NEW_CONVERSATION.md`
 2. this `MASTER_RECOVERY_LIVE.md`
 3. `CURRENT_STATE.md`
-4. the newest scoped checkpoints named below
-5. older history/provenance only when an exact historical calculation must be audited.
+4. newest scoped checkpoints under `checkpoints/SENTRY/2026-09-08/`
+5. older history/provenance only if an exact historical calculation must be audited.
 
-Continue in **French**. Do not reconstruct documentary gaps by interpolation. If old history conflicts with this master about the active frontier, this master + `CURRENT_STATE.md` + newest scoped checkpoints govern the live program. Historical FINAL-CERTIFIED authority remains `Q-B1858L` unless an explicit later certification changes it.
+Continue in **French**. Do not interpolate documentary gaps. GitHub is the authoritative restart substrate for new substantive work; older Library material remains provenance/history unless explicitly re-promoted.
 
 ---
 
-# 1. PERMANENT SCIENTIFIC FIREWALLS
+# 1. PERMANENT FIREWALLS
 
 - Root1 frozen: `[Omega_rel] + Q_loc^{kin+gen} + FP/NEF + single factual realization`.
 - `A_path` retired.
-- Global predictive Q remains uncollapsed when a fact occurs.
-- Factual ledger remains append-only and separate from predictive/global Q.
-- **Actualisation soustractive** is Jonathan Duchesne's conceptual contribution; do not attribute it to an AI system.
-- Born rule: **NOT DERIVED**.
-- Metric proper duration: **NOT DERIVED**.
-- `Lambda`: **OPEN**.
-- O(3) dynamical closure: **FAIL / NOT CLOSED**.
-- HDA / spin-2 / full nonlinear GR: **NOT PROMOTED / FULL NONLINEAR GR NOT ESTABLISHED**.
+- Global Q uncollapsed across factualization.
+- Factual ledger append-only and separate from predictive/global Q.
+- **Actualisation soustractive** is Jonathan Duchesne's conceptual contribution.
+- Born: **NOT DERIVED**.
+- Metric/proper duration: **NOT DERIVED**.
+- Lambda: **OPEN**.
+- O(3): **FAIL / NOT CLOSED**.
+- HDA/spin-2/full nonlinear GR: **NOT PROMOTED / FULL NONLINEAR GR NOT ESTABLISHED**.
 
-Never silently insert bicharacter, clock/shift algebra, stabilizer, TT/divergence/trace constraints, Einstein-Hilbert/ADM structure, nonlinear diffeomorphism target, tetrad, FP/TEGR coefficients, metric projector, gravitational decoder, preferred spectral `z`, fitted inverse-regulator rescue or post-target selector.
+Never silently insert bicharacter, clock/shift, stabilizer, TT/divergence/trace, EH/ADM, nonlinear diffeo target, tetrad, FP/TEGR coefficients, metric projector, gravitational decoder, preferred spectral `z`, fitted gain, inverse-regulator rescue or post-target selector.
 
 ---
 
@@ -43,202 +42,169 @@ Never silently insert bicharacter, clock/shift algebra, stabilizer, TT/divergenc
 
 Retain:
 
-- strong retained-memory / effective-history core;
-- substantial exact factual-actualization / retained-history constructions in frozen scopes;
-- substantial causal-order/support/predictive-memory capacity, without conflating support/order with causal influence or spacetime geometry;
-- strong linear and first-nonlinear relativistic consistency in frozen scopes;
-- healthy two-helicity `q^2` downstream sector and common Lorentz cone.
+- strong retained-memory/effective-history core;
+- substantial exact factual-actualization/retained-history constructions in frozen scopes;
+- real causal-order/support/predictive-memory structures without conflating order/support with causal influence or geometry;
+- strong linear + first-nonlinear relativistic consistency in frozen scopes;
+- healthy two-helicity `q^2` sector and common Lorentz cone as protected downstream assets.
 
-Checkpoint AG remains orthogonal to gravity: synthetic prospective-history strong pass (3000 episodes, 4 basins, TDG retained winner 80.57%, best baseline 74.47%, +6.10 points, bootstrap 95% [4.33,7.80]); not physical predictive validation and not a gravity derivation.
+Checkpoint AG remains orthogonal to gravity: synthetic prospective-history strong pass (3000 episodes / 4 basins; 80.57% TDG retained winner vs 74.47% best baseline; +6.10 points; bootstrap 95% [4.33,7.80]); not physical predictive validation and not a gravity derivation.
 
 ---
 
-# 3. CURRENT BRIDGE QUESTION
+# 3. AF PREMISE ENTRY RULE
 
-The active target is a **TDG/Q-generated ordered, coherent, mixed microscopic PROCESS/transition datum** in the retained regional process.
+The bridge requires a **TDG/Q-generated ordered, coherent, mixed microscopic PROCESS/transition datum**.
 
-A positive premise must:
+A positive source must:
 
-1. be microscopic PROCESS/transition, not merely joint state, endpoint geometry, support bookkeeping, legality, history label, moving frame or readout;
-2. contain a nonzero component normal to the matched direct-product/compositional process manifold;
+1. be genuine microscopic process/transition, not state/readout/geometry/support alone;
+2. have nonzero component normal to matched direct-product/compositional process;
 3. survive causal-break/recovery or be independently typed boundary/inflow;
-4. beat held-out direct-product, generic spin-2, generic projective/topological and static-common-boundary/common-cause controls with positive margin;
-5. satisfy regional composition/naturality or a microscopically generated coherent higher/pseudonatural law;
-6. survive sectorwise recovery/coarse-graining;
-7. preserve the frozen two-helicity `q^2` sector and common Lorentz cone.
+4. beat held-out direct-product, generic spin-2, projective/topological and static-common-cause controls;
+5. satisfy regional composition/naturality or genuine Q-generated higher coherence;
+6. survive recovery/coarse-graining;
+7. preserve two-helicity `q^2` and the common cone.
 
-Only after those gates may a surviving object be compared blindly to the frozen one-dimensional AC quotient. A match is a **blind quotient-lock**, never a retargeted Lie derivative.
-
-Highest-value source signature:
+Highest-value signature:
 
 `N_12(a) != 0`
 
-before endpoint/current-carrier/geometric reduction, not reconstructible from one-event edges, diagonal propagation, ordinary Schur/Feshbach composition, support/legal-domain change, moving response geometry or a fitted response inverse.
+before endpoint/current-carrier/geometric reduction, not reconstructible from one-event maps, diagonal propagation, ordinary Schur/Feshbach composition, support/legal-domain bookkeeping, moving response geometry or response-inverse fitting.
+
+Only after all AF gates may a survivor be tested blindly against the frozen AC quotient.
 
 ---
 
-# 4. BINDING RECENT SENTINELLE CLOSURES
+# 4. BINDING RECENT CLOSURES
 
-## 4.1 GR88 coherent two-event connected jet
-
-Checkpoint:
+## GR88
 `checkpoints/SENTRY/2026-09-08/TDG_GR88_AF_COHERENT_TWO_EVENT_CONNECTED_JET_NOGO_2026-09-08.md`
 
-- symmetric Jordan response factors through old one-event Herm2 carrier;
-- ordinary order-odd `1 wedge 3` channel exactly zero in locked branch;
-- surviving `3'` axial channel is old Lie/frame content;
-- `J2_conn,new = 0`.
+`J2_conn,new=0`: symmetric Jordan factors through one-event Herm2; order-odd ordinary-3 exactly zero; surviving axial `3'` is old Lie/frame content.
 
-Do not re-mine Herm2/Jordan/axial descendants.
-
-## 4.2 Q-B1825L dependent enablement
-
-Checkpoint:
+## Q-B1825L dependent enablement
 `checkpoints/SENTRY/2026-09-08/TDG_QB1825L_DEPENDENT_ENABLEMENT_AF_TYPE_NOGO_2026-09-08.md`
 
-Exact causal support `A<C` retained, but once C is legal the tested Q-native payload is spectator-invariant, the B/C same-final square is flat and first-arrival cross term is zero. Domain/legality dependency is not an operator-valued mixed transition normal.
+`A<C` is real causal support/domain enablement, but once C is legal the tested payload is spectator-invariant and the B/C square is flat. No operator-valued mixed normal earned.
 
-## 4.3 Q-B1206 critical amplifier as GR88 rescue
-
-Checkpoint:
+## Q-B1206 critical rescue
 `checkpoints/SENTRY/2026-09-08/TDG_GR88_QB1206_CRITICAL_AMPLIFIER_AF_CROSSBRANCH_NOGO_2026-09-08.md`
 
-Q-B1206 retains genuine same-Q `gap~a^2`, `||R||~a^-2` criticality, but it acts on a different H160 selected-future/B2 response construction. No Q-derived intertwiner puts that gain on the GR88 source-normal sector. Singular linear gain cannot create a nonzero channel from exact source zero.
+Real `gap~a^2`, `||R||~a^-2` criticality exists, but not on the GR88 source-normal sector. Cross-branch amplification cannot create a channel from exact source zero.
 
-## 4.4 Q-B1634→Q-B1637 affine moving-cut anchor
-
-Checkpoint:
+## Q-B1634→1637 moving-cut anchor
 `checkpoints/SENTRY/2026-09-08/TDG_QB1634_QB1637_AF_AFFINE_ANCHOR_PROCESS_FLAT_NOGO_2026-09-08.md`
 
-Positive results retained:
+Real Q-derived affine nonabelian support geometry:
+`Delta x_spatial=a^2(N0 grad M-M0 grad N)+O(a^3)` plus frame holonomy, Q-selected chart. But full separating two-cell process has order residuals `~1e-19–1e-21`: moving representation over order-flat source process.
 
-- `P0 = X X^dagger/(Tr[X X^dagger]/2)` gives exactly `spatial(delta_g P0)=g`;
-- finite affine diamond gives `Delta x_spatial=a^2(N0 grad M-M0 grad N)+O(a^3)` with frame holonomy;
-- chart is Q-selected/non-Stueckelberg.
-
-But the correctly typed full separating Active43 two-cell process with complete independent Herm2 insertions has order residuals only `~1e-19–1e-21`. The nonabelian anchor is a real moving geometric/support/fibre representation over an order-flat tested microscopic process, not source-level `N_12`.
-
-## 4.5 Q-B1014→Q-B1204 alternative-Ext / higher-process historical lineage
-
-Checkpoint:
+## Q-B1014→1204 alternative-Ext/higher-process historical lineage
 `checkpoints/SENTRY/2026-09-08/TDG_QB1014_QB1204_AF_ALTERNATIVE_EXT_HIGHER_PROCESS_PROVENANCE_NOGO_2026-09-08.md`
 
-This checkpoint closes an important loophole left abstractly open by Q-B1826.
+Strong capacities retained: curved response-Cons/2-morphism, six natural Q pair-response directions, bare-H B2 full-future sheaf, enlarged H160 selected-future sheaf. But ordered leader channels are not Root-selected. Bare-H mixed two-port scales `a^6.041` vs direct `a^2.013`, ratio `a^4.028`; unconditioned Green blocks are not sharp Ext; occurrence/mediator architectures are explicit enrichments.
 
-Retained positive historical results:
+## GR62 whole-cut instrument
+`TDG_GR62_AF_WHOLE_CUT_INSTRUMENT_UNDERDETERMINATION_NOGO_2026-09-06.md`
 
-- Q-B1014: exact curved/fibered response-Cons with physical frame 2-morphism and noncompact rank-6 response curvature;
-- Q-B1147/1148: natural locked-Q `Hx/O_f` word algebra contains six A4-covariant, well-conditioned pair-response directions without a new microscopic matrix seed;
-- Q-B1191: bare H130 contains a real four-future B2 Schur process sheaf with exact regional nesting;
-- Q-B1193/1194: enlarged H160 occurrence state carries exact labelled selected-future regional process families.
-
-Binding provenance/type obstruction:
-
-- Q-B1016 says the C/K mediator realization is a model-class construction, not derivation of unique Root1 law;
-- Q-B1138 makes C/K incidence/Hodge exact but leaves `lambda_C,lambda_K` constitutive;
-- Q-B1149 response-inverse and Q-B1151 occurrence/history dilation realize rather than Root-select the transition law;
-- Q-B1171 bare-H exact two-port mixed signal scales `a^6.04143` vs direct `a^2.01323`, ratio `a^4.02820` — no leading source joint channel;
-- Q-B1192 proves unconditioned Green blocks cannot be promoted to sharp labelled Ext maps;
-- Q-B1200/1204 explicitly classify the H160 occurrence architecture and directional phase as capacity/non-root-selected.
-
-Therefore the archived Q-B1014→1204 family contains strong higher/process capacity but **does not already provide a Root-derived source-level `N_12(a)!=0` alternative Ext**.
-
-This is not a global theorem that all future Root extensions are Active43 grade-one. It closes only this archived candidate family.
+Real coherent occurrence exists, but three target-blind natural stage typings give inequivalent stable two-step laws. Current Q does not uniquely generate the occurrence→whole-cut second morphism.
 
 ---
 
-# 5. OTHER BINDING SEARCH-SPACE CLOSURES
+# 5. SEARCH-SPACE FIREWALLS
 
-## 5.1 Grade-one analytic depth
+Do not re-mine as new AF evidence without an independently new source law:
 
-Inside Q-B1824 grade-one configuration-Q, squarefree mixed higher coefficients remain in the algebraic closure of diagonal propagation + one-event inter-fibre maps + strict composition. Do not search deeper `H^n` or ordinary analytic `f(H)` for a primitive.
-
-## 5.2 Moving response/connection geometry
-
-RC22/RC23, BF/RC16, Q-B1634/1635 and related frame/connection descendants establish that a real nonzero moving response/support/frame connection can lie over a strict direct-product or order-flat microscopic base. Such connection curvature does not by itself earn AF normality.
-
-## 5.3 GR48→GR50 descendants
-
-Historical GR48/49/50 contain real same-Q vertical/cooriented and eta-selfadjoint/T2-facing structure, but modern AF controls already show the ordered response tensor/descendants can be reproduced as static context-dependent response data over a direct-product microscopic base. Do not re-mine them as AF source evidence.
-
-## 5.4 Q-B1828
-
-Two-pole predictive memory remains Q-native, predictive-basic, quasilocal and refinement-natural, but sequential residue increments add exactly. Strong ordered memory is not an irreducible connected multi-event transition vertex.
-
----
-
-# 6. EXACT ACTIVE FRONTIER
-
-The next search is **not** another response readout of Active43/H130/H160 and not another constructed mediator/occurrence register.
-
-Search only for a concrete microscopic source object in one of these classes:
-
-1. **whole-cut / phase-exit process law** already licensed by Root/Q;
-2. another concrete Root-licensed `Ext` outside the Active43 grade-one / Schur-flat class;
-3. irreducible jointly generated multi-event inter-fibre block directly in the microscopic generator/process operator;
-4. coherent higher/pseudonatural cell whose **source law itself** is Q/Root-derived and whose full separating process retains nonzero ordered residual;
-5. independently Q-generated boundary/inflow promotion map with its own causal-break signature.
-
-The strongest candidate is one where the first event changes the **second transition morphism itself** on a matched comparison space.
-
-If a soft/critical sector participates, it must be Q-selected inside that same source-normal process sector.
-
-For any survivor:
-
-1. freeze source/typing target-blind;
-2. subtract one-event/composition/support/representation content;
-3. causal-break/recovery or explicit boundary/inflow test;
-4. direct-product-normal residual + held-out AF margin;
-5. regional composition/higher coherence;
-6. recovery/coarse-graining;
-7. protect two-helicity `q^2` and common cone;
-8. only then blind AC quotient-lock.
-
----
-
-# 7. DO-NOT-RE-MINE LIST
-
-Do not use as new AF evidence without an independently new source law:
-
-- Q-B990 C/K ordered-pair laws;
-- Q-B1014 curved response-Cons by itself;
+- deeper `H^n` / analytic readouts of grade-one Q-B1824;
+- Q-B990 C/K and Q-B1014 curved Cons by themselves;
 - Q-B1149 response-inverse;
-- Q-B1151/Q-B1177/Q-B1193 explicit mediator/occurrence-register enlargements;
-- H130 unconditioned Green blocks as sharp Ext;
-- Q-B1205+ H160 criticality as substitute for a missing transition law;
-- Q-B1634 support anchor / Q-B1635 affine diamond / frame holonomy / Q-B1638 chart;
-- GR48→GR53 deterministic descendants;
-- deeper powers of the same grade-one generator.
+- Q-B1151/Q-B1177/Q-B1193 mediator/occurrence enrichments;
+- unconditioned H130 Green blocks as sharp Ext;
+- Q-B1205+ criticality as substitute for missing source law;
+- Q-B1634/35 support/affine anchor, Thomas/Wigner/SU2 holonomy, Q-B1638 chart;
+- RC22/23 and BF/RC16 moving response/source connections;
+- GR48→GR53 deterministic response descendants;
+- GR176→179 D4 one-cocycle/commuting-diamond descendants as mixed vertex;
+- Q-B1828 additive residue memory as connected multi-event vertex.
+
+---
+
+# 6. NEW POSITIVE FRONTIER — GR178 D4→D>4 PHASE EXIT
+
+Checkpoint:
+`checkpoints/SENTRY/2026-09-08/TDG_GR178_D4_TO_D5_PHASE_EXIT_AF_FRONTIER_2026-09-08.md`
+
+This is the sharpest concrete live route.
+
+GR178 already derives a target-blind Q-native local source-state rewrite. Frozen audit:
+
+- 40 legal moves;
+- **40/40** locally predicted successor descriptors exactly match the actually grown carriers;
+- 28 stay inside D=4;
+- **12 legally exit D=4**;
+- all 12 exits produce successor maximum B3 incidence `>=5`;
+- none is projected back into D=4.
+
+Thus a real microscopic phase-boundary state transition is already earned:
+
+`D4 source state + legal move -> D>4 successor state`.
+
+However the archived response map
+
+`N_Q^(2)(T,u) -> [C6(T,u)]`
+
+and closed Markov response recursion are explicitly certified only **on the D=4 phase**. Later recoveries continue to say **RC40F-D5 remains OPEN and separate**.
+
+Classification:
+
+**POSITIVE SOURCE-STATE PHASE-EXIT PASS / POST-EXIT PROCESS RESPONSE NOT DERIVED / AF `N_12` NOT YET EARNED.**
+
+This is not a no-go. It is the active frontier.
+
+---
+
+# 7. EXACT NEXT GATE — RC40F-D5
+
+### D>4 POST-EXIT PROCESS-RESPONSE DERIVATION
+
+Use the already-earned 12 exact D4→D>4 successor carriers.
+
+1. Evaluate the actual retained Q process directly on each D>4 successor target-blindly.
+2. Do **not** import the D4 C6 alignment/formula/projector by dimensional analogy.
+3. Determine whether one canonical D5/post-exit response object/ray is generated by Q.
+4. Construct legal next moves from D5.
+5. Test whether the phase-exit event changes the **second transition morphism itself** after matching one-event source geometry and ordinary composition.
+6. Compute connected residual `N_12` before any gravity-facing interpretation.
+7. If residual is zero/factorized, close this D5 realization cleanly.
+8. If nonzero, freeze it and run causal-break/recovery, direct-product-normal held-out panel, regional naturality/higher coherence and coarse-graining.
+9. Preserve two-helicity `q^2`, common Lorentz cone, Root1 and all firewalls.
+10. Only after all of that test blind AC quotient-lock.
+
+A D5 response cannot be inferred merely because the descriptor changed phase; it must be derived from Q on the post-exit carrier.
 
 ---
 
 # 8. SAVEPOINT POLICY
 
-At every stable scientific frontier change:
+At every stable frontier change:
 
-1. create append-only scoped checkpoint under `checkpoints/SENTRY/YYYY-MM-DD/`;
+1. append scoped checkpoint under `checkpoints/SENTRY/YYYY-MM-DD/`;
 2. include `DERIVED / ASSUMED / OPEN / NEXT`;
-3. preserve exact provenance and state clearly whether a result was cold-rerun or documentary/type-audited;
+3. distinguish cold rerun from documentary/type audit;
 4. update `CURRENT_STATE.md`;
 5. update this master;
-6. commit to GitHub before treating the state as safely handed off.
+6. commit to GitHub before treating state as safely handed off.
 
-Routine negative scans that change nothing need no checkpoint.
-
----
-
-# 9. LEGACY ARCHIVAL GAP
-
-GitHub is sufficient for current scientific continuation but is not yet a byte-for-byte mirror of every historical Library artifact. The large P10O recovery and old repro assets remain explicit provenance dependencies when needed. Never turn an archival gap into an inferred scientific fact.
+Routine repeated negative scans do not deserve a checkpoint.
 
 ---
 
-# 10. MINIMAL RESTART PROMPT
+# 9. MINIMAL NEW-CONVERSATION PROMPT
 
 > **Reprends TDG complet depuis `jonathanduchesne-lab/TDG`. Lis `00_START_HERE_NEW_CONVERSATION.md`, `MASTER_RECOVERY_LIVE.md` et `CURRENT_STATE.md`, puis continue en français depuis le front scientifique exact. Respecte tous les firewalls et ne reconstruis aucun trou par interpolation.**
 
 ---
 
-# 11. ONE-LINE CURRENT STATUS
+# 10. ONE-LINE CURRENT STATUS
 
-**Strong retained-memory/effective-history core retained; historical FINAL-CERTIFIED authority Q-B1858L unchanged; GR88, Q-B1825L, Q-B1206-rescue, Q-B1634→1637 affine-anchor, and the archived Q-B1014→1204 curved-Cons/full-future alternative-Ext lineage are closed as AF source premises in their tested scopes; grade-one analytic depth and moving/readout process geometry do not generate the missing primitive; active search = a concrete Root/Q-generated whole-cut, phase-exit, alternative-Ext, irreducible multi-event or boundary/inflow source law with `N_12(a)!=0`; full nonlinear GR remains NOT ESTABLISHED.**
+**Strong retained-memory/effective-history core retained; Q-B1858L remains historical FINAL-CERTIFIED authority; major Active43/response/higher-process false escapes are now sharply closed in their tested scopes; GR178 supplies a real Q-native D4→D>4 source-state phase exit on 12 exact legal transitions; the active bridge frontier is RC40F-D5 = derive the post-exit Q process response and test for a genuine connected `N_12(a)!=0`; full nonlinear GR remains NOT ESTABLISHED.**
