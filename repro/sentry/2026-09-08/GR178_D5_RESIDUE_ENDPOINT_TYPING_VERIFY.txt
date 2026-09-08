@@ -1,0 +1,9 @@
+8/8 PASS
+two_pole_state: PASS
+residue_increment_psd: PASS
+multi_increment_exact_additivity: PASS
+same_final_independent_internalization_order_silent: PASS
+residue_pair_predictive_basic: PASS
+single_z_not_sufficient: PASS
+radius5_graph_not_full_exact_endpoint_state_beyond_certified_D4: PASS
+AF_requires_residual_after_full_residue_endpoint_match: PASS
