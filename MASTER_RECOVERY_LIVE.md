@@ -17,7 +17,7 @@ Read, in order:
 4. newest scoped checkpoints under `checkpoints/SENTRY/2026-09-08/`
 5. older history/provenance only if an exact historical calculation must be audited.
 
-Continue in **French**. Do not interpolate documentary gaps. GitHub is the authoritative restart substrate for new substantive work; older Library material remains provenance/history unless explicitly re-promoted.
+Continue in **French**. Do not interpolate documentary gaps. GitHub is the authoritative restart substrate for new substantive work.
 
 ---
 
@@ -32,7 +32,7 @@ Continue in **French**. Do not interpolate documentary gaps. GitHub is the autho
 - Metric/proper duration: **NOT DERIVED**.
 - Lambda: **OPEN**.
 - O(3): **FAIL / NOT CLOSED**.
-- HDA/spin-2/full nonlinear GR: **NOT PROMOTED / FULL NONLINEAR GR NOT ESTABLISHED**.
+- Full nonlinear GR from TDG: **NOT ESTABLISHED**.
 
 Never silently insert bicharacter, clock/shift, stabilizer, TT/divergence/trace, EH/ADM, nonlinear diffeo target, tetrad, FP/TEGR coefficients, metric projector, gravitational decoder, preferred spectral `z`, fitted gain, inverse-regulator rescue or post-target selector.
 
@@ -56,135 +56,159 @@ Checkpoint AG remains orthogonal to gravity: synthetic prospective-history stron
 
 The bridge requires a **TDG/Q-generated ordered, coherent, mixed microscopic PROCESS/transition datum**.
 
-A positive source must:
-
-1. be genuine microscopic process/transition, not state/readout/geometry/support alone;
-2. have nonzero component normal to matched direct-product/compositional process;
-3. survive causal-break/recovery or be independently typed boundary/inflow;
-4. beat held-out direct-product, generic spin-2, projective/topological and static-common-cause controls;
-5. satisfy regional composition/naturality or genuine Q-generated higher coherence;
-6. survive recovery/coarse-graining;
-7. preserve two-helicity `q^2` and the common cone.
-
 Highest-value signature:
 
 `N_12(a) != 0`
 
 before endpoint/current-carrier/geometric reduction, not reconstructible from one-event maps, diagonal propagation, ordinary Schur/Feshbach composition, support/legal-domain bookkeeping, moving response geometry or response-inverse fitting.
 
-Only after all AF gates may a survivor be tested blindly against the frozen AC quotient.
+A survivor must pass causal-break/recovery or independent boundary/inflow typing, direct-product-normal controls, held-out separation, regional composition/naturality or genuine higher coherence, recovery/coarse-graining, and preservation of `q^2` plus the common Lorentz cone before any blind AC quotient-lock.
 
 ---
 
 # 4. BINDING RECENT CLOSURES
 
-## GR88
-`checkpoints/SENTRY/2026-09-08/TDG_GR88_AF_COHERENT_TWO_EVENT_CONNECTED_JET_NOGO_2026-09-08.md`
+- **GR88:** `J2_conn,new=0`; symmetric Jordan factors through one-event Herm2; ordinary order-odd 3 zero; surviving axial `3'` is old Lie/frame content.
+- **Q-B1825L:** real `A<C` legality dependence, but tested payload spectator-invariant once C legal; no operator-valued mixed normal.
+- **Q-B1206 rescue:** real `a^-2` critical gain, wrong source sector for GR88; cannot create a channel from exact source zero.
+- **Q-B1634→1637:** real affine/support nonabelian geometry, but full separating two-cell process order-flat to `~1e-19–1e-21`.
+- **Q-B1014→1204:** strong higher/process capacities, but leading ordered laws remain constructive/non-Root-selected; bare-H mixed two-port `~a^6.041` vs direct `~a^2.013`; no earned alternative `Ext` primitive.
+- **GR62:** coherent occurrence exists, but occurrence→whole-cut second morphism underdetermined by current Q.
 
-`J2_conn,new=0`: symmetric Jordan factors through one-event Herm2; order-odd ordinary-3 exactly zero; surviving axial `3'` is old Lie/frame content.
-
-## Q-B1825L dependent enablement
-`checkpoints/SENTRY/2026-09-08/TDG_QB1825L_DEPENDENT_ENABLEMENT_AF_TYPE_NOGO_2026-09-08.md`
-
-`A<C` is real causal support/domain enablement, but once C is legal the tested payload is spectator-invariant and the B/C square is flat. No operator-valued mixed normal earned.
-
-## Q-B1206 critical rescue
-`checkpoints/SENTRY/2026-09-08/TDG_GR88_QB1206_CRITICAL_AMPLIFIER_AF_CROSSBRANCH_NOGO_2026-09-08.md`
-
-Real `gap~a^2`, `||R||~a^-2` criticality exists, but not on the GR88 source-normal sector. Cross-branch amplification cannot create a channel from exact source zero.
-
-## Q-B1634→1637 moving-cut anchor
-`checkpoints/SENTRY/2026-09-08/TDG_QB1634_QB1637_AF_AFFINE_ANCHOR_PROCESS_FLAT_NOGO_2026-09-08.md`
-
-Real Q-derived affine nonabelian support geometry:
-`Delta x_spatial=a^2(N0 grad M-M0 grad N)+O(a^3)` plus frame holonomy, Q-selected chart. But full separating two-cell process has order residuals `~1e-19–1e-21`: moving representation over order-flat source process.
-
-## Q-B1014→1204 alternative-Ext/higher-process historical lineage
-`checkpoints/SENTRY/2026-09-08/TDG_QB1014_QB1204_AF_ALTERNATIVE_EXT_HIGHER_PROCESS_PROVENANCE_NOGO_2026-09-08.md`
-
-Strong capacities retained: curved response-Cons/2-morphism, six natural Q pair-response directions, bare-H B2 full-future sheaf, enlarged H160 selected-future sheaf. But ordered leader channels are not Root-selected. Bare-H mixed two-port scales `a^6.041` vs direct `a^2.013`, ratio `a^4.028`; unconditioned Green blocks are not sharp Ext; occurrence/mediator architectures are explicit enrichments.
-
-## GR62 whole-cut instrument
-`TDG_GR62_AF_WHOLE_CUT_INSTRUMENT_UNDERDETERMINATION_NOGO_2026-09-06.md`
-
-Real coherent occurrence exists, but three target-blind natural stage typings give inequivalent stable two-step laws. Current Q does not uniquely generate the occurrence→whole-cut second morphism.
+Do not re-mine these routes without a premise that explicitly defeats their no-go.
 
 ---
 
-# 5. SEARCH-SPACE FIREWALLS
+# 5. CRITICAL CORRECTION — GR178 PHASE-EXIT != RC40F-D5
 
-Do not re-mine as new AF evidence without an independently new source law:
+Corrective checkpoint:
+
+`checkpoints/SENTRY/2026-09-08/TDG_CORRECTION_GR178_PHASE_EXIT_VS_RC40F_D5_NAMING_2026-09-08.md`
+
+The earlier live master incorrectly used the historical label **RC40F-D5** for the GR178 transitions that leave bounded-incidence `D=4` and reach successors with maximum B3 incidence `>=5`.
+
+That naming is wrong.
+
+Two distinct objects must remain separate:
+
+### A. GR178 D>4 phase-exit
+
+Retained positive result:
+
+- 40 legal moves tested;
+- **40/40** locally predicted successor descriptors exactly match actually grown carriers;
+- 28 remain in D=4;
+- **12 legally exit D=4**;
+- all 12 exits produce successor max B3 incidence `>=5`;
+- none is projected back into D=4.
+
+The C6 response recursion remains certified only on D=4. Therefore a separate **post-exit D>4 response problem** remains open.
+
+### B. Historical RC40F-D5 gate
+
+RC40F-D5 is the sequential gate after RC40F-D4 and is explicitly titled:
+
+**OCCURRENCE-RESOLVED PREDICTIVE INCIDENCE GROUPOID / PATHFUL AMPLITUDE-LIFT GATE**.
+
+It is not an incidence-5 phase label.
+
+---
+
+# 6. HISTORICAL RC40F-D5 — EXACT RESTORED TARGET
+
+D4 already established:
+
+- BF connected `z^-4` process bracket real;
+- BH ordered Lie/Jordan real with `alpha_Q=beta_Q=-1/3`;
+- Q-B1846 reversible curved SU2/Feshbach **projective** connection real;
+- raw pre-`sl` determinant amplitude unity to numerical floor: no hidden nonprojective amplitude there;
+- D3 `T` reversible but endpoint dressing only;
+- D3 `M` keeps amplitude but fails reverse-edge invertibility;
+- Q-B1850 cross-memory real but no unique nontrivial invertible full transport;
+- current minimal RefinedQ therefore has connected generator/curvature + projective transport, but **no licensed reversible nonprojective amplitude edge primitive**.
+
+RC40F-D5 asks whether predictive parent/face occurrence identity retained **before shared-port flattening** forces the missing primitive.
+
+Required properties:
+
+1. objects remain predictive/process objects; factual history is not dynamical state;
+2. retain occurrence identity only when flattening changes future response;
+3. reconstruct RAW vs occurrence-resolved carriers target-blind at b4 and b24;
+4. preserve BF, BH, BR, Q-B1846 and RC40E;
+5. construct edge morphisms before polar/projective quotient;
+6. require `U(e^-1)=U(e)^-1` and associative path composition;
+7. allow same-endpoint path holonomy;
+8. require the orthogonal/projective quotient to reproduce RC40E without refit;
+9. test for genuine noncompact/amplitude loop holonomy;
+10. solder any surviving amplitude to SAME-Q physical `Dh3` and test n/cofinal/refinement stability.
+
+If no occurrence-resolved carrier is physically forced, D5 must close as microscopic-realization inadequacy rather than adding registers by hand.
+
+---
+
+# 7. BW DIAGNOSTIC STATUS
+
+The interrupted BV/BW repeated-parent stress family is only diagnostic.
+
+Historical observation:
+
+- flattening several predictive parents sharing one B3 face onto one coarse B3 port creates fixed-order `H^3` parent-degree sensitivity;
+- an occurrence-split control assigning distinct parent-B3 occurrence ports removed the immediate extension dependence through `H^4` in that stress test;
+- first small residual dependence appeared around `H^5`.
+
+But BW did **not** complete:
+
+- b24 reproduction;
+- preservation of BF;
+- preservation of BH calibration;
+- preservation of BR;
+- proof that B3 occurrence splitting is forced rather than merely useful;
+- legality of the stress extension under all earlier growth/locality/Cons gates.
+
+Thus:
+
+`OCCURRENCE-RESOLVED B3/INCIDENCE CARRIER = PROMISING DIAGNOSTIC TARGET ONLY / NOT DERIVED.`
+
+No completed/certified RC40F-D5 result or `RC40F_D5_RESULTS` artifact has been recovered so far; only D4 safepoints and the D5 resume prompt are found.
+
+---
+
+# 8. EXACT ACTIVE FRONTIER
+
+## Priority 1 — execute historical RC40F-D5 exactly as defined
+
+First subgate:
+
+1. recover BV/BW repeated-parent stress family and provenance;
+2. test whether parent-face occurrence identity before flattening is **future-response-distinguishable** under frozen Q;
+3. only if yes, build RAW vs occurrence-resolved b4 and b24 carriers;
+4. verify BF/BH/BR/Q-B1846/RC40E preservation;
+5. only then test reversible noncompact amplitude holonomy and SAME-Q `Dh3` solder;
+6. if occurrence identity is not physically forced, close D5 cleanly without adding state.
+
+## Priority 2 — separate GR178 D>4 post-exit response
+
+Keep open independently. Do not call it RC40F-D5.
+
+---
+
+# 9. SEARCH-SPACE FIREWALLS
+
+Do not re-mine as new AF evidence without independently new source law:
 
 - deeper `H^n` / analytic readouts of grade-one Q-B1824;
-- Q-B990 C/K and Q-B1014 curved Cons by themselves;
-- Q-B1149 response-inverse;
+- Q-B990 C/K, Q-B1014 curved Cons, Q-B1149 response-inverse;
 - Q-B1151/Q-B1177/Q-B1193 mediator/occurrence enrichments;
 - unconditioned H130 Green blocks as sharp Ext;
 - Q-B1205+ criticality as substitute for missing source law;
-- Q-B1634/35 support/affine anchor, Thomas/Wigner/SU2 holonomy, Q-B1638 chart;
-- RC22/23 and BF/RC16 moving response/source connections;
+- Q-B1634/35 support/affine anchor and frame holonomy;
 - GR48→GR53 deterministic response descendants;
 - GR176→179 D4 one-cocycle/commuting-diamond descendants as mixed vertex;
 - Q-B1828 additive residue memory as connected multi-event vertex.
 
 ---
 
-# 6. NEW POSITIVE FRONTIER — GR178 D4→D>4 PHASE EXIT
-
-Checkpoint:
-`checkpoints/SENTRY/2026-09-08/TDG_GR178_D4_TO_D5_PHASE_EXIT_AF_FRONTIER_2026-09-08.md`
-
-This is the sharpest concrete live route.
-
-GR178 already derives a target-blind Q-native local source-state rewrite. Frozen audit:
-
-- 40 legal moves;
-- **40/40** locally predicted successor descriptors exactly match the actually grown carriers;
-- 28 stay inside D=4;
-- **12 legally exit D=4**;
-- all 12 exits produce successor maximum B3 incidence `>=5`;
-- none is projected back into D=4.
-
-Thus a real microscopic phase-boundary state transition is already earned:
-
-`D4 source state + legal move -> D>4 successor state`.
-
-However the archived response map
-
-`N_Q^(2)(T,u) -> [C6(T,u)]`
-
-and closed Markov response recursion are explicitly certified only **on the D=4 phase**. Later recoveries continue to say **RC40F-D5 remains OPEN and separate**.
-
-Classification:
-
-**POSITIVE SOURCE-STATE PHASE-EXIT PASS / POST-EXIT PROCESS RESPONSE NOT DERIVED / AF `N_12` NOT YET EARNED.**
-
-This is not a no-go. It is the active frontier.
-
----
-
-# 7. EXACT NEXT GATE — RC40F-D5
-
-### D>4 POST-EXIT PROCESS-RESPONSE DERIVATION
-
-Use the already-earned 12 exact D4→D>4 successor carriers.
-
-1. Evaluate the actual retained Q process directly on each D>4 successor target-blindly.
-2. Do **not** import the D4 C6 alignment/formula/projector by dimensional analogy.
-3. Determine whether one canonical D5/post-exit response object/ray is generated by Q.
-4. Construct legal next moves from D5.
-5. Test whether the phase-exit event changes the **second transition morphism itself** after matching one-event source geometry and ordinary composition.
-6. Compute connected residual `N_12` before any gravity-facing interpretation.
-7. If residual is zero/factorized, close this D5 realization cleanly.
-8. If nonzero, freeze it and run causal-break/recovery, direct-product-normal held-out panel, regional naturality/higher coherence and coarse-graining.
-9. Preserve two-helicity `q^2`, common Lorentz cone, Root1 and all firewalls.
-10. Only after all of that test blind AC quotient-lock.
-
-A D5 response cannot be inferred merely because the descriptor changed phase; it must be derived from Q on the post-exit carrier.
-
----
-
-# 8. SAVEPOINT POLICY
+# 10. SAVEPOINT POLICY
 
 At every stable frontier change:
 
@@ -199,12 +223,12 @@ Routine repeated negative scans do not deserve a checkpoint.
 
 ---
 
-# 9. MINIMAL NEW-CONVERSATION PROMPT
+# 11. MINIMAL NEW-CONVERSATION PROMPT
 
 > **Reprends TDG complet depuis `jonathanduchesne-lab/TDG`. Lis `00_START_HERE_NEW_CONVERSATION.md`, `MASTER_RECOVERY_LIVE.md` et `CURRENT_STATE.md`, puis continue en français depuis le front scientifique exact. Respecte tous les firewalls et ne reconstruis aucun trou par interpolation.**
 
 ---
 
-# 10. ONE-LINE CURRENT STATUS
+# 12. ONE-LINE CURRENT STATUS
 
-**Strong retained-memory/effective-history core retained; Q-B1858L remains historical FINAL-CERTIFIED authority; major Active43/response/higher-process false escapes are now sharply closed in their tested scopes; GR178 supplies a real Q-native D4→D>4 source-state phase exit on 12 exact legal transitions; the active bridge frontier is RC40F-D5 = derive the post-exit Q process response and test for a genuine connected `N_12(a)!=0`; full nonlinear GR remains NOT ESTABLISHED.**
+**Strong retained-memory/effective-history core retained; Q-B1858L remains historical FINAL-CERTIFIED authority; major Active43/response/higher-process false escapes remain closed in their tested scopes; GR178 has a real separate D>4 phase-exit source-state result; historical RC40F-D5 is correctly restored as the occurrence-resolved predictive-incidence/path-groupoid amplitude-lift gate, and the active task is to determine whether pre-flattening parent-face occurrence identity is Q-forced and carries a reversible nonprojective amplitude primitive; full nonlinear GR remains NOT ESTABLISHED.**
