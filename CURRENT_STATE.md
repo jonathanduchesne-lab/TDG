@@ -91,6 +91,22 @@ Classification GR43 :
 
 Donc les deux sorties de GR42 sont fermées dans le RefinedQ existant : ni passive history, ni adjunction déjà gagnée.
 
+## Nouveau verrou microscopique minimal — fast-mediator Feshbach
+
+Checkpoint : `checkpoints/SENTRY/2026-09-08/TDG_FAST_MEDIATOR_FESHBACH_ACTUALQ_REALIZATION_GAP_2026-09-08.md`.
+
+Q-B1007 donne le mécanisme minimal exact : pour deux médiateurs indépendants `D1 ⊕ D2`, la self-energy Feshbach est exactement additive et le mixed residual est nul. Un vrai couplage médiateur `C_12` de taille `O(a)` produit le premier terme non additif `~a^3`; un couplage `O(a^2)` le produit `~a^4`.
+
+Mais ce mécanisme était explicitement une **derivation route, not yet the actual Root Q**.
+
+Audit des réalisations concrètes :
+
+- bare H130 : vrai B2 full-future/process sheaf, mais les Green blocks off-diagonaux sont non conditionnés et Q-B1192 interdit leur promotion silencieuse en branch/Ext sharp;
+- H160 : branche/occurrence typing obtenu en ajoutant des registres B2 occurrence; provenance Q-B1204 = architecture non dérivée du frozen Root/minimal H;
+- Q-B1842+ : lower-incidence leg intéressant mais démarre par un enrichissement générique `H_(B3,B2)=gamma a I2`, non Root-sélectionné.
+
+Donc le bon mécanisme est identifié, mais **aucune instanciation bare-Q déjà retrouvée ne fournit encore le bloc physique cross-channel `C_{alpha beta}` avec typing conditionnel sharp**.
+
 ## Front exact maintenant
 
 Le prochain travail utile n'est plus un nouveau descendant GR/metric/readout. Il est **microscopique/processuel** :
@@ -109,7 +125,8 @@ ou équivalent, avec :
 4. le next morphism dépend de `f` au-delà des one-event endpoint maps;
 5. dépendance détruite/modifiée sous causal break;
 6. aucune loi C/K effective, aucun fitted coefficient, aucun history feedback du factual ledger;
-7. seulement ensuite test AF et géométrie.
+7. préférer un bloc Q-native inter-canal `C_{alpha beta}` / médiateur↔médiateur : Q-B1007 fixe alors le mixed residual sans interprétation gravitationnelle;
+8. seulement ensuite test AF et géométrie.
 
 Autres ouvertures légales : inter-fibre two-event kernel, coherent higher cell, Q-derived boundary/inflow, ou Root-allowed realization hors Active43/current-carrier grammar.
 
@@ -117,9 +134,9 @@ Autres ouvertures légales : inter-fibre two-event kernel, coherent higher cell,
 
 🟢 On avance **en localisation du vrai mur** : le Root autorise déjà le bon type de degré processuel et le Q complet possède des sources distribuées réelles.
 
-🟡 Mais la réalisation finite RefinedQ actuelle est **constitutivement/instrumentalement insuffisante** pour la soudure AF : elle ne fournit pas encore le morphisme conditionnel physiquement sélectionné.
+🟡 Mais la réalisation finite RefinedQ actuelle est **constitutivement/instrumentalement insuffisante** pour la soudure AF : elle ne fournit pas encore le morphisme conditionnel physiquement sélectionné ni le bloc cross-channel bare-Q requis.
 
-🔴 O(3), HDA, spin-2 et GR non linéaire restent non fermés.
+🔴 Born reste NOT DERIVED sur une branche distincte. O(3), HDA, spin-2 et GR non linéaire restent non fermés.
 
 ## Sauvegarde
 
