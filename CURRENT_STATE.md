@@ -11,83 +11,78 @@
 - actualisation soustractive = contribution conceptuelle de Jonathan Duchesne;
 - Born NOT DERIVED; durée métrique NOT DERIVED; Lambda OPEN; O(3) FAIL/NOT CLOSED; HDA/spin-2/GR non linéaire non établis.
 
-## Cible AF
+## Cible AF — contrôle renforcé
 
-Besoin d'un `N_12(a) != 0` Q-native au niveau PROCESS/transition, avant readout/géométrie, avec marge positive après soustraction de one-event maps, **coherent strict composition**, common-parent/Feshbach propagation, common boundary, full predictive endpoint/Hankel, `(R2,R4)` là où typé et common-final recombination.
+Besoin d'un `N_12(a) != 0` Q-native au niveau PROCESS/transition, avant readout/géométrie.
 
-Le contrôle AF doit désormais être process-amplitude/combe-level lorsque des probes d'ordre cohérent sont physiquement licenciés; l'égalité CPTP seule est trop grossière.
+La soustraction doit inclure : one-event maps, **composition cohérente complète** avec phases/holonomies physiquement accessibles, propagation same-sector, common-parent/Feshbach, common boundary, full predictive endpoint/Hankel, `(R2,R4)` où typé et common-final recombination.
+
+Un effet qui n'apparaît que parce qu'un quotient CPTP perd une phase n'est pas un `N12`.
 
 ## Fermetures binding récentes
 
-- Active43 `m=2` O8 : frontier fermé mais bulk incidence3 singular.
-- H130/common-parent : transfert réel mais pas sharp Ext; commutant scalaire; pas de direct B3↔B3 fast-mediator term documenté.
-- Q-B1819 + H130 : jonction historiquement licite mais joint-H = one-event local additions + common-parent propagation / enablement, aucun N12 primitif.
-- Filled Cons 2-cell : quantum descent/flatness, pas pair-operator payload.
-- Q-B161→164 : Cons contraint/transporte; Q/refinement doit sélectionner la dynamique pair-indexed.
-- R13-P : `Pi_rel^->=Path(Ext)/<Cons-cells,~desc>` et `Q_Omega ~ {Q_t}_{t in T_Ext}+boundary/state+holonomy/gauge`; aucun générateur pair/cell indépendant dans la taxonomie gelée.
-- Anti-target-fit : le carrier actuel ne force pas `Q_(e,f)`; un nouveau type doit être justifié indépendamment.
+- Active43 `m=2` O8 : bulk incidence3 singular.
+- H130 : transfert common-parent réel mais Green blocks != sharp Ext; commutant scalaire; aucun direct B3↔B3 term documenté.
+- Q-B1819 + H130 : combinaison historiquement licite mais joint-H = one-event additions + common-parent propagation/enablement; aucun N12 primitif.
+- Filled Cons 2-cell : relation/flatness, pas pair-operator payload.
+- Q-B161→164 : Cons contraint/transporte; Q/refinement doit sélectionner la loi dynamique.
+- R13-P : `Pi_rel^->=Path(Ext)/<Cons-cells,~desc>`; `Q_Omega~{Q_t}_{t in T_Ext}+boundary/state+holonomy/gauge`; aucun slot pair/cell indépendant imposé.
+- C849 coherent-control : process-level distinction réelle mais `UV=zVU` reste un descendant de composition cohérente.
+- Coherent-order / quantum-switch-like superposition : ne force pas un pair vertex si le contrôle physique peut être représenté comme degré/configuration + générateurs + Q global cohérent.
 
-Checkpoints précédents : `764a5589e...`, `9a13d1dd...`, `bdc861d0...`, `c0c879d3...`, `322e539e...`, `fcc0e857...`, `e4c682ad...`, `d9d9ce07...`, `5af4c446...`, `4b8c83b9...`.
+## Checkpoints Sentry — 2026-09-09
 
-## EXP3→EXP8 — ce qu'ils disent du carrier
+Précédents : `764a5589e...`, `9a13d1dd...`, `bdc861d0...`, `c0c879d3...`, `322e539e...`, `fcc0e857...`, `e4c682ad...`, `d9d9ce07...`, `5af4c446...`, `4b8c83b9...`.
 
-- EXP3 : future/intervention-visible distinction => ne pas quotienter par `~desc`; STAR/CHAIN et IDLE/loop valident ce sieve mais restent ordinary-QM/process distinctions.
-- EXP4 : same complete licensed QM comb + distinct M18 producing later response = structural no-go sur RC20/21; si M18 diffère, une future Q-response diffère déjà. Generic memory peut tie.
-- EXP5 : `p(e) != e_*`; aucune règle déterministe exactement covariante ne sélectionne un winner unique au point S5 symétrique; ledger sans nouveau bridge = operational delta zéro.
-- EXP6 : instrument-level event sur interface déclarée = conditional pass; detector microstage n'est pas fondamental; fact supplied -> same global Q re-evaluated on new frontier.
-- EXP7 : channel/POVM seuls ne déterminent pas Ext; minimum concret = interface déclarée + outcome-labelled CP instrument/subchannels + composition slots + future probes. Fixed-Lambda event quotient conditional PASS.
-- EXP8 : Root ne sélectionne pas un Lambda laboratoire universel; exact autonomy donne une famille/lattice, pas un unique interface. Cette branche ne force donc pas un générateur pair.
+Nouveaux :
+- `TDG_COHERENT_CONTROL_PROCESS_LEVEL_CODOMAIN_NOT_NEW_AF_VERTEX_2026-09-09.md` — commit `a42e9fcfe809559f2c951571f229db1abb23295a`.
+- `TDG_COHERENT_ORDER_SUPERPOSITION_NOT_FORCED_PAIR_VERTEX_2026-09-09.md` — commit `8bd4b460d4ed8bbeac92d56429c357ff6eb38516`.
+- `TDG_BOUNDARY_INFLOW_CANDIDATE_CLASSIFICATION_NO_IRREDUCIBLE_AF_SOURCE_2026-09-09.md` — commit `79ca7df55ab252e99bf5c97fbe3c3f545717caa3`.
 
-## NOUVEAU — coherent-control / supermap rescue fermé comme source AF
+## Coherent-control / higher-order rescue — fermé comme source automatique
 
-Checkpoint :
-`checkpoints/SENTRY/2026-09-09/TDG_COHERENT_CONTROL_PROCESS_LEVEL_CODOMAIN_NOT_NEW_AF_VERTEX_2026-09-09.md`
-(blob SHA `91c8e44e...`).
+Le vieux C849 établit qu'une égalité de canaux CPTP peut être trop grossière : deux routes peuvent avoir le même canal et une phase relative observable sous contrôle cohérent.
 
-Ancien C849→900 : pour des paires projectives finies, `UV` et `VU` peuvent donner le même canal unitaire alors qu'un contrôle cohérent de l'ordre voit une phase relative scalaire avec visibilité 1. Donc **ordinary CPTP/channel equality est un quotient trop grossier** si l'ordre cohérent est un probe physique.
+Mais R14-S est déjà generator-resolved/global-coherent : `Q_loc^{kin+gen}=(pi_rel,{H_alpha},covariance/Cons/refinement/composition)`, `H=sum H_alpha`, physical path classes/holonomies et full future response.
 
-Mais R14-S n'est pas channel-map-only :
-- `Q_loc^{kin+gen}=(pi_rel,{H_alpha}, covariance/Cons/refinement/composition)`;
-- `H=sum_alpha H_alpha`;
-- distinct physical channels sharing endpoints restent résolus si l'ontologie les distingue;
-- global Q conserve interférence/recombinaison/uncompute;
-- predictive equivalence utilise le full future response;
-- une famille enrichie `Q_alpha:U_alpha->generators/processes` est permise conditionnellement via RESPONSE-ACCESSIBILITY.
+Donc la phase de route doit être conservée si elle est physiquement accessible, mais elle n'est pas automatiquement un nouveau vertex. Dans C849 elle est entièrement déterminée par la composition `UV=zVU`.
 
-De plus, une observable route holonomy interdit de traiter les routes comme une filled silent Cons-cell.
+La superposition cohérente de `AB` et `BA` ne force pas non plus `Q_(A,B)` si le degré de contrôle et ses couplages sont eux-mêmes des données/générateurs physiques déjà représentables par Q.
 
-### Classification
+## Boundary/inflow — classification du corpus récupéré
 
-- **COHERENT PROCESS-LEVEL RESPONSE = RETAINED PASS.**
-- **FROZEN ROOT CODOMAIN INCOMPLETENESS FROM C849 = NOT ESTABLISHED.**
-- **C849 projective order phase -> AF N12 = FAIL**, car `UV=zVU` est déjà déterminé par les one-event maps et leur composition cohérente.
+Quatre classes ont été auditées :
 
-Nouvelle soustraction conceptuelle obligatoire :
+1. **Q-B1715 boundary self-energy** : vrai terme microscopique `O(a^4)` nouveau/opérateur, mais exactement un Schur hidden-bulk/common-boundary shadow dans la source auditée; marge AF nulle contre le contrôle matched.
+2. **Q-B1835 / T1R2 / archive-history sectors** : information interne/verticale réelle, mais aucune promotion Q-native dérivée vers le prochain processus prédictif. Les renommer “inflow” serait un ajout de loi.
+3. **GR61/62/63 shared occurrence -> whole cut** : vraie interférence current-Q, recombine-before-record et occurrence CP; mais whole-cut update non unique. GR63 conserve exact CP uniqueness FAIL malgré une forte localisation/héritage partiel.
+4. **Q-B1819 reconciliation** : dans Active43, un vrai instrument one-Ext est finalement dérivé par `A_e=(1-II†)H_K'I`; cela résout une partie du vieux typing d'occurrence mais retombe dans la classe carrier-determined/grade-one déjà fermée par Q-B1822/analytic closure/Q-B1825.
 
-`N12 = PROCESS_pair(actual Q) - PROCESS_pair(strict one-event coherent composition)`
-
-sur un espace physique/interventionnel matched. Un effet qui apparaît seulement parce qu'un quotient CPTP a perdu une phase n'est pas un N12.
+Donc aucun **irreducible Q-generated boundary/inflow source** n'est récupéré : les candidats sont Schur-réductibles, verticaux sans promotion, ou processuellement réels mais sous-déterminés puis résolus seulement comme one-event law.
 
 ## Front exact maintenant
 
-### IRREDUCIBLE HIGHER-ORDER PROCESS / GENERATOR-RESOLVED REPRESENTABILITY GATE
+### MICROSCOPIC NON-GRADE-ONE GENERATOR NECESSITY / SOURCE DISCOVERY GATE
 
-Chercher uniquement un processus physiquement licencié qui **ne peut pas** être représenté par la composition cohérente de la famille one-Ext `H_alpha/U_e` actuelle.
+Le prochain progrès doit être une **preuve target-blind que le generator-resolved Q actuel est insuffisant pour représenter un processus physique complet**.
 
-Candidats légaux :
-1. process tensor/comb/supermap dont l'action exige un degré/type microscopique indépendamment motivé hors de l'algèbre one-Ext;
-2. actual-Q multi-event inter-fibre block non reconstructible à partir des `U_e` et propagation sectorielle;
-3. boundary/inflow promotion law Q-derived et response-visible, non réductible à Schur/Feshbach/composition;
-4. contradiction de generator-resolved representability imposée par cohérence/process tomography, sans référence à GR.
+Tenir fixes :
+- tous les one-Ext generators et leurs compositions cohérentes;
+- tous les physical control/configuration degrees déjà licenciés;
+- boundary/state instance data;
+- Cons/path-holonomy semantics;
+- common-parent/Feshbach hidden mediators.
 
-Pour tout candidat : geler le complete coherent one-event process algebra comme contrôle, démontrer non-représentabilité/positive normal margin, puis causal-break/naturality/coarse-graining/q²-cone.
+Chercher alors un processus dont la représentation exige encore un nouveau degré/générateur microscopique pour une raison opérationnelle/processuelle indépendante de GR.
 
-Ne pas re-miner C849/T1R2/path holonomy comme N12 : leurs réponses restent des descendants de composition ou sont quotientées par Cons/UAP dans le scope pertinent.
+Si un tel témoin existe : l'enrichissement de `Q_loc` devient scientifiquement légitime, puis on calcule le connected pair residual et le passe au harness AF.
+
+Si aucun témoin n'existe : le Root actuel **ne force aucun AF source interne**; tout nouveau pair/higher generator serait une nouvelle hypothèse microscopique, pas une dérivation du TDG existant.
 
 ## Verdict GR
 
-🟢 Le harness AF est plus fort : il ne confondra plus une phase perdue par quotient CPTP avec un vertex microscopique.
+🟢 La recherche a beaucoup progressé en éliminant les faux positifs : canal-vs-process, ordre cohérent et boundary/inflow sont maintenant correctement typés.
 
-🟡 Le mur est maintenant **la représentabilité generator-resolved des vrais processus higher-order**.
+🟡 Le mur est désormais une question de **nécessité microscopique**, pas de calcul plus profond dans les mêmes Hamiltoniens.
 
 🔴 `N12` non gagné. Born toujours NOT DERIVED. GR non linéaire non établi.
