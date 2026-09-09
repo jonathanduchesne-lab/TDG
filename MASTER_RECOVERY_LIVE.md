@@ -21,9 +21,22 @@ No preferred z, Kraus choice, added occurrence/pair register, fitted C/K coeffic
 
 ---
 
-# 2. AF ENTRY
+# 2. AF ENTRY — UPDATED CONTROL LEVEL
 
-Need a microscopic Q-generated `N_12(a)!=0` before endpoint/readout/geometric reduction. It must survive matching/subtraction of one-event maps, strict composition, common-parent/Feshbach propagation, common boundary, full predictive endpoint/Hankel, `(R2,R4)` where typed and common-final recombination; then causal-break, naturality, coarse-graining and q²/common-cone controls.
+Need a microscopic Q-generated `N_12(a)!=0` before endpoint/readout/geometric reduction.
+
+Matching/subtraction must include:
+- one-event maps/generators;
+- **their full coherent strict composition, including any physically licensed ordered-path phase/holonomy**;
+- same-sector Q propagation;
+- common-parent/Feshbach propagation;
+- common boundary;
+- full predictive endpoint/Hankel and `(R2,R4)` where typed;
+- common-final recombination.
+
+Only a residual normal to this complete process-amplitude/composition manifold proceeds to causal-break, naturality, coarse-graining and q²/common-cone controls.
+
+Ordinary CPTP/channel equality is not a sufficient AF control when coherent path-order probes are licensed.
 
 ---
 
@@ -49,9 +62,10 @@ Do not re-mine as AF sources:
 - hidden H130 center/noiseless sector;
 - direct B3↔B3 H130 mediator term;
 - ordinary Q-B1819+H130 joint-H source;
-- frozen filled Cons 2-cell as if it carried a nonzero pair operator;
-- Q-B161 `C_{j|i}` as if Cons had selected that pair law;
-- assuming current R13-P already contains an independent pair/cell Q generator.
+- frozen filled Cons 2-cell as pair operator;
+- Q-B161 pair symbols as if Cons selected them;
+- current R13-P/R14 taxonomy as if it already contained an independent pair/cell Q generator;
+- C849/T1R2/path-order holonomy as if a nonzero coherent route phase were automatically an AF primitive vertex.
 
 ---
 
@@ -61,137 +75,122 @@ Q-B1819 physical event typing comes from configuration-changing `Ext e:K->K'`, c
 
 H130 supplies rich common-parent B4/B3 interaction but no intrinsic occurrence instrument, hidden center or direct B3↔B3 source.
 
-Historical constructor compatibility is real:
+Historical constructor compatibility is real: H160 preserves H130 B4-B3 couplings; persistent defect localizes to B3→B2→B3 return; fresh official process keeps exact Hermitian B4+B3 slice; Q-B1818G gives exact old-block retention/local new support.
 
-- H160 keeps the same B4-B3 couplings as H130 and adds B2 registers;
-- persistent-H160 defect is B3→B2→B3 return;
-- fresh official process keeps exact Hermitian B4+B3 slice;
-- Q-B1818G gives exact old-block retention/local new support.
-
-Yet independent two-event squares remain local additions + common-parent propagation, and dependent chains remain enablement without new post-legal payload. Checkpoint `fcc0e857...` closes this route.
+Yet independent two-event squares remain local additions + common-parent propagation and dependent chains remain enablement without new payload. Checkpoint `fcc0e857...` closes this route.
 
 ---
 
-# 5. FROZEN ROOT CONS SEMANTICS — FLATNESS, NOT PAIR DYNAMICS
+# 5. CONS / GENERATOR TAXONOMY
 
-Checkpoint `e4c682ad...`.
+Checkpoints `e4c682ad...`, `d9d9ce07...`, `5af4c446...`, `4b8c83b9...`.
 
-R13-P:
+R13-P/R14:
 
-`Omega_rel^pres=(Conf,Ext,Cons,~_desc)`.
+`Omega_rel^pres=(Conf,Ext,Cons,~desc)`
 
-For `Cons_C({e,f})`, two admissible orders bound a physical 2-cell. But
+`Pi_rel^->=Path(Ext)/<Cons-cells,~desc>`.
 
-`Pi_rel^-> = Path(Ext) / <Cons-cells,~_desc>`.
+Filled Cons cells identify physically interchangeable route presentations and require quantum descent/flatness; they do not supply an independent pair operator.
 
-A filled Cons-cell identifies the two route classes. Quantum descent requires
+Q-B161→164: Cons constrains/transports; Q/refinement must select actual pair-sensitive dynamics.
 
-`Qbar([gamma1])=Qbar([gamma2])`
+`Ext` consists of elementary admissible extensions. R13-P gives generator+relation compression
 
-as physical processes; any projective lift is flat on the filled cell (`exp(i Phi_cell)=1`).
+`Q_Omega ~ {Q_t}_{t in T_Ext} + boundary/state + allowed holonomy/gauge`.
 
-Thus frozen Cons is higher relational compatibility/coherence and path identification, not an independently Q-valued mixed transition vertex.
+R14-S freezes the generator-resolved form
 
-Observable nontrivial holonomy on a declared filled cell would falsify that cell assignment or require richer semantics.
+`Q_loc^{kin+gen}=(pi_rel,{H_alpha}, covariance/Cons/refinement/composition)`,
 
----
+with `H=sum_alpha H_alpha` and each alpha a physical channel class after descriptive quotient.
 
-# 6. Q-B161→164 — CONS CONSTRAINS, Q SELECTS
-
-Checkpoint `d9d9ce07...`.
-
-Q-B161 exact Cons-square relation:
-
-`C_{j|i}-C_{i|j}+[A_j,A_i]=0`.
-
-Historical classification is CONS NO-GO: Cons constrains the curvature/commutator combination but does not select pair couplings.
-
-Q-B162: higher-Cons compatibility alone can coexist with different local dynamics; no unique pair/exponent selection.
-
-Q-B163: root-native refinement must come from actual restriction of the same full Q process.
-
-Q-B164: **Q/refinement selects; Cons transports/solders.**
-
-No later recovered artifact promotes the Q-B161 pair symbols to a Root/current-Q physical ordered transition law. Q-B988→1000 C/K remains constructive.
+A new primitive pair generator is not forced by this formal carrier. Anti-renaming forbids adding one merely to help AF/GR.
 
 ---
 
-# 7. R13-P Q_loc GENERATOR TAXONOMY
+# 6. EXP3→EXP8 CARRIER/LAB LESSONS
 
-Checkpoint `5af4c446...`.
-
-`Ext` is explicitly the set of elementary admissible configuration extensions.
-
-R13-P §4.5 says the directed path category is presented by generators + Cons-relations, and
-
-`Q_Omega ~ {Q_t}_{t in T_Ext} + positive boundary/state data + allowed holonomy/gauge`.
-
-Therefore current `Q_loc` is specified on elementary Ext generator types and extended compositionally subject to Cons relations. No independent pair/cell generator family is listed.
-
-A primitive `Q_(e,f)` would therefore require:
-
-1. a real derivation from existing `Q_t` that escapes all current composition closures; or
-2. discovery that a new elementary physical process type is missing from `T_Ext`; or
-3. an explicit microscopic Root/Q_loc enrichment.
-
-Option 3 is new physical-law content and may not be sold as a consequence of current TDG.
-
-Allowed holonomy on holed/noncontractible route classes remains distinct global/topological data and is not automatically a local AF pair source.
+- EXP3 intervention sieve: future/intervention-visible distinctions cannot be erased by `~desc`; ordinary STAR/CHAIN and identity-loop controls validate the sieve but are already QM/process distinctions.
+- EXP4: same complete licensed QM comb + distinct M18 producing later response is structurally inconsistent on RC20/21; generic memory can tie M18.
+- EXP5: `p(e) != e_*`; symmetric branch weights do not determine the realized winner; without a new factual backreaction bridge ledger difference is operationally silent.
+- EXP6: instrument-level event identity can be refinement-natural at declared interface; detector microstage is not fundamental; fact supplied -> same global Q re-evaluated on changed frontier.
+- EXP7: CPTP channel or POVM alone do not determine Ext; fixed-Lambda full outcome-labelled CP instrument + future responses can define a minimal faithful response-event quotient. Universal lab→Ext remains underdetermined.
+- EXP8: Root does not select a unique universal lab interface Lambda; exact autonomous interfaces form symmetry-related families/lattices. Experimental branch does not force a pair generator.
 
 ---
 
-# 8. CURRENT CARRIER COMPLETENESS / ANTI-TARGET-FIT
+# 7. COHERENT-CONTROL PROCESS-LEVEL AUDIT — NEWEST CLOSED RESCUE
 
-Checkpoint `4b8c83b9...`.
+Checkpoint:
+`checkpoints/SENTRY/2026-09-09/TDG_COHERENT_CONTROL_PROCESS_LEVEL_CODOMAIN_NOT_NEW_AF_VERTEX_2026-09-09.md`
+blob SHA `91c8e44e3da5fcee4c5e22d0b8c57aa28dce8756`.
 
-By current formal definition:
+Historical C849→C900 gives an exact important warning: finite projective pairs can satisfy `UV=zVU`; `UV` and `VU` induce the same unitary channel while a coherently controlled path-order interferometer sees the scalar phase with unit visibility. CPTP/Petz recovery can quotient out this information.
 
-`Pi_rel^-> = Path(Ext)/<Cons-cells,~_desc>`.
+### Retained result
 
-Thus all represented relational morphisms are Ext-path classes modulo relations. Higher Cons cells add coherence/relations, not elementary quantum generators.
+**Coherent process-amplitude/path-order response must be retained whenever it is physically licensed.** Channel equality alone is too coarse.
 
-R13-P explicitly concludes **generator+relation compression is exact** for the declared architecture.
+### Why no Root crisis follows
 
-Anti-renaming rule: a new symbol is not a new physical principle; any new root quantity must be shown nonredundant with the frozen four-sector architecture and not absorbable into instance/boundary data.
+R14-S is already generator-resolved/global-coherent rather than CPTP-map-only. Distinct physical channels sharing endpoints remain resolved when their occurrence classes differ. Holed/physical path classes and holonomy can remain in Q; observable holonomy vetoes treating a route pair as a filled silent Cons-cell. Complete future-response equality, not reduced-channel equality, controls predictive quotienting. Conditional response enrichment is allowed through RESPONSE-ACCESSIBILITY.
 
-Hence the current carrier does **not force** a pair/higher generator merely because AF/GR would benefit from one.
+### Why C849 is not N12
 
-A new pair-sensitive elementary Ext would be legal only if independently justified as a physically distinguishable process that current Ext paths + Cons + allowed holonomy cannot represent.
+The C849 response is generated by the one-event operators themselves:
 
----
+`UV=zVU`.
 
-# 9. EXACT ACTIVE FRONTIER
+Hence the ordered phase lies in the **coherent strict-composition algebra** of existing U,V. It may disappear after a CPTP quotient, but that loss is a bad control, not evidence for an autonomous two-event vertex.
 
-## TARGET-BLIND CARRIER-INCOMPLETENESS EVIDENCE GATE
+AF must subtract the same coherent strict composition, including this phase.
 
-Stop adding candidate pair operators.
+Conceptual connected comparison:
 
-Search for independent evidence that the elementary process taxonomy is physically incomplete:
+`N12 = PROCESS_pair(actual Q) - PROCESS_pair(strict one-event coherent composition)`.
 
-1. two processes represented identically by current carrier but intervention-complete Q gives prospectively different futures;
-2. composition/naturality failure not repairable by Cons or descriptive equivalence;
-3. a local physical occurrence whose future action cannot be encoded by any current Ext generator/composite;
-4. a Q-derived boundary/inflow event with operational effect but no current carrier morphism;
-5. a non-Active43 elementary Ext demanded by target-blind structural controls.
-
-Only such evidence can justify enlarging `Ext`/`T_Ext` and assigning a new Q map without gravity target-fitting.
-
-If no such witness exists, then the present AF route has reached a genuine architecture boundary: introducing an independent pair generator is a new hypothesis to test, not a derivation from frozen TDG.
+C849 therefore gives a process-level typing PASS but an AF source FAIL.
 
 ---
 
-# 10. DOCUMENTARY LIMITS
+# 8. EXACT ACTIVE FRONTIER
+
+## IRREDUCIBLE HIGHER-ORDER PROCESS / GENERATOR-RESOLVED REPRESENTABILITY GATE
+
+Stop searching ordinary path phases or more H powers.
+
+Find a physically licensed process whose response **cannot be represented by the coherent composition of the frozen one-Ext generator family**.
+
+Legal candidate classes:
+1. a process tensor/comb/supermap requiring an independently motivated microscopic degree/type outside the one-Ext generator algebra;
+2. an actual-Q multi-event inter-fibre block not reconstructible from `U_e` + sectorwise propagation;
+3. a Q-derived boundary/inflow promotion map with operational effect not reducible to Schur/Feshbach/composition;
+4. an operational/process-consistency contradiction showing no generator-resolved representation of the current physical process is possible.
+
+Required workflow:
+- freeze full coherent one-event process algebra first;
+- demonstrate non-representability or positive normal margin target-blindly;
+- prefer enrichment within existing Q_loc rather than a fifth Root sector if logically sufficient;
+- then causal-break/direct-product-normal/held-out/naturality/coarse-graining/q²-cone;
+- only after this may AF/AC/GR-facing work resume.
+
+If no internal TDG process meets this gate, current AF route has reached a genuine architecture boundary and any irreducible pair/higher generator is a new physical hypothesis, not a derived TDG result.
+
+---
+
+# 9. DOCUMENTARY LIMITS
 
 Do not claim source-code reruns where raw archives/scripts are unavailable. Q-B759→878 remains a known documentary gap and must not be interpolated.
 
 ---
 
-# 11. SAVEPOINT POLICY
+# 10. SAVEPOINT POLICY
 
 Every stable frontier change -> Sentry checkpoint with DERIVED/ASSUMED/OPEN/NEXT, update `CURRENT_STATE.md` + this master, commit GitHub.
 
 ---
 
-# 12. ONE-LINE STATUS
+# 11. ONE-LINE STATUS
 
-**The AF search has reached the generator taxonomy of the frozen Root: Ext edges plus Cons relations are formally complete in the current carrier, Cons cells impose quantum descent/flatness rather than supply mixed dynamics, and no independent pair generator is presently licensed; further progress requires target-blind evidence that the carrier's elementary process taxonomy is physically incomplete before any new Q pair law can be introduced; Born remains NOT DERIVED and full nonlinear GR remains NOT ESTABLISHED.**
+**The frozen TDG Root already preserves coherent physical path/process information beyond ordinary CPTP equivalence, so C849-style order phases do not force a new Root sector and remain strict-composition descendants; the live AF frontier is now to find a genuinely irreducible higher-order/Q-boundary process not representable by coherent composition of the one-Ext generator family; Born remains NOT DERIVED and full nonlinear GR remains NOT ESTABLISHED.**
