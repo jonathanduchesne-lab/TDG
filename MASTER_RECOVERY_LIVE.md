@@ -9,145 +9,128 @@
 
 # 0. RESTART
 
-Read: `00_START_HERE_NEW_CONVERSATION.md` -> this file -> `CURRENT_STATE.md` -> newest Sentry checkpoints. Continue in French. GitHub is authoritative for new substantive TDG work. Do not interpolate documentary gaps.
+Read `00_START_HERE_NEW_CONVERSATION.md` -> this file -> `CURRENT_STATE.md` -> newest Sentry checkpoints. Continue in French. GitHub is authoritative for new substantive TDG work. Do not interpolate documentary gaps.
 
 ---
 
-# 1. PERMANENT FIREWALLS
+# 1. FIREWALLS
 
-Root1 frozen; `A_path` retired; global Q uncollapsed; factual ledger append-only/separate; actualisation soustractive credited to Jonathan Duchesne; Born NOT DERIVED; metric/proper duration NOT DERIVED; Lambda OPEN; O(3) FAIL/NOT CLOSED; full nonlinear GR NOT ESTABLISHED.
+Root1 frozen; `A_path` retired; global Q uncollapsed; factual ledger append-only/separate; actualisation soustractive credited to Jonathan Duchesne; Born NOT DERIVED; metric duration NOT DERIVED; Lambda OPEN; O(3) FAIL/NOT CLOSED; full nonlinear GR NOT ESTABLISHED.
 
-Never silently add preferred z, Kraus choice, occurrence register, C/K coefficients, bicharacter, clock/shift, TT/ADM/EH/tetrad/projector/gravity decoder or factual-history feedback.
-
----
-
-# 2. AF ENTRY RULE
-
-Need a Q-generated source-level `N_12(a) != 0` at microscopic PROCESS/transition level, before endpoint/readout/geometric reduction, with positive margin against strict composition/direct-product/static/common-boundary/common-final-recombination controls and stable causal-break/naturality/coarse-graining/q²-cone tests.
+No preferred z, Kraus choice, added occurrence register, fitted C/K coefficient, target projector, ADM/EH/tetrad/gravity decoder or factual-history feedback.
 
 ---
 
-# 3. DO-NOT-RE-MINE
+# 2. AF ENTRY
 
-Binding closed in tested scope: GR88, Q-B1825L payload rescue, GR5/GR6 AF promotion, GR176→179 connected remainder, Q-B1828 additive memory, GR174/EventRef same-final family, GR178 phase/D5 endpoint-mediated dependency, Q-B1822C first H3 mixed rescue, deeper grade-one H powers, history-conditioned Active43 A_e, Q-B1819M O8 simultaneous Active43 Ext, GR65 common-final cross-history coherence, constructive Q-B1010 higher-cell as if Root-selected, H130 Green blocks as sharp branches, H160 occurrence registers as minimal-Root-derived, hidden central H130 occurrence sectors and pre-existing direct B3↔B3 fast-mediator builder term.
+Need a microscopic Q-generated `N_12(a)!=0` before endpoint/readout/geometric reduction. It must survive complete matching and subtraction of one-event maps, strict composition, common-parent/Feshbach propagation, common boundary, full predictive endpoint/Hankel, `(R2,R4)` where typed and common-final recombination; then causal-break, naturality, coarse-graining and q²/common-cone controls.
 
 ---
 
-# 4. Q-B1819 PHYSICAL EXT INSTRUMENT
+# 3. CURRENT HARD CLOSURES
 
-For admissible `e:K->K'`, canonical inclusion `I:H_K->H_K'` defines novelty sector `(1-II†)H_K'` and
+Do not re-mine as AF sources: GR88; Q-B1825 enablement payload; GR5/6; GR176→179; Q-B1828 additive memory; GR174/EventRef; GR178 phase/D5 endpoint dependency; Q-B1822C first H3 arrival; deeper grade-one H powers; history-conditioned Active43 augmentation; Q-B1819M O8; GR65 common-final coherence; constructive Q-B1010 higher-cell as if Root-selected; H130 Green blocks as sharp branches; H160 occurrence registers as minimal-Root-derived; hidden H130 center/noiseless sector; direct B3↔B3 H130 mediator term; ordinary Q-B1819+H130 common-parent joint-H source.
+
+---
+
+# 4. Q-B1819 EVENT TYPING
+
+Physical Ext `e:K->K'` + canonical inclusion `I:H_K->H_K'` gives novelty sector and
 
 `A_e=(1-II†)H_K'I`.
 
-Archived scope: rank8, singular values `sqrt(3)a`, `A_e†A_e=3a²P_Te`, no extra extension coefficient. Polar decomposition gives directed Stinespring branch. Physical branch label is the carrier-changing Ext morphism itself, not a Kraus choice. Born equivariance passes; Born derivation does not.
-
-Active43 remains operator-Markov/grade-one; no hidden primitive multi-event source from deeper composition.
+This is what makes the branch physical before Kraus decomposition. Q-B1819 scope: rank8, singular values `sqrt(3)a`, `A_e†A_e=3a²P_T`, no extra extension coefficient. Active43 remains operator-Markov/grade-one.
 
 ---
 
-# 5. H130 COMMON-PARENT RESULTS
+# 5. H130 RESULTS
 
-Q-B1191: bare H130 contains a real B2-indexed four-future common-parent process sheaf; nested/direct Schur residual ~1.54e-15.
+Bare H130 has real common-parent future-process sheaf and rich internal interaction, but Green blocks are not sharp Ext branches. Interaction algebra commutant is scalar in tested H130; no hidden central occurrence algebra. Documented builder has B4 locked6D + B3 M2, B3 onsite2I and B4↔B3 incidence coupling; no independent B3↔B3 term.
 
-Q-B1192: unconditioned off-diagonal Green blocks are not sharp Ext branches; O(1) triangle-holonomy/reciprocity defects.
-
-Q-B1193/H160: explicit B2 occurrence registers make labelled future branches available, but the occurrence register is not derived from frozen minimal H/root.
-
-Q-B1086/Q-B1107: connected full-M2 interaction algebra has scalar center; actual H130 commutant nullity exactly1 at tested scales. No hidden central/noiseless occurrence sector.
-
-Q-B1102 documented builder:
-- 15 B4 locked6D cores;
-- 20 B3 M2 ports;
-- B3 onsite `2I`;
-- B4↔B3 incidence coupling `a A_f B_f`;
-- no independent direct B3↔B3 coupling family documented.
-
-Thus H130 has real common-parent transfer but lacks physical occurrence typing and a pre-existing Q-B1007-style direct mediator cross term.
-
-Checkpoints:
-- `TDG_BARE_H130_PHYSICAL_CHANNEL_PROJECTOR_MEDIATOR_TYPING_GAP_2026-09-09.md`, commit `bdc861d0...`.
-- `TDG_H130_SCALAR_COMMUTANT_DIRECT_MEDIATOR_CROSSBLOCK_NOGO_2026-09-09.md`, commit `c0c879d3...`.
+Checkpoints `bdc861d0...` and `c0c879d3...` bind this classification.
 
 ---
 
 # 6. Q-B1819 VS H130 TYPE THEOREM
 
-Checkpoint: `TDG_QB1819_VS_H130_CONFIGURATION_EXT_NOVELTY_SECTOR_TYPING_THEOREM_2026-09-09.md`, commit `322e539e...`.
+Checkpoint `322e539e...`.
 
-Minimal missing datum in H130 is not generic interaction strength or center. It is:
-
-**CONFIGURATION-CHANGING EXT MORPHISM + CANONICAL NOVELTY SECTOR.**
-
-Q-B977/R2-I says future-visible physical outcome labels remove Kraus-remix gauge but assumes labels already exist. Q-B1819 obtains them from carrier-category Ext itself. H130 B4↔B3 links remain internal fixed-carrier propagation and cannot be promoted to events by algebra alone.
+Minimal datum absent from fixed-carrier H130 is **configuration-changing Ext morphism + canonical novelty sector**. H130 internal propagation cannot become an occurrence by algebra alone.
 
 ---
 
-# 7. OTHER 2026-09-09 CLOSURES
+# 7. ACTIVE43/H130 CONSTRUCTOR COMPATIBILITY — RESOLVED
 
-- Q-B1819M O8: closed frontier but bulk incidence3 singular under Active43 Q-B1826E.
-- Q-B1453/GR62 shared-parent interference: real; GR65 common-final control -> AF margin zero.
-- Q-B1010/Q-B1011 higher-cell: coherent mathematical construction; Root-native selection remains open.
+Checkpoint:
+`checkpoints/SENTRY/2026-09-09/TDG_ACTIVE43_H130_CONSTRUCTOR_COMPATIBILITY_JOINT_H_NOGO_2026-09-09.md`
+commit `fcc0e85705c5745a4944605289b9865e5942b577`.
 
----
+Historical lineage is explicit:
 
-# 8. ACTIVE43/H130 CONSTRUCTOR COMPATIBILITY — CURRENT WALL
+1. Q-B1193 H160 retains **the same B4-B3 couplings as H130** and adds B2 occurrence registers/couplings.
+2. Q-B1577→1584 localizes persistent-H160 mixed-cut failure specifically to B3→B2→B3 coherent return, scaling ~GAM².
+3. Q-B1593→1625 official fresh process retains the **exact Hermitian B4+B3 active slice** while not reusing old B2 as a coherent return path.
+4. Q-B1818G gives exact functorial growth: `I†H_K'I=H_K`; old blocks are not rewritten and new local Q blocks appear only on new context/interface support.
 
-Recovered facts:
-
-### Fresh Active43
-- Q-B1818 applies the same fresh Active43 local Q law on every growing carrier.
-- GR143 confirms actual same-Q legal sequence 1→2→3 maximal cells with fresh four-outcome B3 context regenerated at each tip.
-- Q-B1841U: current Active43 explicitly activates B4 cores and B3 ports only; B2 sectors are exact spectators (`active↔B2=0`, B2 onsite3).
-- Q-B1701: old persistent B3↔B2 feedback was explicitly removed from official fresh Active43.
-
-### H130
-- Q-B1101/Q-B1102 is a fixed-carrier globalizer of a locked6D B4 + M2 B3 local law with explicit B4 source coefficients and incidence coupling `a A_f B_f`.
-- Q-B1152 shows strong shared-B3 dynamic-response capacity, but its B3 contexts are boundary/instance data.
-
-### Important firewall
-The two architectures share the B4/B3 stratum grammar, but **it is not yet established that the active Hamiltonian blocks/couplings are literally the same constructor**. Do not splice them by analogy.
+Therefore combining Q-B1819 Ext typing with H130-descended B4/B3 interaction is historically licensed; it is not a synthetic hybrid.
 
 ---
 
-# 9. EXACT ACTIVE FRONTIER — ACTIVE43 ↔ H130 CONSTRUCTOR-COMPATIBILITY GATE
+# 8. CONFIGURATION-LIFTED COMMON-PARENT JOINT-H — CLOSED
 
-Search the fresh Q-B1679→1700/Q-B1694 Active43 source lineage and compare directly with Q-B1102:
+### Independent square
 
-1. local B4 fibre dimension and exact local core H;
-2. B3 M2 port onsite;
-3. B4↔B3 coupling matrices / `A_f,B_f` structure;
-4. coefficients/state dependence;
-5. which persistent-return or lower-incidence sectors were removed;
-6. whether fresh Active43 is an exact restriction/descendant of the H130 B4/B3 law or only combinatorially homologous.
+For A,B both legal on K and reaching common KAB:
+- Q-B1822B: same-final composed injections are exactly identical; old Q restriction and noncollapsed embedded global state are identical; future weights identical.
+- each extension adds only new local support attached to an already-present interface.
+- if A/B share an old port, their cross influence is common-parent/internal propagation through old support, not a new novelty↔novelty builder term.
 
-If exact descendant relation is derived, open:
+Thus there is no new primitive term in the structural inclusion-exclusion defect beyond one-event local additions + common-parent propagation:
 
-## CONFIGURATION-LIFTED COMMON-PARENT NONADDITIVITY
+`Delta H_joint,new = 0`
 
-On the legal square `K`, `K+A`, `K+B`, `K+A+B`, use canonical inclusions and same law to form a common child-space structural defect
+in the documented constructor sense.
 
-`Delta H_joint = H_AB - H_A^inherited - H_B^inherited + H_K`
+### Dependent chain
 
-with exact padding/inclusions.
+If C is illegal on K and legal only after A, no legal K+C comparison exists. This is domain/enablement dependence. Q-B1825L shows that once legal, C's tested edge payload is spectator-invariant; the same-final B/C square after A has exact injection equality and zero first-arrival mixed cross term.
 
-Require a genuinely new microscopic block supported jointly by A and B, not merely final-carrier incidence, strict one-event inheritance or common-parent propagation. Nonzero survivor then faces causal-break/direct-product-normal controls. Zero/strict-composition closure closes this common-parent lift.
+Hence current fresh Active43/H130-descended law supplies no source-level primitive N12.
 
-If constructor compatibility cannot be derived from recovered sources, checkpoint that exact gap and do not create a hybrid Q.
+This is structural/documentary, not a claimed fresh raw-matrix rerun.
+
+---
+
+# 9. EXACT ACTIVE FRONTIER
+
+## ROOT-NATIVE NON-GRADE-ONE PROCESS LAW / PAIR-SENSITIVE EXT ALGEBRA
+
+Stop searching ordinary carrier-local additions and common-parent propagation.
+
+Search only for a Q/Root object whose **domain is already a pair/order/coherent composite of physical Ext morphisms** or a genuine 2-cell, with microscopic operator payload not fixed by single-Ext maps.
+
+Legal candidate classes:
+1. primitive two-Ext Cons relation with operator payload;
+2. higher/pseudonatural transformation between Ext composites;
+3. Q-derived boundary/inflow map not reducible to Schur/Feshbach composition;
+4. Root relation among `{H_alpha}` whose multiplication/composition law contains an independently derived pair-indexed term.
+
+For any candidate: freeze before geometry; subtract strict composition/common-parent/static controls; require causal-break/recovery or explicit inflow typing; then naturality/coarse-graining/q²-cone.
 
 ---
 
 # 10. DOCUMENTARY LIMITS
 
-Raw Q-B1191→1204 and Q-B1101→1116 repro source scripts are not currently exposed in Library; detailed deltas/recoveries and SHA sidecars are available. Do not claim fresh source-code reruns where none occurred. Historical Q-B759→878 remains a known documentary gap and must not be interpolated.
+Do not claim source-code reruns where raw archives/scripts are unavailable. Q-B759→878 remains a known documentary gap; do not interpolate it.
 
 ---
 
 # 11. SAVEPOINT POLICY
 
-Every stable frontier change: append Sentry checkpoint with DERIVED/ASSUMED/OPEN/NEXT, update `CURRENT_STATE.md` and this master, commit GitHub.
+Every stable frontier change -> Sentry checkpoint with DERIVED/ASSUMED/OPEN/NEXT, update `CURRENT_STATE.md` + this master, commit GitHub.
 
 ---
 
 # 12. ONE-LINE STATUS
 
-**Q-B1819 supplies physical configuration-changing Ext typing; H130 supplies rich common-parent interaction but no intrinsic occurrence instrument, no hidden center and no documented direct B3 mediator cross term; the exact current question is whether fresh Active43's active B4/B3 Hamiltonian is literally the same/descended local law as H130, which would license a configuration-lifted two-event `Delta H_joint` audit without inventing a hybrid theory; Born remains NOT DERIVED and full nonlinear GR remains NOT ESTABLISHED.**
+**The natural bridge combining Q-B1819's physically typed carrier-changing events with H130's rich common-parent interaction is historically legitimate but still resolves into one-event local additions plus common-parent propagation or enablement, so the next AF search must target a genuinely Root-native non-grade-one pair-sensitive process/higher-cell law; Born remains NOT DERIVED and full nonlinear GR remains NOT ESTABLISHED.**
