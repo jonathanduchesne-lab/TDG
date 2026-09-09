@@ -17,111 +17,172 @@ Read `00_START_HERE_NEW_CONVERSATION.md` -> this file -> `CURRENT_STATE.md` -> n
 
 Root1 frozen; `A_path` retired; global Q uncollapsed; factual ledger append-only/separate; actualisation soustractive credited to Jonathan Duchesne; Born NOT DERIVED; metric duration NOT DERIVED; Lambda OPEN; O(3) FAIL/NOT CLOSED; full nonlinear GR NOT ESTABLISHED.
 
-No preferred z, Kraus choice, added occurrence register, fitted C/K coefficient, target projector, ADM/EH/tetrad/gravity decoder or factual-history feedback.
+No preferred z, Kraus choice, added occurrence/pair register, fitted C/K coefficient, target projector, ADM/EH/tetrad/gravity decoder or factual-history feedback.
 
 ---
 
 # 2. AF ENTRY
 
-Need a microscopic Q-generated `N_12(a)!=0` before endpoint/readout/geometric reduction. It must survive complete matching and subtraction of one-event maps, strict composition, common-parent/Feshbach propagation, common boundary, full predictive endpoint/Hankel, `(R2,R4)` where typed and common-final recombination; then causal-break, naturality, coarse-graining and q²/common-cone controls.
+Need a microscopic Q-generated `N_12(a)!=0` before endpoint/readout/geometric reduction. It must survive matching/subtraction of one-event maps, strict composition, common-parent/Feshbach propagation, common boundary, full predictive endpoint/Hankel, `(R2,R4)` where typed and common-final recombination; then causal-break, naturality, coarse-graining and q²/common-cone controls.
 
 ---
 
-# 3. CURRENT HARD CLOSURES
+# 3. HARD CLOSURES
 
-Do not re-mine as AF sources: GR88; Q-B1825 enablement payload; GR5/6; GR176→179; Q-B1828 additive memory; GR174/EventRef; GR178 phase/D5 endpoint dependency; Q-B1822C first H3 arrival; deeper grade-one H powers; history-conditioned Active43 augmentation; Q-B1819M O8; GR65 common-final coherence; constructive Q-B1010 higher-cell as if Root-selected; H130 Green blocks as sharp branches; H160 occurrence registers as minimal-Root-derived; hidden H130 center/noiseless sector; direct B3↔B3 H130 mediator term; ordinary Q-B1819+H130 common-parent joint-H source.
+Do not re-mine as AF sources:
 
----
-
-# 4. Q-B1819 EVENT TYPING
-
-Physical Ext `e:K->K'` + canonical inclusion `I:H_K->H_K'` gives novelty sector and
-
-`A_e=(1-II†)H_K'I`.
-
-This is what makes the branch physical before Kraus decomposition. Q-B1819 scope: rank8, singular values `sqrt(3)a`, `A_e†A_e=3a²P_T`, no extra extension coefficient. Active43 remains operator-Markov/grade-one.
-
----
-
-# 5. H130 RESULTS
-
-Bare H130 has real common-parent future-process sheaf and rich internal interaction, but Green blocks are not sharp Ext branches. Interaction algebra commutant is scalar in tested H130; no hidden central occurrence algebra. Documented builder has B4 locked6D + B3 M2, B3 onsite2I and B4↔B3 incidence coupling; no independent B3↔B3 term.
-
-Checkpoints `bdc861d0...` and `c0c879d3...` bind this classification.
-
----
-
-# 6. Q-B1819 VS H130 TYPE THEOREM
-
-Checkpoint `322e539e...`.
-
-Minimal datum absent from fixed-carrier H130 is **configuration-changing Ext morphism + canonical novelty sector**. H130 internal propagation cannot become an occurrence by algebra alone.
+- GR88;
+- Q-B1825 enablement payload;
+- GR5/6;
+- GR176→179;
+- Q-B1828 additive memory;
+- GR174/EventRef;
+- GR178 phase/D5 endpoint dependency;
+- Q-B1822C first H3 arrival;
+- deeper grade-one H powers;
+- history-conditioned Active43 augmentation;
+- Q-B1819M O8;
+- GR65 common-final coherence;
+- constructive Q-B1010 higher-cell as if Root-selected;
+- H130 Green blocks as sharp branches;
+- H160 occurrence registers as minimal-Root-derived;
+- hidden H130 center/noiseless sector;
+- direct B3↔B3 H130 mediator term;
+- ordinary Q-B1819+H130 joint-H source;
+- frozen filled Cons 2-cell as if it carried a nonzero pair operator;
+- Q-B161 `C_{j|i}` as if Cons had selected that pair law;
+- assuming current R13-P already contains an independent pair/cell Q generator.
 
 ---
 
-# 7. ACTIVE43/H130 CONSTRUCTOR COMPATIBILITY — RESOLVED
+# 4. Q-B1819 / H130 BRIDGE — CLOSED
 
-Checkpoint:
-`checkpoints/SENTRY/2026-09-09/TDG_ACTIVE43_H130_CONSTRUCTOR_COMPATIBILITY_JOINT_H_NOGO_2026-09-09.md`
-commit `fcc0e85705c5745a4944605289b9865e5942b577`.
+Q-B1819 physical event typing comes from configuration-changing `Ext e:K->K'`, canonical inclusion `I`, novelty sector and `A_e=(1-II†)H_K'I`.
 
-Historical lineage is explicit:
+H130 supplies rich common-parent B4/B3 interaction but no intrinsic occurrence instrument, hidden center or direct B3↔B3 source.
 
-1. Q-B1193 H160 retains **the same B4-B3 couplings as H130** and adds B2 occurrence registers/couplings.
-2. Q-B1577→1584 localizes persistent-H160 mixed-cut failure specifically to B3→B2→B3 coherent return, scaling ~GAM².
-3. Q-B1593→1625 official fresh process retains the **exact Hermitian B4+B3 active slice** while not reusing old B2 as a coherent return path.
-4. Q-B1818G gives exact functorial growth: `I†H_K'I=H_K`; old blocks are not rewritten and new local Q blocks appear only on new context/interface support.
+Historical constructor compatibility is real:
 
-Therefore combining Q-B1819 Ext typing with H130-descended B4/B3 interaction is historically licensed; it is not a synthetic hybrid.
+- H160 keeps the same B4-B3 couplings as H130 and adds B2 registers;
+- persistent-H160 defect is B3→B2→B3 return;
+- fresh official process keeps exact Hermitian B4+B3 slice;
+- Q-B1818G gives exact old-block retention/local new support.
+
+Yet independent two-event squares remain local additions + common-parent propagation, and dependent chains remain enablement without new post-legal payload. Checkpoint `fcc0e857...` closes this route.
 
 ---
 
-# 8. CONFIGURATION-LIFTED COMMON-PARENT JOINT-H — CLOSED
+# 5. FROZEN ROOT CONS SEMANTICS — FLATNESS, NOT PAIR DYNAMICS
 
-### Independent square
+Checkpoint `e4c682ad...`.
 
-For A,B both legal on K and reaching common KAB:
-- Q-B1822B: same-final composed injections are exactly identical; old Q restriction and noncollapsed embedded global state are identical; future weights identical.
-- each extension adds only new local support attached to an already-present interface.
-- if A/B share an old port, their cross influence is common-parent/internal propagation through old support, not a new novelty↔novelty builder term.
+R13-P:
 
-Thus there is no new primitive term in the structural inclusion-exclusion defect beyond one-event local additions + common-parent propagation:
+`Omega_rel^pres=(Conf,Ext,Cons,~_desc)`.
 
-`Delta H_joint,new = 0`
+For `Cons_C({e,f})`, two admissible orders bound a physical 2-cell. But
 
-in the documented constructor sense.
+`Pi_rel^-> = Path(Ext) / <Cons-cells,~_desc>`.
 
-### Dependent chain
+A filled Cons-cell identifies the two route classes. Quantum descent requires
 
-If C is illegal on K and legal only after A, no legal K+C comparison exists. This is domain/enablement dependence. Q-B1825L shows that once legal, C's tested edge payload is spectator-invariant; the same-final B/C square after A has exact injection equality and zero first-arrival mixed cross term.
+`Qbar([gamma1])=Qbar([gamma2])`
 
-Hence current fresh Active43/H130-descended law supplies no source-level primitive N12.
+as physical processes; any projective lift is flat on the filled cell (`exp(i Phi_cell)=1`).
 
-This is structural/documentary, not a claimed fresh raw-matrix rerun.
+Thus frozen Cons is higher relational compatibility/coherence and path identification, not an independently Q-valued mixed transition vertex.
+
+Observable nontrivial holonomy on a declared filled cell would falsify that cell assignment or require richer semantics.
+
+---
+
+# 6. Q-B161→164 — CONS CONSTRAINS, Q SELECTS
+
+Checkpoint `d9d9ce07...`.
+
+Q-B161 exact Cons-square relation:
+
+`C_{j|i}-C_{i|j}+[A_j,A_i]=0`.
+
+Historical classification is CONS NO-GO: Cons constrains the curvature/commutator combination but does not select pair couplings.
+
+Q-B162: higher-Cons compatibility alone can coexist with different local dynamics; no unique pair/exponent selection.
+
+Q-B163: root-native refinement must come from actual restriction of the same full Q process.
+
+Q-B164: **Q/refinement selects; Cons transports/solders.**
+
+No later recovered artifact promotes the Q-B161 pair symbols to a Root/current-Q physical ordered transition law. Q-B988→1000 C/K remains constructive.
+
+---
+
+# 7. R13-P Q_loc GENERATOR TAXONOMY
+
+Checkpoint `5af4c446...`.
+
+`Ext` is explicitly the set of elementary admissible configuration extensions.
+
+R13-P §4.5 says the directed path category is presented by generators + Cons-relations, and
+
+`Q_Omega ~ {Q_t}_{t in T_Ext} + positive boundary/state data + allowed holonomy/gauge`.
+
+Therefore current `Q_loc` is specified on elementary Ext generator types and extended compositionally subject to Cons relations. No independent pair/cell generator family is listed.
+
+A primitive `Q_(e,f)` would therefore require:
+
+1. a real derivation from existing `Q_t` that escapes all current composition closures; or
+2. discovery that a new elementary physical process type is missing from `T_Ext`; or
+3. an explicit microscopic Root/Q_loc enrichment.
+
+Option 3 is new physical-law content and may not be sold as a consequence of current TDG.
+
+Allowed holonomy on holed/noncontractible route classes remains distinct global/topological data and is not automatically a local AF pair source.
+
+---
+
+# 8. CURRENT CARRIER COMPLETENESS / ANTI-TARGET-FIT
+
+Checkpoint `4b8c83b9...`.
+
+By current formal definition:
+
+`Pi_rel^-> = Path(Ext)/<Cons-cells,~_desc>`.
+
+Thus all represented relational morphisms are Ext-path classes modulo relations. Higher Cons cells add coherence/relations, not elementary quantum generators.
+
+R13-P explicitly concludes **generator+relation compression is exact** for the declared architecture.
+
+Anti-renaming rule: a new symbol is not a new physical principle; any new root quantity must be shown nonredundant with the frozen four-sector architecture and not absorbable into instance/boundary data.
+
+Hence the current carrier does **not force** a pair/higher generator merely because AF/GR would benefit from one.
+
+A new pair-sensitive elementary Ext would be legal only if independently justified as a physically distinguishable process that current Ext paths + Cons + allowed holonomy cannot represent.
 
 ---
 
 # 9. EXACT ACTIVE FRONTIER
 
-## ROOT-NATIVE NON-GRADE-ONE PROCESS LAW / PAIR-SENSITIVE EXT ALGEBRA
+## TARGET-BLIND CARRIER-INCOMPLETENESS EVIDENCE GATE
 
-Stop searching ordinary carrier-local additions and common-parent propagation.
+Stop adding candidate pair operators.
 
-Search only for a Q/Root object whose **domain is already a pair/order/coherent composite of physical Ext morphisms** or a genuine 2-cell, with microscopic operator payload not fixed by single-Ext maps.
+Search for independent evidence that the elementary process taxonomy is physically incomplete:
 
-Legal candidate classes:
-1. primitive two-Ext Cons relation with operator payload;
-2. higher/pseudonatural transformation between Ext composites;
-3. Q-derived boundary/inflow map not reducible to Schur/Feshbach composition;
-4. Root relation among `{H_alpha}` whose multiplication/composition law contains an independently derived pair-indexed term.
+1. two processes represented identically by current carrier but intervention-complete Q gives prospectively different futures;
+2. composition/naturality failure not repairable by Cons or descriptive equivalence;
+3. a local physical occurrence whose future action cannot be encoded by any current Ext generator/composite;
+4. a Q-derived boundary/inflow event with operational effect but no current carrier morphism;
+5. a non-Active43 elementary Ext demanded by target-blind structural controls.
 
-For any candidate: freeze before geometry; subtract strict composition/common-parent/static controls; require causal-break/recovery or explicit inflow typing; then naturality/coarse-graining/q²-cone.
+Only such evidence can justify enlarging `Ext`/`T_Ext` and assigning a new Q map without gravity target-fitting.
+
+If no such witness exists, then the present AF route has reached a genuine architecture boundary: introducing an independent pair generator is a new hypothesis to test, not a derivation from frozen TDG.
 
 ---
 
 # 10. DOCUMENTARY LIMITS
 
-Do not claim source-code reruns where raw archives/scripts are unavailable. Q-B759→878 remains a known documentary gap; do not interpolate it.
+Do not claim source-code reruns where raw archives/scripts are unavailable. Q-B759→878 remains a known documentary gap and must not be interpolated.
 
 ---
 
@@ -133,4 +194,4 @@ Every stable frontier change -> Sentry checkpoint with DERIVED/ASSUMED/OPEN/NEXT
 
 # 12. ONE-LINE STATUS
 
-**The natural bridge combining Q-B1819's physically typed carrier-changing events with H130's rich common-parent interaction is historically legitimate but still resolves into one-event local additions plus common-parent propagation or enablement, so the next AF search must target a genuinely Root-native non-grade-one pair-sensitive process/higher-cell law; Born remains NOT DERIVED and full nonlinear GR remains NOT ESTABLISHED.**
+**The AF search has reached the generator taxonomy of the frozen Root: Ext edges plus Cons relations are formally complete in the current carrier, Cons cells impose quantum descent/flatness rather than supply mixed dynamics, and no independent pair generator is presently licensed; further progress requires target-blind evidence that the carrier's elementary process taxonomy is physically incomplete before any new Q pair law can be introduced; Born remains NOT DERIVED and full nonlinear GR remains NOT ESTABLISHED.**
