@@ -47,7 +47,8 @@ Retain as closed in tested scope:
 - GR178 D5 `5→6` sequential incidence dependency as AF: endpoint-mediated/Markov;
 - Ext-Hankel as nonendpoint AF residual: closed; Hankel defines predictive state;
 - Q-B1822C first `H^3` two-fact arrival as AF mixed source: orthogonal direct sum, cross term zero;
-- all higher `H_conf^n` / analytic `f(H_conf)` rescues inside the same grade-one configuration-Q architecture: exact one-event/composition closure.
+- all higher `H_conf^n` / analytic `f(H_conf)` rescues inside the same grade-one configuration-Q architecture: exact one-event/composition closure;
+- Active43/Q-B1819 as a source of hidden nonendpoint second-morphism history dependence: carrier-determined/operator-Markov in its declared scope.
 
 ---
 
@@ -63,18 +64,16 @@ Distinct physical channels sharing endpoints remain separately resolved if the o
 
 Q-B972 remains binding only against **unconditioned generic channel -> arbitrary unique sharp branch**. Kraus fine-graining cannot be chosen by hand.
 
+Root is not proven to be exhausted by Active43 one-new-fact/four-slot extensions.
+
 ---
 
-# 5. MAJOR RECLASSIFICATION — Q-B1819 ALREADY REALIZES A PHYSICAL EXTENSION INSTRUMENT
+# 5. Q-B1819 ALREADY REALIZES A PHYSICAL EXTENSION INSTRUMENT
 
 Checkpoint:
 `checkpoints/SENTRY/2026-09-08/TDG_QB1819_QB1822_INSTRUMENT_REALIZATION_RECLASSIFICATION_2026-09-08.md`.
 
-The old live statement “current RefinedQ has no physical instrument” was too broad.
-
-## Q-B1819A canonical extension channel
-
-For every admissible physical extension `e: K -> K'`, define from the SAME Q
+For every admissible physical extension `e: K -> K'`, Q-B1819A defines from the SAME Q
 
 `A_e = (1 - I I†) H_{K'} I`.
 
@@ -86,189 +85,139 @@ Archived tests over 110 extensions:
 - channel-normalized singular spectrum stable to `<5e-16`;
 - no new extension coupling coefficient.
 
-Classification: **Q-NATIVE CARRIER-AUGMENTATION CHANNEL = EXACT/STRONG PASS.**
-
-## Q-B1819F canonical extension-resolved Stinespring instrument
-
-Let `W_e` be the polar partial isometry of `A_e`. The atemporal instrument uses
-
-`K_e=(1/sqrt2) W_e P_Te`,
-
-`K_0=I-P_boundary`,
-
-with
-
-`K_0†K_0 + sum_e K_e†K_e = I`
-
-exactly to numerical floor. Conditioned extension probabilities reproduce FP relative interface-support weights exactly.
-
-The branch label `e` is a physical admissible carrier extension and `W_e` is canonically tied to Q-native `A_e`; this is not an arbitrary Kraus remix.
+Q-B1819F uses the polar partial isometry `W_e` to construct the exact atemporal extension-resolved Stinespring instrument, with conditional branch weights matching FP/interface support.
 
 Therefore:
 
 **Q-NATIVE PHYSICAL EXTENSION INSTRUMENT = REALIZED IN THE Q-B1819 SCOPE.**
 
-This does not establish a connected two-event instrument or all Root channel classes.
-
-## Born firewall
-
-Q-B1819G gives configuration-sector Born equivariance/continuity under frozen FP/NEF. It does **not** derive Born from more primitive TDG content. Born remains NOT DERIVED.
+Q-B1819G establishes Born equivariance under frozen FP/NEF, not Born derivation.
 
 ---
 
-# 6. Q-B1822 — SAME-Q MULTISTEP PROPAGATION IS REAL
+# 6. Q-B1822 — SAME-Q MULTISTEP PROPAGATION IS REAL BUT FIRST MIXED RESCUE FAILS
 
-## Q-B1822A ready diagnostic
+Q-B1822C constructs one merged configuration-Q on `K`, `K+A`, `K+B`, `K+A+B`.
 
-Raw sequential Stinespring maps need internal Q transfer because first augmentation lands in new B4-core degrees while next augmentation reads frontier B3 ports.
+First root→two-fact arrival:
 
-Same child-Q diagnostic:
-
-`C_e=P_boundary H_{K'} W_e^ext`.
-
-It has rank8 and nontrivial two-order mismatch (~0.6954 relative; overlap ~0.7582), but `|C_e|` is nontrivial. Stripping it and promoting only the polar part as dynamics is not licensed.
-
-Classification: **CANONICAL DIAGNOSTIC / NOT NEW LAW.**
-
-## Q-B1822B exact predictive quotient
-
-For independent A/B orders reaching the same final labelled carrier:
-
-- composed injections identical, residual 0;
-- restricted old-Q identical;
-- embedded separating global state identical;
-- future interface-support weights identical, maxdiff 0;
-- factual ledger may retain order.
-
-Feeding factual branch poststate back as next global Q state is an exact fail; noncollapsed functorial embedding must be used.
-
-## Q-B1822C merged global Q
-
-Four carrier sectors:
-
-`K`, `K+A`, `K+B`, `K+A+B`.
-
-The first nonzero root→two-fact block is
-
-`P_AB H_conf^3 P_0`
-
-`= R_A + R_B`
+`P_AB H_conf^3 P_0 = R_A + R_B`
 
 `= V_AB,A H_A V_A,0 + V_AB,B H_B V_B,0`,
 
-with decomposition residual 0 and exact regulator scaling `a^3`.
+with exact decomposition and `a^3` scaling.
 
-Thus **SAME GLOBAL Q -> SUCCESSIVE FACTUAL-SECTOR PROPAGATION = STRONG EXACT FINITE PASS.** No extra fundamental transport law is required.
+But Q-B1819I gives orthogonal distinct incoming-parent sectors:
 
----
+`ran(V_AB,A) ⟂ ran(V_AB,B)`, hence `R_A†R_B=0`.
 
-# 7. WHY THE a^3 TWO-FACT AMPLITUDE IS NOT N12
+Thus first arrival is a direct orthogonal sum, not coherent mixed route interference.
 
-Later Sentry checkpoint:
-`TDG_QB1822C_AF_ORTHOGONAL_ROUTE_NOGO_2026-09-07.md`.
-
-Q-B1819 incoming-parent sectors are orthogonal, so
-
-`ran(V_AB,A) ⟂ ran(V_AB,B)`
-
-and
-
-`V_AB,A† V_AB,B=0`.
-
-Therefore
-
-`R_A†R_B=0`
-
-and
-
-`||(R_A+R_B)psi||^2=||R_A psi||^2+||R_B psi||^2`.
-
-The first `H^3` arrival is a **direct orthogonal sum**, not coherent A/B route interference. Matched same-final predictive data are also identical by Q-B1822B.
-
-Classification:
-
-**Q-B1822C FIRST-ARRIVAL a^3 -> AF N12 = CLOSED / ZERO MIXED COHERENT MARGIN.**
+The grade-one analytic closure theorem then closes deeper powers/analytic functions of the same architecture as a source of a new primitive mixed vertex.
 
 ---
 
-# 8. HIGHER POWERS OF THE SAME GRADE-ONE Q CANNOT RESCUE IT
+# 7. ACTIVE43/Q-B1819 CARRIER-DETERMINED OPERATOR-MARKOV THEOREM
 
-`TDG_AF_GRADE1_ANALYTIC_CLOSURE_NOGO_2026-09-04.md` proves that every squarefree mixed coefficient of every `H_conf^n` is exactly a sum of legal event orders with existing one-event augmentation blocks interleaved with diagonal sector-Q powers.
+Checkpoint:
+`checkpoints/SENTRY/2026-09-08/TDG_ACTIVE43_QB1819_CARRIER_DETERMINED_OPERATOR_MARKOV_NOGO_2026-09-08.md`.
 
-Schematically:
+The Q-B1819 extension operator is
 
-`J_k^(n)=sum_pi sum_r D_T^rk U_pi_k ... U_pi_1 D_root^r0`.
+`A_e(K)=(1-I_e I_e†) H_{K_e} I_e`.
 
-Independent and dependent verifier cases agree with maximum relative residual `2.2270749210929802e-15`.
+Its arguments are the current parent carrier, the child carrier, the canonical inclusion and the child Q generator. There is no separate realized-history/ledger argument.
 
-The theorem extends termwise to analytic `f(H_conf)` on its convergence domain.
+Exact functoriality:
 
-Therefore do not search `H^4`, `H^5`, `H^7`, `H^11` or another analytic readout of the SAME grade-one architecture for a new primitive mixed vertex.
+`I† H_{K'} I = H_K`.
 
-This does not close a new Q architecture with an independently derived inter-channel/higher cell.
+Old Q blocks are therefore not rewritten by extension; new local Q support is added on the new interface/context sector.
+
+Consequently, inside this architecture:
+
+`same complete current carrier + same physical legal extension -> same Q-native augmentation operator`.
+
+If histories arrive at the same complete carrier/predictive state, they cannot make a later `A_f` differ without introducing a new history-feedback law. If carriers differ, an `A_f` difference is a carrier/context difference until a matched-control survivor is demonstrated.
+
+Q-B1825 provides an explicit causally dependent test: A genuinely enables C, but once C is legal its augmentation payload is spectator-invariant; the subsequent B/C first-arrival cross term remains zero.
+
+Combined with grade-one closure, this closes the current Active43/Q-B1819 architecture as a stand-alone route to a nonendpoint connected `N12`.
+
+This is scoped, not a global Root theorem.
 
 ---
 
-# 9. FAST-MEDIATOR MECHANISM — STILL THE RIGHT MICROSCOPIC TEMPLATE
+# 8. ROOT NON-ACTIVE43 EXT REALIZATION GAP
 
-Q-B1007:
+Checkpoint:
+`checkpoints/SENTRY/2026-09-08/TDG_ROOT_NONACTIVE43_EXT_REALIZATION_GAP_2026-09-08.md`.
+
+Q-B1826 explicitly warns that frozen Root does not prove every elementary `Ext` belongs to Active43 one-new-fact/four-slot growth.
+
+Q-B1819M identifies the exact combinatorial underselection beyond the minimal m=1 update. With `m` simultaneously new facts, candidate four-contexts split into inequivalent S4 orbits:
+
+- `m=1`: `4`;
+- `m=2`: `8 + 6`;
+- `m=3`: `12 + 18 + 4`;
+- `m=4`: `16 + 36 + 16 + 1`.
+
+Therefore `m=1` is uniquely minimal without an additional orbit-selection rule. This is a parsimony result, not an ontological proof that `m>=2` is forbidden.
+
+A targeted archive audit found no concrete Q-derived:
+
+- simultaneous/multi-fact physical extension channel;
+- selector/coupling between the `m=2` orbit sectors `8` and `6`;
+- non-Active43 elementary `Ext` realization;
+- higher multi-event inter-fibre block outside the existing edge algebra.
+
+The early centralizer-center proposal is only an old reconstruction/prior-art idea and was never promoted as a derived physical Q selector.
+
+Thus the live obstacle is a **Root-allowed but not yet microscopically instantiated extension architecture**.
+
+---
+
+# 9. FAST-MEDIATOR TEMPLATE
+
+Q-B1007 remains the clean minimal template:
 
 - independent mediators `D1⊕D2` -> exact additive Feshbach self-energy;
 - genuine mediator cross-coupling `O(a)` -> irreducible nonadditivity ~`a^3`;
-- cross-coupling `O(a^2)` -> ~`a^4`.
+- genuine cross-coupling `O(a^2)` -> ~`a^4`.
 
-The new Q-B1819/Q-B1822 audit changes the interpretation:
-
-- physical extension channels and a canonical instrument **are already realized**;
-- same-Q multistep `a^3` propagation **is already realized**;
-- but the first `a^3` two-route term is orthogonal/direct-sum, not the Q-B1007-style irreducible cross-channel coupling.
-
-H130 Green blocks remain non-sharp; H160 occurrence register and Q-B1842 lower-incidence leg remain non-Root-derived enrichments in their relevant scopes.
+Q-B1819/Q-B1822 show that physical channels and same-Q multistep propagation exist, but current Active43 routes remain orthogonal/compositional rather than an irreducible Q-B1007-style cross-channel block.
 
 ---
 
-# 10. CURRENT WALL — MUCH NARROWER THAN BEFORE
+# 10. EXACT ACTIVE FRONTIER
 
-The missing object is no longer “an instrument”.
+Highest-value next gate:
 
-Need a **connected branch-conditioned second-transition law**.
+## UNSELECTED m=2 ROOT-ALLOWED EXT ORBIT AUDIT
 
-Strongest form:
+Start from the full candidate `m=2` four-context space with its `8 ⊕ 6` S4 orbit decomposition and **do not choose an orbit**.
 
-`A_f^(after e) = A_f^(matched control) + N_ef`,
+Use only already-earned pretarget Q/Cons/intervention-complete structures to ask:
 
-with
+1. does Q act differently on the `8` and `6` orbit sectors in a basis-independent way?
+2. does Q generate a canonical coupling, selector or quotient between them?
+3. is any distinction predictive/operational rather than presentation gauge?
+4. if a physical two-fact channel is selected, does its inter-fibre operator differ irreducibly from strict composition of two `m=1` channels?
+5. does that residual survive complete carrier/predictive-state matching and causal-break/recovery?
 
-`N_ef != 0`
+No gravity target, orbit choice, coefficient, Kraus choice or factual-ledger feedback may be inserted.
 
-after matching full predictive endpoint/current carrier/common boundary/support/enabled-set/one-event maps.
+If Q remains degenerate across the allowed orbit sectors, classify the m=2 elementary channel as underdetermined and move to coherent higher/pseudonatural cells or boundary/inflow realizations.
 
-The first event must change the **second operator/morphism itself**, not merely:
+Other legal openings:
 
-- whether it is legal;
-- endpoint carrier/incidence;
-- response geometry;
-- factual order label.
-
-Then causal-break/recovery must change/remove the same residual.
-
----
-
-# 11. EXACT ACTIVE FRONTIER
-
-Priority order:
-
-1. **Dependent/comparable/overlapping extension pairs**: inspect the actual Q-native second augmentation block `A_f^(after e)` and compare to complete matched control.
-2. Q-B1825 lineage is the natural first audit. Known Q-B1825L already says A<C legality is real but once C is legal its payload is spectator-invariant; search adjacent/upstream source definitions for any stronger operator change.
-3. If no operator-conditioned pair exists inside Active43, search a **non-grade-one Q-derived inter-channel block** not algebraically generated by existing one-event U_e + diagonal D_S.
-4. Alternative legal opening: globally composable higher/pseudonatural cell carrying an ordered residual that survives the predictive quotient.
-5. Alternative: independently Q-derived boundary/inflow promotion law with positive common-boundary margin.
-
-Do not use factual-ledger order as feedback into predictive Q.
+- independently Q-derived non-grade-one inter-channel block;
+- globally composable higher/pseudonatural process cell;
+- Q-derived boundary/inflow promotion law.
 
 ---
 
-# 12. DO-NOT-RE-MINE
+# 11. DO-NOT-RE-MINE
 
 Do not present as new AF evidence:
 
@@ -276,24 +225,26 @@ Do not present as new AF evidence:
 - GR176→179 D4 cocycle;
 - GR178 D5 incidence `5→6` while endpoints differ;
 - Q-B1828 additive residues;
-- GR174/EventRef C8+ all-z current-carrier family;
+- GR174/EventRef C8+ current-carrier family;
 - passive occurrence/history labels;
 - arbitrary Kraus branch choice;
 - Q-B990 C/K as Root-derived;
 - H130 Green blocks as sharp branches;
 - H160 occurrence register or Q-B1842 generic lower-incidence leg as Root-derived;
 - Q-B1822A polar ready diagnostic as dynamics;
-- Q-B1822C first `H^3` two-route sum as coherent mixed source;
-- any deeper `H_conf^n`/analytic readout inside the same grade-one architecture as a new primitive vertex.
+- Q-B1822C first `H^3` sum as coherent mixed source;
+- deeper `H_conf^n` inside the same grade-one architecture;
+- history-conditioned Active43 augmentation at a fixed carrier;
+- analyst selection of the m=2 `8` or `6` orbit.
 
 ---
 
-# 13. SAVEPOINT POLICY
+# 12. SAVEPOINT POLICY
 
 Every stable frontier change: append Sentry checkpoint with DERIVED/ASSUMED/OPEN/NEXT, add repro/provenance where useful, update `CURRENT_STATE.md` and this master, commit GitHub.
 
 ---
 
-# 14. ONE-LINE STATUS
+# 13. ONE-LINE STATUS
 
-**Strong retained-memory/effective-history core retained; Q-B1858L historical FINAL-CERTIFIED unchanged; Q-B1819 already provides canonical Q-native physical extension channels and an exact extension-resolved Stinespring instrument; Q-B1822C already provides real same-global-Q multistep propagation with first two-fact amplitude at `a^3`; however those first-arrival routes are orthogonal/direct-sum and the grade-one analytic closure theorem prevents higher powers of the same architecture from generating a new primitive mixed vertex; the live frontier is therefore a dependent/comparable Q-native second-transition operator `A_f^(after e)` or a genuinely non-grade-one inter-channel/higher cell with nonzero connected residual and causal-break margin; Born remains independently NOT DERIVED and full nonlinear GR remains NOT ESTABLISHED.**
+**Strong retained-memory/effective-history core retained; Q-B1858L historical FINAL-CERTIFIED unchanged; Q-B1819 already realizes a canonical Q-native extension instrument and Q-B1822 realizes real same-Q multistep propagation, but Active43/Q-B1819 is now closed as carrier-determined/operator-Markov and the grade-one edge algebra cannot yield the missing nonendpoint primitive `N12`; frozen Root remains broader than Active43, with `m=2` exposing an unselected `8⊕6` S4 extension space, but no Q-native selector/coupling/non-Active43 physical Ext realization has yet been recovered; the exact live frontier is therefore a target-blind Q/Cons audit of that unselected m=2 orbit space or another independently Q-derived higher/inter-channel law; Born remains independently NOT DERIVED and full nonlinear GR remains NOT ESTABLISHED.**
