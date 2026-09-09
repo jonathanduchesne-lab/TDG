@@ -38,6 +38,7 @@ Nouveaux :
 - `TDG_COHERENT_CONTROL_PROCESS_LEVEL_CODOMAIN_NOT_NEW_AF_VERTEX_2026-09-09.md` — commit `a42e9fcfe809559f2c951571f229db1abb23295a`.
 - `TDG_COHERENT_ORDER_SUPERPOSITION_NOT_FORCED_PAIR_VERTEX_2026-09-09.md` — commit `8bd4b460d4ed8bbeac92d56429c357ff6eb38516`.
 - `TDG_BOUNDARY_INFLOW_CANDIDATE_CLASSIFICATION_NO_IRREDUCIBLE_AF_SOURCE_2026-09-09.md` — commit `79ca7df55ab252e99bf5c97fbe3c3f545717caa3`.
+- `TDG_GR62_WHOLE_CUT_UPDATE_RETYPED_BY_QB1822_FUNCTORIAL_GLOBALQ_2026-09-09.md` — commit `bab5712f633568a84ee26360f0681a635ef1fd6c`.
 
 ## Coherent-control / higher-order rescue — fermé comme source automatique
 
@@ -55,34 +56,62 @@ Quatre classes ont été auditées :
 
 1. **Q-B1715 boundary self-energy** : vrai terme microscopique `O(a^4)` nouveau/opérateur, mais exactement un Schur hidden-bulk/common-boundary shadow dans la source auditée; marge AF nulle contre le contrôle matched.
 2. **Q-B1835 / T1R2 / archive-history sectors** : information interne/verticale réelle, mais aucune promotion Q-native dérivée vers le prochain processus prédictif. Les renommer “inflow” serait un ajout de loi.
-3. **GR61/62/63 shared occurrence -> whole cut** : vraie interférence current-Q, recombine-before-record et occurrence CP; mais whole-cut update non unique. GR63 conserve exact CP uniqueness FAIL malgré une forte localisation/héritage partiel.
-4. **Q-B1819 reconciliation** : dans Active43, un vrai instrument one-Ext est finalement dérivé par `A_e=(1-II†)H_K'I`; cela résout une partie du vieux typing d'occurrence mais retombe dans la classe carrier-determined/grade-one déjà fermée par Q-B1822/analytic closure/Q-B1825.
+3. **GR61/62/63 shared occurrence -> whole cut** : vraie interférence current-Q, recombine-before-record et occurrence CP; plusieurs stage laws naturelles et inequivalentes montrent que choisir une branche CP comme whole-cut update est non unique.
+4. **Q-B1819 reconciliation** : un vrai instrument one-Ext est dérivé par `A_e=(1-II†)H_K'I`; cela résout le typing d'occurrence comme carrier extension, puis retombe dans la classe carrier-determined/grade-one fermée par Q-B1822/analytic closure/Q-B1825.
 
-Donc aucun **irreducible Q-generated boundary/inflow source** n'est récupéré : les candidats sont Schur-réductibles, verticaux sans promotion, ou processuellement réels mais sous-déterminés puis résolus seulement comme one-event law.
+## NOUVEAU — GR62 whole-cut gap retypé par Q-B1822
+
+GR62 avait correctement rejeté trois choix CP naturels pour transformer une occurrence B3 en prochain whole-cut prédictif. Ce no-go contre la sélection arbitraire reste **binding**.
+
+Mais sa lecture plus forte — “il manque un canal quantique occurrence→whole-cut” — est désormais retypée.
+
+Q-B1822B prouve exactement :
+- `BRANCH POSTSTATE = NEXT GLOBAL Q STATE = FAIL`;
+- sur deux interfaces indépendantes, utiliser le poststate sélectionné après `T1` fait tomber le poids futur `T2` de `0.259213978854...` à `0`;
+- l'injection functorielle du global Q non-collapsé conserve ce poids à `0.259213978854...` avec erreur `5.55e-17`.
+
+Donc le prochain whole predictive carrier n'est **pas** produit par un CP update du branch poststate.
+
+Architecture correcte :
+
+`factual Ext e:K->K' + canonical inclusion I:H_K->H_K' + same noncollapsed global Q + append-only ledger`.
+
+Q-B1822C montre ensuite que la continuation multi-extension nécessaire est déjà dans le SAME merged global Q : le premier root→two-fact block nonzero est le `H_conf^3` strict-composition sum avec decomposition residual `0`; aucune loi de transport fondamentale supplémentaire n'est nécessaire.
+
+**Conséquence : GR62 ne constitue plus une preuve target-blind qu'un higher/pair generator manque au Root actuel.** Il reste un excellent no-go contre les branch-local CP stage identifications.
+
+`Gamma_pred` ne sauve ni ne change cela : c'est le coarsest exact faithful predictive quotient des factual prefixes à interface fixée, pas un branch-state→whole-cut CP law.
 
 ## Front exact maintenant
 
-### MICROSCOPIC NON-GRADE-ONE GENERATOR NECESSITY / SOURCE DISCOVERY GATE
+### MICROSCOPIC NON-GRADE-ONE GENERATOR NECESSITY / SOURCE DISCOVERY GATE — DURCI
 
-Le prochain progrès doit être une **preuve target-blind que le generator-resolved Q actuel est insuffisant pour représenter un processus physique complet**.
+Le prochain progrès doit être une **preuve target-blind que le generator-resolved, functorial, noncollapsed global Q actuel est insuffisant pour représenter un processus physique complet**.
 
 Tenir fixes :
 - tous les one-Ext generators et leurs compositions cohérentes;
+- carrier extension + canonical inclusion + noncollapsed global-Q embedding;
 - tous les physical control/configuration degrees déjà licenciés;
 - boundary/state instance data;
 - Cons/path-holonomy semantics;
 - common-parent/Feshbach hidden mediators.
 
-Chercher alors un processus dont la représentation exige encore un nouveau degré/générateur microscopique pour une raison opérationnelle/processuelle indépendante de GR.
+Ne comptent plus comme témoins d'incomplétude :
+- phase perdue seulement par quotient CPTP;
+- besoin supposé d'un branch-poststate→whole-cut map;
+- vertical/history information sans promotion;
+- nonuniqueness d'un stage law qu'on pourrait simplement choisir par hand.
 
-Si un tel témoin existe : l'enrichissement de `Q_loc` devient scientifiquement légitime, puis on calcule le connected pair residual et le passe au harness AF.
+Un témoin positif doit montrer une réponse physique future/processuelle que **même la représentation functorielle global-Q** ne peut produire sans nouveau degré/générateur microscopique, pour une raison indépendante de GR.
 
-Si aucun témoin n'existe : le Root actuel **ne force aucun AF source interne**; tout nouveau pair/higher generator serait une nouvelle hypothèse microscopique, pas une dérivation du TDG existant.
+Si un tel témoin existe : enrichir `Q_loc` minimalement, puis tester le connected pair residual au harness AF.
+
+Si aucun témoin n'existe : le Root actuel **ne force aucun AF source interne**; un nouveau pair/higher generator serait une nouvelle hypothèse microscopique, pas une dérivation du TDG existant.
 
 ## Verdict GR
 
-🟢 La recherche a beaucoup progressé en éliminant les faux positifs : canal-vs-process, ordre cohérent et boundary/inflow sont maintenant correctement typés.
+🟢 Avancée architecturale importante : le plus fort faux témoin de whole-cut incompleteness est éliminé par le firewall exact de Q-B1822.
 
-🟡 Le mur est désormais une question de **nécessité microscopique**, pas de calcul plus profond dans les mêmes Hamiltoniens.
+🟡 Le mur est désormais plus exigeant : insuffisance du **global-Q functoriel complet**, pas simple insuffisance d'une dynamique de branche.
 
 🔴 `N12` non gagné. Born toujours NOT DERIVED. GR non linéaire non établi.
