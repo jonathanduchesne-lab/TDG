@@ -13,7 +13,7 @@
 
 ## Cible Sentinelle
 
-La cible AF reste un source-level `N_12(a) != 0` Q-native : un datum ordonné/cohérent/mixte de PROCESS/transition qui survit après matching complet du current carrier, de la common boundary, de l'état prédictif/Hankel et de `(R2,R4)` là où ce typing s'applique.
+La cible AF reste un source-level `N_12(a) != 0` Q-native : un datum ordonné/cohérent/mixte de PROCESS/transition qui survit après matching complet du current carrier, de la common boundary, de l'état prédictif/Hankel, de `(R2,R4)` là où ce typing s'applique, et de tous les one-event maps.
 
 ## Fermetures binding récentes
 
@@ -25,116 +25,104 @@ La cible AF reste un source-level `N_12(a) != 0` Q-native : un datum ordonné/co
 - GR62 : whole-cut second morphism underdetermined.
 - GR176→179 D4 : local Markov/cocycle, connected two-event remainder nul dans le scope certifié.
 - RC40F-D5/GR5 : strong path-groupoid PASS historique, AF FAIL moderne par contrôle direct-product et source endpoint-count order-blind.
-- GR178 D4→D5 : 12 sorties = exactement D5; seuil D4 = certificat analytique, pas phase Q. Repro 6/6.
-- GR178 D5 second step : vraie dépendance `5→6`, mais entièrement médiée par endpoint local. Repro 8/8.
+- GR178 D4→D5 : 12 sorties = exactement D5; seuil D4 = certificat analytique, pas phase Q.
+- GR178 D5 second step : vraie dépendance `5→6`, mais entièrement médiée par endpoint local.
 - Q-B1828 : `(R2,R4)` = mémoire prédictive additive/predictive-basic dans son scope; history-order silent à endpoint complet fixé.
-- GR174/EventRef C8+ all-z : higher-detail non nul mais final-carrier typed; same-final fine-H/transfer/detail defects = 0; static-common-boundary defect = 0; 15/15 PASS.
+- GR174/EventRef C8+ all-z : higher-detail non nul mais final-carrier typed; same-final fine-H/transfer/detail defects = 0; static-common-boundary defect = 0.
+- Q-B1822C first-arrival `H^3`: vraie propagation multistep same-Q, mais deux routes entrantes orthogonales; `R_A^†R_B=0`, donc zéro coherent mixed AF margin.
+- grade-one analytic closure: aucun `H_conf^n` ou `f(H_conf)` de la même architecture ne peut créer un vertex multi-event primitif au-delà des one-event augmentations + propagation diagonale.
 
 ## Ext-Hankel retyping
 
-Checkpoint : `checkpoints/SENTRY/2026-09-08/TDG_EXT_HANKEL_PREDICTIVE_ENDPOINT_NOT_AF_RESIDUAL_2026-09-08.md`.
+Le cut-Hankel `H_Sigma(f,p)=Resp_Q(f o p)` définit l'état prédictif minimal via son quotient droit-null. Différence de Hankel = endpoint prédictif différent; égalité complète = différence prédictive quotientée. Ce n'est pas un `N12` restant après full endpoint matching.
 
-Le cut-Hankel historique est
+## Root channel-resolved
 
-`H_Sigma(f,p)=Resp_Q(f o p)`.
+Frozen Root R14-S est explicitement channel-resolved : `H = sum_alpha H_alpha`. Des canaux physiques distincts partageant les mêmes endpoints restent séparément résolus si l'ontologie les distingue.
 
-Son quotient droit-null est précisément l'état prédictif minimal. Donc :
+Q-B972 reste binding pour un canal non conditionné générique : H/résolvant/CP channel ne choisit pas une branche Kraus physique unique.
 
-- Hankel différent = **endpoint prédictif différent**;
-- Hankel identique contre tous futurs admissibles = différence prédictive nulle/quotientée.
+## RECLASSIFICATION MAJEURE — Q-B1819 réalise déjà un instrument physique d'extension
 
-Le vieux vocabulaire `contextual Ext-Hankel` est donc un détecteur d'état prédictif, pas un `N_12` restant après full endpoint matching.
+Checkpoint : `checkpoints/SENTRY/2026-09-08/TDG_QB1819_QB1822_INSTRUMENT_REALIZATION_RECLASSIFICATION_2026-09-08.md`.
 
-## Nouveau mur central — Root autorise les canaux, RefinedQ ne réalise pas encore l'instrument
+Pour chaque extension physique admissible `e: K -> K'`, Q-B1819A définit depuis le même Q :
 
-Checkpoint : `checkpoints/SENTRY/2026-09-08/TDG_ROOT_CHANNEL_RESOLUTION_VS_REFINEDQ_INSTRUMENT_REALIZATION_GAP_2026-09-08.md`.
+`A_e = (1 - I I†) H_{K'} I`.
 
-Frozen Root R14-S est explicitement channel-resolved :
+Tests archivés :
+- `rank(A_e)=8`;
+- singular values = `sqrt(3) a`;
+- `A_e†A_e = 3 a^2 P_Te`;
+- aucun coefficient d'extension ajouté.
 
-`H = sum_alpha H_alpha`.
+Q-B1819F prend la polar decomposition de `A_e` et construit un Stinespring instrument canonique `K_e` associé à la branche physique d'extension `e`, avec exact instrument completeness et FP-relative weights.
 
-Chaque `alpha` est une classe de canal physique après quotient descriptif, et **des canaux physiques distincts partageant les mêmes endpoints doivent rester séparément résolus** si l'ontologie les distingue.
+Donc l'ancienne formulation « RefinedQ ne réalise pas encore d'instrument physique » est **trop forte et superseded**.
 
-Donc Root n'est pas intrinsèquement endpoint-Markov : il permet exactement le type de degré processuel dont AF a besoin.
+Classification correcte :
 
-### Mais Q-B972 ferme le H non conditionné
+**Q-NATIVE EXTENSION-RESOLVED INSTRUMENT = STRONG PARTIAL PASS dans le scope Q-B1819.**
 
-Un Hamiltonien/résolvant/canal CP non conditionné ne sélectionne pas une branche fine physique unique. Un même canal CPTP admet des Kraus remix donnant des branches determinant-normalized de type boost, identité ou rotation.
+Q-B1819G donne Born equivariance/configuration-sector consistency, **pas Born derivation**.
 
-Classification :
+## Q-B1822 — propagation multistep réelle mais premier mixed rescue fermé
 
-**UNCONDITIONED H / RESOLVENT / CHANNEL -> UNIQUE SHARP BRANCH M = EXACT FAIL.**
+Q-B1822A : ready/internal-transfer diagnostic Q-native `C_e=P_boundary H_{K'} W_e^ext`; raw two-order mismatch ~0.6954, mais le polar-only stripping n'est pas licencié comme dynamique.
 
-Le Q concret doit fournir une branche/intervention physiquement distinguée; on ne peut pas choisir une décomposition de Kraus.
+Q-B1822B : same-final A/B predictive quotient exact; composed injections, restricted old-Q, embedded state et future support weights identiques; factual order reste seulement ledger. Branch poststate -> next global Q = exact fail.
 
-### Q-B988→1000 montre la capacité, mais pas la dérivation
+Q-B1822C : le même merged global Q produit le premier root→two-fact amplitude à `H^3` :
 
-Cette branche construit le bon type d'objet : `M_{g|f}=N_gf M_f^-1`, perturbation conditionnelle non-endpoint, affine diamond branch-aware. Mais la loi C/K qui définit le processus conditionnel est constructive/sandbox et non dérivée de frozen Root/current Q.
+`R_A + R_B = V_AB,A H_A V_A,0 + V_AB,B H_B V_B,0`,
 
-Donc capacité/identifiabilité = oui; source physique Q-derived = non.
+avec decomposition residual 0 et scaling `a^3` exact.
 
-### GR42 atteint le même mur
+Mais le Sentry audit du 7 septembre prouve :
 
-Pour le process actuel déterminé par active set `S`, retenir passivement l'occurrence intermédiaire donne exactement un second différentiel connecté symétrique `C_ij=C_ji`. L'étiquette d'ordre ajoute de la mémoire mais **aucune nouvelle loi order-odd indépendante**.
+`ran(V_AB,A) ⟂ ran(V_AB,B)`
 
-GR42 identifie le contenu manquant comme :
+=> `R_A†R_B=0`.
 
-> **a Q-derived distributed-full-future -> local Jordan/metric adjunction, or a genuinely ordered instrument morphism carrying information not determined by endpoint active sets.**
+C'est un direct orthogonal sum, pas un coherent mixed two-event vertex.
 
-### GR43 ferme l'adjonction déjà disponible
+Ensuite, le grade-one analytic-closure theorem ferme le rescue « aller à H^4/H^5/H^7/... » : tous les mixed squarefree coefficients restent exactement dans la fermeture des one-event augmentations et de la propagation diagonale de secteur.
 
-Le Standard3 distribué Q-B1855 est réel/O(1), mais les adjonctions Q déjà gagnées ne le transportent pas vers le même local Herm2/Jordan source avec poids O(1) et normalisation canonique : meilleure amplitude `~a^2`, autres pairings sous-rang/leaky/non-normalisés.
+## Verrou microscopique exact maintenant
 
-Classification GR43 :
+Le problème n'est **plus de dériver un instrument quelconque**. L'instrument d'extension existe.
 
-**MISSING READOUT-FREE NONHOMOGENEOUS DISTRIBUTED-FUTURE -> LOCAL HERMITIAN/JORDAN CONSTITUTIVE INTERTWINER.**
+Le verrou est :
 
-Donc les deux sorties de GR42 sont fermées dans le RefinedQ existant : ni passive history, ni adjunction déjà gagnée.
+### dériver un instrument second-step réellement non-Markov / connected
 
-## Nouveau verrou microscopique minimal — fast-mediator Feshbach
+Il faut une paire physique `e,f` telle que, à endpoint prédictif complètement matché,
 
-Checkpoint : `checkpoints/SENTRY/2026-09-08/TDG_FAST_MEDIATOR_FESHBACH_ACTUALQ_REALIZATION_GAP_2026-09-08.md`.
+`A_f^(after e)`
 
-Q-B1007 donne le mécanisme minimal exact : pour deux médiateurs indépendants `D1 ⊕ D2`, la self-energy Feshbach est exactement additive et le mixed residual est nul. Un vrai couplage médiateur `C_12` de taille `O(a)` produit le premier terme non additif `~a^3`; un couplage `O(a^2)` le produit `~a^4`.
+ou l'équivalent conditional morphism diffère d'un contrôle strictement compositionnel/direct-product par un résidu Q-native non nul.
 
-Mais ce mécanisme était explicitement une **derivation route, not yet the actual Root Q**.
+Priorité :
 
-Audit des réalisations concrètes :
+1. paire **dépendante/comparable/overlapping** plutôt qu'indépendante/incomparable;
+2. event `e` doit changer **l'opérateur/morphisme** du second event, pas seulement sa légalité ou son endpoint;
+3. soustraire one-event maps + diagonal propagation + endpoint/support/enabled-set + common-boundary;
+4. exiger causal-break/recovery;
+5. sinon chercher une architecture non-grade-one : inter-channel block, higher/pseudonatural cell, boundary/inflow Q-native.
 
-- bare H130 : vrai B2 full-future/process sheaf, mais les Green blocks off-diagonaux sont non conditionnés et Q-B1192 interdit leur promotion silencieuse en branch/Ext sharp;
-- H160 : branche/occurrence typing obtenu en ajoutant des registres B2 occurrence; provenance Q-B1204 = architecture non dérivée du frozen Root/minimal H;
-- Q-B1842+ : lower-incidence leg intéressant mais démarre par un enrichissement générique `H_(B3,B2)=gamma a I2`, non Root-sélectionné.
-
-Donc le bon mécanisme est identifié, mais **aucune instanciation bare-Q déjà retrouvée ne fournit encore le bloc physique cross-channel `C_{alpha beta}` avec typing conditionnel sharp**.
-
-## Front exact maintenant
-
-Le prochain travail utile n'est plus un nouveau descendant GR/metric/readout. Il est **microscopique/processuel** :
-
-### dériver le channel/instrument layer de Q
-
-Chercher une identité Q/Cons/Feshbach/process qui produit directement un conditional transition morphism
-
-`M_{g|f}`
-
-ou équivalent, avec :
-
-1. `f,g` = vrais canaux Root `Ext/H_alpha`, pas labels descriptifs/Kraus;
-2. même full predictive endpoint/current carrier/common boundary fixé;
-3. Q distingue physiquement la branche `f`;
-4. le next morphism dépend de `f` au-delà des one-event endpoint maps;
-5. dépendance détruite/modifiée sous causal break;
-6. aucune loi C/K effective, aucun fitted coefficient, aucun history feedback du factual ledger;
-7. préférer un bloc Q-native inter-canal `C_{alpha beta}` / médiateur↔médiateur : Q-B1007 fixe alors le mixed residual sans interprétation gravitationnelle;
-8. seulement ensuite test AF et géométrie.
-
-Autres ouvertures légales : inter-fibre two-event kernel, coherent higher cell, Q-derived boundary/inflow, ou Root-allowed realization hors Active43/current-carrier grammar.
+Q-B1825L est le prochain audit naturel, mais son résultat connu dit déjà : légalité dépendante réelle, payload post-legal spectator-invariant. Il faut chercher plus fort au niveau `A_f`/operator.
 
 ## Verdict GR
 
-🟢 On avance **en localisation du vrai mur** : le Root autorise déjà le bon type de degré processuel et le Q complet possède des sources distribuées réelles.
+🟢 **Avancée nette** : l'instrument Q-native existe déjà; on a retiré un faux verrou trop large.
 
-🟡 Mais la réalisation finite RefinedQ actuelle est **constitutivement/instrumentalement insuffisante** pour la soudure AF : elle ne fournit pas encore le morphisme conditionnel physiquement sélectionné ni le bloc cross-channel bare-Q requis.
+🟢 La propagation multistep dans le même Q existe réellement.
+
+🔴 Le premier `a^3` à deux routes est orthogonal/direct-sum, donc `N12=0` à ce niveau.
+
+🔴 Les higher powers de la même architecture grade-one ne peuvent pas sauver un vertex primitif.
+
+🟡 Le meilleur front est désormais : **dependent/comparable Q-native extension operator ou architecture non-grade-one/higher cell**.
 
 🔴 Born reste NOT DERIVED sur une branche distincte. O(3), HDA, spin-2 et GR non linéaire restent non fermés.
 
