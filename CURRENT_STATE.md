@@ -9,79 +9,61 @@
 - autorité historique FINAL-CERTIFIED : **Q-B1858L**, inchangée;
 - Root1 gelé; `A_path` retiré; global Q non collapsed; ledger factuel append-only/séparé;
 - actualisation soustractive = contribution conceptuelle de Jonathan Duchesne;
-- Born, durée métrique, Lambda, O(3), HDA et GR non linéaire restent non dérivés/non fermés.
+- Born NOT DERIVED; durée métrique NOT DERIVED; Lambda OPEN; O(3) FAIL/NOT CLOSED; HDA/spin-2/GR non linéaire non établis.
 
 ## Cible AF
 
-Il faut un `N_12(a) != 0` Q-native au niveau PROCESS/transition, avant readout/géométrie, survivant au matching complet du carrier, common boundary, full predictive state/Hankel, `(R2,R4)` là où typé, one-event maps et common downstream recombination.
-
-## Fermetures binding récentes
-
-- GR88 `J2_conn,new=0`;
-- Q-B1825L causal enablement sans nouveau payload opérateur après légalité;
-- grade-one Active43 analytic closure : aucun `H_conf^n/f(H_conf)` ne crée un primitive multi-event vertex;
-- Active43/Q-B1819 carrier-determined/operator-Markov;
-- GR65 common-final recombination : cohérence réelle mais AF margin zéro;
-- Q-B1819M `m=2` O8 : frontier fermé mais bulk incidence3 singular dans Active43;
-- Q-B1010 higher-cell : constructive/projectability PASS, Root-native selection OPEN;
-- H130 Green blocks ≠ sharp Ext branches;
-- H160 occurrence register ajouté, non dérivé du minimal Root/H;
-- H130 hidden central/noiseless occurrence sector : fermé par Q-B1086/Q-B1107;
-- direct B3↔B3 fast-mediator term : absent de l'architecture H130 documentée.
+Besoin d'un `N_12(a) != 0` Q-native au niveau PROCESS/transition, avant readout/géométrie, avec marge positive après soustraction des one-event maps, common-parent propagation, common boundary, full predictive endpoint/Hankel, `(R2,R4)` là où typé et common-final recombination.
 
 ## Checkpoints Sentry — 2026-09-09
 
-- `TDG_QB1819M_M2_ORBIT8_BULK_INCIDENCE3_NOGO_2026-09-09.md` — commit `764a5589e...`.
-- `TDG_HIGHER_CELL_ROOT_NATIVE_SELECTION_GAP_2026-09-09.md` — commit `9a13d1dd...`.
-- `TDG_BARE_H130_PHYSICAL_CHANNEL_PROJECTOR_MEDIATOR_TYPING_GAP_2026-09-09.md` — commit `bdc861d0...`.
-- `TDG_H130_SCALAR_COMMUTANT_DIRECT_MEDIATOR_CROSSBLOCK_NOGO_2026-09-09.md` — commit `c0c879d3...`.
-- `TDG_QB1819_VS_H130_CONFIGURATION_EXT_NOVELTY_SECTOR_TYPING_THEOREM_2026-09-09.md` — commit `322e539e...`.
+- `TDG_QB1819M_M2_ORBIT8_BULK_INCIDENCE3_NOGO_2026-09-09.md` — `764a5589e...`
+- `TDG_HIGHER_CELL_ROOT_NATIVE_SELECTION_GAP_2026-09-09.md` — `9a13d1dd...`
+- `TDG_BARE_H130_PHYSICAL_CHANNEL_PROJECTOR_MEDIATOR_TYPING_GAP_2026-09-09.md` — `bdc861d0...`
+- `TDG_H130_SCALAR_COMMUTANT_DIRECT_MEDIATOR_CROSSBLOCK_NOGO_2026-09-09.md` — `c0c879d3...`
+- `TDG_QB1819_VS_H130_CONFIGURATION_EXT_NOVELTY_SECTOR_TYPING_THEOREM_2026-09-09.md` — `322e539e...`
+- `TDG_ACTIVE43_H130_CONSTRUCTOR_COMPATIBILITY_JOINT_H_NOGO_2026-09-09.md` — `fcc0e857...`
 
-## H130 — résultat maintenant binding
+## H130 / Active43 — nouvelle fermeture binding
 
-Q-B1107 construit l'algèbre d'interaction channel-resolved réelle du H130 avec projecteurs de configuration, blocs Hamiltoniens B4 et tous les couplages B4↔B3. Le commutant a nullité exactement 1 à `a=.06,.02,.012`; seule l'identité survit. Donc aucun centre/noiseless occurrence sector caché dans ce H130 connecté.
+La compatibilité des constructeurs est désormais documentée :
 
-Q-B1102 documente le builder : 15 B4 locked6D, 20 B3 M2, onsite B3 `2I`, couplage incidence-local `H_(B4,B3)=a A_f B_f`. Aucune famille indépendante B3↔B3 n'est documentée. Le transfert inter-port est réel après common-parent propagation/Schur, mais n'est pas un sharp Ext branch.
+1. Q-B1193 construit H160 en conservant explicitement **les mêmes couplages B4↔B3 que H130**, puis ajoute les registres B2 et leurs couplages.
+2. Q-B1577→1584 localise le défaut du H160 persistant au round-trip `B3→B2→B3`, O(GAM²), et non au cœur B4/B3.
+3. Q-B1593→1625 officialise le fresh process comme **slice Hermitien exact B4+B3**, sans réutiliser l'ancien B2 comme retour cohérent.
+4. Q-B1818G prouve l'extension functorielle exacte : `I†H_K'I=H_K`; vieux blocs inchangés, nouveaux termes seulement sur nouveau contexte/interface.
 
-## Théorème de typage Q-B1819 vs H130
+Donc la jonction Q-B1819 physical Ext typing + richesse H130 était légale à tester.
 
-La différence minimale est désormais claire.
+### Résultat joint-H
 
-Q-B1819 réussit à définir un événement physique parce qu'il part d'un **morphisme de configuration** `e:K->K'`, d'une inclusion canonique `I:H_K->H_K'` et d'un novelty sector canonique `(1-II†)H_K'`. Cela rend
+- Pour deux extensions A,B déjà légales sur K et atteignant le même KAB, Q-B1822B donne exact same-final injection/state/old-Q equality. Chaque extension ajoute seulement sa structure locale sur une interface déjà présente. Toute influence A↔B passe par support commun ancien / propagation interne Q : pas de nouveau novelty↔novelty builder term.
+- Pour une extension C qui devient légale seulement après A, `K+C` n'existe pas comme comparaison légale. C'est un enablement/domain dependency; Q-B1825L montre qu'une fois C légale, le payload testé est spectator-invariant et le carré B/C après A a mixed first-arrival cross term zéro.
 
-`A_e=(1-II†)H_K'I`
+Ainsi le **configuration-lifted common-parent joint-H route est CLOSED** dans le fresh Active43/H130-descended architecture. Aucun `N12` nouveau.
 
-physiquement étiqueté par `Ext` avant toute décomposition Kraus.
+## Fermetures à ne pas re-miner
 
-H130 est un Hamiltonien de propagation sur un carrier fixe : ses B4↔B3 links sont des canaux internes, pas des occurrences `K->K'`. Le problème est donc un manque de **configuration-changing Ext / novelty-sector typing**, pas un manque d'interaction.
-
-## Active43 vs H130 — nouveau verrou documentaire
-
-Les deux architectures partagent clairement la langue combinatoire B4/B3 :
-
-- Q-B1818 applique la même fresh Active43 local Q law sur chaque carrier croissant;
-- Q-B1101/H130 globalise une loi B4 locked6D + B3 M2 sur un carrier fixe;
-- Q-B1841U confirme que le current Active43 actif contient seulement B4+B3, B2 spectator;
-- Q-B1701 confirme que l'ancien persistent B3↔B2 return a été retiré du fresh Active43.
-
-Mais il n'est **pas encore dérivé** que le Hamiltonien B4↔B3 actif d'Active43 est littéralement le même constructeur que H130/Q-B1102. On ne doit pas fusionner les deux par hypothèse.
+GR88; Q-B1825 payload rescue; deeper Active43 H powers; Active43 history-conditioned A_e; GR65 common-final recombination; Q-B1819M O8; Q-B1010 constructive higher-cell comme Root-selected; H130 Green blocks comme branches; H160 register comme minimal-Root-derived; H130 hidden center; direct B3↔B3 fast-mediator term; combinaison ordinaire Q-B1819+H130 comme joint source.
 
 ## Front exact maintenant
 
-### ACTIVE43 ↔ H130 CONSTRUCTOR-COMPATIBILITY GATE
+### ROOT-NATIVE NON-GRADE-ONE PROCESS LAW / PAIR-SENSITIVE EXT ALGEBRA
 
-1. Récupérer Q-B1679→1700 / Q-B1694 et la définition fresh Active43 du bloc B4↔B3.
-2. Comparer sans géométrie cible : dimensions de fibres, onsite B3, `A_f/B_f`, coefficients, couplings actifs, secteurs supprimés/ajoutés.
-3. Déterminer si Active43 est exactement un descendant/restriction du H130 locked B4/B3 law ou seulement une architecture combinatoirement similaire.
-4. Si équivalence/descendance exacte : ouvrir le gate `CONFIGURATION-LIFTED COMMON-PARENT NONADDITIVITY` et auditer
-   `Delta H_joint = H_AB - H_A^inh - H_B^inh + H_K`
-   sur le common child carrier.
-5. Si compatibilité non dérivée : checkpoint exact du constructor gap; ne pas splicer H130 et Q-B1819.
+Chercher uniquement un objet dont le domaine est déjà un **couple ordonné/cohérent d'Ext physiques** ou une 2-cell de compositions, pas une seule Ext suivie de propagation.
+
+Candidats légaux :
+1. relation Cons primitive à deux Ext avec payload opérateur;
+2. transformation higher/pseudonaturale entre composites Ext;
+3. boundary/inflow operator Q-derived non réductible à Feshbach/common-parent;
+4. relation Root entre `{H_alpha}` dont la loi de multiplication contient elle-même un terme pair-indexed.
+
+Tout candidat doit être Root/Q-native avant readout, battre strict composition/common-parent/static controls, puis causal-break/naturality/coarse-graining/q²-cone.
 
 ## Verdict GR
 
-🟢 On a fortement réduit le problème : centre caché et direct mediator cross-block H130 sont éliminés, et le datum qui rend un événement Q-B1819 physique est identifié.
+🟢 Avancée nette : la jonction la plus naturelle entre typing d'événement et interaction common-parent est maintenant légalement testée et fermée.
 
-🟡 Le prochain verrou est maintenant **la compatibilité exacte des constructeurs Active43/H130**.
+🟡 Le mur est plus fondamental : il faut une **vraie loi de processus non-grade-one**, pas davantage de propagation dans le Q actuel.
 
-🔴 Aucun `N12` source-level n'est encore gagné. Born reste NOT DERIVED; O(3), HDA, spin-2 et GR non linéaire restent non fermés.
+🔴 `N12` non gagné. Born toujours NOT DERIVED. GR non linéaire non établi.
