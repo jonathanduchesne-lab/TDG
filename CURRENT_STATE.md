@@ -31,98 +31,89 @@ La cible AF reste un source-level `N_12(a) != 0` Q-native : un datum ordonné/co
 - GR174/EventRef C8+ all-z : higher-detail non nul mais final-carrier typed; same-final fine-H/transfer/detail defects = 0; static-common-boundary defect = 0.
 - Q-B1822C first-arrival `H^3`: vraie propagation multistep same-Q, mais deux routes entrantes orthogonales; `R_A^†R_B=0`, donc zéro coherent mixed AF margin.
 - grade-one analytic closure: aucun `H_conf^n` ou `f(H_conf)` de la même architecture ne peut créer un vertex multi-event primitif au-delà des one-event augmentations + propagation diagonale.
+- Active43/Q-B1819 extension architecture : **carrier-determined/operator-Markov**; same complete carrier + same legal physical extension => same `A_e`; deeper composition cannot create a hidden nonendpoint second-morphism residual.
 
-## Ext-Hankel retyping
-
-Le cut-Hankel `H_Sigma(f,p)=Resp_Q(f o p)` définit l'état prédictif minimal via son quotient droit-null. Différence de Hankel = endpoint prédictif différent; égalité complète = différence prédictive quotientée. Ce n'est pas un `N12` restant après full endpoint matching.
-
-## Root channel-resolved
+## Root channel-resolved et instrument Q-B1819
 
 Frozen Root R14-S est explicitement channel-resolved : `H = sum_alpha H_alpha`. Des canaux physiques distincts partageant les mêmes endpoints restent séparément résolus si l'ontologie les distingue.
 
 Q-B972 reste binding pour un canal non conditionné générique : H/résolvant/CP channel ne choisit pas une branche Kraus physique unique.
 
-## RECLASSIFICATION MAJEURE — Q-B1819 réalise déjà un instrument physique d'extension
+Mais Q-B1819 réalise déjà un instrument physique d'extension :
+
+`A_e = (1 - I I†) H_{K'} I`,
+
+avec `rank(A_e)=8`, singular values `sqrt(3)a`, `A_e†A_e=3a^2 P_Te`, et Stinespring canonique `K_e` issu de la polar decomposition. Born equivariance passe; Born derivation non.
 
 Checkpoint : `checkpoints/SENTRY/2026-09-08/TDG_QB1819_QB1822_INSTRUMENT_REALIZATION_RECLASSIFICATION_2026-09-08.md`.
 
-Pour chaque extension physique admissible `e: K -> K'`, Q-B1819A définit depuis le même Q :
+## Q-B1822 — propagation multistep réelle, mixed rescue fermé
 
-`A_e = (1 - I I†) H_{K'} I`.
-
-Tests archivés :
-- `rank(A_e)=8`;
-- singular values = `sqrt(3) a`;
-- `A_e†A_e = 3 a^2 P_Te`;
-- aucun coefficient d'extension ajouté.
-
-Q-B1819F prend la polar decomposition de `A_e` et construit un Stinespring instrument canonique `K_e` associé à la branche physique d'extension `e`, avec exact instrument completeness et FP-relative weights.
-
-Donc l'ancienne formulation « RefinedQ ne réalise pas encore d'instrument physique » est **trop forte et superseded**.
-
-Classification correcte :
-
-**Q-NATIVE EXTENSION-RESOLVED INSTRUMENT = STRONG PARTIAL PASS dans le scope Q-B1819.**
-
-Q-B1819G donne Born equivariance/configuration-sector consistency, **pas Born derivation**.
-
-## Q-B1822 — propagation multistep réelle mais premier mixed rescue fermé
-
-Q-B1822A : ready/internal-transfer diagnostic Q-native `C_e=P_boundary H_{K'} W_e^ext`; raw two-order mismatch ~0.6954, mais le polar-only stripping n'est pas licencié comme dynamique.
-
-Q-B1822B : same-final A/B predictive quotient exact; composed injections, restricted old-Q, embedded state et future support weights identiques; factual order reste seulement ledger. Branch poststate -> next global Q = exact fail.
-
-Q-B1822C : le même merged global Q produit le premier root→two-fact amplitude à `H^3` :
+Q-B1822C fournit le premier root→two-fact amplitude à `H^3` dans le même global Q :
 
 `R_A + R_B = V_AB,A H_A V_A,0 + V_AB,B H_B V_B,0`,
 
-avec decomposition residual 0 et scaling `a^3` exact.
+mais Q-B1819I donne des incoming-parent sectors orthogonaux, donc `R_A†R_B=0`. Le premier `a^3` est direct-sum, pas coherent mixed.
 
-Mais le Sentry audit du 7 septembre prouve :
+Le grade-one analytic-closure theorem interdit ensuite de chercher un nouveau primitive vertex dans des puissances plus profondes de la même architecture.
 
-`ran(V_AB,A) ⟂ ran(V_AB,B)`
+## Nouveau theorem scopé — Active43 operator-Markov
 
-=> `R_A†R_B=0`.
+Checkpoint : `checkpoints/SENTRY/2026-09-08/TDG_ACTIVE43_QB1819_CARRIER_DETERMINED_OPERATOR_MARKOV_NOGO_2026-09-08.md`.
 
-C'est un direct orthogonal sum, pas un coherent mixed two-event vertex.
+Pour `e:K->K'`, l'opérateur `A_e` dépend uniquement de `K`, `K'`, de l'inclusion canonique `I` et du child generator `H_K'`. Il n'a aucun argument de ledger/history.
 
-Ensuite, le grade-one analytic-closure theorem ferme le rescue « aller à H^4/H^5/H^7/... » : tous les mixed squarefree coefficients restent exactement dans la fermeture des one-event augmentations et de la propagation diagonale de secteur.
+La functorialité exacte `I†H_K'I=H_K` implique que les anciens blocs Q ne sont pas réécrits; les nouveaux blocs sont ajoutés localement sur le nouveau support.
 
-## Verrou microscopique exact maintenant
+Conséquence :
 
-Le problème n'est **plus de dériver un instrument quelconque**. L'instrument d'extension existe.
+`same complete current carrier + same physical legal extension -> same Q-native augmentation operator`.
 
-Le verrou est :
+Q-B1825 valide même ce typing dans un cas causally dependent : A rend C légale, mais une fois légale le payload de C est spectator-invariant et le B/C first-arrival cross term reste zéro.
 
-### dériver un instrument second-step réellement non-Markov / connected
+Donc la route Active43/Q-B1819 vers un `N12` nonendpoint est **fermée comme stand-alone route**.
 
-Il faut une paire physique `e,f` telle que, à endpoint prédictif complètement matché,
+## Nouveau vrai verrou — Root non-Active43 Ext realization gap
 
-`A_f^(after e)`
+Checkpoint : `checkpoints/SENTRY/2026-09-08/TDG_ROOT_NONACTIVE43_EXT_REALIZATION_GAP_2026-09-08.md`.
 
-ou l'équivalent conditional morphism diffère d'un contrôle strictement compositionnel/direct-product par un résidu Q-native non nul.
+Q-B1826 rappelle explicitement que Root ne prouve pas que tout `Ext` élémentaire soit Active43 one-new-fact/four-slot.
 
-Priorité :
+Q-B1819M montre où la minimalité Active43 s'arrête : avec `m` faits simultanément, les child contexts se divisent en orbites S4 inequivalentes :
 
-1. paire **dépendante/comparable/overlapping** plutôt qu'indépendante/incomparable;
-2. event `e` doit changer **l'opérateur/morphisme** du second event, pas seulement sa légalité ou son endpoint;
-3. soustraire one-event maps + diagonal propagation + endpoint/support/enabled-set + common-boundary;
-4. exiger causal-break/recovery;
-5. sinon chercher une architecture non-grade-one : inter-channel block, higher/pseudonatural cell, boundary/inflow Q-native.
+- `m=1`: `4`;
+- `m=2`: `8 + 6`;
+- `m=3`: `12 + 18 + 4`;
+- `m=4`: `16 + 36 + 16 + 1`.
 
-Q-B1825L est le prochain audit naturel, mais son résultat connu dit déjà : légalité dépendante réelle, payload post-legal spectator-invariant. Il faut chercher plus fort au niveau `A_f`/operator.
+`m=1` est le seul cas sans extra orbit-selection rule. Cela ne rend pas `m>=2` illégal; cela le rend **microscopiquement sous-sélectionné** dans le Q actuel.
+
+Audit ciblé : aucune réalisation Q historique d'un Ext multi-fait/non-Active43 ni aucun selector Q-native des orbites `m=2` n'a été retrouvé. Le vieux centralizer-center n'était qu'une suggestion de reconstruction Root, jamais une loi Q dérivée.
+
+## Front exact maintenant
+
+Le meilleur front n'est plus « chercher un autre descendant Active43 ». Il est :
+
+### construire/auditer l'espace m=2 non sélectionné `8 ⊕ 6`
+
+1. ne choisir aucune orbite;
+2. appliquer uniquement Q/Cons/intervention-complete déjà gagnés;
+3. mesurer action/Gram/Hankel/interaction algebra sur les deux secteurs;
+4. demander si Q produit lui-même un selector, coupling ou quotient nondegenerate;
+5. si un physical two-fact channel émerge, le comparer à la composition stricte de deux m=1 channels;
+6. seul un connected source-normal residual nonzero passe ensuite au causal-break/recovery.
+
+Si Q reste parfaitement symétrique/degenerate, TDG ne doit pas inventer un choix : classer `m=2` underdetermined et passer aux higher cells / boundary-inflow.
 
 ## Verdict GR
 
-🟢 **Avancée nette** : l'instrument Q-native existe déjà; on a retiré un faux verrou trop large.
+🟢 **Avancée nette** : le faux verrou « instrument absent » est retiré; l'instrument Q-native existe.
 
-🟢 La propagation multistep dans le même Q existe réellement.
+🟢 **Classe Active43 fermée proprement** : on sait maintenant exactement pourquoi elle ne peut pas produire `N12` nonendpoint.
 
-🔴 Le premier `a^3` à deux routes est orthogonal/direct-sum, donc `N12=0` à ce niveau.
+🟡 **Nouvelle porte légale plus fondamentale** : Root permet des Ext hors Active43, mais leur réalisation Q manque encore.
 
-🔴 Les higher powers de la même architecture grade-one ne peuvent pas sauver un vertex primitif.
-
-🟡 Le meilleur front est désormais : **dependent/comparable Q-native extension operator ou architecture non-grade-one/higher cell**.
+🔴 Aucun nouveau AF soldering margin n'est gagné dans ce burst.
 
 🔴 Born reste NOT DERIVED sur une branche distincte. O(3), HDA, spin-2 et GR non linéaire restent non fermés.
 
