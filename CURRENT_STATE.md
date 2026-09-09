@@ -33,130 +33,78 @@ La cible AF reste un source-level `N_12(a) != 0` Q-native : un datum ordonné/co
 - Grade-one analytic closure : aucun `H_conf^n` ou `f(H_conf)` de la même architecture ne peut créer un vertex multi-event primitif au-delà des one-event augmentations + propagation diagonale.
 - Active43/Q-B1819 : **carrier-determined/operator-Markov**; same complete carrier + same legal physical extension => same `A_e`.
 - GR65 common-final recombination : nonzero cross-history coherence réel, mais exactement reproductible par commuting microscopic events + orthogonal routes + same common final recombiner; AF identifying margin = 0.
+- Q-B1819M `m=2` O8 : closed frontier mais bulk incidence-3 singular dans Active43.
 
-## Root channel-resolved et instrument Q-B1819
+## Root channel ontology et instrument
 
 Frozen Root R14-S est explicitement channel-resolved : `H = sum_alpha H_alpha`. Des canaux physiques distincts partageant les mêmes endpoints restent séparément résolus si l'ontologie les distingue.
 
-Q-B972 reste binding pour un canal non conditionné générique : H/résolvant/CP channel ne choisit pas une branche Kraus physique unique.
-
-Mais Q-B1819 réalise déjà un instrument physique d'extension :
+Q-B1819 réalise déjà un instrument physique d'extension :
 
 `A_e = (1 - I I†) H_{K'} I`,
 
-avec `rank(A_e)=8`, singular values `sqrt(3)a`, `A_e†A_e=3a^2 P_Te`, et Stinespring canonique `K_e` issu de la polar decomposition. Born equivariance passe; Born derivation non.
+avec `rank(A_e)=8`, singular values `sqrt(3)a`, `A_e†A_e=3a^2 P_Te`. Born equivariance passe; Born derivation non.
 
-Checkpoint : `checkpoints/SENTRY/2026-09-08/TDG_QB1819_QB1822_INSTRUMENT_REALIZATION_RECLASSIFICATION_2026-09-08.md`.
+Active43 reste operator-Markov et fermé comme stand-alone route vers un `N12` nonendpoint.
 
-## Active43 operator-Markov
+## Root non-Active43 et m=2
 
-Checkpoint : `checkpoints/SENTRY/2026-09-08/TDG_ACTIVE43_QB1819_CARRIER_DETERMINED_OPERATOR_MARKOV_NOGO_2026-09-08.md`.
-
-Pour `e:K->K'`, `A_e` dépend uniquement de `K`, `K'`, inclusion canonique `I` et child generator `H_K'`. Il n'a aucun argument de ledger/history.
-
-La functorialité exacte `I†H_K'I=H_K` implique que les anciens blocs Q ne sont pas réécrits; les nouveaux blocs sont ajoutés localement.
-
-Conséquence :
-
-`same complete current carrier + same physical legal extension -> same Q-native augmentation operator`.
-
-Donc Active43/Q-B1819 est fermé comme stand-alone route vers un `N12` nonendpoint.
-
-## Root non-Active43 realization gap
-
-Checkpoint : `checkpoints/SENTRY/2026-09-08/TDG_ROOT_NONACTIVE43_EXT_REALIZATION_GAP_2026-09-08.md`.
-
-Q-B1826 rappelle explicitement que Root ne prouve pas que tout `Ext` élémentaire soit Active43 one-new-fact/four-slot.
-
-Q-B1819M donne les orbites S4 pour `m` nouveaux faits simultanés :
-
-- `m=1`: `4`;
-- `m=2`: `8 + 6`;
-- `m=3`: `12 + 18 + 4`;
-- `m=4`: `16 + 36 + 16 + 1`.
-
-`m=1` est le seul cas sans extra orbit-selection rule. Aucune réalisation Q historique d'un Ext multi-fait/non-Active43 ni selector Q-native des orbites `m=2` n'a été retrouvée.
-
-## NOUVEAU — m=2 / orbit8 = faux positif de frontier
+Q-B1826 rappelle que Root ne prouve pas que tout `Ext` élémentaire soit Active43. Q-B1819M donne les orbites `m=2: 8+6`, mais le candidat O8 produit bulk incidence3 sous la grammaire Active43 et est donc fermé dans ce scope.
 
 Checkpoint : `checkpoints/SENTRY/2026-09-09/TDG_QB1819M_M2_ORBIT8_BULK_INCIDENCE3_NOGO_2026-09-09.md`.
 
-Fresh combinatorial audit de l'espace `m=2` :
+## Shared-B3 recombination et higher cells
 
-- `O8` seul : 16 B3 de frontier, toutes incidence 2;
-- `O6` seul : histogramme `{1:12, 3:4}`;
-- `O8⊕O6` : histogramme `{2:4, 3:16}`.
+Q-B1453/GR62 : vraie interférence cross-parent et `RECOMBINE-BEFORE-FRESH-RECORD` = PHYSICAL PASS.
+GR65 : common-final recombination control reproduit la cohérence avec microscopic event-event coupling zero = AF FAIL.
 
-`O8` semblait donc sélectionner naturellement une closed frontier. Mais Q-B1826E impose le bulk Active43 légal : une frontier B4 utilisée devient interne et ne peut recevoir une troisième 4-simplex.
-
-Interpréter `O8` comme deux nouveaux enfants simultanés attachés au même parent B4 donne :
-
-`old cell + child x + child y -> incidence_bulk(T)=3`.
-
-C'est exactement la branche singulière interdite par Q-B1826E.
-
-Classification :
-
-`m=2 O8 -> legal simultaneous Active43 Ext` = **FAIL / BULK INCIDENCE-3 SINGULAR**.
-
-Donc stop aux sous-sélections `8/6` dans cette même grammaire. Root global reste plus large.
-
-## Shared-B3 recombination : réel mais pas N12
-
-Q-B1453/GR62 établit une interférence cross-parent Q-native d'ordre 1 au B3 partagé et le theorem `RECOMBINE-BEFORE-FRESH-RECORD` : enregistrer which-parent trop tôt détruit une vraie partie de l'amplitude Q.
-
-Mais GR65 ferme son usage AF stand-alone : après orthogonal two-event routes, le premier overlap nonzero apparaît seulement après application d'un common final-sector `H`. Le contrôle matched direct-product + same final recombiner reproduit exactement la history Gram tout en gardant microscopic event-event coupling = 0.
-
-Donc :
-
-`shared-parent coherence` = **PHYSICAL PASS**;
-
-`shared-parent coherence -> irreducible AF N12` = **FAIL**.
-
-## NOUVEAU — higher-cell capacity oui, source Root-native non
+Q-B1010/Q-B1011 : full local 3/4-cell, group coherence, all-face `tau=O(a^3)`, asymptotic second Bianchi = STRONG CONSTRUCTIVE PASS, mais ROOT-NATIVE SELECTION OPEN.
 
 Checkpoint : `checkpoints/SENTRY/2026-09-09/TDG_HIGHER_CELL_ROOT_NATIVE_SELECTION_GAP_2026-09-09.md`.
 
-Q-B1010/Q-B1011 avait déjà construit une loi projectable qui donne un full local 3-cell/4-cell avec exact group coherence, all-face `tau=O(a^3)` et asymptotic second Bianchi.
+## NOUVEAU — bare H130 : transfert réel, projecteurs physiques absents
 
-Mais sa classification historique est toujours :
+Checkpoint : `checkpoints/SENTRY/2026-09-09/TDG_BARE_H130_PHYSICAL_CHANNEL_PROJECTOR_MEDIATOR_TYPING_GAP_2026-09-09.md`.
+Commit checkpoint : `bdc861d09f065ea6cfbc320e80ed7b493c43de3e`.
 
-`STRONG CONSTRUCTIVE PROJECTABILITY PASS / ROOT-NATIVE SELECTION OPEN`.
+Q-B1191 fournit le meilleur objet bare-Q de cette lignée : pour un B2 carrier `e`, les quatre ports B3 futurs incidents forment après Schur une future-kernel sheaf exacte; direct-vs-nested Schur résiduel ~`1.54e-15`. Donc **H130 contient déjà du vrai transfert/process common-parent**.
 
-Le corpus récent continue de reprendre ce même statut. Aucun checkpoint ultérieur retrouvé ne promeut cette loi constructive en microscopic transition law dérivée de frozen Root/current Q.
+Mais Q-B1192 interdit la promotion de `C_ij=R_ij R_jj^-1` en branche Ext physique : triangle holonomy ~`0.751→0.756` et reciprocity defect ~`0.0841→0.0837`, tous deux O(1).
 
-Ainsi le prochain vertex ne peut pas être simplement « construit parce qu'il marche ».
+Q-B1193/H160 ajoute explicitement un M2 occurrence register pour chaque B2 et obtient alors des labelled future branches/process charts. Q-B1204 garde toutefois binding : **l'occurrence register lui-même n'est pas dérivé du frozen minimal H/root**.
+
+Reclassification exacte :
+
+**BARE H130 HAS REAL COMMON-PARENT TRANSFER, BUT THE PHYSICAL OCCURRENCE/CHANNEL PROJECTORS NEEDED TO TYPE `P_alpha H P_beta` ARE NOT YET DERIVED.**
+
+C'est un **typing/selection gap**, pas un théorème d'absence de couplage.
+
+## Fast-mediator template
+
+Q-B1007 : independent mediators => self-energy exactement additive; vrai inter-mediator cross-block `O(a)` => nonadditivity ~`a^3`, cross-block `O(a^2)` => ~`a^4`. Mais ce résultat est une derivation route, NOT YET actual Root Q.
 
 ## Front exact maintenant
 
-Le meilleur front est désormais :
+### BARE-Q PHYSICAL OCCURRENCE-ALGEBRA / CHANNEL-PROJECTOR GATE
 
-### Q-NATIVE NON-GRADE-ONE SOURCE GATE
+Ne pas scanner arbitrairement les gros éléments de H130. **Dériver d'abord les projecteurs.**
 
-Chercher dans le Q concret une structure déjà présente qui viole la fermeture edge/composition :
-
-1. **jointly generated inter-fibre block** entre deux physical channels;
-2. **shared mediator** avec un vrai off-diagonal channel-channel block avant Feshbach elimination;
-3. **higher/pseudonatural Cons cell** dont la loi elle-même est Q-derived, pas seulement constructive;
-4. **boundary/inflow operator** indépendamment Q-derived.
-
-Un candidat doit permettre
-
-`Xi_ef = U_f U_e + N_ef`,
-
-avec `N_ef != 0` après soustraction de : one-event maps, diagonal propagation, full predictive endpoint/Hankel, common boundary, `(R2,R4)` là où typed et common downstream recombination.
-
-Ensuite seulement : causal-break/recovery, direct-product-normal margin, regional naturality/coherence, coarse-graining, q²/common Lorentz cone, puis AC quotient-lock.
-
-Q-B1007 reste le mécanisme minimal exact : independent mediators => additive; vrai cross-block `C_alpha beta` => irreducible `a^3/a^4` nonadditivity.
+1. Partir de la H130 B2 four-future process sheaf et du Root abstrait `{H_alpha}`.
+2. Construire/auditer l'algèbre générée par tous les futurs/interventions admissibles sur les quatre ports B3 autour d'un B2.
+3. Chercher son centre/commutant/minimal central decomposition sous full future equivalence, carrier incidence, Cons, relabeling et predictive-null quotient.
+4. Aucun choix de Kraus, base ou registre H160 ajouté.
+5. Si des projecteurs centraux/minimaux non triviaux émergent et sont physiquement Ext-typed, utiliser ces `P_alpha,P_beta` pour décomposer le parent/interne H **avant Schur**.
+6. Mesurer `P_alpha H P_beta`; comparer au block-direct-sum control où seul ce bloc est nul et au causal-break qui retire la jambe microscopique correspondante.
+7. Seul un résidu connecté nonzero peut devenir candidat `N12`.
+8. Si l'algèbre de futurs est factor/simple avec centre scalaire seulement, certifier que bare H130 ne dérive pas une occurrence algebra classique : la structure de canal physique est alors un datum microscopique additionnel requis par cette réalisation.
 
 ## Verdict GR
 
-🟢 **Avancée nette de localisation** : plusieurs faux candidats riches ont été éliminés sans perdre leurs vrais résultats physiques.
+🟢 **Avancée nette de localisation** : le verrou n'est plus « interaction manquante » mais **physical channel-projector algebra manquante**.
 
-🟢 Instrument Q-native, multistep propagation, shared-parent coherence et higher-cell capacity sont tous réellement présents dans leurs scopes.
+🟢 H130 fournit déjà un processus commun-parent réel; H160 démontre que l'ajout d'une occurrence algebra suffit à typer les futurs.
 
-🟡 Le mur est maintenant extrêmement précis : il manque une **source non-grade-one Q/Root-selected**, pas une capacité mathématique supplémentaire.
+🟡 Le prochain test est très dur mais très propre : centre/commutant de l'algèbre de futurs H130.
 
 🔴 Aucun `N12 != 0` source-level n'est encore gagné.
 
