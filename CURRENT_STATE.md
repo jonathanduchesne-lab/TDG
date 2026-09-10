@@ -64,6 +64,32 @@ Le reproducteur sauvegardé donne **6/6 PASS**, y compris sur superpositions coh
 
 Q-B79/Hankel fixe une mémoire prédictive minimale, mais RC20 montre que sa réalisation physique comme carrier-state peut rester OPEN. Le Hankel fixe la quantité de mémoire, pas son ontologie microscopique.
 
+## NOUVEAU — predictive-memory realization selection no-go
+
+Checkpoint :
+`checkpoints/SENTRY/2026-09-10/TDG_PREDICTIVE_MEMORY_REALIZATION_SELECTION_NOGO_2026-09-10.md`
+commit `a562908eb6059df4562dc3aed3c49a0364b4dc86`.
+
+Audit de la dernière possibilité de rescue du no-go de dilatation : **le Root possède-t-il déjà un principe qui choisit une réalisation microscopique unique de la mémoire prédictive ?**
+
+Résultat : **NON / NOT DERIVED**.
+
+- R14-S surplus-structure principle élimine/quotiente toute différence de réalisation qui laisse invariantes toutes les réponses Root-admissibles et distributions factuelles; il ne choisit pas un représentant privilégié.
+- Q-B79/Hankel fournit le quotient prédictif minimal et des bornes de dimension mémoire, pas une factorisation Hilbert/carrier unique.
+- RC20 dérive 18 directions future-visible minimales et un transport canonique sur S60, tout en maintenant explicitement `PHYSICAL CARRIER-STATE REALIZATION OF R18 = OPEN`.
+- EXP6 montre que la distinction entre dilatations cohérentes peut être descriptive à interface grossière et physique à interface fine.
+- EXP8 ne fournit pas de sélection universelle de cette interface.
+- v4.1 : generic quantum-process memory peut égaler le prédicteur TDG; `TDG specificity = NOT ESTABLISHED`.
+- v5.0 : `TDG uniqueness = NOT ESTABLISHED`.
+
+Théorème de frontière :
+
+`canonical minimal predictive state` **DOES NOT IMPLY** `unique microscopic physical realization`.
+
+Donc ni minimalité, ni future-response completeness, ni source-memory transport ne sélectionnent `pair vertex` plutôt que `memory factor / higher cell / equivalent dilation`.
+
+Un futur `N12` dérivé doit être déjà **physiquement typé dans l'inventaire microscopique Q avant la compression prédictive**, ou venir avec un nouveau théorème indépendant de sélection de réalisation.
+
 ## Corpus-level architecture boundary — binding
 
 Checkpoint :
@@ -76,45 +102,36 @@ Dans le **corpus récupéré/audité actuel**, depuis le frozen Root jusqu'aux e
 
 Les apparentes structures multi-event se reclassent comme : strict composition, current-carrier/support dependence, predictive memory, common-parent/Feshbach, coherent route composition, response/connection geometry, quotient/normalization, collective susceptibility ou boundary/vertical sans promotion Q-native.
 
-## NOUVEAU — Q-B759→878 source archaeology
+## Q-B759→878 source archaeology
 
 Checkpoint :
 `checkpoints/SENTRY/2026-09-10/TDG_QB759_QB878_TARGETED_ARCHAEOLOGY_DOWNSTREAM_PROVENANCE_SCREEN_2026-09-10.md`
 commit `273055b44501bf773db5dfc4a760c77256a148b8`.
 
-### Résultat documentaire
-
 Une recherche ciblée par numéros `Q-B759`, `Q-B869`, `Q-B870`, `Q-B871`, `Q-B872`, `Q-B878`, titres et phrases survivantes n'a retrouvé **aucune source autonome**. Les recoveries indépendants répètent tous la même frontière fiable : source A jusqu'à Q-B758, puis delta Q-B879+, avec Q-B759→878 explicitement `UNKNOWN`. Seule empreinte : Q-B869→878 = `COHERENT-ARM GRAM / SAME-BRANCH 1-JET CARTAN COMPLETION`.
 
-### Downstream provenance screen
+Le delta récupéré Q-B879→919 reprend TSC/solder, response jets, SL2/canonicalizers et shape flow; il ne déclare aucun primitive multi-Ext block hérité du gap. Q-B912 introduit sa nonfactorisation par une loi construite, et Q-B929/Q-B931 localisent l'anisotropie utile dans le cubic coherence sector généré par l'algèbre existante, pas dans un nouvel opérateur primitif.
 
-Le delta récupéré Q-B879→919 reprend TSC/solder, response jets, SL2/canonicalizers et shape flow; il ne déclare aucun primitive multi-Ext block hérité du gap.
-
-Q-B912 introduit sa nonfactorisation par une loi explicitement construite
-`K_CF(a)=detnorm[exp(a^2 N(X_C,Y_F)) sqrt(W_F)]`, donc pas comme primitive récupérée du gap.
-
-Q-B929/Q-B931 localisent ensuite l'anisotropie utile dans le **cubic coherence sector généré par l'algèbre existante `{H_x,O_f}`**, et Q-B931 dit explicitement : first indispensable shape sector = cubic-triplet coherence, **not a new primitive operator**.
-
-Conclusion limitée : **la continuité Q-B879→931 n'apporte aucune preuve qu'un primitive `N12` caché dans Q-B759→878 était nécessaire**. Ce n'est pas une preuve d'absence historique; le contenu manquant reste inconnu.
+Conclusion limitée : la continuité récupérée n'apporte aucune preuve qu'un primitive `N12` caché dans Q-B759→878 était nécessaire. Le contenu manquant reste inconnu et ne doit pas être interpolé.
 
 ## Front exact maintenant
 
 ### DERIVATION-ONLY AF SOURCE MINING = STOP dans la lignée auditée
 
-La voie d'archéologie avec le corpus actuellement accessible vient aussi d'être épuisée sans récupérer Q-B759→878.
+Le dernier rescue interne — **sélection canonique de la réalisation microscopique par minimalité prédictive** — est maintenant fermé.
 
 Deux routes seulement restent scientifiquement propres :
 1. **récupération future d'une vraie source primaire externe/archivée** contenant un bloc microscopique explicite non-grade-one;
 2. **nouvelle hypothèse microscopique TDG**, explicitement marquée `NEW PHYSICAL HYPOTHESIS / Q_loc ENRICHMENT`, gelée target-blind avant toute comparaison GR puis soumise au harness AF complet.
 
-Ne plus re-miner higher H powers, conditional transition tables, process-tensor non-Markovianity, response connections, normalized pair tensors, Q-B656 contextual section ou le gap Q-B759→878 par interpolation.
+Une troisième route conceptuelle ne rouvrirait la dérivation que si un nouveau théorème indépendant était démontré à partir des axiomes Root actuels : **sélection unique de la réalisation physique de la mémoire prédictive parmi toutes les dilatations response-equivalent**. Aucun tel théorème n'est actuellement dérivé.
 
-Un nouvel objet n'est admissible que s'il possède une motivation physique indépendante de GR et une signature microscopique testable qui survit composition-normality, predictive-memory dilation, common-parent mediation, Cons/naturality et coarse-graining.
+Ne plus re-miner higher H powers, conditional transition tables, process-tensor non-Markovianity, response connections, normalized pair tensors, Q-B656 contextual section, mémoire Hankel minimale ou le gap Q-B759→878 par interpolation.
 
 ## Verdict GR
 
-🟢 Progrès scientifique : le dernier refuge documentaire a été audité honnêtement et ne fournit aucun support aval à un pair vertex caché.
+🟢 Progrès scientifique majeur : le dernier rescue de l'identifiabilité du `N12` vient d'être fermé proprement.
 
-🟡 Le TDG audité est maintenant à une **frontière d'architecture microscopique** au sens fort : continuer exige soit une vraie source primaire retrouvée, soit une nouvelle hypothèse physique assumée comme telle.
+🟡 La frontière est désormais explicitement **ontologique/microscopique**, pas computationnelle : le Root actuel ne choisit pas une réalisation pair-vertex parmi des dilatations prédictivement équivalentes.
 
 🔴 Aucun `N12^dil` gagné; AC quotient-lock non atteint; Born toujours NOT DERIVED; O(3), HDA, spin-2 et GR non linéaire non établis.
