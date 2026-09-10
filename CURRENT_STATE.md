@@ -28,7 +28,7 @@ Q-B1850 construit la réponse same-Q cross-context Cons/Feshbach; elle est riche
 
 Q-B1851 donne une prolongation canonique scalar -> full `1+3`; Q-B1852 conserve **120/120 Cons diamonds exacts** sous refinement. Ces objets renforcent la géométrie/mémoire de processus mais restent current-carrier/predictive-state mediated.
 
-## Nouveau — dependent RefinedQ shell no-go
+## Dependent RefinedQ shell no-go
 
 Checkpoint :
 `checkpoints/SENTRY/2026-09-10/TDG_REFINEDQ_DEPENDENT_SHELL_HOMOGENEITY_AF_NOGO_2026-09-10.md`
@@ -45,7 +45,7 @@ Dans une vraie chaîne dépendante de croissance radiale, le shell suivant n'exi
 
 Donc : **dependent support = PASS; dependent microscopic payload = FAIL dans ce scope**. Le premier événement crée le domaine, mais n'altère pas la loi locale appliquée ensuite.
 
-## Nouveau — audit final des context-selective couplings
+## Audit final des context-selective couplings
 
 - Q-B656 contient une vraie section contextuelle `W_f=U_f W0 U_f†`, mais P10D montre que le Q enrichi Q-B1846/48 est section-blind à phase fixée : cette contextualité n'est pas dérivée par la lignée Q actuelle.
 - Q-B1843 dérive une ligne de solder operatorielle locale, mais Q-B1844 montre que le plus général Hamiltonien local S3-covariant sur les fibres existantes est un espace de **capacité**, pas un Q-selector.
@@ -53,45 +53,68 @@ Donc : **dependent support = PASS; dependent microscopic payload = FAIL dans ce 
 - Q-B1845 récupère ensuite la structure désirée via **collective susceptibility/process response** du Q existant, pas via un nouveau primitive pair/context-dependent microscopic coupling.
 - Q-B1857 pair tensor normalisé vient de `m=S/N` alors que raw `(S,N)` responses sont additives; quotient effect, pas primitive vertex.
 
+## Pair vertex vs predictive-memory dilation
+
+Checkpoint :
+`checkpoints/SENTRY/2026-09-09/TDG_AF_PAIR_VERTEX_VS_PREDICTIVE_MEMORY_DILATION_IDENTIFIABILITY_NOGO_2026-09-09.md`.
+
+Une famille conditionnelle `U_(f|e)` peut être représentée exactement par un unique opérateur fixe sur une mémoire orthogonale :
+`V_f=sum_e |e><e|⊗U_(f|e)` et `V_f W_e=W_e U_(f|e)`.
+Le reproducteur sauvegardé donne **6/6 PASS**, y compris sur superpositions cohérentes.
+
+Q-B79/Hankel fixe une mémoire prédictive minimale, mais RC20 montre que sa réalisation physique comme carrier-state peut rester OPEN. Le Hankel fixe la quantité de mémoire, pas son ontologie microscopique.
+
 ## Corpus-level architecture boundary — binding
 
 Checkpoint :
 `checkpoints/SENTRY/2026-09-10/TDG_AF_RECOVERED_LINEAGE_ARCHITECTURE_BOUNDARY_NO_PRIMITIVE_N12_2026-09-10.md`
 commit `ca320f773bfd1d358c3c2cea43075ee4905ed6a4`.
 
-### Conclusion précise
-
 Dans le **corpus récupéré/audité actuel**, depuis le frozen Root jusqu'aux enrichissements/certifications Q-B1819→Q-B1858L et descendants processuels réanalysés :
 
 **aucun primitive dilation-normal multi-Ext / non-grade-one `N12` n'est actuellement dérivé.**
 
-Les apparentes structures multi-event se reclassent comme :
-- strict one-event composition;
-- current-carrier/support dependence;
-- predictive-memory dependence;
-- common-parent/Feshbach mediation;
-- coherent route composition;
-- process response/connection geometry;
-- quotient/normalization effect;
-- collective susceptibility;
-- boundary/vertical data sans promotion Q-native.
+Les apparentes structures multi-event se reclassent comme : strict composition, current-carrier/support dependence, predictive memory, common-parent/Feshbach, coherent route composition, response/connection geometry, quotient/normalization, collective susceptibility ou boundary/vertical sans promotion Q-native.
 
-Ce n'est **pas** un no-go universel sur toute future TDG. Le gap documentaire Q-B759→878 demeure. Une source primaire récupérée contenant un explicit physical non-grade-one block pourrait rouvrir AF.
+## NOUVEAU — Q-B759→878 source archaeology
+
+Checkpoint :
+`checkpoints/SENTRY/2026-09-10/TDG_QB759_QB878_TARGETED_ARCHAEOLOGY_DOWNSTREAM_PROVENANCE_SCREEN_2026-09-10.md`
+commit `273055b44501bf773db5dfc4a760c77256a148b8`.
+
+### Résultat documentaire
+
+Une recherche ciblée par numéros `Q-B759`, `Q-B869`, `Q-B870`, `Q-B871`, `Q-B872`, `Q-B878`, titres et phrases survivantes n'a retrouvé **aucune source autonome**. Les recoveries indépendants répètent tous la même frontière fiable : source A jusqu'à Q-B758, puis delta Q-B879+, avec Q-B759→878 explicitement `UNKNOWN`. Seule empreinte : Q-B869→878 = `COHERENT-ARM GRAM / SAME-BRANCH 1-JET CARTAN COMPLETION`.
+
+### Downstream provenance screen
+
+Le delta récupéré Q-B879→919 reprend TSC/solder, response jets, SL2/canonicalizers et shape flow; il ne déclare aucun primitive multi-Ext block hérité du gap.
+
+Q-B912 introduit sa nonfactorisation par une loi explicitement construite
+`K_CF(a)=detnorm[exp(a^2 N(X_C,Y_F)) sqrt(W_F)]`, donc pas comme primitive récupérée du gap.
+
+Q-B929/Q-B931 localisent ensuite l'anisotropie utile dans le **cubic coherence sector généré par l'algèbre existante `{H_x,O_f}`**, et Q-B931 dit explicitement : first indispensable shape sector = cubic-triplet coherence, **not a new primitive operator**.
+
+Conclusion limitée : **la continuité Q-B879→931 n'apporte aucune preuve qu'un primitive `N12` caché dans Q-B759→878 était nécessaire**. Ce n'est pas une preuve d'absence historique; le contenu manquant reste inconnu.
 
 ## Front exact maintenant
 
 ### DERIVATION-ONLY AF SOURCE MINING = STOP dans la lignée auditée
 
-Deux seules voies scientifiques propres restent :
-1. **source archaeology ciblée** : récupérer un vrai bloc microscopique oublié/non indexé, surtout dans Q-B759→878 ou autre archive primaire;
-2. **nouvelle hypothèse microscopique TDG** : enrichir explicitement `Q_loc`, en la nommant NEW PHYSICAL HYPOTHESIS, la geler avant GR, puis lui faire subir tout le harness AF.
+La voie d'archéologie avec le corpus actuellement accessible vient aussi d'être épuisée sans récupérer Q-B759→878.
 
-Ne plus re-miner higher H powers, conditional transition tables, process-tensor non-Markovianity, response connections, normalized pair tensors ou Q-B656 contextual section comme si cela dérivait `N12`.
+Deux routes seulement restent scientifiquement propres :
+1. **récupération future d'une vraie source primaire externe/archivée** contenant un bloc microscopique explicite non-grade-one;
+2. **nouvelle hypothèse microscopique TDG**, explicitement marquée `NEW PHYSICAL HYPOTHESIS / Q_loc ENRICHMENT`, gelée target-blind avant toute comparaison GR puis soumise au harness AF complet.
+
+Ne plus re-miner higher H powers, conditional transition tables, process-tensor non-Markovianity, response connections, normalized pair tensors, Q-B656 contextual section ou le gap Q-B759→878 par interpolation.
+
+Un nouvel objet n'est admissible que s'il possède une motivation physique indépendante de GR et une signature microscopique testable qui survit composition-normality, predictive-memory dilation, common-parent mediation, Cons/naturality et coarse-graining.
 
 ## Verdict GR
 
-🟢 Progrès scientifique majeur : le point manquant est désormais localisé et les faux positifs ont été largement éliminés.
+🟢 Progrès scientifique : le dernier refuge documentaire a été audité honnêtement et ne fournit aucun support aval à un pair vertex caché.
 
-🟡 Le TDG audité atteint une **frontière d'architecture microscopique** : la source mixte nécessaire à AF n'est pas forcée par la lignée actuelle.
+🟡 Le TDG audité est maintenant à une **frontière d'architecture microscopique** au sens fort : continuer exige soit une vraie source primaire retrouvée, soit une nouvelle hypothèse physique assumée comme telle.
 
 🔴 Aucun `N12^dil` gagné; AC quotient-lock non atteint; Born toujours NOT DERIVED; O(3), HDA, spin-2 et GR non linéaire non établis.
