@@ -1,6 +1,6 @@
 # Complete TDG — État courant
 
-**Date : 2026-09-09 (America/Toronto)**
+**Date : 2026-09-10 (America/Toronto)**
 
 ## Statut défendable
 
@@ -11,77 +11,95 @@
 - actualisation soustractive = contribution conceptuelle de Jonathan Duchesne;
 - Born NOT DERIVED; durée métrique NOT DERIVED; Lambda OPEN; O(3) FAIL/NOT CLOSED; HDA/spin-2/GR non linéaire non établis.
 
-## AF — conclusion de frontière du 9 septembre
+## AF — contrôle binding
 
-Le critère AF a été renforcé deux fois :
+Un candidat `N12` doit être microscopique, pré-readout/géométrie, **composition-normal** et **dilation-normal** après soustraction de : one-event maps, compositions cohérentes et phases/holonomies, propagation same-sector, carrier extension + canonical inclusion + global-Q noncollapsed, common-parent/Feshbach, common boundary/final, full predictive endpoint/Hankel, et predictive-memory dilations physiquement licenciées.
 
-1. un candidat doit être **composition-normal** après soustraction de toutes les one-event maps, compositions cohérentes, phases/holonomies, propagation same-sector, common-parent/Feshbach, common-boundary et common-final recombination;
-2. il doit aussi être **dilation-normal** : une apparente dépendance `U_(f|e)` ne compte pas comme pair vertex si elle peut être représentée par une loi fixe `V_f=sum_e |e><e|⊗U_(f|e)` sur un predictive-memory lift physiquement licencié.
+Fresh pair-vs-memory theorem : `V_f=sum_e |e><e|⊗U_(f|e)` reproduit exactement toute famille finie de lois conditionnelles `U_(f|e)` sur un espace mémoire raffiné; verifier **6/6 PASS**. Donc `e changes apparent law of f` n'identifie pas un pair vertex primitif.
 
-Fresh verifier pair-vs-memory : **6/6 PASS**, défauts d'intertwining/visible/coherent = `0`; unitarité trois histoires = `4.20e-16`.
+## Correction documentaire majeure — Q-B1844 a été exécuté
 
-Le Hankel Q-B79 peut fixer un espace prédictif minimal et une quantité de mémoire nécessaire, mais RC20 montre qu'une mémoire minimale future-visible peut être dérivée sans que son **physical carrier-state realization** soit sélectionnée.
+Les anciens handoffs disant `Q-B1844 OPEN / NOT RUN` sont superseded par la certification Q-B1844A→J du 18 août 2026.
 
-## Audit terminal de l'inventaire microscopique récupéré
+Sur `B3 M2 + 3 x B2 M2` :
+- `dim_C Hom_S3(B2^3->B3)=2`;
+- commutant Hermitien B3 réel dim1;
+- commutant Hermitien B2^3 réel dim6;
+- commutant Hermitien star complet réel dim11;
+- cross-block Hermitien dim4 réel.
 
-- **Q-B1824 / Active43** : explicitement grade-one, `H_conf=D+sum_e x_e(U_e+U_e†)`; aucun bloc pair/higher primitif. Toute réponse squarefree multi-event de `H^n` ou `f(H)` est compositionnelle, max verifier residual `2.227e-15`.
-- **Q-B1819** : vrai instrument physique d'extension one-event; descendants multi-event dans la fermeture grade-one.
-- **Q-B1010/1011** : 3/4-cell projectability constructive sans nouveau paramètre triple/quadruple; **ROOT-NATIVE SELECTION OPEN**.
-- **Q-B1842→1848** : structure riche et utile, mais Q-B1842 est historiquement un **Q_loc enrichment introduit**, pas une dérivation du Root antérieur.
-- **Q-B1715** : boundary O(a^4) réel mais Schur/Feshbach-réductible.
-- **GR62/63** : occurrence/interférence réelle, whole-cut CP stage non unique; pas de pair source forcée.
-- **H130/H160** : richesse common-parent réelle; occurrence registers / lower-incidence enrichments non dérivés du Root minimal.
+La famille ordinaire locale S3-covariante existante échoue fortement à réaliser directement la connexion verticale/canonique : meilleur résidu continuum ~`0.81125`, puis ~`0.80225` avec la seule ligne onsite non scalaire b24-surviving. **STRONG NUMERICAL FAIL**, pas théorème analytique de minimum global.
 
-### Nouveau contrôle documentaire — Q-B1844
+## Q-B1845A→K — résultat positif récupéré et certifié
 
-Checkpoint : `checkpoints/SENTRY/2026-09-09/TDG_MICROSCOPIC_CONSTRUCTOR_PRIMITIVE_HIGHER_BLOCK_RECOVERY_AUDIT_2026-09-09.md`, commit `2731370759eafc8ab59f40f9ae01aafae41f78ab`.
+Q-B1845 montre que l'échec Q-B1844 était en partie un mauvais typage : le full Q non compressé contient déjà une susceptibilité collective quatre-B3 qui porte le chart 4D.
 
-Le test historique le plus proche d'une vraie preuve d'insuffisance du contenu Q existant était **Q-B1844** : paramétrer le plus général couplage local S3-covariant hermitien sur les fibres déjà existantes et demander s'il peut réaliser la carte cinématique avant tout enrichissement. Les recoveries jusqu'à Q-B1859S conservent explicitement : `Dynamic realization by the most general existing-fibre S3-covariant collective Q coupling = OPEN / NOT RUN`.
+Pour un tangent B2 onsite `X` :
 
-Donc deux énoncés doivent rester séparés :
-- **aucun bloc pair/higher primitif n'a été retrouvé dans le corpus microscopique audité** — supporté;
-- **aucun couplage permis sur les fibres existantes ne peut exister** — NOT ESTABLISHED, car Q-B1844 n'a pas été exécuté et le Root abstrait n'est pas limité globalement à Active43.
+`A_f(a)=c_f a^2 A0 + O(a^4)`,
 
-## Nouveau résultat binding
+`A0=(I_incidence⊗I3)V4`,
 
-Checkpoint :
-`checkpoints/SENTRY/2026-09-09/TDG_FROZEN_ROOT_PRIMITIVE_N12_MICROSCOPIC_ONTOLOGY_BOUNDARY_2026-09-09.md`
-commit `1836b35de928cece02f0db9db9c13b7b33f22fcc`.
+avec `A0^T A0=I4`, défaut `7.98e-16`.
 
-Classification :
+La compression immédiate à un seul B3 perd une direction; les quatre blocs diagonaux B3 suffisent déjà à rank4 — aucune cohérence inter-B3 off-diagonale n'est nécessaire.
 
-**PRIMITIVE DILATION-NORMAL N12 = NOT DERIVED FROM FROZEN ROOT / RETAINED MICROSCOPIC CORPUS.**
+Contrôles retenus :
+- readout universality/future coorientation : strong asymptotic pass;
+- associated S4 covariance : défaut ~O(a²);
+- b24/b4 chart naturality : coefficient exact `1/sqrt(3)`, residual `2.21e-17`;
+- Q-process decoder -> active 4D descriptor : exact continuum / strong finite pass;
+- process-selected normal/boost leg -> actual anisotropic h3 action : strong fresh replay pass, e.g. a=.01 shape `1.259e-9`, process-r error `6.260e-9`.
 
-Ce n'est **pas** un théorème universel de non-existence. Cela signifie que le Root actuel sait typer, contraindre et composer une loi Q microscopique, mais ne dérive pas encore un principe qui sélectionne un générateur pair/higher supplémentaire. L'ajouter pour aider GR serait une nouvelle hypothèse physique et violerait l'anti-target-fit firewall.
+Q-B1845K conclusion : **aucun nouveau fibre/couplage microscopique n'est forcé à ce stade; la mémoire collective requise est déjà dans le Q non quotienté**, si le contexte quatre-B3 est retenu.
+
+## Provenance Q-B1845
+
+Important : Q-B1845 est Q-native relativement au **Q enrichi de Q-B1842**. Q-B1842B avait introduit le canal lower-incidence
+
+`H_(B3,B2)=gamma a I2`
+
+comme `minimal generic Q_loc enrichment`; covariance seule ne sélectionnait pas une unique jambe et `gamma` reste donnée RG/scheme-dependent. Donc Q-B1845 n'est pas une dérivation de ce canal depuis le Root minimal gelé.
+
+## AF reclassification Q-B1845
+
+Q-B1845 est un vrai **process/redescription connection PASS**, mais pas le `N12` recherché :
+- source = single-insertion analytic susceptibility `X -> Df(H)[X]` sur carrier fixe;
+- leading term généré par deux hops B3↔B2 autour d'un tangent B2;
+- aucun couple d'Ext factuels `(e,f)` dans la définition;
+- aucun direct `P_AB H P_0`;
+- aucune novelty-novelty coupling;
+- aucune cohérence inter-B3 nécessaire;
+- aucun résidu dilation-normal pair-transition démontré.
+
+Le résultat renforce même le firewall mémoire : une direction apparemment absente réapparaît en gardant davantage du Q existant plutôt qu'en ajoutant un pair vertex.
+
+Checkpoint correctif :
+`checkpoints/SENTRY/2026-09-10/TDG_QB1844_QB1845_AUTHORITATIVE_RECOVERY_AF_RECLASSIFICATION_2026-09-10.md`
+commit `74e1886f4703caa796537ffed301903a40365e90`.
+
+Checkpoint corpus :
+`checkpoints/SENTRY/2026-09-10/TDG_RECOVERED_MICROSCOPIC_Q_INVENTORY_NO_DERIVED_MULTIEVENT_BLOCK_2026-09-10.md`
+commit `6387bed153abd0655beb94c604a1c335f1d0633c`.
 
 ## Front exact maintenant
 
-### MICROSCOPIC Q-LAW SELECTION / Q-B1844 COMPLETENESS GATE
+### Q-B1819 PHYSICAL EXT × Q-B1845 COLLECTIVE PROCESS — AF EVENT-LIFT GATE
 
-Arrêter de chercher un `N12` caché dans les mêmes constructeurs Active43/H130/GR62/Cons/higher-H.
+Tester la combinaison sans passer par `R_op`, SAME-h, O(3), HDA ou GR :
+1. utiliser seulement les Ext configuration-changing physiques Q-B1819 et leurs inclusions canoniques;
+2. retenir le full four-B3 collective process Q-B1845 avant quotient;
+3. construire un same-parent ou dependent two-Ext comparison au niveau source/process;
+4. soustraire one-event + diagonal/Feshbach + coherent composition + predictive-memory dilation;
+5. chercher un résidu pair-transition microscopique non nul;
+6. seulement si positif : causal-break, Cons/naturality, b4/b24, q²/common-cone.
 
-Deux voies target-blind restent prioritaires :
-1. **reconstruire/exécuter le test Q-B1844** sur la famille la plus générale de couplages existants, sans cible GR; même un FAIL ne prouverait qu'un besoin d'enrichissement processuel dans ce scope, pas automatiquement un pair vertex;
-2. inventorier les contraintes root-native déjà gagnées sur `Q_loc`, construire des lois adversariales satisfaisant toutes ces contraintes, puis chercher un principe physique indépendant de GR qui réduit réellement cette liberté.
-
-Un candidat ne pourra revenir dans AF que s'il est ensuite composition-normal + dilation-normal.
-
-## Safepoints récents majeurs
-
-- coherent-control process-level : `a42e9fcf...`
-- coherent-order/supermap rescue closure : `8bd4b460...`
-- boundary/inflow classification : `79ca7df5...`
-- pair-vs-predictive-memory dilation no-go : `cdfa68674643b2b8bfabd97ce120d6d586353ede`
-- primitive-N12 microscopic ontology boundary : `1836b35de928cece02f0db9db9c13b7b33f22fcc`
-- microscopic-constructor/Q-B1844 recovery audit : `2731370759eafc8ab59f40f9ae01aafae41f78ab`
-
-Repro pair-vs-memory :
-`checkpoints/SENTRY/2026-09-09/repro/tdg_pair_vs_memory_dilation.py`.
+Si le lift Q-B1845 vers les Ext se réduit à one-event Ext + process-memory propagation, AF reste fermé.
 
 ## Verdict GR
 
-🟢 Le problème est beaucoup mieux localisé et le corpus microscopique audité ne fournit aucun `N12` primitif gagné.
+🟢 Correction très positive : Q-B1845 récupère réellement une connexion locale/processuelle 4D depuis le Q complet, sans fit de GR et sans nouveau fibre à ce stade.
 
-🟡 Le verrou est désormais fondamental mais aussi concret : **Q-B1844 est le test target-blind manquant avant de conclure que les fibres/couplages existants sont insuffisants**; plus largement il faut sélectionner la loi microscopique Q elle-même à partir d'un principe indépendant de GR.
+🟡 Mais ce n'est pas encore une dynamique de deux Ext factuels ni un `N12`; et sa provenance dépend du Q_loc enrichi Q-B1842.
 
-🔴 `N12` non gagné. Born toujours NOT DERIVED. O(3) FAIL/NOT CLOSED. GR non linéaire non établi.
+🔴 Born toujours NOT DERIVED. O(3) FAIL/NOT CLOSED. HDA/spin-2/GR non linéaire non établis.
