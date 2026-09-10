@@ -64,7 +64,7 @@ Le reproducteur sauvegardé donne **6/6 PASS**, y compris sur superpositions coh
 
 Q-B79/Hankel fixe une mémoire prédictive minimale, mais RC20 montre que sa réalisation physique comme carrier-state peut rester OPEN. Le Hankel fixe la quantité de mémoire, pas son ontologie microscopique.
 
-## NOUVEAU — predictive-memory realization selection no-go
+## Predictive-memory realization selection no-go
 
 Checkpoint :
 `checkpoints/SENTRY/2026-09-10/TDG_PREDICTIVE_MEMORY_REALIZATION_SELECTION_NOGO_2026-09-10.md`
@@ -76,7 +76,7 @@ Résultat : **NON / NOT DERIVED**.
 
 - R14-S surplus-structure principle élimine/quotiente toute différence de réalisation qui laisse invariantes toutes les réponses Root-admissibles et distributions factuelles; il ne choisit pas un représentant privilégié.
 - Q-B79/Hankel fournit le quotient prédictif minimal et des bornes de dimension mémoire, pas une factorisation Hilbert/carrier unique.
-- RC20 dérive 18 directions future-visible minimales et un transport canonique sur S60, tout en maintenant explicitement `PHYSICAL CARRIER-STATE REALIZATION OF R18 = OPEN`.
+- RC20 dérive 18 directions future-visible minimales et un transport canonique sur S60, tout en maintenant explicitement `PHYSICAL CARRIER-STATE REALIZATION OF R18 = OPEN` à son propre stade.
 - EXP6 montre que la distinction entre dilatations cohérentes peut être descriptive à interface grossière et physique à interface fine.
 - EXP8 ne fournit pas de sélection universelle de cette interface.
 - v4.1 : generic quantum-process memory peut égaler le prédicteur TDG; `TDG specificity = NOT ESTABLISHED`.
@@ -86,9 +86,75 @@ Théorème de frontière :
 
 `canonical minimal predictive state` **DOES NOT IMPLY** `unique microscopic physical realization`.
 
-Donc ni minimalité, ni future-response completeness, ni source-memory transport ne sélectionnent `pair vertex` plutôt que `memory factor / higher cell / equivalent dilation`.
+## NOUVEAU — new-microphysics admission gate G0–G10
 
-Un futur `N12` dérivé doit être déjà **physiquement typé dans l'inventaire microscopique Q avant la compression prédictive**, ou venir avec un nouveau théorème indépendant de sélection de réalisation.
+Checkpoint :
+`checkpoints/SENTRY/2026-09-10/TDG_NEW_MICROSCOPIC_HYPOTHESIS_ADMISSION_GATE_2026-09-10.md`
+commit `d24c222977538a5d8cbe0854eb33ca77c6e70cf7`.
+
+Aucune nouvelle loi n'est ajoutée. Le protocole d'admission est gelé **avant** tout candidat.
+
+Toute nouvelle hypothèse `Q_loc` doit :
+- être motivée par un witness prétarget indépendant de GR;
+- être physiquement typée avant coefficient/fit;
+- être nonredondante sous composition, Feshbach, comb, holonomy, predictive-memory dilation et quotient descriptif;
+- avoir une marge positive contre des nulls matched;
+- survivre Cons/naturality/refinement;
+- préserver les succès Q antérieurs;
+- être gelée en Stage I avant tout test AF/GR Stage II.
+
+Scorecard obligatoire : G0 pretarget witness, G1 typing, G2 nonredundancy, G3 composition-normality, G4 dilation-normality, G5 parameter selection independent of GR, G6 matched-null margin, G7 Cons/naturality, G8 refinement survival, G9 conservative Q consistency, G10 pretarget freeze.
+
+Aucune H1–H5 (new Ext / higher cell / physical predictive-memory degree / boundary-inflow / modified Q law) n'est promue.
+
+## NOUVEAU — inventory-first identifiability theorem
+
+Checkpoint :
+`checkpoints/SENTRY/2026-09-10/TDG_OPERATIONAL_WITNESS_NOT_MICROSCOPIC_ONTOLOGY_INVENTORY_FIRST_NOGO_2026-09-10.md`
+commit `50cfbb74bc3b1a50194c4d951ed00292e2ec7e2b`.
+
+Dans les classes finies couvertes par Q-B298, v4.1, GR133 et le pair-vs-memory theorem, un witness opérationnel peut démontrer qu'une **réalisation réduite** est insuffisante, mais ne sélectionne pas l'ontologie microscopique manquante.
+
+G0 est donc scindé :
+- **G0a PHYSICAL INVENTORY FREEZE** : fixer indépendamment `I_phys`;
+- **G0b INVENTORY-RELATIVE REPRESENTABILITY FAILURE** : seulement ensuite montrer `R notin Closure_Q(I_phys)`.
+
+Il est interdit d'exclure une mémoire/dilation simplement parce qu'elle efface le signal AF désiré.
+
+## NOUVEAU — RC21 correctement retypé
+
+Checkpoint :
+`checkpoints/SENTRY/2026-09-10/TDG_RC21_HISTORY_REALIZATION_NOT_PREDICTIVE_Q_CARRIER_REALIZATION_2026-09-10.md`
+commit `9f24217e5d425f492928dbab9c07d7a82787f64e`.
+
+RC21 a réellement fermé une partie du mur RC20 :
+- les 18 directions R18 sont physiquement réalisées par les deux derniers cuts actualisés;
+- `P60_hist = B42 + M18_history` donne une mémoire/process state physique rank60;
+- physical process/history transport = STRONG LIVE PASS dans le stencil testé.
+
+Mais cette réalisation appartient au **post-factual history state**, pas à un nouveau facteur de Q prédictif pré-factuel. Les audits de stage order interdisent `M18_n -> Q_n` et exigent une promotion/inflow séparément dérivée pour toute action future sur Q.
+
+RC26 renforce le typage : sur 88 groupes same-endpoint multi-history, le vrai transport `M12(x,y)` a history-order spread **0.0**, tandis que K4 history-odd varie fortement (max ~`0.52477`). Donc la mémoire d'histoire est réelle mais verticale à la transition same-endpoint dans ce scope.
+
+Inventaire désormais séparé :
+- `I_Q^pred` = degrés pré-factuels du Q pouvant entrer dans la loi microscopique;
+- `I_hist^fact` = mémoire/histoire factuelle physique, sans backflow automatique.
+
+## NOUVEAU — RC23 B2/R18 representation-match rescue fermé
+
+Checkpoint :
+`checkpoints/SENTRY/2026-09-10/TDG_RC23_B2_R18_REPRESENTATION_MATCH_NOT_PHYSICAL_INTERTWINER_NOGO_2026-09-10.md`
+commit `b3ce371bedf302694b99f4f4355b5c6d11c63a36`.
+
+Le secteur B2 actif pré-factuel possède exactement le type R18 et une capacité physique rank18, mais **ne réalise pas canoniquement M18_history** :
+- les six paires `i->j` / `j->i` ont le même endpoint/B2 final alors que leur différence d'histoire couvre rank18/18;
+- `End_S4(R18)` a dimension15;
+- même S4 + pair-offdiagonal locality laisse une famille d'intertwiners de dimension4;
+- aucun `M18_history -> B2_R18` Q-native unique n'est dérivé.
+
+RC23 conserve toutefois un associated rank12 solder-response transport très fort; ce résultat ne fixe pas l'ontologie mémoire du Q.
+
+Conséquence G0a : **le problème n'est pas la dimension de mémoire. Il manque un principe Q-native de réalisation/intertwining qui fixe la mémoire prédictive pré-factuelle.**
 
 ## Corpus-level architecture boundary — binding
 
@@ -108,30 +174,32 @@ Checkpoint :
 `checkpoints/SENTRY/2026-09-10/TDG_QB759_QB878_TARGETED_ARCHAEOLOGY_DOWNSTREAM_PROVENANCE_SCREEN_2026-09-10.md`
 commit `273055b44501bf773db5dfc4a760c77256a148b8`.
 
-Une recherche ciblée par numéros `Q-B759`, `Q-B869`, `Q-B870`, `Q-B871`, `Q-B872`, `Q-B878`, titres et phrases survivantes n'a retrouvé **aucune source autonome**. Les recoveries indépendants répètent tous la même frontière fiable : source A jusqu'à Q-B758, puis delta Q-B879+, avec Q-B759→878 explicitement `UNKNOWN`. Seule empreinte : Q-B869→878 = `COHERENT-ARM GRAM / SAME-BRANCH 1-JET CARTAN COMPLETION`.
-
-Le delta récupéré Q-B879→919 reprend TSC/solder, response jets, SL2/canonicalizers et shape flow; il ne déclare aucun primitive multi-Ext block hérité du gap. Q-B912 introduit sa nonfactorisation par une loi construite, et Q-B929/Q-B931 localisent l'anisotropie utile dans le cubic coherence sector généré par l'algèbre existante, pas dans un nouvel opérateur primitif.
-
-Conclusion limitée : la continuité récupérée n'apporte aucune preuve qu'un primitive `N12` caché dans Q-B759→878 était nécessaire. Le contenu manquant reste inconnu et ne doit pas être interpolé.
+Une recherche ciblée par numéros et titres n'a retrouvé **aucune source autonome**. La frontière fiable reste source jusqu'à Q-B758, puis delta Q-B879+, avec Q-B759→878 explicitement UNKNOWN. Le downstream récupéré n'apporte aucune preuve qu'un primitive N12 caché y était nécessaire. Ne pas interpoler.
 
 ## Front exact maintenant
 
-### DERIVATION-ONLY AF SOURCE MINING = STOP dans la lignée auditée
+### PRE-FACTUAL Q REALIZATION-SELECTION / INVENTORY GATE
 
-Le dernier rescue interne — **sélection canonique de la réalisation microscopique par minimalité prédictive** — est maintenant fermé.
+Le mining direct de `N12` reste STOP dans la lignée auditée.
 
-Deux routes seulement restent scientifiquement propres :
-1. **récupération future d'une vraie source primaire externe/archivée** contenant un bloc microscopique explicite non-grade-one;
-2. **nouvelle hypothèse microscopique TDG**, explicitement marquée `NEW PHYSICAL HYPOTHESIS / Q_loc ENRICHMENT`, gelée target-blind avant toute comparaison GR puis soumise au harness AF complet.
+La question la plus amont et légitime est maintenant :
 
-Une troisième route conceptuelle ne rouvrirait la dérivation que si un nouveau théorème indépendant était démontré à partir des axiomes Root actuels : **sélection unique de la réalisation physique de la mémoire prédictive parmi toutes les dilatations response-equivalent**. Aucun tel théorème n'est actuellement dérivé.
+**Le Q pré-factuel possède-t-il une structure déjà dérivée qui sélectionne canoniquement sa réalisation physique de mémoire/processus parmi les dilatations response-equivalent ?**
 
-Ne plus re-miner higher H powers, conditional transition tables, process-tensor non-Markovianity, response connections, normalized pair tensors, Q-B656 contextual section, mémoire Hankel minimale ou le gap Q-B759→878 par interpolation.
+Le R18 factuel de RC21 ne suffit pas; le B2 R18 de RC23 ne suffit pas; leur égalité de type ne fournit aucun intertwiner canonique.
+
+Cibles target-blind encore légales :
+1. interaction-algebra/commutant selector réellement Q-native;
+2. intervention-complete algebra avec embedding minimal unique;
+3. Ext/refinement naturality réduisant la famille d'intertwiners à une ligne sans target data;
+4. boundary/inflow common-domain law dérivée de Q.
+
+Si ces sélecteurs échouent eux aussi, G0a doit être certifié **NOT DERIVED FROM CURRENT ROOT**, et aucune hypothèse H1-H5 ne pourra être présentée comme dérivée.
 
 ## Verdict GR
 
-🟢 Progrès scientifique majeur : le dernier rescue de l'identifiabilité du `N12` vient d'être fermé proprement.
+🟢 Progrès conceptuel important : RC21 est sauvé dans son vrai type, et RC23 ferme le faux raccourci B2/R18.
 
-🟡 La frontière est désormais explicitement **ontologique/microscopique**, pas computationnelle : le Root actuel ne choisit pas une réalisation pair-vertex parmi des dilatations prédictivement équivalentes.
+🟡 Le mur est désormais très précis : **sélection de la réalisation microscopique pré-factuelle de Q**, pas calcul d'un coefficient mixte.
 
 🔴 Aucun `N12^dil` gagné; AC quotient-lock non atteint; Born toujours NOT DERIVED; O(3), HDA, spin-2 et GR non linéaire non établis.
