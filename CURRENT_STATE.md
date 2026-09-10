@@ -15,9 +15,9 @@
 
 Besoin d'un `N_12(a) != 0` Q-native au niveau PROCESS/transition, avant readout/géométrie.
 
-La soustraction doit inclure : one-event maps, **composition cohérente complète** avec phases/holonomies physiquement accessibles, propagation same-sector, carrier extension + canonical inclusion + noncollapsed global-Q embedding, common-parent/Feshbach, common boundary, full predictive endpoint/Hankel, `(R2,R4)` où typé et common-final recombination.
+La soustraction doit inclure : one-event maps, **composition cohérente complète** avec phases/holonomies physiquement accessibles, propagation same-sector, carrier extension + canonical inclusion + noncollapsed global-Q embedding, common-parent/Feshbach, common boundary, full predictive endpoint/Hankel, `(R2,R4)` où typé, common-final recombination, **et désormais les réalisations one-event sur predictive-memory lifts physiquement licenciés**.
 
-Un effet qui n'apparaît que parce qu'un quotient CPTP perd une phase n'est pas un `N12`.
+Un effet qui n'apparaît que parce qu'un quotient CPTP perd une phase n'est pas un `N12`. Un effet qui ressemble à une transition `f` conditionnée par l'histoire `e` n'identifie pas non plus un pair vertex si une dilation mémoire fixe peut le représenter exactement.
 
 ## Fermetures binding récentes
 
@@ -32,6 +32,7 @@ Un effet qui n'apparaît que parce qu'un quotient CPTP perd une phase n'est pas 
 - GR62 whole-cut CP-map necessity : retypée par Q-B1822; branch-poststate -> next-global-Q est exactement faux.
 - finite non-Markovianity / process-tensor / comb necessity : ne force pas un nouveau générateur; generic quantum process memory peut représenter ces effets.
 - GR131/132 `5b` : absent de `Q_rich` mais déjà présent dans le full comb-native Q; effective-model gap, pas Root incompleteness.
+- **Pair-vertex identifiability under predictive-memory dilation : FAIL.** Une famille apparente `U_{f|e}` peut être représentée exactement par un seul opérateur fixe `V_f=sum_e |e><e|⊗U_{f|e}` sur un espace mémoire agrandi.
 
 ## Checkpoints Sentry — 2026-09-09
 
@@ -40,6 +41,7 @@ Précédents majeurs : `fcc0e857...`, `e4c682ad...`, `d9d9ce07...`, `5af4c446...
 Nouveaux :
 - `TDG_FINITE_COMB_NONMARKOVIANITY_NOT_GENERATOR_NECESSITY_2026-09-09.md` — commit `5f0994c5b76cee2c969ca3ccad931b69affa6858`.
 - `TDG_GR131_GR132_5B_EFFECTIVE_MODEL_GAP_NOT_ROOT_INCOMPLETENESS_2026-09-09.md` — commit `4216697429c11126ebedab7de284d9f1593a677f`.
+- `TDG_AF_PAIR_VERTEX_VS_PREDICTIVE_MEMORY_DILATION_IDENTIFIABILITY_NOGO_2026-09-09.md` — binding no-go; repro script commit `9902e7ffb96c1bba355e837e95baff7c4f18fc0c`.
 
 ## GR62 whole-cut gap — retypé
 
@@ -81,9 +83,31 @@ Donc :
 
 Le 5b ne force aucun nouveau Root generator. Une direction normale à un descendant/effective-Q ne compte pas comme AF source si elle appartient déjà au full comb-native microscopic process manifold.
 
+## Nouveau — pair vertex vs predictive-memory dilation
+
+Fresh finite theorem : pour toute famille finie de transitions conditionnelles unitaires `U_{f|e}`, on peut introduire une mémoire orthogonale `|e>` et un unique opérateur fixe
+
+`V_f = sum_e |e><e| tensor U_{f|e}`
+
+tel que
+
+`V_f W_e = W_e U_{f|e}`
+
+exactement, y compris sur superpositions cohérentes des histoires. Fresh verifier : **6/6 PASS**, défauts d'intertwining/visible/coherent = `0`, unitarité du cas 3 histoires = `4.20e-16`.
+
+Conséquence :
+
+`e changes apparent law of f -> primitive Q_(e,f)`
+
+= **FAIL / NOT REPRESENTATION-INVARIANT**.
+
+Q-B79/Hankel ne sauve pas cette identification : il fournit un espace prédictif minimal canonique et des bornes de mémoire, mais RC20 montre qu'un minimum de 18 directions future-visible peut être dérivé tout en laissant **PHYSICAL CARRIER-STATE REALIZATION OF R18 = OPEN**. Donc le Hankel dit combien de mémoire est nécessaire, pas quelle ontologie microscopique la réalise.
+
+Nouveau critère conceptuel : un candidat AF doit être **dilation-normal** : il doit rester hors de la fermeture de toutes les réalisations one-event cohérentes sur les predictive-memory lifts physiquement licenciés.
+
 ## Front exact maintenant
 
-### FULL MICROSCOPIC GLOBAL-Q REPRESENTABILITY FALSIFICATION GATE
+### PHYSICALLY FIXED MICROSCOPIC INVENTORY / DILATION-NORMAL SOURCE GATE
 
 Après les audits du 9 septembre, aucun témoin interne récupéré ne force encore un générateur non-grade-one hors du Root actuel.
 
@@ -97,7 +121,8 @@ Un témoin positif doit désormais battre **tout** ceci simultanément :
 7. boundary/state instance data;
 8. Cons/path-holonomy semantics;
 9. common-parent/Feshbach hidden mediation;
-10. generic finite quantum-process memory/dilation where applicable.
+10. generic finite quantum-process memory/dilation;
+11. **canonical/minimal predictive-memory lifts compatibles avec le full future response**.
 
 Ne comptent plus :
 - CPTP quotient losing phase;
@@ -105,18 +130,17 @@ Ne comptent plus :
 - ordinary non-Markovianity/process-tensor necessity;
 - effective model omissions such as `Q_rich` missing `5b`;
 - vertical/history information sans promotion;
-- deeper grade-one H powers.
+- deeper grade-one H powers;
+- apparent history-conditioned second-transition laws without proof qu'aucune dilation mémoire physique n'est équivalente.
 
-Positive witness required: a pretarget physical future/process response **present in the actual microscopic TDG process but impossible to represent by the full functorial comb-native global-Q closure**, or a consistency contradiction forcing a new microscopic type independently of GR.
+Positive witness required : un bloc/processus prétarget **présent dans l'inventaire microscopique TDG physiquement fixé** et non reconstructible par le full functorial comb-native global-Q + predictive-memory closure. Idéalement un inter-fibre/higher block primitif déjà dans le Hamiltonien Q, avec sector typing indépendamment physique.
 
-Si trouvé : enrichir `Q_loc` minimalement, puis tester connected `N12` au harness AF.
-
-Si aucun témoin n'est trouvé : conclusion locale honnête — **le Root TDG actuel ne force pas en interne une source AF non-grade-one; l'ajouter serait une nouvelle hypothèse physique.** Ce n'est pas un théorème universel de non-existence.
+Si aucun tel bloc n'est trouvé : conclusion locale honnête — **le Root TDG actuel ne dérive pas un primitive `N12`; l'ajouter serait une nouvelle hypothèse physique.** Ce n'est pas un théorème universel de non-existence.
 
 ## Verdict GR
 
-🟢 On a encore réduit fortement l'espace de faux positifs et corrigé deux confusions de niveau : process-memory ≠ nouveau générateur; effective-Q gap ≠ microscopic-Q gap.
+🟢 Le harness AF devient beaucoup plus robuste : il distingue désormais un vrai vertex d'une simple mémoire prédictive cachée dans une représentation grossière.
 
-🟡 Le seul mur légitime est maintenant la falsification directe de la **représentabilité du full microscopic functorial comb-native global Q**.
+🟡 Le mur est maintenant ontologique : fixer indépendamment l'inventaire microscopique physique de Q puis chercher un résidu **dilation-normal**.
 
 🔴 `N12` non gagné. Born toujours NOT DERIVED. GR non linéaire non établi.
