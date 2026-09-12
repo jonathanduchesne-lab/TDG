@@ -1,205 +1,260 @@
 # Complete TDG — État courant
 
-**Date : 2026-09-10 (America/Toronto)**
+**Date : 2026-09-12 (America/Toronto)**
 
-## Statut défendable
+## 1. Autorité / firewalls permanents
 
-- retained-memory / effective-history : **noyau fort conservé**;
-- deux hélicités `q^2` et cône de Lorentz commun protégés downstream;
-- autorité historique FINAL-CERTIFIED : **Q-B1858L**, inchangée;
-- Root1 gelé; `A_path` retiré; global Q non collapsed; ledger factuel append-only/séparé;
-- actualisation soustractive = contribution conceptuelle de Jonathan Duchesne;
-- Born NOT DERIVED; durée métrique NOT DERIVED; Lambda OPEN; O(3) FAIL/NOT CLOSED; HDA/spin-2/GR non linéaire non établis.
+- Autorité historique FINAL-CERTIFIED : **Q-B1858L**, inchangée.
+- Root1 gelé; `A_path` retiré.
+- Global Q non collapsed.
+- Ledger factuel append-only et séparé du Q prédictif.
+- Actualisation soustractive : contribution conceptuelle de Jonathan Duchesne.
+- Born : **NOT DERIVED**.
+- Durée métrique/propre : **NOT DERIVED**.
+- Lambda : **OPEN**.
+- O(3) dynamique : **FAIL / NOT CLOSED**.
+- HDA / spin-2 / GR non linéaire : **NOT ESTABLISHED** dans l’état actif.
+- Aucun preferred `z`, projector O(3)/TT, tetrad, ADM/EH target, coefficient géométrique ou backflow factuel ne peut être introduit silencieusement.
 
-## AF — critère binding renforcé
+---
 
-Un candidat `N12` doit être microscopique, pré-readout/géométrie, **composition-normal** et **dilation-normal** après soustraction de : one-event maps, compositions cohérentes et phases/holonomies, propagation same-sector, carrier extension + canonical inclusion + global-Q noncollapsed, common-parent/Feshbach, common boundary/final, full predictive endpoint/Hankel, full comb-native representation et predictive-memory dilations physiquement licenciées.
+## 2. AF / microphysique — état binding
 
-Fresh theorem : `V_f=sum_e |e><e|⊗U_(f|e)` reproduit exactement une famille finie de lois conditionnelles `U_(f|e)` sur un espace mémoire raffiné; verifier **6/6 PASS**. Donc `e changes apparent law of f` n'identifie pas un pair vertex primitif.
+Le mining direct d’un `N12` primitif reste STOP dans la lignée auditée.
 
-## Q-B1845→1852 — process bridge fort, AF pair source fermé
+Le théorème pair-vs-memory reste binding : une famille conditionnelle finie `U_(f|e)` peut être compilée dans une loi fixe sur mémoire orthogonale,
 
-Q-B1845 récupère depuis le Q enrichi une susceptibilité collective quatre-B3 avec chart 4D exact-leading :
-`A_f(a)=c_f a^2 A0+O(a^4)`, `A0^T A0=I4`, défaut `7.98e-16`.
+`V_f = sum_e |e><e| tensor U_(f|e)`,
 
-Q-B1849 dérive un vrai legal-move -> process secant depuis le même global Q.
+sans identifier un pair vertex primitif. Hankel/minimal predictive fixe une quantité de mémoire mais pas son ontologie microscopique.
 
-Q-B1850 construit la réponse same-Q cross-context Cons/Feshbach; elle est riche et rank16/16, mais **toutes les `C(16,2)=120` paires same-final donnent exactement le même futur final** : max defect `0.0`.
+### Réalisation prédictive
 
-Q-B1851 donne une prolongation canonique scalar -> full `1+3`; Q-B1852 conserve **120/120 Cons diamonds exacts** sous refinement. Ces objets renforcent la géométrie/mémoire de processus mais restent current-carrier/predictive-state mediated.
+- RC21 réalise physiquement `R18` comme mémoire/histoire **post-factuelle** `M18_history`, pas comme nouveau facteur Q pré-factuel.
+- RC23 trouve dans B2 une capacité pré-factuelle de type R18 mais aucun intertwiner canonique `M18_history -> B2_R18`.
+- `End_S4(R18)` reste trop grand; même S4 + locality ne sélectionnent pas une réalisation unique.
+- Aucune promotion `M18_history -> Q_pred` n’est dérivée.
 
-## Dependent RefinedQ shell no-go
+### Trois sélecteurs target-blind maintenant fermés
 
-Checkpoint :
-`checkpoints/SENTRY/2026-09-10/TDG_REFINEDQ_DEPENDENT_SHELL_HOMOGENEITY_AF_NOGO_2026-09-10.md`
-commit `2eb9de8b5634fc317c9d530ea6b00694030ddb7a`.
+1. endpoint-Q interaction algebra / commutant selector — CLOSED;
+2. intervention-complete minimal embedding selector — CLOSED;
+3. Ext/refinement naturality cross-stage selector — CLOSED.
 
-Q-B1842 RefinedQ utilise un seul coupling local uniforme
-`H_(B3,B2)=gamma a I2`.
+Le boundary/inflow common-domain route reste le type de mécanisme qu’il faudrait dériver pour promouvoir une mémoire/history vers Q sans backflow interdit; aucun tel mécanisme complet n’est actuellement acquis.
 
-Dans une vraie chaîne dépendante de croissance radiale, le shell suivant n'existe pas avant le précédent, mais après relabeling canonique :
-- shell coupling matrix : diff `0.0` entre `g=5->6` et `g=10->11`;
-- shell internal Hamiltonian : diff `0.0`;
-- old-old H exactement retenu : nnz `0`, max `0.0`;
-- forme `H_(g+1)=[[H_g,C_g],[C_g†,H_E]]` avec shell type fixe et moving interface 68D.
+### Gate G0–G10
 
-Donc : **dependent support = PASS; dependent microscopic payload = FAIL dans ce scope**. Le premier événement crée le domaine, mais n'altère pas la loi locale appliquée ensuite.
+Tout nouveau contenu microscopique doit être explicitement `NEW PHYSICAL HYPOTHESIS / ROOT ENRICHMENT` et passer : G0 witness prétarget, G1 typing, G2 nonredundancy, G3 composition-normality, G4 dilation-normality, G5 sélection indépendante de GR, G6 marge contre nulls, G7 Cons/naturality, G8 refinement, G9 conservation des succès Q, G10 freeze Stage-I avant tout test downstream.
 
-## Audit final des context-selective couplings
+---
 
-- Q-B656 contient une vraie section contextuelle `W_f=U_f W0 U_f†`, mais P10D montre que le Q enrichi Q-B1846/48 est section-blind à phase fixée : cette contextualité n'est pas dérivée par la lignée Q actuelle.
-- Q-B1843 dérive une ligne de solder operatorielle locale, mais Q-B1844 montre que le plus général Hamiltonien local S3-covariant sur les fibres existantes est un espace de **capacité**, pas un Q-selector.
-- Q-B1844 : `dim_C Hom_S3(B2^3->B3)=2`, cross-block Hermitian params dim4; meilleur dynamic residual testé ~`0.81125`, puis ~`0.80225` avec onsite permis : **STRONG NUMERICAL FAIL**, pas theorem universel.
-- Q-B1845 récupère ensuite la structure désirée via **collective susceptibility/process response** du Q existant, pas via un nouveau primitive pair/context-dependent microscopic coupling.
-- Q-B1857 pair tensor normalisé vient de `m=S/N` alors que raw `(S,N)` responses sont additives; quotient effect, pas primitive vertex.
-
-## Pair vertex vs predictive-memory dilation
+## 3. Correction P10S
 
 Checkpoint :
-`checkpoints/SENTRY/2026-09-09/TDG_AF_PAIR_VERTEX_VS_PREDICTIVE_MEMORY_DILATION_IDENTIFIABILITY_NOGO_2026-09-09.md`.
+`checkpoints/SENTRY/2026-09-11/TDG_P10S_STRICT_G0_RECLASSIFICATION_NO_PRETARGET_NEW_PHYSICS_WITNESS_2026-09-11.md`
+commit `cd78ecc8...`.
 
-Une famille conditionnelle `U_(f|e)` peut être représentée exactement par un unique opérateur fixe sur une mémoire orthogonale :
-`V_f=sum_e |e><e|⊗U_(f|e)` et `V_f W_e=W_e U_(f|e)`.
-Le reproducteur sauvegardé donne **6/6 PASS**, y compris sur superpositions cohérentes.
+P10M→P10S reste un adversaire fort de cofinalité microscopique, mais **n’est pas à lui seul un witness G0 strict** : le Root distingue descriptive refinement et physical refinement, et un raffinement physique peut porter du détail UV future-visible.
 
-Q-B79/Hankel fixe une mémoire prédictive minimale, mais RC20 montre que sa réalisation physique comme carrier-state peut rester OPEN. Le Hankel fixe la quantité de mémoire, pas son ontologie microscopique.
+Donc :
 
-## Predictive-memory realization selection no-go
+`finite b4/b24 microscopic noncofinality` **n’implique pas seule** `Root physically incomplete`.
 
-Checkpoint :
-`checkpoints/SENTRY/2026-09-10/TDG_PREDICTIVE_MEMORY_REALIZATION_SELECTION_NOGO_2026-09-10.md`
-commit `a562908eb6059df4562dc3aed3c49a0364b4dc86`.
+---
 
-Audit de la dernière possibilité de rescue du no-go de dilatation : **le Root possède-t-il déjà un principe qui choisit une réalisation microscopique unique de la mémoire prédictive ?**
+## 4. O(3) / little group — résultat exact retenu
 
-Résultat : **NON / NOT DERIVED**.
+La lignée GR184/185 dérive :
 
-- R14-S surplus-structure principle élimine/quotiente toute différence de réalisation qui laisse invariantes toutes les réponses Root-admissibles et distributions factuelles; il ne choisit pas un représentant privilégié.
-- Q-B79/Hankel fournit le quotient prédictif minimal et des bornes de dimension mémoire, pas une factorisation Hilbert/carrier unique.
-- RC20 dérive 18 directions future-visible minimales et un transport canonique sur S60, tout en maintenant explicitement `PHYSICAL CARRIER-STATE REALIZATION OF R18 = OPEN` à son propre stade.
-- EXP6 montre que la distinction entre dilatations cohérentes peut être descriptive à interface grossière et physique à interface fine.
-- EXP8 ne fournit pas de sélection universelle de cette interface.
-- v4.1 : generic quantum-process memory peut égaler le prédicteur TDG; `TDG specificity = NOT ESTABLISHED`.
-- v5.0 : `TDG uniqueness = NOT ESTABLISHED`.
+- un germ Herm2 future-timelike;
+- son stabilisateur `SU2`, donc `SU2/{±I}=SO3`;
+- le même Standard3 physique/process;
+- les projecteurs Q-Casimir `l=0,1,2`.
 
-Théorème de frontière :
+Le bloc historique `T2 -> Standard3` est alors typé sans ambiguïté comme
 
-`canonical minimal predictive state` **DOES NOT IMPLY** `unique microscopic physical realization`.
+`l=2 -> l=1`.
 
-## NOUVEAU — new-microphysics admission gate G0–G10
+À `z=2+0.7i`, les extrapolations b4/b24 convergent vers environ
 
-Checkpoint :
-`checkpoints/SENTRY/2026-09-10/TDG_NEW_MICROSCOPIC_HYPOTHESIS_ADMISSION_GATE_2026-09-10.md`
-commit `d24c222977538a5d8cbe0854eb33ca77c6e70cf7`.
+- b4 : `0.1424778761`;
+- b24 : `0.1424778616`;
 
-Aucune nouvelle loi n'est ajoutée. Le protocole d'admission est gelé **avant** tout candidat.
+soit une différence relative ~`1.02e-7`.
 
-Toute nouvelle hypothèse `Q_loc` doit :
-- être motivée par un witness prétarget indépendant de GR;
-- être physiquement typée avant coefficient/fit;
-- être nonredondante sous composition, Feshbach, comb, holonomy, predictive-memory dilation et quotient descriptif;
-- avoir une marge positive contre des nulls matched;
-- survivre Cons/naturality/refinement;
-- préserver les succès Q antérieurs;
-- être gelée en Stage I avant tout test AF/GR Stage II.
+Pour un opérateur fixe non nul `A:l2->l1`, le défaut d’intertwining Casimir est exactement
 
-Scorecard obligatoire : G0 pretarget witness, G1 typing, G2 nonredundancy, G3 composition-normality, G4 dilation-normality, G5 parameter selection independent of GR, G6 matched-null margin, G7 Cons/naturality, G8 refinement survival, G9 conservative Q consistency, G10 pretarget freeze.
+`C_out A - A C_in = (2-6)A = -4A`.
 
-Aucune H1–H5 (new Ext / higher cell / physical predictive-memory degree / boundary-inflow / modified Q law) n'est promue.
+Donc le bloc fixe n’est pas SO3-invariant.
 
-## NOUVEAU — inventory-first identifiability theorem
+---
+
+## 5. NOUVEAU — retyping exact par ordre tétraédrique L=3
 
 Checkpoint :
-`checkpoints/SENTRY/2026-09-10/TDG_OPERATIONAL_WITNESS_NOT_MICROSCOPIC_ONTOLOGY_INVENTORY_FIRST_NOGO_2026-09-10.md`
-commit `50cfbb74bc3b1a50194c4d951ed00292e2ec7e2b`.
+`checkpoints/SENTRY/2026-09-11/TDG_TETRAHEDRAL_L3_ORDER_SPURION_COVARIANCE_RETYPE_2026-09-11.md`
+commit `1a6c30c5...`.
 
-Dans les classes finies couvertes par Q-B298, v4.1, GR133 et le pair-vs-memory theorem, un witness opérationnel peut démontrer qu'une **réalisation réduite** est insuffisante, mais ne sélectionne pas l'ontologie microscopique manquante.
+Pour les quatre directions du tétraèdre régulier,
 
-G0 est donc scindé :
-- **G0a PHYSICAL INVENTORY FREEZE** : fixer indépendamment `I_phys`;
-- **G0b INVENTORY-RELATIVE REPRESENTABILITY FAILURE** : seulement ensuite montrer `R notin Closure_Q(I_phys)`.
+`T_ijk=(1/4) sum_f n_f,i n_f,j n_f,k`
 
-Il est interdit d'exclure une mémoire/dilation simplement parce qu'elle efface le signal AF désiré.
+est exactement symétrique et trace-free, donc
 
-## NOUVEAU — RC21 correctement retypé
+`T3 in STF^3(R3) ~= l=3`.
 
-Checkpoint :
-`checkpoints/SENTRY/2026-09-10/TDG_RC21_HISTORY_REALIZATION_NOT_PREDICTIVE_Q_CARRIER_REALIZATION_2026-09-10.md`
-commit `9f24217e5d425f492928dbab9c07d7a82787f64e`.
+Le map
 
-RC21 a réellement fermé une partie du mur RC20 :
-- les 18 directions R18 sont physiquement réalisées par les deux derniers cuts actualisés;
-- `P60_hist = B42 + M18_history` donne une mémoire/process state physique rank60;
-- physical process/history transport = STRONG LIVE PASS dans le stencil testé.
+`A_T(H)_i = T_ijk H_jk`,  `H in l=2`,
 
-Mais cette réalisation appartient au **post-factual history state**, pas à un nouveau facteur de Q prédictif pré-factuel. Les audits de stage order interdisent `M18_n -> Q_n` et exigent une promotion/inflow séparément dérivée pour toute action future sur Q.
+est exactement le map tétraédrique historique. Dans
 
-RC26 renforce le typage : sur 88 groupes same-endpoint multi-history, le vrai transport `M12(x,y)` a history-order spread **0.0**, tandis que K4 history-odd varie fortement (max ~`0.52477`). Donc la mémoire d'histoire est réelle mais verticale à la transition same-endpoint dans ce scope.
+`Hom(l2,l1)=L1 (+) L2 (+) L3`, 
 
-Inventaire désormais séparé :
-- `I_Q^pred` = degrés pré-factuels du Q pouvant entrer dans la loi microscopique;
-- `I_hist^fact` = mémoire/histoire factuelle physique, sans backflow automatique.
+son contenu est numériquement/algebraïquement :
 
-## NOUVEAU — RC23 B2/R18 representation-match rescue fermé
+- L1 ~ `2.7e-16`;
+- L2 ~ `6.8e-16`;
+- L3 ~ `1.0`.
 
-Checkpoint :
-`checkpoints/SENTRY/2026-09-10/TDG_RC23_B2_R18_REPRESENTATION_MATCH_NOT_PHYSICAL_INTERTWINER_NOGO_2026-09-10.md`
-commit `b3ce371bedf302694b99f4f4355b5c6d11c63a36`.
+Donc le bloc tétraédrique est **pur L=3**.
 
-Le secteur B2 actif pré-factuel possède exactement le type R18 et une capacité physique rank18, mais **ne réalise pas canoniquement M18_history** :
-- les six paires `i->j` / `j->i` ont le même endpoint/B2 final alors que leur différence d'histoire couvre rank18/18;
-- `End_S4(R18)` a dimension15;
-- même S4 + pair-offdiagonal locality laisse une famille d'intertwiners de dimension4;
-- aucun `M18_history -> B2_R18` Q-native unique n'est dérivé.
+Si `T3` lui-même est traité comme donnée physique transformante, la loi bilinéaire `l3 x l2 -> l1` est SO3-covariante; un état fixe non nul `T3` brise seulement son stabilisateur vers le groupe tétraédrique propre A4.
 
-RC23 conserve toutefois un associated rank12 solder-response transport très fort; ce résultat ne fixe pas l'ontologie mémoire du Q.
+### Limite
 
-Conséquence G0a : **le problème n'est pas la dimension de mémoire. Il manque un principe Q-native de réalisation/intertwining qui fixe la mémoire prédictive pré-factuelle.**
+Cela retype la structure; cela ne prouve pas que TDG possède un condensat physique `l=3`.
 
-## Corpus-level architecture boundary — binding
+---
+
+## 6. Option C — ordre physique SO3→A4 : NON DÉRIVÉ
 
 Checkpoint :
-`checkpoints/SENTRY/2026-09-10/TDG_AF_RECOVERED_LINEAGE_ARCHITECTURE_BOUNDARY_NO_PRIMITIVE_N12_2026-09-10.md`
-commit `ca320f773bfd1d358c3c2cea43075ee4905ed6a4`.
+`checkpoints/SENTRY/2026-09-12/TDG_L3_SPURION_PHYSICAL_ORDER_PARAMETER_COMPLETION_NOGO_2026-09-12.md`
+commit `a7b6215e...`, **corrigé par le checkpoint LATEST-WINS ci-dessous**.
 
-Dans le **corpus récupéré/audité actuel**, depuis le frozen Root jusqu'aux enrichissements/certifications Q-B1819→Q-B1858L et descendants processuels réanalysés :
+La meilleure sélection angulaire Q-native/target-blind de Q-B1854/55 choisit un Standard3 dont le troisième moment tend vers zéro :
 
-**aucun primitive dilation-normal multi-Ext / non-grade-one `N12` n'est actuellement dérivé.**
+`T3_selected ~ O(a^2) -> 0`.
 
-Les apparentes structures multi-event se reclassent comme : strict composition, current-carrier/support dependence, predictive memory, common-parent/Feshbach, coherent route composition, response/connection geometry, quotient/normalization, collective susceptibility ou boundary/vertical sans promotion Q-native.
+Exemple Q-B1855 b4 :
 
-## Q-B759→878 source archaeology
+- `.04`: `2.56107e-3`;
+- `.02`: `6.41015e-4`;
+- `.01`: `1.60295e-4`.
+
+Donc le Q actuel ne dérive pas un finite nonzero continuum `l=3` order parameter qui expliquerait à lui seul le bloc dynamique comme phase SO3→A4.
+
+**Option C = représentation utile / physical broken-phase completion NOT DERIVED.**
+
+---
+
+## 7. Correction LATEST-WINS Q-B1857
 
 Checkpoint :
-`checkpoints/SENTRY/2026-09-10/TDG_QB759_QB878_TARGETED_ARCHAEOLOGY_DOWNSTREAM_PROVENANCE_SCREEN_2026-09-10.md`
-commit `273055b44501bf773db5dfc4a760c77256a148b8`.
+`checkpoints/SENTRY/2026-09-12/TDG_QB1857_LATEST_WINS_CORRECTION_TO_OPTION_C_A_FRONTIER_2026-09-12.md`
+commit `6ab68570...`.
 
-Une recherche ciblée par numéros et titres n'a retrouvé **aucune source autonome**. La frontière fiable reste source jusqu'à Q-B758, puis delta Q-B879+, avec Q-B759→878 explicitement UNKNOWN. Le downstream récupéré n'apporte aucune preuve qu'un primitive N12 caché y était nécessaire. Ne pas interpoler.
+Une lecture provisoire avait réutilisé le Q-B1856 rank-2/M3 shared-B3 O(1) obstruction comme constitutive residue. Q-B1857 supersède cette interprétation.
 
-## Front exact maintenant
+Q-B1857 montre :
 
-### PRE-FACTUAL Q REALIZATION-SELECTION / INVENTORY GATE
+- raw Q presentations et multiplicities sont additives sous distinct legal moves;
+- la pair response normalisée provient du quotient Cons `m=S/N`;
+- une homogeneous Cons normalization connection reconstruite depuis base + single moves enlève le prior preservation obstruction jusqu’au floor `O(a^2)`, y compris b24;
+- le direct shared-B3 raw mismatch n’est que `O(a^8)` absolu / `O(a^4)` relatif.
 
-Le mining direct de `N12` reste STOP dans la lignée auditée.
+Donc :
 
-La question la plus amont et légitime est maintenant :
+**Q-B1856 shared-B3 O(1) obstruction as independent new constitutive law = RETIRED / RETYPED.**
 
-**Le Q pré-factuel possède-t-il une structure déjà dérivée qui sélectionne canoniquement sa réalisation physique de mémoire/processus parmi les dilatations response-equivalent ?**
+Ce qui reste non réparé est le **genuine one-move resonance-selected second germ**, avec residual historique Q-B1857 ~`0.96222`, puis les subleading operator/refinement walls Q-B1858→GR189.
 
-Le R18 factuel de RC21 ne suffit pas; le B2 R18 de RC23 ne suffit pas; leur égalité de type ne fournit aucun intertwiner canonique.
+---
 
-Cibles target-blind encore légales :
-1. interaction-algebra/commutant selector réellement Q-native;
-2. intervention-complete algebra avec embedding minimal unique;
-3. Ext/refinement naturality réduisant la famille d'intertwiners à une ligne sans target data;
-4. boundary/inflow common-domain law dérivée de Q.
+## 8. Q-B1858→GR189 — vrai mur dynamique actuel
 
-Si ces sélecteurs échouent eux aussi, G0a doit être certifié **NOT DERIVED FROM CURRENT ROOT**, et aucune hypothèse H1-H5 ne pourra être présentée comme dérivée.
+Q-B1858 retype le leading internal B4 face-descent defect comme un projective conformal face-scale mismatch dérivé de l’état Q : la synchronization supprime le diagnostic leading d’environ `a^6` vers `a^8`.
 
-## Verdict GR
+Mais :
 
-🟢 Progrès conceptuel important : RC21 est sauvé dans son vrai type, et RC23 ferme le faux raccourci B2/R18.
+- l’absolute conformal scale n’est pas dérivé comme gauge physique;
+- les subleading residuals restent non-SAME-h;
+- Q-B1859 trouve des engineering exponents robustes mais pas un universal full subleading operator flow;
+- GR188 décompose exactement
+  `Hom(l2,l1)=L1 (+) L2 (+) L3`
+  et montre qu’un simple triple gain Casimir n’est pas commun à toute la famille readout/refinement;
+- les Q-port frames, Cons, Feshbach, projective-conformal et legal-move transports existants ne donnent pas un unique common residual operator transport;
+- GR189 montre que le problème est déjà présent au niveau pre-inversion/formal-moment : le readout-free coefficient pencil courant n’est pas une universality law b4/b24 suffisante.
 
-🟡 Le mur est désormais très précis : **sélection de la réalisation microscopique pré-factuelle de Q**, pas calcul d'un coefficient mixte.
+**Mur correctement typé : missing Q-native readout-free/refinement-natural subleading operator pencil / transport law.**
 
-🔴 Aucun `N12^dil` gagné; AC quotient-lock non atteint; Born toujours NOT DERIVED; O(3), HDA, spin-2 et GR non linéaire non établis.
+Cela ne prouve pas une fundamental Root2 anisotropy universelle.
+
+---
+
+## 9. Option A — ELGC, postulat auteur quarantiné
+
+Checkpoint :
+`checkpoints/SENTRY/2026-09-12/TDG_OPTION_A_EMERGENT_LITTLE_GROUP_COVARIANCE_AUTHOR_POSTULATE_SANDBOX_2026-09-12.md`
+commit `5ef815e9...`, avec la correction Q-B1857 ci-dessus binding.
+
+Jonathan a approuvé la stratégie : C d’abord, A si C ne ferme pas.
+
+### ELGC — Emergent Little-Group Covariance
+
+Si Q dérive target-blind :
+
+1. un état/germ physique avec little group `G_Q`;
+2. un carrier physique sur lequel `G_Q` agit canoniquement;
+3. aucun order parameter physique continu indépendamment dérivé qui brise `G_Q` dans la phase régulière;
+
+alors la **loi constitutive effective universelle de cette phase doit être `G_Q`-covariante**.
+
+Ici `G_Q=SO(3)`.
+
+### Statut épistémique
+
+ELGC est **un nouveau postulat de travail approuvé par l’auteur**, pas un théorème du vieux Root.
+
+Il ne licencie ni projector, ni subtraction du `l2->l1`, ni counterterm. Il sert à rejeter les candidate Q laws qui ne possèdent pas une completion covariante ou un vrai order parameter transformant.
+
+Tout **concret** nouveau microscopic Q law reste soumis à G0-G10.
+
+---
+
+## 10. Front exact maintenant
+
+Deux fronts restent séparés et ne doivent pas être mélangés :
+
+### Front A — AF / microscopic realization
+
+Le Root ne sélectionne toujours pas canoniquement la réalisation microscopique pré-factuelle de sa mémoire/processus. Les trois premiers sélecteurs target-blind sont fermés; boundary/inflow common-domain reste le type d’objet manquant, pas un résultat acquis.
+
+### Front B — ELGC / regular-phase constitutive law
+
+Le vrai problème n’est **pas** le vieux shared-B3 Q-B1856 residue.
+
+Le target minimal est maintenant :
+
+**Q-NATIVE READOUT-FREE / PRE-INVERSION / REFINEMENT-NATURAL SUBLEADING OPERATOR TRANSPORT**
+
+après tous les transports déjà gagnés (Cons normalization, Q-port frame, projective conformal synchronization, Feshbach/process transport).
+
+Aucune correction microscopique concrète n’est encore sélectionnée.
+
+### G0 actuel
+
+Le défaut restant est réel et structuré, mais **G0 n’est pas automatiquement PASS** : il faut encore distinguer une vraie inconsistency prétarget d’une réponse subleading physiquement nonuniverselle mais permise. ELGC est donc quarantiné comme postulat de sélection; aucune H1-H5 n’est promue comme dérivée.
+
+---
+
+## 11. Verdict GR
+
+🟢 Progrès : le bloc `l2->l1` possède maintenant un retyping exact `L=3`, et une fausse obstruction shared-B3 a été éliminée par Q-B1857 plutôt que par nouvelle physique.
+
+🟡 Le mur dynamique est plus étroit : **universal subleading operator transport / co-selection sous la little-group structure**, après toutes les connexions Q déjà dérivées.
+
+🔴 Aucun nouveau Q_loc concret n’a passé G0-G10; O(3), HDA, spin-2 et GR non linéaire restent non établis; Born et durée métrique restent non dérivés.
