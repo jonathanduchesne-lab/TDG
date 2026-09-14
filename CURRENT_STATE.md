@@ -1,6 +1,6 @@
 # Complete TDG — État courant
 
-**Date : 2026-09-12 (America/Toronto)**
+**Date : 2026-09-14 (America/Toronto)**
 
 ## 1. Autorité / firewalls permanents
 
@@ -53,7 +53,6 @@ Tout nouveau contenu microscopique doit être explicitement `NEW PHYSICAL HYPOTH
 
 Checkpoint :
 `checkpoints/SENTRY/2026-09-11/TDG_P10S_STRICT_G0_RECLASSIFICATION_NO_PRETARGET_NEW_PHYSICS_WITNESS_2026-09-11.md`
-commit `cd78ecc8...`.
 
 P10M→P10S reste un adversaire fort de cofinalité microscopique, mais **n’est pas à lui seul un witness G0 strict** : le Root distingue descriptive refinement et physical refinement, et un raffinement physique peut porter du détail UV future-visible.
 
@@ -91,7 +90,7 @@ Donc le bloc fixe n’est pas SO3-invariant.
 
 ---
 
-## 5. NOUVEAU — retyping exact par ordre tétraédrique L=3
+## 5. Retyping exact par ordre tétraédrique L=3
 
 Checkpoint :
 `checkpoints/SENTRY/2026-09-11/TDG_TETRAHEDRAL_L3_ORDER_SPURION_COVARIANCE_RETYPE_2026-09-11.md`
@@ -123,8 +122,6 @@ Donc le bloc tétraédrique est **pur L=3**.
 
 Si `T3` lui-même est traité comme donnée physique transformante, la loi bilinéaire `l3 x l2 -> l1` est SO3-covariante; un état fixe non nul `T3` brise seulement son stabilisateur vers le groupe tétraédrique propre A4.
 
-### Limite
-
 Cela retype la structure; cela ne prouve pas que TDG possède un condensat physique `l=3`.
 
 ---
@@ -133,7 +130,7 @@ Cela retype la structure; cela ne prouve pas que TDG possède un condensat physi
 
 Checkpoint :
 `checkpoints/SENTRY/2026-09-12/TDG_L3_SPURION_PHYSICAL_ORDER_PARAMETER_COMPLETION_NOGO_2026-09-12.md`
-commit `a7b6215e...`, **corrigé par le checkpoint LATEST-WINS ci-dessous**.
+commit `a7b6215e...`, corrigé par la hiérarchie LATEST-WINS Q-B1857.
 
 La meilleure sélection angulaire Q-native/target-blind de Q-B1854/55 choisit un Standard3 dont le troisième moment tend vers zéro :
 
@@ -157,8 +154,6 @@ Checkpoint :
 `checkpoints/SENTRY/2026-09-12/TDG_QB1857_LATEST_WINS_CORRECTION_TO_OPTION_C_A_FRONTIER_2026-09-12.md`
 commit `6ab68570...`.
 
-Une lecture provisoire avait réutilisé le Q-B1856 rank-2/M3 shared-B3 O(1) obstruction comme constitutive residue. Q-B1857 supersède cette interprétation.
-
 Q-B1857 montre :
 
 - raw Q presentations et multiplicities sont additives sous distinct legal moves;
@@ -170,28 +165,29 @@ Donc :
 
 **Q-B1856 shared-B3 O(1) obstruction as independent new constitutive law = RETIRED / RETYPED.**
 
-Ce qui reste non réparé est le **genuine one-move resonance-selected second germ**, avec residual historique Q-B1857 ~`0.96222`, puis les subleading operator/refinement walls Q-B1858→GR189.
+Ce qui reste non réparé est le **genuine one-move resonance-selected second germ**, avec residual historique Q-B1857 ~`0.96222`, puis les subleading operator/refinement walls Q-B1858 et descendants corrigés.
 
 ---
 
-## 8. Q-B1858→GR189 — vrai mur dynamique actuel
+## 8. Correctif P10I/P10J et vrai mur pré-inversion
 
-Q-B1858 retype le leading internal B4 face-descent defect comme un projective conformal face-scale mismatch dérivé de l’état Q : la synchronization supprime le diagnostic leading d’environ `a^6` vers `a^8`.
+Le vieux flux GR189 `rank3/fourth-null` est révoqué par le correctif `rcoord_series` de P10I/P10J.
 
-Mais :
+P10J reconstruit un D4 complet :
 
-- l’absolute conformal scale n’est pas dérivé comme gauge physique;
-- les subleading residuals restent non-SAME-h;
-- Q-B1859 trouve des engineering exponents robustes mais pas un universal full subleading operator flow;
-- GR188 décompose exactement
-  `Hom(l2,l1)=L1 (+) L2 (+) L3`
-  et montre qu’un simple triple gain Casimir n’est pas commun à toute la famille readout/refinement;
-- les Q-port frames, Cons, Feshbach, projective-conformal et legal-move transports existants ne donnent pas un unique common residual operator transport;
-- GR189 montre que le problème est déjà présent au niveau pre-inversion/formal-moment : le readout-free coefficient pencil courant n’est pas une universality law b4/b24 suffisante.
+- formule `rcoord` exacte;
+- `J_aff` projectif rank4 dans 202/202 contrôles;
+- full D4 F,V,J_aff,J_H,C reconstruit;
+- un fixed invertible two-sided transport b4↔b24 est exclu à coordonnées analytiques fixes;
+- un transport variable/Q-native général reste NOT DERIVED, pas universellement réfuté.
 
-**Mur correctement typé : missing Q-native readout-free/refinement-natural subleading operator pencil / transport law.**
+P10M→P10R localise ensuite la différence au secteur microscopic refinement / carrier↔internal-frame; P10O montre notamment que le B2 interne de b24 est future-visible et ne peut pas être simplement quotiented/deleted.
 
-Cela ne prouve pas une fundamental Root2 anisotropy universelle.
+P10S stoppe correctement l’ancienne branche de réparation, mais son échec est un adversaire de cofinalité, pas un witness G0 strict.
+
+Le mur actuel correctement typé reste donc :
+
+**Q-NATIVE READOUT-FREE / PRE-INVERSION / REFINEMENT-NATURAL SUBLEADING OPERATOR TRANSPORT.**
 
 ---
 
@@ -199,9 +195,7 @@ Cela ne prouve pas une fundamental Root2 anisotropy universelle.
 
 Checkpoint :
 `checkpoints/SENTRY/2026-09-12/TDG_OPTION_A_EMERGENT_LITTLE_GROUP_COVARIANCE_AUTHOR_POSTULATE_SANDBOX_2026-09-12.md`
-commit `5ef815e9...`, avec la correction Q-B1857 ci-dessus binding.
-
-Jonathan a approuvé la stratégie : C d’abord, A si C ne ferme pas.
+commit `5ef815e9...`, avec la correction Q-B1857 binding.
 
 ### ELGC — Emergent Little-Group Covariance
 
@@ -215,46 +209,121 @@ alors la **loi constitutive effective universelle de cette phase doit être `G_Q
 
 Ici `G_Q=SO(3)`.
 
-### Statut épistémique
-
-ELGC est **un nouveau postulat de travail approuvé par l’auteur**, pas un théorème du vieux Root.
-
-Il ne licencie ni projector, ni subtraction du `l2->l1`, ni counterterm. Il sert à rejeter les candidate Q laws qui ne possèdent pas une completion covariante ou un vrai order parameter transformant.
-
-Tout **concret** nouveau microscopic Q law reste soumis à G0-G10.
+ELGC est **un nouveau postulat de travail approuvé par l’auteur**, pas un théorème du vieux Root. Il ne licencie ni projector, ni subtraction du `l2->l1`, ni counterterm. Tout nouveau microscopic Q law reste soumis à G0-G10.
 
 ---
 
-## 10. Front exact maintenant
+## 10. MRP1→MRP4 — branche de transport projectif, statut moderne
 
-Deux fronts restent séparés et ne doivent pas être mélangés :
+La branche historique MRP a construit des comparateurs prétarget utiles :
+
+- MRP1 : Projective Response Transport `T_Fe=[R_Fe] in PGL(2,C)`;
+- MRP2 : actual-Q extraction historique non exécutée faute du raw source Q-B1247→1264;
+- MRP3 : doublet S6 incidence-pairing exact, holonomie non plate, mais formal response bloqué sur un rayon projectif et cinq kernel-origin modes retained;
+- MRP4 : état positif pair-joint `chi_uv`, facteur positif non compact exact, S6 covariance, response-pencil span >1, activation des cinq modes, endpoint-gauge-only explanation rejetée.
+
+MRP4 n’a jamais été adopté comme final physical Q.
+
+De plus, un matched static-common-cause/direct-product control reproduit exactement le frozen MRP4 response package pour un `chi` statique : **ordered-process identifying margin = zero** dans ce scope.
+
+Le naïf `M18_history -> chi` graft reste interdit sans promotion/inflow Q-native séparément dérivée.
+
+---
+
+## 11. NOUVEAU 2026-09-14 — MRP5 moderne : refinement-functor identifiability NO-GO
+
+Checkpoint :
+`checkpoints/SENTRY/2026-09-14/TDG_ELGC_MRP5_REFINEMENT_FUNCTOR_IDENTIFIABILITY_NOGO_2026-09-14.md`
+commit `3609e4f21a1923beaae66fee96dc758e9f1fdc07`.
+
+MRP5 historique était resté NOT STARTED. Le gate a été exécuté maintenant en Stage-I moderne, sans b4/b24, O(3), HDA ou Einstein target.
+
+### Contre-famille exacte
+
+Pour une réponse positive fine `chi_ab`, définir pour tout `p>0` :
+
+`chi^(p)_{AB} = ( sum_{a in A,b in B} chi_ab^p )^(1/p)`.
+
+Chaque loi passe structurellement :
+
+- positivité;
+- homogeneity/common-scalar covariance;
+- nested refinement-diamond functoriality exacte;
+- relabel covariance;
+- independent-spectator projective blindness;
+- conservation générique des cinq MRP3 kernel-origin modes.
+
+### Fresh production — p=1,2,3
+
+Nested-diamond defects <= `2.42e-16`.
+
+Les trois lois donnent pourtant des transports MRP4 différents :
+
+- `chi` ray p1 vs p2 : `0.00976027`;
+- p1 vs p3 : `0.01911297`;
+- p2 vs p3 : `0.00940066`;
+
+maximum local `R^chi_Fe` projective difference : jusqu’à `0.0206270`.
+
+Les cinq modes restent rank5 avec singular values strictement non nulles.
+
+### Independent verifier
+
+Fresh `6 coarse x 3 middle x 2 fine`, p=`1,1.5,2.5,4` : **10/10 PASS**.
+
+Diamond defects <= `2.15e-16`; p1-vs-p4 coarse ray separation `0.0521053`.
+
+### Conséquence
+
+**MRP4 typing alone does NOT determine a unique refinement functor.**
+
+Ordinary linear CP direct-sum additivity sélectionnerait `p=1`, et les contrôles le confirment fortement, mais MRP4 avait seulement dérivé une **compatibilité** avec des labelled positive/Kraus response amplitudes, pas l’identification physique `chi = additive CP effect/subchannel weight`.
+
+Donc choisir p=1 sans autre théorème ajouterait un nouveau physical typing axiom.
+
+### Score moderne
+
+- G0 : OPEN / not Root-derived; ELGC est une prémisse auteur explicite.
+- G1 : PARTIAL; `chi` positive projective ray oui, ontology de composition non fixée.
+- G2/G4/G6 : static-common-cause/dilation controls restent live; identifying margin non gagné.
+- G3/G7/G8 : structural refinement family passe mais n’est pas unique.
+- G5 : aucun `p` n’est target-fit; il n’est simplement pas sélectionné.
+- G10 : PASS pour l’audit Stage-I.
+
+**MRP4 = NOT ADMISSIBLE NEW TDG MICROPHYSICS sous le gate moderne.**
+
+---
+
+## 12. Front exact maintenant
+
+Deux fronts restent séparés :
 
 ### Front A — AF / microscopic realization
 
-Le Root ne sélectionne toujours pas canoniquement la réalisation microscopique pré-factuelle de sa mémoire/processus. Les trois premiers sélecteurs target-blind sont fermés; boundary/inflow common-domain reste le type d’objet manquant, pas un résultat acquis.
+Le Root ne sélectionne toujours pas canoniquement la réalisation microscopique pré-factuelle de sa mémoire/processus; aucune promotion `history -> Q_pred` n’est dérivée.
 
 ### Front B — ELGC / regular-phase constitutive law
 
-Le vrai problème n’est **pas** le vieux shared-B3 Q-B1856 residue.
+Le target reste le transport subleading Q-native, readout-free, pre-inversion et refinement-natural. ELGC agit seulement comme final-law discriminator.
 
-Le target minimal est maintenant :
+### Nouveau sous-front immédiat — physical typing de `chi`
 
-**Q-NATIVE READOUT-FREE / PRE-INVERSION / REFINEMENT-NATURAL SUBLEADING OPERATOR TRANSPORT**
+Question exacte :
 
-après tous les transports déjà gagnés (Cons normalization, Q-port frame, projective conformal synchronization, Feshbach/process transport).
+**Q peut-il définir indépendamment ce que `chi` est physiquement — additive CP effect/subchannel weight, response norm, amplitude-derived object, ou autre intervention-complete datum — de façon à fixer son pushforward sous refinement avant toute cible géométrique ?**
 
-Aucune correction microscopique concrète n’est encore sélectionnée.
+Si Q dérive un additive CP-effect typing, `p=1` devient une conséquence légale et MRP5 peut reprendre avec cette loi frozen.
 
-### G0 actuel
+Sinon, `p=1` doit être déclaré nouveau Root2 physical postulate, pas une dérivation.
 
-Le défaut restant est réel et structuré, mais **G0 n’est pas automatiquement PASS** : il faut encore distinguer une vraie inconsistency prétarget d’une réponse subleading physiquement nonuniverselle mais permise. ELGC est donc quarantiné comme postulat de sélection; aucune H1-H5 n’est promue comme dérivée.
+Seulement après ce typing pourra-t-on confronter la loi frozen à P10M/P10O/P10P comme held-out adversaires puis, beaucoup plus tard, au gate ELGC/O(3).
 
 ---
 
-## 11. Verdict GR
+## 13. Verdict GR
 
-🟢 Progrès : le bloc `l2->l1` possède maintenant un retyping exact `L=3`, et une fausse obstruction shared-B3 a été éliminée par Q-B1857 plutôt que par nouvelle physique.
+🟢 Progrès scientifique net : le mur MRP5 est maintenant localisé par un no-go exact de non-unicité, plutôt que laissé comme calcul non exécuté.
 
-🟡 Le mur dynamique est plus étroit : **universal subleading operator transport / co-selection sous la little-group structure**, après toutes les connexions Q déjà dérivées.
+🟡 La prochaine question est plus étroite : **ontologie/composition physique de `chi`**. Un théorème d’additivité CP pourrait légalement sélectionner `p=1`.
 
-🔴 Aucun nouveau Q_loc concret n’a passé G0-G10; O(3), HDA, spin-2 et GR non linéaire restent non établis; Born et durée métrique restent non dérivés.
+🔴 MRP4 n’est pas promu; aucun nouveau Q_loc concret n’a passé G0-G10; O(3), HDA, spin-2 et GR non linéaire restent non établis; Born et durée métrique restent non dérivés.
