@@ -1,0 +1,20 @@
+{
+  "check_count": 5,
+  "checks": {
+    "GL2_relative_invariance": true,
+    "degree1_response_scaling": true,
+    "different_det_powers_not_same_ray": true,
+    "positive_chart": true,
+    "r_half_unique_in_test_family": true
+  },
+  "classification": "PASS",
+  "gate": "independent Herm2 response-norm scalarization verify",
+  "metrics": {
+    "degree_errors": {"0.2":0.5023660368081284,"0.5":0.0,"0.8":1.0095091452076643,"1.2":4.095771783084765},
+    "expected_GL2_scale": 0.8967718890426248,
+    "min_eig": 0.20011905231637317,
+    "r05_vs_r1_projective_sep": 0.3220810366764396,
+    "scale_ratio_max_defect": 6.661338147750939e-16
+  },
+  "pass_count": 5
+}
