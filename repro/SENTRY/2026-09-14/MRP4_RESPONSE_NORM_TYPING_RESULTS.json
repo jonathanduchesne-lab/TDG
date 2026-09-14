@@ -1,0 +1,47 @@
+{
+  "assumption_for_constructive_part": "a physically distinguished positive-definite Herm2 pair response F_uv exists in the Q response system",
+  "candidate": "chi_uv=sqrt(det F_uv)",
+  "check_count": 8,
+  "checks": {
+    "MRP4_exactly_blind_to_common_frame_scale": true,
+    "no_nonzero_SL2_invariant_linear_functional_witness": true,
+    "only_r_half_among_tested_is_degree_one": true,
+    "other_r_change_MRP4_transport": true,
+    "positive_F_chart": true,
+    "sqrt_det_GL2_common_relative_scale": true,
+    "sqrt_det_SL2_frame_invariant": true,
+    "sqrt_det_degree_one_under_F_scaling": true
+  },
+  "classification": {
+    "MRP4_final_physical_Q": "NOT PROMOTED",
+    "Q_current_derives_positive_pair_joint_F_uv_for_MRP4": "NOT ESTABLISHED",
+    "bare_response_system_selects_pair_specific_F_uv": "NO / Q-B1015 BASIS-OBSERVABLE SELECTION GAP REMAINS",
+    "sqrt_det_as_frame_covariant_degree1_positive_response_magnitude": "EXACT STRUCTURAL PASS (CONDITIONAL ON POSITIVE PHYSICAL F_uv)"
+  },
+  "gate": "MRP4 response-system scalarization / Herm2 norm typing audit",
+  "metrics": {
+    "F_scale_MRP4_C_projective_residual": 2.436081401873353e-16,
+    "F_scale_ratio_mean": 5.7,
+    "F_scale_ratio_std": 1.6695234445137056e-15,
+    "GL2_MRP4_C_projective_residual": 2.256213334073863e-16,
+    "GL2_expected_common_scale": 0.8104240647162173,
+    "GL2_ratio_mean": 0.8104240647162175,
+    "GL2_ratio_std": 1.8355090436664715e-16,
+    "SL2_MRP4_C_projective_residual": 1.8588472972726582e-16,
+    "SL2_linear_functional_constraint_rank": 4,
+    "SL2_linear_functional_constraint_singular_values": [1.7087518728418714,1.4171652781117072,1.4171652781117072,1.1402855898644368],
+    "SL2_max_chi_abs_defect": 3.552713678800501e-15,
+    "degree_one_relative_errors": {"0.25":0.5811460917083046,"0.5":0.0,"1.0":4.7,"1.5":31.490000000000002},
+    "det_power_pairwise": {
+      "0.25_vs_0.5":{"C_projective_residual":0.13028778273528444,"chi_projective_residual":0.2177526617336875,"max_local_R_projective_residual":0.22710177736687134},
+      "0.25_vs_1.0":{"C_projective_residual":0.3757627657138789,"chi_projective_residual":0.569312616616035,"max_local_R_projective_residual":0.43159063557621963},
+      "0.25_vs_1.5":{"C_projective_residual":0.5845632547141539,"chi_projective_residual":0.7558368908577043,"max_local_R_projective_residual":0.5106063400503863},
+      "0.5_vs_1.0":{"C_projective_residual":0.25665140726835645,"chi_projective_residual":0.38351205256038484,"max_local_R_projective_residual":0.24491386805058635},
+      "0.5_vs_1.5":{"C_projective_residual":0.48652508179783455,"chi_projective_residual":0.6099244291527542,"max_local_R_projective_residual":0.3587349174222081},
+      "1.0_vs_1.5":{"C_projective_residual":0.25502832082387583,"chi_projective_residual":0.2688622511396986,"max_local_R_projective_residual":0.14761917176263106}
+    },
+    "min_F_det": 2.3629650916310254,
+    "min_F_eigenvalue": 0.46829741609872944
+  },
+  "pass_count": 8
+}
