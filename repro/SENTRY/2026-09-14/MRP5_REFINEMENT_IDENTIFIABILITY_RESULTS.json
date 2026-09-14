@@ -1,0 +1,47 @@
+{
+  "boundary_sequence": [
+    {"coarse_pair": 0.016536151307458356, "eps": 0.001, "min_local_G_det": 107.05601257856928},
+    {"coarse_pair": 1.6536151307458356e-05, "eps": 1e-06, "min_local_G_det": 106.85876736502313},
+    {"coarse_pair": 1.6536151307458357e-08, "eps": 1e-09, "min_local_G_det": 106.85857011980963}
+  ],
+  "check_count": 8,
+  "checks": {
+    "different_p_give_distinct_MRP4_transport": true,
+    "ordinary_additive_direct_sum_selects_p1": true,
+    "p_family_diamond_functoriality": true,
+    "p_family_positive": true,
+    "p_family_preserves_five_kernel_origin_modes_generically": true,
+    "p_family_relabel_covariant": true,
+    "p_family_scalar_covariant": true,
+    "p_family_spectator_projectively_blind": true
+  },
+  "classification": {
+    "GR": "CLOSED",
+    "MRP4_final_physical_Q": "NOT ADOPTED",
+    "MRP4_typing_alone_selects_unique_refinement_functor": "FAIL",
+    "MRP5_as_originally_requested": "NOT CLOSED / G1-G3 UNDERDETERMINED",
+    "b4_b24_O3_opened": "NO",
+    "linear_CP_direct_sum_additivity_would_select_p1": "YES, BUT THIS IS AN EXTRA PHYSICAL TYPING AXIOM FOR chi, NOT DERIVED BY MRP4",
+    "positive_homogeneous_relabel_spectator_diamond_axioms_unique": "NO / CONTINUUM p-FAMILY"
+  },
+  "direct_sum_relative_error_vs_linear_additivity": {"1.0": 2.1484525708216693e-16, "2.0": 0.7460961705823769, "3.0": 0.8376270209890466},
+  "family": "chi_parent(A,B)=(sum_{a in A,b in B} chi_ab^p)^(1/p), p>0",
+  "frozen_scope": "MRP4 local polar rule; no b4/b24/O3/HDA/Einstein targets",
+  "gate": "MRP5 modern Stage-I refinement-law identifiability audit",
+  "p_tested": [1.0, 2.0, 3.0],
+  "pairwise_physical_difference": {
+    "1.0_vs_2.0": {"C_common_scalar_projective_residual": 0.005972790835708704, "chi_projective_residual": 0.009760273194232763, "max_local_R_projective_residual": 0.01002220543101836},
+    "1.0_vs_3.0": {"C_common_scalar_projective_residual": 0.01183113401082086, "chi_projective_residual": 0.01911297197788296, "max_local_R_projective_residual": 0.02062704485704187},
+    "2.0_vs_3.0": {"C_common_scalar_projective_residual": 0.005889272365761072, "chi_projective_residual": 0.009400655394570417, "max_local_R_projective_residual": 0.01061416697740772}
+  },
+  "pass_count": 8,
+  "relabel": {"1.0": 0.0, "2.0": 0.0, "3.0": 0.0},
+  "rows": {
+    "1.0": {"C_rank": 30, "coarse_max": 58.89461436279535, "coarse_min": 16.536151307458354, "diamond_abs": 1.4210854715202004e-14, "diamond_rel": 2.412929411110844e-16, "kernel_origin_image_rank": 5, "kernel_origin_image_sv_max": 0.20140617296717123, "kernel_origin_image_sv_min": 0.0777106488406361},
+    "2.0": {"C_rank": 30, "coarse_max": 15.24618868820443, "coarse_min": 4.198592140792911, "diamond_abs": 1.7763568394002505e-15, "diamond_rel": 1.1651153450400167e-16, "kernel_origin_image_rank": 5, "kernel_origin_image_sv_max": 0.1983758751638153, "kernel_origin_image_sv_min": 0.08089199739025486},
+    "3.0": {"C_rank": 30, "coarse_max": 9.921736341098262, "coarse_min": 2.685024149167884, "diamond_abs": 8.881784197001252e-16, "diamond_rel": 8.95184460829777e-17, "kernel_origin_image_rank": 5, "kernel_origin_image_sv_max": 0.19547795215784455, "kernel_origin_image_sv_min": 0.08387690701296646}
+  },
+  "scalar_covariance": {"1.0": 1.3221531019785446e-16, "2.0": 6.384193671452146e-17, "3.0": 1.9620481333255387e-16},
+  "spectator": {"1.0": {"factor": 3.6, "projective_residual": 0.0}, "2.0": {"factor": 2.222611077089287, "projective_residual": 1.888354597200454e-16}, "3.0": {"factor": 1.9579556638031255, "projective_residual": 1.255169030076561e-16}},
+  "theorem": "MRP4 defines chi only as a positive projective selected-future pair-response ray. Positivity, positive homogeneity, relabel covariance, nested-refinement diamond functoriality, spectator projective blindness, and five-mode preservation do not select a unique coarse-graining law: every p>0 l_p pushforward passes but generically induces a different MRP4 projective transport. Linear direct-sum additivity singles out p=1 only after chi is additionally typed as an additive CP response weight/effect."
+}
