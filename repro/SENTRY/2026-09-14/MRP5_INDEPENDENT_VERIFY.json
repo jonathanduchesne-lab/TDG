@@ -1,0 +1,31 @@
+{
+  "all_pass": true,
+  "checks": {
+    "nonp1_nonadditive": true,
+    "p1.0_diamond": true,
+    "p1.0_vs_p1.5_distinct": true,
+    "p1.0_vs_p4.0_distinct": true,
+    "p1.5_diamond": true,
+    "p1.5_vs_p2.5_distinct": true,
+    "p1_additive": true,
+    "p2.5_diamond": true,
+    "p2.5_vs_p4.0_distinct": true,
+    "p4.0_diamond": true
+  },
+  "count": 10,
+  "metrics": {
+    "p1.0_add_rel": 1.5312738787753743e-16,
+    "p1.0_diamond_rel": 1.35462966602603e-16,
+    "p1.0_vs_p1.5_ray": 0.00859150710790366,
+    "p1.0_vs_p4.0_ray": 0.05210533237986052,
+    "p1.5_add_rel": 0.682141949754492,
+    "p1.5_diamond_rel": 2.1427388182021363e-16,
+    "p1.5_vs_p2.5_ray": 0.018088751513117916,
+    "p2.5_add_rel": 0.8645360125548264,
+    "p2.5_diamond_rel": 1.290159891277184e-16,
+    "p2.5_vs_p4.0_ray": 0.027460335158224755,
+    "p4.0_add_rel": 0.907583053315758,
+    "p4.0_diamond_rel": 1.0082521858761595e-16
+  },
+  "pass_count": 10
+}
