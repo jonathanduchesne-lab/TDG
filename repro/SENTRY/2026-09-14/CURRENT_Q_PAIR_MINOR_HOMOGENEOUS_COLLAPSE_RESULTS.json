@@ -1,0 +1,33 @@
+{
+  "check_count": 6,
+  "checks": {
+    "MRP4_positive_factor_identity": true,
+    "all_pair_chi_equal": true,
+    "all_pair_minor_determinants_equal": true,
+    "anisotropic_perturbation_splits_pair_chi": true,
+    "homogeneous_gram_positive_definite": true,
+    "linearized_pair_chi_formula_verified": true
+  },
+  "classification": {
+    "anisotropic_pair_minor_chi_capacity": "OPEN / NONTRIVIAL AT LINEAR ORDER",
+    "homogeneous_currentQ_pair_minor_chi_as_noncompact_MRP4_source": "EXACT FAIL / COLLAPSES TO UNIFORM MRP3 LIMIT",
+    "physical_anisotropic_process_source_typing": "NOT DERIVED BY THIS TEST"
+  },
+  "gate": "current-Q pair-minor chi homogeneous-phase MRP4 collapse",
+  "metrics": {
+    "G4_eigenvalues": [1.89,1.89,1.8900000000000001,3.5300000000000002],
+    "P_identity_defect": 3.1404305885730117e-16,
+    "anisotropic_chi_spread_at_eps_1e-5": 1.3302023974759436e-05,
+    "chi_uniform_value": 2.2631615055050753,
+    "linearization_max_abs_error": 7.043077232538053e-11,
+    "pair_det_value": 5.121899999999999
+  },
+  "pass_count": 6,
+  "theorem": {
+    "MRP4_consequence": "D_Fe=chi I3, G_Fe=chi I2, P_Fe=I; response reduces exactly to MRP3 incidence map",
+    "base": "S4-central Gram has G_uu=d and G_uv=c for u!=v",
+    "chi": "chi_uv=sqrt(d^2-c^2) is uniform",
+    "linearized_anisotropic_response": "delta chi_uv=[d(delta d_u+delta d_v)-2c delta c_uv]/(2 sqrt(d^2-c^2))",
+    "pair_minor": "det G^(uv)=d^2-c^2 independent of pair"
+  }
+}
