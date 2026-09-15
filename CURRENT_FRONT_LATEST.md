@@ -4,12 +4,11 @@
 
 Historical FINAL-CERTIFIED authority remains `Q-B1858L`.
 
-## Binding newest checkpoints
+## Binding newest checkpoint
 
-1. `checkpoints/SENTRY/2026-09-15/TDG_POST_INITIAL_BRIDGE_RECURRENCE_SELECTOR_UPDATE_FACTORIZATION_2026-09-15.md` — commit `a3704162e5c8271559818fb0efa00ad9e6c1d53d`.
-2. `checkpoints/SENTRY/2026-09-15/TDG_QB1849_QB1851_INTERFACE_RELATIVE_PREDICTIVE_QUOTIENT_DESCENT_AUDIT_2026-09-15.md` — commit `9969dee7015379d7626b6099d8e5139f313a6121`.
-3. `checkpoints/SENTRY/2026-09-15/TDG_QB1852_REFINEMENT_DESCENT_L2_TO_L1_PHYSICALITY_AUDIT_2026-09-15.md` — commit `bf2ca304ff6b6b3d38958ff326052e67514ca5e4`.
-4. `checkpoints/SENTRY/2026-09-15/TDG_QB1857_QB1858_PROJECTIVE_CONFORMAL_QUOTIENT_DESCENT_AUDIT_2026-09-15.md` — commit `ea3cf4b630496e4d28bac84076f8375ad1b58364`.
+`checkpoints/SENTRY/2026-09-15/TDG_SUBLEADING_QUOTIENT_TRIAGE_CASIMIR_OFFDIAGONAL_INVARIANT_2026-09-15.md`
+
+Commit: `fdde8c51a8db8da18b4c8a73c54fa7c1939a4c19`.
 
 ## Latest-wins verdict
 
@@ -17,87 +16,63 @@ Historical FINAL-CERTIFIED authority remains `Q-B1858L`.
 
 # **POST-INITIAL CONDITIONAL RECURRENCE U_e = SUBSTANTIALLY CLOSED IN DECLARED Q/EXT/CONS SCOPE**
 
-# **Q-B1849/Q-B1851 = STRONG INTERFACE-RELATIVE PREDICTIVE/CONS/PATH DESCENT**
+# **BROAD GR188/GR189/P10 SUBLEADING MICROSCOPIC TRANSPORT WALL IS RETYPED: DO NOT PROMOTE THE FULL RESIDUAL FAMILY**
 
-# **Q-B1852 NONZERO l=2 -> l=1 BLOCK = STRONG B4/B24 CONTINUUM/REFINEMENT PASS IN TESTED FAMILY**
+# **STRONGEST CURRENT QUOTIENT-VISIBLE CONTINUUM INVARIANT = NONZERO Q-CASIMIR l=2 -> l=1 CROSS-SECTOR RESPONSE**
 
-# **Q-B1857/Q-B1858 REMOVE RAW MULTIPLICITY/SCALE ARTIFACTS BUT DO NOT REMOVE THE RETAINED l=2 -> l=1 BLOCK**
-
-# **LIVE FRONT = SUBLEADING PREDICTIVE-QUOTIENT INVARIANT AUDIT OF GR188/GR189/P10 RESIDUAL FAMILY**
+# **LIVE FRONT = TEST THIS ONE OBJECT FOR PREDICTIVE-NULLNESS OR AN ALREADY-Q-DERIVED ENLARGED COVARIANT COMPLETION**
 
 No new Root2 law is admitted.
 
-## Critical-path factorization
+## What was retired / retyped
 
-Use:
+- Q-B1856 shared-B3 O(1) pair obstruction = Cons-normalization artifact, not independent physics.
+- raw absolute conformal scale = not licensed physical datum.
+- Q-B1858 leading face-scale mismatch = retyped/synchronized by the Q-derived projective-conformal mode.
+- detailed GR188/GR189/P10 residual matrices/path transport mismatches beyond independently response-visible invariants = **not promoted as physical continuum content**.
 
-`I0 GIVEN -> conditional structural recurrence U_e -> predictive quotient descent -> continuum/refinement universality -> symmetry/dynamics -> GR tests`.
+P10S remains a strong microscopic cofinality adversary, but finite b4/b24 microscopic noncofinality does not imply that every residual matrix component is a universal physical observable.
 
-Selection/Born remains parallel:
+## Retained physicality pressure
 
-`Sigma -> which legal e becomes factual`.
+For the Q-derived source/target sectors:
 
-Structural recurrence answers what follows once e is factual. The same factual event sequence gives the same structural sequence independently of the selection mechanism.
+- `P_2` = Q-Casimir `l=2` projector;
+- `P_1` = Q-Casimir `l=1` projector;
+- `A_21=P_1 T P_2`.
 
-Born remains **NOT DERIVED**.
-
-## Post-initial recurrence
-
-At factual step n:
-
-`S_n=(K_n,Q_n,P_n,L_n)`.
-
-For factual legal `e:K_n->K_(n+1)`:
-
-- legal Ext updates carrier;
-- canonical inclusion preserves old Q block in tested legal growths;
-- same Q law adds new local/interface support;
-- factual ledger appends e but does not replace global Q;
-- `P_(n+1)=Phi_e(P_n)`;
-- licensed readout gives `C_(n+1)=Pi(P_(n+1))`.
-
-## Emergent-object descent summary
-
-### Q-B1849/Q-B1851
-
-Actual legal move -> Q-native `1+3` process descriptor; no-fit reconstruction; exact 120/120 same-final path independence through Q-B1850. Strong interface-relative descent, but universal all-realization microscopic invariance is not yet a theorem.
-
-### Q-B1852
-
-Retained `l=2 -> l=1` continuum block:
+The Q-B1852 block remains nonzero in the tested continuum family:
 
 - b4 extrapolation `0.1424778761`;
 - b24 extrapolation `0.1424778616`;
 - relative difference ~`1.02e-7`;
-- exact Cons diamond / spectator controls retained;
-- structural type survives analytic-readout adversaries.
+- Cons/path/spectator/readout structural controls retained.
 
-No current target-blind quotient/gauge/null mechanism removes it.
+The exact Casimir defect is
 
-### Q-B1857/Q-B1858
+`C_out A_21 - A_21 C_in = (2-6)A_21 = -4 A_21`.
 
-- old shared-B3 O(1) obstruction = Cons-normalization artifact / retired;
-- leading face mismatch = Q-state-derived projective-conformal relative mode;
-- leading diagnostic suppressed ~a^6 -> ~a^8;
-- absolute conformal scale not physical;
-- subleading common readout/refinement-independent operator flow remains not derived.
+Thus nonzero `A_21` is equivalent to a nonzero Q-Casimir intertwining defect and cannot be removed merely by basis changes within the already-Q-defined `l=1` and `l=2` sectors.
 
-Thus quotient descent is successfully stripping descriptive/raw structure while leaving some relative continuum content intact.
+Universal theorem over every conceivable response-equivalent microscopic realization is still not claimed.
 
-## Exact live question
+## Correct critical path
 
-Re-enter GR188/GR189/P10 and ask only:
+`I0 GIVEN -> U_e -> predictive quotient -> continuum invariants -> symmetry/dynamics -> GR tests`.
 
-> which response-visible subleading residues are genuine functions on the predictive quotient, and which are realization/readout/refinement dependent?
+Do **not** return to general microscopic transport fitting.
 
-Rules:
+## Exact next gate
 
-1. do not demand unique microscopic realization by default;
-2. do not reintroduce raw scale/multiplicity already removed by Q-B1857/Q-B1858;
-3. do not invent microscopic transport merely to repair O(3)/GR;
-4. if no quotient invariant survives, retire the residue;
-5. if a quotient invariant survives, classify its representation/symmetry type first;
-6. retain the Q-B1852 `l=2 -> l=1` block as physical candidate unless an independent Q-native quotient-null mechanism removes it.
+### A_21 PREDICTIVE-NULL / ENLARGED-COVARIANCE GATE
+
+Ask target-blindly:
+
+1. Is the retained nonzero `l=2 -> l=1` response itself future-visible at the declared complete predictive interface, or can it be proven quotient-null?
+2. If future-visible, does current Q already derive a physical order parameter/state that enlarges the representation so the combined dynamics is covariant?
+3. If neither, retain `A_21` as genuine continuum symmetry-breaking prediction and stop claiming O(3)-covariant GR on that sector.
+
+Forbidden: project it away because GR wants zero; fit a counterterm; choose a special readout/refinement; infer a new microscopic law from the discarded Q2 residual family.
 
 ## Firewalls
 
@@ -112,12 +87,12 @@ Rules:
 
 ## GR traffic light
 
-🟢 **Major bridge progress:** the discrete post-initial recurrence is substantially closed.
+🟢 **Bridge advances significantly:** the broad subleading microscopic transport wall is reduced to quotient-visible content only.
 
-🟢 **Quotient program is productive:** at least one old obstruction is removed as presentation/normalization artifact while relative/projective content survives.
+🟢 **No unnecessary new law:** unproven residual matrices are not promoted.
 
-🟡 **The nonzero l=2 -> l=1 block is increasingly hard to dismiss as representation noise.**
+🟡 **Sharp live obstruction:** nonzero continuum `l=2 -> l=1` cross-Casimir mixing.
 
-🟡 **Live wall:** subleading predictive-quotient physicality / universal operator content.
+🟡 **Next:** predictive-null versus enlarged-covariant completion audit.
 
-🔴 **No O(3), HDA, spin-2 or nonlinear GR theorem yet.**
+🔴 **O(3), HDA, spin-2 and nonlinear GR remain unestablished.**
