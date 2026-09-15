@@ -6,128 +6,135 @@
 
 ## 1. Front scientifique exact
 
-# **UNE SEULE HISTOIRE FACTUELLE + MACHINE À RÉDUCTION = REPRÉSENTATION PATH-SPACE EXACTE**
+# **IMPULSION INITIALE I0 = DONNÉE / HORS PÉRIMÈTRE EXPLICATIF**
 
-# **UN SEED INITIAL PEUT GÉNÉRER TOUTE L'HISTOIRE, MAIS CE N'EST PAS ENCORE UNE DÉRIVATION PHYSIQUE**
+# **RÉCURRENCE CONDITIONNELLE POST-INITIALE U_e = SUBSTANTIELLEMENT FERMÉE DANS LE SCOPE Q/EXT/CONS AUDITÉ**
 
-# **UN ÉTAT EXACTEMENT SYMÉTRIQUE NE PEUT PAS SÉLECTIONNER COVARIANTEMENT UN UNIQUE BRANCH GAGNANT SANS DONNÉE DE BRISURE DE SYMÉTRIE OU STOCHASTICITÉ**
+# **Q-B1849/Q-B1851 : DESCENTE INTERFACE/CONS/PATH = STRONG PARTIAL PASS**
 
-# **AUCUN SÉLECTEUR GÉNÉRAL PRÉ-FACTUEL CURRENT-Q N'EST DÉRIVÉ DANS LE CORPUS AUDITÉ**
+# **Q-B1852 : B4/B24 CONTINUUM DESCENT DU BLOC l=2->l=1 = STRONG PASS DANS LA FAMILLE TESTÉE**
 
-Checkpoint binding :
-`checkpoints/SENTRY/2026-09-15/TDG_INITIAL_IMPULSE_SINGLE_HISTORY_PATHSPACE_SYMMETRY_SELECTOR_DEEP_AUDIT_2026-09-15.md`
+# **Q-B1857/Q-B1858 : RAW MULTIPLICITY/SCALE ARTIFACTS RETYPED; LEADING PROJECTIVE-CONFORMAL CONTENT RETAINED; SUBLEADING UNIVERSAL FLOW OPEN**
 
-Commit : `7a7993af4e6e55927e48f39232765eddfba639e4`.
+## 2. Récurrence post-initiale
 
-Ledger des intuitions :
-`checkpoints/SENTRY/2026-09-15/TDG_INTUITION_PROVENANCE_LEDGER_2026-09-15.md`.
+À l'étape factuelle n :
 
-## 2. Typage conceptuel retenu
+`S_n=(K_n,Q_n,P_n,L_n)`
 
-- `A` = ensemble des continuations encore possibles;
-- `W` = toile de contraintes/compatibilités;
-- `B` = actualisation factuelle unique;
-- `C` = projection/état prédictif post-actualisation.
+avec carrier courant, global Q prédictif non collapsed, classe prédictive complète et ledger factuel append-only.
 
-Interprétation conservative de `W` : Ext légalité/incidence + Cons compatibilité/descent + Q/FP support/poids prédictifs. Cette identification est une interprétation, pas un nouvel axiome.
+Pour un événement légal factuel
 
-Le résultat antérieur reste binding : au niveau du quotient prédictif complet et sous fermeture légale par composition,
+`e:K_n->K_(n+1)`,
 
-`A+B -> C`.
+la mise à jour conditionnelle est
 
-Le mur restant est
+`S_(n+1)=U_e(S_n)`.
 
-`(A,W) -> un B`.
+Dans le scope audité :
 
-## 3. Théorèmes path-space exacts
+- Ext met à jour le carrier;
+- l'inclusion canonique conserve l'ancien bloc Q;
+- la même loi Q ajoute seulement le support local/interface nouveau;
+- le ledger ajoute e sans remplacer global Q;
+- `P_(n+1)=Phi_e(P_n)` au quotient prédictif complet;
+- tout readout licencié donne `C_(n+1)=Pi(P_(n+1))`.
 
-Pour tout noyau séquentiel normalisé `p(e|h)` :
+Donc le pont structurel conditionné sur e ne dépend pas de la raison statistique pour laquelle e est devenu factuel.
 
-- l'actualisation correspond à la conditionnalisation sur un cylindre d'histoire plus étroit;
-- les futurs incompatibles avec le nouveau préfixe factuel prennent poids conditionnel zéro;
-- les futurs compatibles restent représentés;
-- un tirage unique de l'histoire complète à l'origine est distributionnellement équivalent à des tirages successifs;
-- un seul `u_0 in [0,1)` peut encoder constructivement toute l'histoire via partition cumulative et renormalisation du seed.
+## 3. Sélection vs pont structurel
 
-Ce sont des théorèmes de représentation, pas une dérivation de la physique du seed ni de Born.
+Sélection/statistique :
 
-## 4. Théorème de symétrie
+`Sigma -> quel e devient factuel`.
 
-Si l'état prédictif/toile est invariant sous un groupe `G`, que les branches supportées forment une orbite non triviale sans branche fixée par tout `G`, et qu'un sélecteur déterministe doit être covariant, alors aucun sélecteur utilisant cet état seul n'existe.
+Pont structurel :
 
-Donc un déterminisme à histoire unique requiert, dans un cas parfaitement symétrique, au moins l'un de :
+`U_e -> ce que devient la structure une fois e factuel`.
 
-- donnée pré-factuelle supplémentaire brisant la symétrie;
-- condition initiale physique déjà asymétrique;
-- stochasticité irréductible;
-- brisure physique réelle de symétrie.
+Deux mécanismes de factualisation donnant la même suite d'événements produisent la même suite structurelle sous les mêmes `U_e`.
 
-## 5. Inventaire selector current-Q
+Born reste NOT DERIVED pour les fréquences, mais n'est plus un prérequis logique pour auditer la géométrie conditionnelle le long d'une histoire donnée.
 
-Dans le corpus audité, ne constituent pas un sélecteur général :
+## 4. Audit de descente des objets émergents
 
-- poids de branche Q/FP;
-- carrier/algèbre endpoint seuls;
-- ledger factuel (interdit comme feedback pré-factuel);
-- occurrence/path labels passifs;
-- Cons;
-- Q-B1849->1852 process transport;
-- Q-B1854/55 selected ray / Q-B1858 projective-conformal mode;
-- future coorientation;
-- GR178 conditioned-on-move local successor law.
+### Q-B1849/Q-B1851
 
-Verdict : **GENERAL PRE-FACTUAL WINNER SELECTOR = NOT DERIVED** dans le corpus recovered/audited.
+- actual legal move -> descripteur `1+3` Q-native;
+- no-fit reconstruction;
+- exact 120/120 same-final path independence via Q-B1850;
+- forte locality/spectator typing.
 
-## 6. Intuition Jonathan vs intuition assistant
+Verdict : **interface-relative predictive/Cons/path descent = strong partial pass**. Universal all-realization microscopic invariance remains not derived.
 
-Le ledger dédié est désormais binding pour la provenance conceptuelle.
+### Q-B1852
 
-### Jonathan
+Retained continuum `l=2 -> l=1` block:
 
-- actualisation soustractive;
-- A/B/C;
-- portion inchangée non réécrite;
-- une seule histoire factuelle;
-- impulsion initiale / première actualisation;
-- toile qui réduit les chemins incompatibles.
+- b4 extrapolation `0.1424778761`;
+- b24 extrapolation `0.1424778616`;
+- relative difference ~`1.02e-7`;
+- Cons/path and disconnected-spectator controls retained;
+- structural type survives analytic-readout adversaries.
 
-### Assistant
+Verdict : **strong continuum/refinement pass in tested family**. No Q-native quotient/gauge mechanism currently removes the nonzero block.
 
-- PRU;
-- toile interprétée comme Ext+Cons+Q/FP;
-- formalisation par cylindres conditionnels;
-- état-sélecteur `lambda`;
-- section contextuelle pré-factuelle sur Ext/channel;
-- éventuelle "phase d'actualisation" comme modèle minimal.
+### Q-B1857/Q-B1858
 
-Aucune intuition n'est promue parce qu'elle est élégante ou utile.
+- Q-B1856 old shared-B3 O(1) obstruction retyped as Cons normalization artifact;
+- homogeneous Cons normalization reconstructs the response;
+- Q-B1858 leading face mismatch retyped as Q-state-derived projective-conformal mode;
+- leading diagnostic suppressed from ~a^6 to ~a^8;
+- absolute conformal scale is not licensed as physical;
+- subleading common readout/refinement-independent operator flow remains not derived.
 
-## 7. Born
+Verdict : **raw presentation scale/multiplicity is not physical; relative/projective content survives in the proper type.**
 
-Déplacer la sélection à l'origine ne dérive pas Born. Il faut encore une mesure/typicalité/ergodicité reliant le seed/selector aux fréquences Q/FP/Born.
+## 5. Front live exact
 
-Born : **NOT DERIVED**.
+Le vrai mur est maintenant :
 
-## 8. Prochain travail légal
+> quels résidus/opérateurs subleading sont de vraies fonctions du quotient prédictif, et lesquels sont seulement realization/readout/refinement-dependent ?
 
-Dernier axe dérivation-only légitime : chercher un datum Q-native pré-factuel de brisure de symétrie, indépendant des poids, du ledger, de la géométrie downstream et des conventions de readout.
+Do not reintroduce a microscopic `J` unless an actually claimed physical observable fails predictive descent.
 
-Si aucun n'existe dans le corpus récupéré, la complétion déterministe à impulsion initiale doit rester explicitement **NEW FOUNDATIONAL CONTENT**.
+Do not delete the retained `l=2 -> l=1` block merely because O(3)/GR requires zero.
 
-## 9. Firewalls
+## 6. Prochaine étape légale
+
+Re-enter GR188/GR189/P10 with corrected ontology:
+
+1. isolate response-visible quotient invariants in the residual subleading family;
+2. separate universal predictive content from microscopic realization residue;
+3. if no quotient invariant survives, retire the residue instead of inventing transport;
+4. if a quotient invariant survives, classify its symmetry type before any GR target;
+5. only then reassess O(3)/HDA/spin-2/GR.
+
+## 7. Provenance intuition
+
+Jonathan-origin remains : actualisation soustractive, A/B/C, one factual history, unchanged structure not rewritten, initial impulse given, relational web reducing incompatible continuations.
+
+Assistant-origin remains quarantined unless derived : PRU, nested-cylinder formalization, projective/relative continuum ontology hypothesis, selector-section/actualization-phase ideas.
+
+## 8. Firewalls
 
 - Root1 gelé; `A_path` retiré; global Q non collapsed.
 - ledger factuel append-only/séparé.
-- actualisation soustractive retenue; pas encore winner-selection rule.
-- hidden occurrence register / factual-history backflow interdits.
+- initial impulse = condition frontière donnée.
 - Born NOT DERIVED; durée métrique NOT DERIVED; Lambda OPEN.
+- pas de hidden occurrence register / factual-history backflow.
 - O(3) FAIL / NOT CLOSED.
 - HDA / spin-2 / GR non linéaire NOT ESTABLISHED.
 
-## 10. Verdict GR
+## 9. Verdict GR
 
-🟢 Progrès conceptuel substantiel : la machine à réduction et l'histoire unique ont une représentation exacte; le test de symétrie localise la donnée manquante.
+🟢 Pont discret post-initial substantiellement fermé dans le scope audité.
 
-🟡 L'impulsion initiale reste viable comme complétion, mais non dérivée.
+🟢 Descente/quotient commence à séparer proprement artefacts de présentation et contenu relatif physique.
 
-🔴 Aucun nouveau résultat GR/Born n'est acquis.
+🟡 Le bloc `l=2 -> l=1` survit les contrôles actuels et devient plus difficile à classer comme bruit de représentation.
+
+🟡 Le mur live est subleading predictive-quotient physicality.
+
+🔴 Aucun O(3), HDA, spin-2 ou GR non linéaire n'est encore établi.
