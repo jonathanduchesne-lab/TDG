@@ -4,153 +4,137 @@
 
 This file is the latest-wins resume pointer. Historical FINAL-CERTIFIED authority remains `Q-B1858L`.
 
-## Binding newest checkpoints
+## Binding newest checkpoint
 
-1. `checkpoints/SENTRY/2026-09-14/TDG_CURRENT_Q_PAIR_MINOR_CHI_STATIC_COMMON_CAUSE_IDENTIFIABILITY_NOGO_2026-09-14.md`
-   - current-Q Gram/pair-minor `chi` is natural/readable but any PSD Gram has an exact static feature realization;
-   - G2/G6 process-identifying margin = zero.
+`checkpoints/SENTRY/2026-09-15/TDG_STRICT_G0_CURRENT_Q_SOURCE_INVENTORY_EXHAUSTION_ROOT_INSUFFICIENCY_2026-09-15.md`
 
-2. `checkpoints/SENTRY/2026-09-14/TDG_ORDER_SENSITIVE_CURRENT_Q_PROCESS_SOURCE_EXISTING_STRUCTURE_AUDIT_NOGO_2026-09-14.md`
-   - reconciles latest-wins no-gos for Gram, frozen Lie/Jordan table, K4, cut/interchange, EventRef, C6, P10O and related existing-source routes.
+Commit: `90d15ac18d464b5f2a279559b3f2ac379ff42d32`.
 
-3. `checkpoints/SENTRY/2026-09-14/TDG_GR65_LOCAL_CONDITIONAL_LINEAGE_LATEST_WINS_CORRECTION_GLOBAL_COMB_FRONTIER_2026-09-14.md`
-   - current Q contains local conditional transition lineage `A_(t|s) H_(K_s) A_s`;
-   - this is not by itself a primitive global order-sensitive comb.
+### Latest-wins verdict
 
-4. `checkpoints/SENTRY/2026-09-14/TDG_LOCAL_CONDITIONAL_DATA_DO_NOT_UNIQUELY_DETERMINE_GLOBAL_HIGHER_CELL_THEOREM_2026-09-14.md`
-   - one-/two-event restrictions do not uniquely determine a global three-event law.
+The exact live frontier is now:
 
-5. `checkpoints/SENTRY/2026-09-14/TDG_ROUTE_B_HIGHER_COHERENCE_STAGE_I_G0_G10_AUDIT_2026-09-14.md`
-   - central local 3-cell triviality and finite-prefix-memory dilation controls close naive higher-cell identification.
+# **STRICT G0 CURRENT-Q SOURCE INVENTORY EXHAUSTED IN THE RECOVERED/AUDITED CORPUS**
 
-6. `checkpoints/SENTRY/2026-09-15/TDG_B3_LOCAL_GROWTH_NOT_PREDICTIVE_MEMORY_GROWTH_AND_SOURCE_GAP_RECLASSIFICATION_2026-09-15.md`
-   - local/fresh rank growth does not imply primitive predictive-memory growth.
+# **CURRENT ROOT INVENTORY INSUFFICIENT FOR THIS CLOSURE**
 
-7. `checkpoints/SENTRY/2026-09-15/TDG_ROUTE_B_B3_LOCAL_HIGHER_CELL_FINITE_MEMORY_PROJECTABILITY_NOGO_2026-09-15.md`
-   - local 3-/4-event hierarchy can close on fixed projectable finite memory.
+No new Root2 law is admitted.
 
-8. `checkpoints/SENTRY/2026-09-15/TDG_ROUTE_B_G8_HISTORICAL_OBSERVABILITY_AUDIT_REMAINS_OPEN_2026-09-15.md`
-   - no hidden current-Q full-future observability closure was found in the later corpus.
+The four admissible strict-G0 source classes named by the 2026-09-15 conversation-switch handoff have now been audited against the recovered/latest-wins current-Q corpus:
 
-9. `checkpoints/SENTRY/2026-09-15/TDG_ROUTE_B_G8_ACTIVE43_LOCAL_MEMORY_STABILITY_GLOBAL_EXTENSIVE_RANK_RETYPE_2026-09-15.md`
-   - Active43 regular local Feshbach memory stabilizes at fixed two-pole / McMillan-degree-4 type;
-   - total residue-rank growth is extensive spatial replication, not new local memory type.
+1. intervention-complete process observable;
+2. Q-native representation/coequalizer theorem;
+3. causal/process operational distinction;
+4. selected-future current-Q construction.
 
-10. `checkpoints/SENTRY/2026-09-15/TDG_ROUTE_B_G8B_INTENSIVE_PREDICTIVE_TYPE_FIREWALL_AND_CURRENT_ROUTE_EXHAUSTION_2026-09-15.md`
-   - extensive spatial/UV growth cannot count as primitive higher-coherence evidence;
-   - no current object exhibits irreducible intensive local predictive-type growth;
-   - Route B is CURRENTLY EXHAUSTED as a positive new-microphysics route.
+No recovered object independently forces the missing incidence-conditioned matrix/path-valued microscopic transport law before downstream SAME-h, refinement repair, O(3), HDA or GR targets are loaded.
 
-11. `checkpoints/SENTRY/2026-09-15/TDG_POST_ROUTE_B_MINIMAL_INCIDENCE_TRANSPORT_HYPOTHESIS_STRICT_G0_ADMISSION_AUDIT_2026-09-15.md`
-   - minimal candidate `ICPRT` (incidence-conditioned projective refinement transport) was formulated target-blind on existing fibres;
-   - typing is coherent and no continuous parameter/GR target is inserted;
-   - **strict G0 FAIL / NOT DERIVED** because the need for the law is not an independent pretarget physical witness;
-   - candidate is NOT ADOPTED into Root2.
+## Why the best current-Q positive still does not pass G0
 
-Portable verifiers retained:
-- `verify_b3_local_growth_finite_global.py`
-- `verify_b3_subset_projectability_finite_memory.py`
-- `verify_b3_active43_local_memory_retype.py`
-- `verify_b3_intensive_predictive_type_firewall.py`
+Q-B1849->Q-B1852 remains a strong retained first-order legal-cut/process architecture:
 
-Latest Route-B verifier commit: `bea3c4952435682ebde536222c1508ef982296c3`
-Route-B exhaustion checkpoint: `f6b3b53b0fa953dcb6987f7ff3c4d5e457c27517`
-Strict-G0 minimal transport audit: `2271cfac3db5de1425efd8fbcface444e76749a7`
+- actual legal move -> canonical local `1+3` process descriptor;
+- invertible `P_cut`;
+- exact Cons/Feshbach cross-context scalar predictive-memory transport;
+- canonical no-fit prolongation `L_Q = V F^-1`;
+- strong b4/b24 refinement naturality and spectator locality.
 
-## Historical/latest-wins corrections from the post-Route-B audit
+However transport on this already-typed first-order process fibre does **not** determine transport on the distinct microscopic subleading/internal-frame fibre without independently derived common-domain projective intertwiners.
 
-### Q-B1844 was not left open
-The historical live partial was later completed and certified. The most general ordinary local S3-covariant Hamiltonian on the already-existing `B3 M2 + 3 x B2 M2` star has enough representation capacity, but its actual full-G4 dynamic image fails the required kernel gate. Therefore:
+If `[T_e]:E_x->E_y` is the retained process transport and `[J_x]:E_x->F_x`, `[J_y]:E_y->F_y` are required identifications, then
 
-- local representation/Herm2 capacity = PASS;
-- process Lorentz/future chart typing = PASS;
-- ordinary existing-fibre Hamiltonian -> dynamic `R_op` = FAIL;
-- the missing object was retyped as a collective B3-star process/chart-embedding law, not a new metric/fibre.
+`[R_e]=[J_y][T_e][J_x]^-1`.
 
-### Q-B1845→1852 closed much of that bridge
-Later current-Q work then earned:
+Without Q-selected `[J_x],[J_y]`, changing the identifications by allowed projective automorphisms changes `[R_e]`. Therefore copying the first-order process transport into the missing microscopic type would itself add constitutive content.
 
-- Q-B1845 local collective process solder/chart = retained;
-- Q-B1846/47 SU2 frame connection/curvature = retained;
-- Q-B1849 actual legal move -> canonical local `1+3` process descriptor and invertible `P_cut`;
-- Q-B1850 exact Cons/Feshbach cross-context scalar memory transport, rank16 and 120/120 same-final diamonds;
-- Q-B1851 canonical no-fit prolongation `L_Q = V F^-1` from legal-move scalar fields to full local `1+3` process descriptors;
-- Q-B1852 strong b4/b24 refinement naturality and spectator locality.
+Current Q does not independently fix those identifications:
 
-Therefore the current wall is **not** the old first-order legal-cut/process bridge.
+- RC23 representation matching leaves a nontrivial intertwiner family;
+- Ext/refinement naturality cannot create a missing common-domain morphism;
+- frozen Cons cells constrain/identify route classes but do not manufacture an operator-valued microscopic cross-fibre map;
+- Q-B1842/Q-B1844 representation capacity does not uniquely select the relevant microscopic incidence law.
 
-### The surviving wall is second-order / subleading physical co-selection
-Current Q selects strong first-order projective legal-cut/process transport, but the second-order dynamics do not co-select the needed universal channel:
+## Route B remains closed as a positive route
 
-- fixed four-direction second-jet SAME-h residual remains finite;
-- Q-B1855 angularly isotropic selected ray is not a dynamically invariant channel;
-- Q-B1857 retypes the apparent pair connection as nonlinear Cons normalization, not an independent physical law;
-- Q-B1858 identifies the leading resonance with a Q-state-derived projective-conformal face mode but does not derive absolute conformal scale or a universal subleading law;
-- GR188/GR189 find no existing common Q-native subleading transport, including at the pre-inversion/readout-free formal-pencil level;
-- P10S audits historical matrix/path-valued candidates and is provenance-negative for the corrected microscopic refinement problem.
+Route B higher-coherence/new-memory mining remains CURRENTLY EXHAUSTED in the audited corpus.
 
-Old GR189 rank3/degree4 inference remains revoked by P10I `rcoord_series`; do not reuse it.
+Do not treat as primitive new-memory evidence:
 
-## Route B verdict
+- extensive rank growth;
+- number of histories/cells;
+- local jet/presentation growth;
+- repeated fresh Cons-carrier growth;
+- reduced Gram rank;
+- global cut-Hankel/Feshbach rank proportional to region size;
+- direct sums/copies of a fixed local response module;
+- UV tensor growth by a fixed local factor.
 
-Route B is NOT ADMITTED. Do not mine existing higher-order response/rank growth for primitive higher-coherence ontology.
+Active43 regular local Feshbach memory remains finite-neighborhood, two-pole, local McMillan degree 4 in the audited scope.
 
-Only a genuinely new current-Q result showing irreducible intensive local predictive-type growth could reopen that route.
+## ICPRT remains rejected
 
-## Exact current frontier — latest wins
+The sandbox candidate `ICPRT` (Incidence-Conditioned Projective Refinement Transport) remains:
 
-### STRICT G0 SOURCE / INVENTORY BOUNDARY
+- coherently typed;
+- target-blind in its statement;
+- **STRICT G0 FAIL / NOT DERIVED**;
+- **NOT ADOPTED INTO ROOT2**.
 
-The project has reached a sharper axiom/inventory boundary:
+Its usefulness for repairing the downstream second-order/refinement defect is not evidence that current Q possesses the law.
 
-1. Current Q already contains a substantial first-order legal-cut/process transport architecture.
-2. The physically relevant failure is the absence of an independently selected second-order/subleading microscopic transport/co-selection law that survives the corrected refinement/cofinality tests.
-3. Existing derivation-first historical candidates audited by GR188/GR189/P10S do not supply that law.
-4. A minimal new incidence-conditioned matrix/path transport hypothesis can be typed without GR targets, but **fails modern strict G0** because no independent pretarget physical witness selects it.
-5. Therefore no new Root2 content is currently licensed.
+## Strict G0-G10 latest status
 
-### Next legal work
-
-Search only for an **independent pretarget current-Q physical witness/source** whose own operational typing forces a matrix/path-valued incidence-conditioned local transport law before any O(3), refinement-repair or GR comparison.
-
-Potential valid forms of evidence include:
-
-- an intervention-complete process observable whose transformation necessarily requires such transport;
-- a current-Q representation/coequalizer theorem forcing a unique projective transport class;
-- a causal/process operational distinction not representable without the law;
-- a selected-future current-Q construction yielding the transport before any downstream geometry/cofinality target is loaded.
-
-If no such witness exists, the scientifically correct statement is **current Root inventory insufficient for this closure**, not permission to adopt a law because it would repair the downstream defect.
-
-## G0–G10 latest status
-
-- G0a structural/inventory gap: PASS / sharply localized.
-- G0b new physical transport witness: FAIL / NOT DERIVED.
-- G1 minimal transport candidate: CONDITIONAL PASS in sandbox typing only.
-- G2 nonredundancy: OPEN / not evidence of existence.
-- G3 composition: coherent by candidate form, not derived evidence.
-- G4 refinement/dilation: conditional requirement, physical pass not established.
-- G5 target-independent parameter selection: PASS; no coefficient introduced.
-- G6 identifying margin: no positive pretarget margin.
+- G0a structural/inventory gap: **PASS / sharply localized**.
+- G0b independent physical transport witness: **FAIL / no witness found in the recovered current-Q inventory after the four-class audit**.
+- G1 minimal transport candidate: conditional sandbox typing only.
+- G2 nonredundancy: OPEN for a hypothetical selected law; not evidence of existence.
+- G3 composition: coherent by candidate form only.
+- G4 refinement/dilation: conditional requirement; physical pass not established.
+- G5 target-independent parameter selection: PASS for the minimal sandbox statement; no coefficient inserted.
+- G6 identifying margin: no positive pretarget margin for an independently selected law.
 - G7 Cons/naturality: conditional by type, not physically selected.
-- G8 Route B: current route exhausted; Active43 local historical memory finite/stable.
-- G9 conservative compatibility: not executed for an unselected new law.
+- G8 Route B: currently exhausted as a positive route.
+- G9 conservative compatibility: not executed for an unselected law.
 - G10 pretarget freeze: PASS.
+
+No later gate compensates for G0b failure.
+
+## New legal work
+
+Do **not** continue internal derivation-only mining of the already-audited inventory for renamed variants of ICPRT.
+
+The next scientific event must supply genuinely new upstream input, for example:
+
+1. recovery of a real primary current-Q source artifact not present in the audited corpus and containing an independently typed witness;
+2. external/empirical intervention evidence with a sufficiently independently frozen physical inventory/interface to create an inventory-relative representability failure;
+3. an explicitly declared **NEW FOUNDATIONAL / NEW PHYSICAL HYPOTHESIS**, clearly marked ASSUMED rather than DERIVED, frozen before any downstream comparison.
+
+Only after such a new source/premise is independently frozen may P10M/P10O/P10P/P10S be reused as held-out adversaries.
+
+## Documentary gaps that can still reopen source discovery
+
+- historical Q-B759->878 autonomous delta remains UNKNOWN;
+- original GR21/GR59 executable source used by GR61 is not currently persisted in accessible artifacts;
+- raw Q-B977->987 / 988->1000 / 1001->1012 repro tar bundles were not recovered in the recent audit;
+- a provenance-complete full local multi-refinement Q-B79 intervention-complete cut-Hankel dataset has not been recovered.
+
+Never reconstruct these gaps by interpolation.
 
 ## Firewalls
 
 - Root1 frozen; `A_path` retired; global Q uncollapsed.
 - factual ledger append-only/separate.
-- Born NOT DERIVED; duration NOT DERIVED; Lambda OPEN.
-- ELGC remains author-approved working postulate, not old-Root theorem.
-- no preferred `z`, fitted transport/coefficient, inverse-regulator rescue, gravity decoder, metric projector, tetrad or ADM/EH target.
-- O(3) FAIL/NOT CLOSED.
-- HDA/spin-2/full nonlinear GR NOT ESTABLISHED.
+- actualisation soustractive retained; not a positive winner-selection rule.
+- Born NOT DERIVED; metric duration NOT DERIVED; Lambda OPEN.
+- ELGC remains author-approved working postulate, not an old-Root theorem.
+- no preferred `z`, fitted transport/coefficient, inverse-regulator rescue, gravity decoder, metric projector, tetrad, ADM/EH target, hidden occurrence register or factual-history backflow.
+- O(3) FAIL / NOT CLOSED.
+- HDA / spin-2 / full nonlinear GR NOT ESTABLISHED.
 
 ## GR traffic light
 
-🟢 **Advance:** two obsolete frontier descriptions were removed. The first-order legal-cut/process bridge was already largely solved historically, while Route B and naive extensive-memory arguments are now closed as positive routes. The missing object is localized to second-order/subleading physical co-selection.
+🟢 **Advance:** the strict-G0 source question is now closed cleanly at the current inventory level. First-order process transport and representation capacity are no longer confused with evidence for the missing microscopic law.
 
-🟡 **Live frontier:** strict-G0 source discovery for a genuinely independent current-Q witness forcing/selecting the missing incidence-conditioned matrix/path transport law. The minimal candidate itself has been formulated but rejected for admission until such evidence exists.
+🟡 **Live frontier:** obtain genuinely new upstream source/evidence/premise. The present Root has reached an honest inventory boundary.
 
-🔴 **No GR closure:** no new Root2 law has been admitted. O(3), HDA, spin-2 and full nonlinear GR remain closed/not established.
+🔴 **No GR reopening:** no new Root2 law is admitted. O(3), HDA, spin-2 and full nonlinear GR remain not established.
