@@ -6,9 +6,13 @@ Historical FINAL-CERTIFIED authority remains `Q-B1858L`.
 
 ## Binding newest checkpoint
 
-`checkpoints/SENTRY/2026-09-15/TDG_SUBLEADING_QUOTIENT_TRIAGE_CASIMIR_OFFDIAGONAL_INVARIANT_2026-09-15.md`
+`checkpoints/SENTRY/2026-09-15/TDG_A21_PREDICTIVE_NULL_ENLARGED_COVARIANCE_GATE_2026-09-15.md`
 
-Commit: `fdde8c51a8db8da18b4c8a73c54fa7c1939a4c19`.
+Commit: `edd0fba5f1e331d5aec89b66726bb0ea2bba8d99`.
+
+Previous triage checkpoint:
+`checkpoints/SENTRY/2026-09-15/TDG_SUBLEADING_QUOTIENT_TRIAGE_CASIMIR_OFFDIAGONAL_INVARIANT_2026-09-15.md`
+commit `fdde8c51a8db8da18b4c8a73c54fa7c1939a4c19`.
 
 ## Latest-wins verdict
 
@@ -16,63 +20,61 @@ Commit: `fdde8c51a8db8da18b4c8a73c54fa7c1939a4c19`.
 
 # **POST-INITIAL CONDITIONAL RECURRENCE U_e = SUBSTANTIALLY CLOSED IN DECLARED Q/EXT/CONS SCOPE**
 
-# **BROAD GR188/GR189/P10 SUBLEADING MICROSCOPIC TRANSPORT WALL IS RETYPED: DO NOT PROMOTE THE FULL RESIDUAL FAMILY**
+# **FULL GR188/GR189/P10 SUBLEADING MICROSCOPIC RESIDUAL FAMILY IS NOT PROMOTED AS PHYSICAL CONTINUUM CONTENT**
 
-# **STRONGEST CURRENT QUOTIENT-VISIBLE CONTINUUM INVARIANT = NONZERO Q-CASIMIR l=2 -> l=1 CROSS-SECTOR RESPONSE**
+# **STRONGEST RETAINED CONTINUUM INVARIANT = NONZERO Q-CASIMIR l=2 -> l=1 RESPONSE A_21**
 
-# **LIVE FRONT = TEST THIS ONE OBJECT FOR PREDICTIVE-NULLNESS OR AN ALREADY-Q-DERIVED ENLARGED COVARIANT COMPLETION**
+# **A_21 PREDICTIVE-NULLNESS IS NOT ESTABLISHED; AVAILABLE CONTROLS FAVOR RESPONSE-VISIBLE CONTINUUM STATUS IN THE TESTED FAMILY**
+
+# **CURRENT-Q FINITE PHYSICAL l=3 ORDER-PARAMETER COMPLETION IS NEGATIVE / NOT DERIVED**
+
+# **LIVE FRONT = QUOTIENT PHYSICALITY OF THE Q-DERIVED l=1 AND l=2 SECTOR TYPING ITSELF**
 
 No new Root2 law is admitted.
 
-## What was retired / retyped
+## Why A_21 remains live
 
-- Q-B1856 shared-B3 O(1) pair obstruction = Cons-normalization artifact, not independent physics.
-- raw absolute conformal scale = not licensed physical datum.
-- Q-B1858 leading face-scale mismatch = retyped/synchronized by the Q-derived projective-conformal mode.
-- detailed GR188/GR189/P10 residual matrices/path transport mismatches beyond independently response-visible invariants = **not promoted as physical continuum content**.
+Let `A_21=P_1 T P_2`, with `P_1` and `P_2` the Q-derived Casimir projectors onto `l=1` and `l=2`.
 
-P10S remains a strong microscopic cofinality adversary, but finite b4/b24 microscopic noncofinality does not imply that every residual matrix component is a universal physical observable.
+Retained evidence:
 
-## Retained physicality pressure
-
-For the Q-derived source/target sectors:
-
-- `P_2` = Q-Casimir `l=2` projector;
-- `P_1` = Q-Casimir `l=1` projector;
-- `A_21=P_1 T P_2`.
-
-The Q-B1852 block remains nonzero in the tested continuum family:
-
+- nonzero continuum value;
 - b4 extrapolation `0.1424778761`;
 - b24 extrapolation `0.1424778616`;
 - relative difference ~`1.02e-7`;
-- Cons/path/spectator/readout structural controls retained.
+- Cons/path/spectator/readout structural controls survive;
+- Q-B1857/Q-B1858 remove known multiplicity/scale artifacts without removing the block.
 
-The exact Casimir defect is
+Exact Casimir defect:
 
-`C_out A_21 - A_21 C_in = (2-6)A_21 = -4 A_21`.
+`C_out A_21 - A_21 C_in = -4 A_21`.
 
-Thus nonzero `A_21` is equivalent to a nonzero Q-Casimir intertwining defect and cannot be removed merely by basis changes within the already-Q-defined `l=1` and `l=2` sectors.
+Thus basis changes internal to the already-defined sectors cannot null a nonzero `A_21`.
 
-Universal theorem over every conceivable response-equivalent microscopic realization is still not claimed.
+A universal complete-interface Q-B79 null theorem is not available because the provenance-complete multi-refinement intervention dataset is still missing. Therefore universal all-realization physicality is not claimed.
 
-## Correct critical path
+## Enlarged-covariance route status
 
-`I0 GIVEN -> U_e -> predictive quotient -> continuum invariants -> symmetry/dynamics -> GR tests`.
+A finite physical `l=3` order parameter could mathematically covariantize an `l=2 -> l=1` map in principle.
 
-Do **not** return to general microscopic transport fitting.
+Current Q does not supply that completion in the regular continuum evidence:
 
-## Exact next gate
+- Q-selected angular `T3 ~ O(a^2) -> 0`;
+- no finite nonzero Q-native `l=3` state with statehood/transport/co-selection is derived;
+- dynamic co-selection remains failed.
 
-### A_21 PREDICTIVE-NULL / ENLARGED-COVARIANCE GATE
+Therefore the benign broken-A4 completion is not currently earned.
 
-Ask target-blindly:
+## Correct research path
 
-1. Is the retained nonzero `l=2 -> l=1` response itself future-visible at the declared complete predictive interface, or can it be proven quotient-null?
-2. If future-visible, does current Q already derive a physical order parameter/state that enlarges the representation so the combined dynamics is covariant?
-3. If neither, retain `A_21` as genuine continuum symmetry-breaking prediction and stop claiming O(3)-covariant GR on that sector.
+Do not return to general microscopic matrix transport fitting.
 
-Forbidden: project it away because GR wants zero; fit a counterterm; choose a special readout/refinement; infer a new microscopic law from the discarded Q2 residual family.
+Next test only whether the sector labels themselves descend physically:
+
+1. Are the `l=1` physical/process Standard3 and `l=2` traceless-Hessian sectors defined directly by predictive response structure rather than realization-dependent coordinates?
+2. Do their Q-Casimir projectors survive Cons/path/refinement/readout changes?
+3. If yes, the nonzero A_21 becomes a much stronger genuine symmetry-breaking continuum prediction.
+4. If no, retype the obstruction at the sector-definition layer rather than adding a compensator.
 
 ## Firewalls
 
@@ -87,12 +89,12 @@ Forbidden: project it away because GR wants zero; fit a counterterm; choose a sp
 
 ## GR traffic light
 
-🟢 **Bridge advances significantly:** the broad subleading microscopic transport wall is reduced to quotient-visible content only.
+🟢 **Major localization advance:** broad microscopic residual wall collapsed to one quotient candidate.
 
-🟢 **No unnecessary new law:** unproven residual matrices are not promoted.
+🟢 **Simple null/gauge and current-Q finite-l3 exits not supported.**
 
-🟡 **Sharp live obstruction:** nonzero continuum `l=2 -> l=1` cross-Casimir mixing.
+🟡 **Live obstruction:** nonzero continuum `A_21` between Q-derived Casimir sectors.
 
-🟡 **Next:** predictive-null versus enlarged-covariant completion audit.
+🟡 **Next:** prove or refute physical quotient status of the `l=1` and `l=2` sector typing.
 
 🔴 **O(3), HDA, spin-2 and nonlinear GR remain unestablished.**
