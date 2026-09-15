@@ -6,145 +6,148 @@ Historical FINAL-CERTIFIED authority remains `Q-B1858L`.
 
 ## Binding newest checkpoint
 
-`checkpoints/SENTRY/2026-09-15/TDG_ACTUALIZATION_LENS_EXISTING_Q_PROCESS_RETYPE_AND_CONTEXTUAL_COVARIANCE_GATE_2026-09-15.md`
+`checkpoints/SENTRY/2026-09-15/TDG_ACTUALIZATION_LENS_L3_COSELECTION_AUDIT_CURRENT_Q_NEGATIVE_2026-09-15.md`
 
-Commit: `db93f42e92827fe3101d5723fea383c99f7d4194`.
+Commit: `b989838d14b84f8eb74b46aa22146a5eb3296942`.
 
 Preceding decisive checkpoints:
+- `TDG_ACTUALIZATION_LENS_EXISTING_Q_PROCESS_RETYPE_AND_CONTEXTUAL_COVARIANCE_GATE_2026-09-15.md` — commit `db93f42e92827fe3101d5723fea383c99f7d4194`.
 - `TDG_L1_L2_PREDICTIVE_QUOTIENT_IRREDUCIBILITY_DICHOTOMY_2026-09-15.md` — commit `45ff6a7009761648d802e08625cbe10168ce41bd`.
 - `TDG_A21_PREDICTIVE_NULL_ENLARGED_COVARIANCE_GATE_2026-09-15.md` — commit `edd0fba5f1e331d5aec89b66726bb0ea2bba8d99`.
-- `TDG_SUBLEADING_QUOTIENT_TRIAGE_CASIMIR_OFFDIAGONAL_INVARIANT_2026-09-15.md` — commit `fdde8c51a8db8da18b4c8a73c54fa7c1939a4c19`.
 
 ## Latest-wins verdict
 
 # **INITIAL IMPULSE I0 = GIVEN / OUT OF EXPLANATORY SCOPE**
 
-# **ACTUALIZATION IS NOW TYPED AS A Q-NATIVE LENS/PROCESS IN ITS RELATIONAL CONTEXT, NOT AS A DETACHED POINT OR NEW FIELD**
+# **ACTUALIZATION-LENS ONTOLOGY = RETAINED AS A STRONG CONCEPTUAL RETYPE OF EXISTING Q PROCESS, NOT A NEW FIELD**
 
 # **POST-INITIAL CONDITIONAL RECURRENCE U_e = SUBSTANTIALLY CLOSED IN DECLARED Q/EXT/CONS SCOPE**
 
-# **A+B->C QUOTIENT THEOREM REMAINS VALID; B WAS ALREADY REQUIRED TO BE A FULLY TYPED LEGAL EVENT/MORPHISM**
+# **A+B->C QUOTIENT THEOREM REMAINS VALID WITH B AS FULLY TYPED ACTUALIZATION/LENS EVENT**
 
-# **Q-B1845/Q-B1849/Q-B1850 PROVIDE STRONG EXISTING-Q SUPPORT FOR THE LENS READING: CONTEXT-ESSENTIAL PROCESS CHART, MOVE-INDUCED CROSS-CONTEXT RECALIBRATION, SAME-FINAL COEQUALIZATION**
+# **Q-B1845/Q-B1849/Q-B1850 STRONGLY SUPPORT CONTEXT-ESSENTIAL LENS BEHAVIOR: COLLECTIVE PROCESS CHART, CROSS-CONTEXT RECALIBRATION, SAME-FINAL COEQUALIZATION**
 
 # **STRONGEST RETAINED CONTINUUM INVARIANT = NONZERO Q-CASIMIR l=2 -> l=1 RESPONSE A_21**
 
 # **PARTIAL QUOTIENT CANNOT REMOVE TROUBLESOME l=1/l=2 DIRECTIONS WHILE PRESERVING FULL SO(3)**
 
-# **NEW LIVE FRONT = DOES THE ALREADY-Q-DERIVED ACTUALIZATION LENS CARRY A FINITE TRANSFORMING L=3 CONTEXT THAT COVARIANTIZES A_21 WITHOUT NEW MICROPHYSICS?**
+# **EXISTING-Q ACTUALIZATION-LENS L3 CONTEXTUAL COVARIANCE RESCUE = NOT DERIVED / NEGATIVE IN CURRENT CERTIFIED EVIDENCE**
+
+# **LIVE FRONT = IF GR BRIDGE IS PURSUED, ELGC-SANDBOX TARGET-BLIND COMPLETION SEARCH UNDER G0-G10**
 
 No new Root2 law is admitted.
 
-## Actualization-lens retype
+## What the drawing changed — and what it did not
 
-Use:
+The drawing corrected the physical reading of B:
 
-- `A_n` = complete predictive possibility state;
-- `W_n` = existing Ext/Cons/Q/FP relational web;
-- `b_(n+1)` = bare factual occurrence label in the ledger;
-- `e_(n+1)` = fully typed legal physical event;
-- `L^Q_e[A,W]` = shorthand for the already-Q-generated conditional process action of the event in its relational context.
+- not a detached point/outcome label;
+- a local/contextual actualization process embedded in the relational web;
+- effective projection leaves that process region.
 
-`L^Q_e` is **not** a new field/force/degree of freedom.
+This matches existing Q behavior without adding ontology:
 
-Concrete support:
+1. Q-B1819/Q-B1822 — local extension instrument and persistence without global rewrite;
+2. Q-B1845 — full context required to recover complete 4D process information;
+3. Q-B1849/Q-B1850 — one legal move recalibrates neighboring process responses;
+4. Q-B1850 — 120/120 same-final legal pairs coequalize exactly, max defect `0.0`.
 
-1. Q-B1819/Q-B1822: local extension instrument, persistence of old Q block, no branch-poststate overwrite of global Q.
-2. Q-B1845: isolated B3 compression loses one dimension; full four-B3 context restores exact-leading 4D chart, `A0^T A0=I4`.
-3. Q-B1849/Q-B1850: actual legal move changes neighboring process responses through same-Q predictive memory; cross-context map full rank in tested shell.
-4. Q-B1850: 120/120 same-final legal pairs coequalize exactly, max final response defect `0.0`.
+Therefore the lens picture is retained and scientifically useful.
 
-This gives a strong finite realization of a local/contextual actualization lens and predictive refocusing without adding new ontology.
+It does **not** by itself solve the continuum symmetry wall.
 
-## A21 contextual-covariance possibility
+## Why the lens L3 rescue failed
 
-At fixed context:
-
-`A_21:l=2->l=1`
-
-has exact Casimir defect
-
-`C_out A_21 - A_21 C_in = -4 A_21`.
-
-Thus a fixed nonzero operator is not an SO(3) intertwiner.
-
-But a context-dependent law could satisfy
-
-`A_21[g.Lambda] D_2(g) = D_1(g) A_21[Lambda]`
-
-if `Lambda` is already-Q-derived transforming physical lens/context data.
-
-This is **not derived**. It is the last conservative existing-Q route before new ELGC microphysics.
-
-## Exact representation filter
-
-The observed cross map is pure `L=3` inside
+The retained cross map is pure `L=3` in
 
 `Hom(l=2,l=1)=L1 (+) L2 (+) L3`.
 
-Therefore an existing-lens completion must contain a finite transforming `L=3` component.
+The certified lowest-order lens/process variables are effectively of type
 
-- scalar context is insufficient;
-- one vector is insufficient;
-- two vector factors cannot produce l=3;
-- `Sym^3(l=1)=l=3 (+) l=1`, so the lowest generic vector-built candidate is cubic/third-order.
+`l=0 (+) l=1`.
 
-The previous static tetrahedral-order completion remains negative: the strongest Q-selected angular `T3 ~ O(a^2) -> 0`.
+Representation capacity:
 
-Hence the new test is not to resurrect the regulator tetrahedron. It is to inspect the **event-conditioned process/lens context itself**.
+- linear lens data: no `l=3`;
+- quadratic vector data: `l1 tensor l1 = l0 (+) l1 (+) l2`, still no `l=3`;
+- first generic vector-built `l=3` appears cubically through `Sym^3(l1)=l3 (+) l1`.
 
-## Exact live gate — ACTUALIZATION-LENS L3 CO-SELECTION
+No independently physical, finite, refinement-natural Q-native cubic lens `l=3` object that co-selects `A_21` is certified in the recovered Q-B1845->Q-B1858 chain.
 
-Using only existing Q-B1845/Q-B1849/Q-B1850/Q-B1851 process data:
+The strongest directly audited Q-selected third moment remains
 
-1. identify lens/context variables for one actual legal move;
-2. decompose linear and lowest nonlinear response tensors under the already-derived little group;
-3. search target-blindly for `L=3` content;
-4. require finite nonzero b4/b24 continuum behavior;
-5. require Cons/path/spectator/readout naturality;
-6. require co-selection of the measured `A_21` orientation/amplitude up to already-licensed scale/projective freedom;
-7. test simultaneous covariance with transformed lens context and l=2 source.
+`T3_selected ~ O(a^2) -> 0`,
 
-If this fails, return to the ELGC G0-G10 completion fork with much stronger justification.
+while `A_21` remains finite.
+
+Thus the assistant-origin hypothesis that the existing lens already carries the missing transforming L3 content is **not derived**.
+
+## Retained symmetry wall
+
+If full SO(3) descends physically to the predictive quotient, irreducibility forces the full `l=1` and `l=2` sectors to survive.
+
+Then
+
+`Hom_SO(3)(l=2,l=1) = {0}`
+
+but the retained continuum `A_21` is nonzero.
+
+The benign exits tested so far are not earned:
+
+- selective quotient while keeping SO(3): impossible;
+- finite physical static l3 order parameter from current Q: negative;
+- existing actualization-lens finite l3 completion: not derived.
+
+## ELGC status and exact next program
+
+ELGC remains an **author-approved working postulate / quarantined assumption**, not an old-Root theorem.
+
+Under ELGC, the current regular-phase constitutive realization has a clean pretarget covariance failure.
+
+The next legitimate GR-directed task is therefore a **narrow target-blind completion search under G0-G10**.
+
+The target is not “make GR work”. It is:
+
+> find an independently physically typed Q completion that restores little-group covariance of the regular-phase response without deleting physical irreps, fitting away `A_21`, promoting regulator anisotropy, or adding factual-history backflow.
+
+Any concrete law must be frozen before downstream O(3)/HDA/spin-2/GR tests.
 
 ## Provenance
 
-### Jonathan-origin
+### Jonathan-origin retained
 
 - actualisation soustractive;
-- A/B/C picture;
-- unchanged universe not rewritten;
+- A/B/C architecture;
 - one factual history;
-- initial impulse given/out of explanatory scope;
+- unchanged structure persists unless affected;
+- initial impulse given/out of scope;
 - relational web constrains possibilities;
 - actualization is a lens/process generated through interaction with the web.
 
-### Assistant-origin / quarantined
+### Assistant-origin reclassified
 
-- existing-lens contextual covariance may retype `A_21` as context-conditioned anisotropy rather than fixed-law symmetry breaking.
-
-This assistant hypothesis is OPEN and must pass the L3 co-selection gate before any promotion.
+- existing-lens contextual covariance as an A21 rescue = **TESTED / NOT DERIVED IN CURRENT CERTIFIED Q**.
 
 ## Firewalls
 
 - Root1 frozen; `A_path` retired; global Q uncollapsed.
 - factual ledger append-only/separate.
 - Born NOT DERIVED; metric duration NOT DERIVED; Lambda OPEN.
-- ELGC remains author-approved sandbox assumption only.
-- no new actualization field, resonance force, selector origin, preferred readout/refinement, hand l=2 deletion, fitted counterterm or microscopic J.
+- no new actualization field, resonance force, selector-origin explanation, preferred readout/refinement, hand l2 deletion, fitted counterterm or microscopic J.
+- ELGC only inside explicit sandbox.
 - O(3) FAIL / NOT CLOSED.
 - HDA / spin-2 / full nonlinear GR NOT ESTABLISHED.
 
 ## GR traffic light
 
-🟢 **Drawing-driven clarification improved typing without adding a law.**
+🟢 **The drawing improved and clarified the bridge ontology without forcing new physics.**
 
-🟢 **Existing Q has strong structural signatures of the actualization lens.**
+🟢 **Actualization-lens structure is strongly compatible with existing Q.**
 
-🟢 **A+B->C and post-initial bridge remain intact.**
+🟢 **A false easy rescue was tested and rejected rather than assumed.**
 
-🟡 **Last conservative existing-Q exit for A21:** lens-contextual L3 covariance.
+🟡 **The symmetry wall is now cleaner and narrower.**
 
-🟡 **Not yet earned:** finite Q-native L3 lens component and co-selection.
+🟡 **If continuing toward GR: ELGC target-blind completion under G0-G10.**
 
 🔴 **O(3), HDA, spin-2 and nonlinear GR remain unestablished.**
