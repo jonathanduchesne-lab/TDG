@@ -6,81 +6,96 @@ Historical FINAL-CERTIFIED authority remains `Q-B1858L`.
 
 ## Binding newest checkpoint
 
-`checkpoints/SENTRY/2026-09-15/TDG_INITIAL_IMPULSE_SCOPE_FIREWALL_BRIDGE_ONLY_RECLASSIFICATION_2026-09-15.md`
+`checkpoints/SENTRY/2026-09-15/TDG_POST_INITIAL_BRIDGE_RECURRENCE_SELECTOR_UPDATE_FACTORIZATION_2026-09-15.md`
 
-Commit: `6cfb5b99c4fd64f97e104d326baba97233d095e8`.
+Commit: `a3704162e5c8271559818fb0efa00ad9e6c1d53d`.
+
+Scope checkpoint retained:
+`checkpoints/SENTRY/2026-09-15/TDG_INITIAL_IMPULSE_SCOPE_FIREWALL_BRIDGE_ONLY_RECLASSIFICATION_2026-09-15.md`.
 
 ## Latest-wins verdict
 
-# **INITIAL IMPULSE = GIVEN BOUNDARY CONDITION / OUT OF EXPLANATORY SCOPE**
+# **INITIAL IMPULSE I0 = GIVEN / OUT OF EXPLANATORY SCOPE**
 
-# **TDG LIVE OBJECTIVE = BUILD THE POST-INITIAL BRIDGE, NOT EXPLAIN THE ORIGIN OF THE FIRST IMPULSE**
+# **CONDITIONAL POST-INITIAL UPDATE U_e IS SUBSTANTIALLY CLOSED IN THE DECLARED Q/EXT/CONS SCOPE**
 
-# **LIVE FRONT = FORMALIZE THE RECURRENCE POSSIBILITIES + WEB + FACTUAL EVENT -> UPDATED POSSIBILITIES/WEB + EFFECTIVE PROJECTION**
+# **THE STRUCTURAL BRIDGE DOES NOT DEPEND ON WHY THE SAME FACTUAL EVENT e WAS SELECTED**
+
+# **LIVE FRONT MOVES FORWARD TO QUOTIENT-DESCENT / CONTINUUM PHYSICALITY OF THE EMERGENT STRUCTURES**
 
 No new Root2 law is admitted.
 
-## Author scope correction
+## Correct factorization
 
-Jonathan clarifies that the initial impulse / first actualization was always accepted as an unexplained starting condition. TDG is not tasked with explaining why the Universe starts, why an initial selector exists, or any metaphysical first-cause question.
+At factual step n use
 
-The research program starts **after** that boundary condition.
+`S_n=(K_n,Q_n,P_n,L_n)`
 
-## Correct live chain
+with current carrier, noncollapsed predictive/global Q, complete predictive class and append-only factual ledger.
 
-`I0 [given] -> first factual anchor -> (A,W) -> B -> C -> updated (A,W) -> next B -> ...`
+For one factual legal event
 
-where:
+`e:K_n->K_(n+1)`,
 
-- `A` = possible continuations;
-- `W` = relational/constraint web;
-- `B` = one factual actualization;
-- `C` = post-actualization predictive/effective projection;
-- one factual history is retained.
+the conditional structural update is
 
-## What remains acquired
+`S_(n+1)=U_e(S_n)`.
 
-- global-Q/carrier persistence under legal extension is substantially derived in Q-B1818->Q-B1822 scope;
-- `A+B->C` is abstractly closed at complete predictive-quotient level under composition-closed interface semantics;
-- one factual history is compatible with uncollapsed predictive Q;
-- path-space nested-cylinder reduction is a useful exact representation once a normalized branch kernel is given;
-- current Q supports physical branches/weights but does not by itself derive a general winner selector.
+In the audited scope:
 
-## Scope firewall
+- carrier update is the legal Ext event;
+- canonical inclusion preserves the old Q block and the same Q law adds only new local/interface support;
+- the ledger appends e but does not replace global predictive Q;
+- predictive class updates canonically by `P_(n+1)=Phi_e(P_n)`;
+- licensed projection gives `C_(n+1)=Pi(P_(n+1))`;
+- the new possibility/web structure is regenerated from the updated carrier/Q through the same licensed Ext/Cons/FP-NEF structure.
 
-Do NOT spend further research effort on:
+## Selector-update factorization
 
-- what caused the initial impulse;
-- why `I0` exists;
-- a metaphysical pre-Universe selector;
-- a first-cause explanation.
+If two factualization/statistical mechanisms produce the same legal factual event sequence from the same post-I0 state, they produce the same structural sequence under the conditional maps `U_e`.
 
-Assistant-origin ideas such as a contextual pre-factual selector section or scalar "actualization phase" remain quarantined side hypotheses, not the live target.
+Therefore:
 
-## Correct bridge tasks
+- selection/statistics answers **which e occurs**;
+- structural bridge answers **what follows physically once e occurs**.
 
-1. **Reduction dynamics:** how actualization removes/incompatibilizes alternatives and updates only affected relational structure.
-2. **Factual uniqueness:** maintain one factual ledger/history while predictive Q remains uncollapsed.
-3. **Projection closure:** retain `A+B->C` without extra post-B physics.
-4. **Repeated composition / continuum:** show stable effective structures under legal actualization, Cons, refinement and persistence.
-5. **Physics comparison:** only after the bridge is internally closed compare emergent structures with Lorentz/O(3)/HDA/spin-2/GR.
+Born remains open as a frequency/statistical question, but a derivation of the first cause or a deterministic winner selector is not a prerequisite for continuing the conditional emergence bridge.
 
-## What remains scientifically open
+## Concrete support
 
-- whether the post-initial actualization rule is fully specified by existing Q/FP/Ext/Cons structure;
-- whether later branch factualization requires an additional law;
-- Born status if needed for dynamic closure;
-- quotient descent of emergent continuum structures;
-- status of retained `l=2 -> l=1` continuum content;
-- metric duration, Lambda, O(3), HDA, spin-2 and nonlinear GR.
+- Q-B1818/Q-B1819/Q-B1822: extension-resolved Q channels, persistence of old Q block, noncollapsed functorial global-Q update, same-Q multistep propagation.
+- Q-B1822B: branch poststate -> next global Q state is exact fail; factual ledger + noncollapsed predictive Q is the correct type.
+- Q-B1849/Q-B1850: actual legal move -> process descriptor, nontrivial predictive cross-memory, exact 120/120 same-final order/path independence in the tested shell.
+- A+B->C quotient-descent theorem remains binding at complete predictive level under composition-closed declared interface semantics.
 
-## NEXT
+## Critical-path correction
 
-Formalize the post-initial recurrence using only already-derived structures:
+Do NOT use:
 
-`(A_n, W_n, H_n) + B_(n+1) -> (A_(n+1), W_(n+1), H_(n+1), C_(n+1))`
+`explain I0 -> derive selector -> then attempt geometry`.
 
-and identify exactly which arrow remains unclosed once `I0` is granted.
+Use:
+
+`I0 GIVEN -> conditional recurrence U_e -> quotient descent of emergent structures -> refinement/continuum universality -> symmetry/dynamics -> GR tests`.
+
+Born/selection remains a parallel open sector and must not be declared solved.
+
+## Exact live next gate
+
+Target-blind quotient-descent audit, priority:
+
+1. Q-B1849/Q-B1851 `1+3` process descriptor/connection;
+2. Q-B1852 refinement-natural transport and retained `l=2 -> l=1` block;
+3. Q-B1857/Q-B1858 projective-conformal synchronization;
+4. only then classify what is genuine continuum physical structure versus representation dependence.
+
+For each candidate X test:
+
+- invariance on complete predictive equivalence classes;
+- commutation with legal `U_e` / `Phi_e`;
+- invariance under response-equivalent microscopic realizations;
+- Cons descent and spectator independence;
+- b4/b24 scheme-stable continuum value when refinements represent the same predictive class.
 
 ## Firewalls
 
@@ -95,10 +110,12 @@ and identify exactly which arrow remains unclosed once `I0` is granted.
 
 ## GR traffic light
 
-🟢 **Focus corrected:** an out-of-scope first-cause problem is removed from the critical path.
+🟢 **Major bridge progress:** the post-initial discrete conditional recurrence is substantially closed in the declared Q/Ext/Cons scope.
 
-🟢 **Bridge target restored:** reduction, persistence, projection, composition and continuum emergence after the given initial impulse.
+🟢 **Selection disentangled from structural update:** no need to solve first cause or winner selection before continuing the emergence bridge.
 
-🟡 **Post-initial selection/Born may still matter only if required for bridge closure.**
+🟡 **Born remains open** for frequencies/ensemble predictions.
+
+🟡 **Live bridge frontier:** quotient descent and continuum physicality of emergent process/geometric structures.
 
 🔴 **No GR promotion yet:** O(3), HDA, spin-2 and nonlinear GR remain unestablished.
