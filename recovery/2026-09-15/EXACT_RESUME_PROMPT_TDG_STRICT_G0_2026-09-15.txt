@@ -1,0 +1,69 @@
+REPRENDS COMPLETE TDG / ROOT2 DEPUIS LE HANDOFF AUTONOME DU 15 SEPTEMBRE 2026 DANS LE REPO PUBLIC jonathanduchesne-lab/TDG.
+
+PARLE EN FRANCAIS.
+
+AVANT TOUTE NOUVELLE CONCLUSION, LIS DANS CET ORDRE:
+1. CURRENT_FRONT_LATEST.md
+2. recovery/2026-09-15/00_START_HERE_NEW_CONVERSATION_TDG_2026-09-15.txt
+3. recovery/2026-09-15/TDG_CONVERSATION_SWITCH_HANDOFF_STRICT_G0_2026-09-15.md
+
+AUTORITE:
+- historique FINAL-CERTIFIED reste Q-B1858L;
+- ne promeus aucune sandbox/audit recente au rang FINAL-CERTIFIED sans preuve explicite.
+
+ETAT LATEST-WINS A RESPECTER:
+- Root1 gele;
+- A_path retire;
+- Q global non collapsed;
+- ledger factuel append-only et separe;
+- actualisation soustractive conservee mais n'est pas une regle positive de winner-selection;
+- Born NOT DERIVED;
+- duree metrique/propre NOT DERIVED;
+- Lambda OPEN;
+- ELGC = postulat auteur de travail, pas theoreme ancien Root;
+- O(3) FAIL/NOT CLOSED;
+- HDA/spin-2/GR non etablis.
+
+CORRECTIONS IMPORTANTES:
+- Q-B1844 a ete COMPLETE: Hamiltonien local S3-covariant ordinaire sur fibres existantes -> dynamic R_op = FAIL; capacite representationnelle = PASS.
+- Q-B1849->1852 ont deja largement ferme le pont legal-cut/process AU PREMIER ORDRE: descriptor 1+3, P_cut inversible, Q-B1850 transport Cons/Feshbach inter-contextes, Q-B1851 L_Q=V F^-1, Q-B1852 naturalite b4/b24.
+- Le mur reel est SECOND-ORDRE/SUBLEADING PHYSICAL CO-SELECTION.
+- GR188/189 ne derivent pas de transport subleading commun; ancien rank3/degree4 GR189 invalide par P10I rcoord_series.
+- P10S = provenance negative pour les anciennes lois matrix/path candidates.
+
+ROUTE B:
+- route higher-coherence/new-memory CURRENTLY EXHAUSTED comme route positive;
+- ne pas utiliser croissance extensive de rang/dimension, nombre d'histoires, jet growth, fresh Cons growth, reduced Gram rank, total cut-Hankel/Feshbach rank, ni tensoring UV par facteur fixe comme preuve de nouvelle memoire primitive;
+- Active43 local regular memory = finite-neighborhood, two-pole, local McMillan degree 4.
+
+STRICT G0:
+- le candidat minimal ICPRT (incidence-conditioned projective refinement transport) a deja ete formule en sandbox et REJETE A G0: pas de temoin physique pretarget independant;
+- checkpoint: checkpoints/SENTRY/2026-09-15/TDG_POST_ROUTE_B_MINIMAL_INCIDENCE_TRANSPORT_HYPOTHESIS_STRICT_G0_ADMISSION_AUDIT_2026-09-15.md
+- commit: 2271cfac3db5de1425efd8fbcface444e76749a7
+- NE PAS adopter ICPRT dans Root2.
+
+FRONT EXACT:
+Cherche uniquement un TEMOIN/SOURCE PHYSIQUE CURRENT-Q INDEPENDANT PRETARGET qui force par son propre typage operationnel une loi locale matrix/path incidence-conditionnee AVANT toute comparaison O(3), SAME-h, cofinalite, HDA ou GR.
+
+Formes admissibles de preuve:
+- observable processuel intervention-complete exigeant ce transport;
+- theoreme Q-native de representation/coequalizer forcant une classe projective unique;
+- distinction operationnelle causale/process impossible sans cette loi;
+- construction selected-future current-Q donnant le transport avant toute cible geometrique downstream.
+
+Si aucun temoin n'existe apres audit serieux, conclusion correcte:
+CURRENT ROOT INVENTORY INSUFFICIENT FOR THIS CLOSURE.
+Ne pas inventer une loi parce qu'elle repare le downstream defect.
+
+MODE DE TRAVAIL:
+- avance de facon autonome si le prochain test est bien defini;
+- distingue EXACT / DERIVED / STRONG NUMERICAL / CAPACITY / CONDITIONAL / SANDBOX / OPEN / FAIL;
+- aucun fit vers GR/O3/HDA;
+- aucun preferred z;
+- aucun hidden factual-history backflow;
+- aucun nouveau metric/projector/tetrad/ADM target;
+- cree un safepoint GitHub des qu'un nouvel etat stable substantiel est atteint;
+- donne toujours un mini bilan feu de circulation et reponds explicitement: "est-ce qu'on avance vers GR ?"
+
+PREMIERE ACTION APRES LECTURE:
+Audite l'inventaire current-Q selected-future / intervention-complete / representation-theoretic qui pourrait fournir un temoin G0 independent pour le transport incidence-conditionne manquant. Ne repars pas sur Route B, GR189 fitting, P10 projection repair ou une recherche directement ciblee O3/GR.
