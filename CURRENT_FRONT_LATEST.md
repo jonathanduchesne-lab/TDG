@@ -6,135 +6,194 @@ Historical FINAL-CERTIFIED authority remains `Q-B1858L`.
 
 ## Binding newest checkpoint
 
-`checkpoints/SENTRY/2026-09-15/TDG_BREATHING_TEST_HISTORICAL_ROOT_CONSONANCE_ENSEMBLE_LENS_SYMMETRY_RECLASSIFICATION_2026-09-15.md`
+`checkpoints/SENTRY/2026-09-15/TDG_HISTORY_RESONANCE_RESPONSE_SPECTRUM_S4_MODE_DECOMPOSITION_2026-09-15.md`
 
-Commit: `2f2a772675a054b03a0a91284a84e46a567da6d2`.
+Commit: `2ebf1617dfc3084721ba917a378fe6b47f1c9996`.
 
-Preceding decisive checkpoint:
+Preceding decisive checkpoints:
+- `TDG_BREATHING_TEST_HISTORICAL_ROOT_CONSONANCE_ENSEMBLE_LENS_SYMMETRY_RECLASSIFICATION_2026-09-15.md` — commit `2f2a772675a054b03a0a91284a84e46a567da6d2`.
+- `TDG_HISTORY_RESONANCE_RECONCILIATION_ROOT_VS_DOWNSTREAM_SELECTION_2026-09-15.md` — commit `751c5873dc370283aed58574e11a7188da556df0`.
 - `TDG_ELGC_STAGEI_H1_H5_TRIAGE_INTERFACE_SUPPORTED_H5_UNDERDETERMINATION_2026-09-15.md` — commit `ed3b2947c68cb4afba51adecd160ee070275ebec`.
 
 ## Latest-wins verdict
 
 # **INITIAL IMPULSE I0 = GIVEN / OUT OF EXPLANATORY SCOPE**
 
-# **ACTUALIZATION-LENS ONTOLOGY = RETAINED AS STRONGLY CONSONANT WITH BOTH MODERN Q AND THE HISTORICAL ACTUALIZATION-FIRST ROOT**
+# **ACTUALIZATION-LENS ONTOLOGY = RETAINED**
 
-# **MODERN Q IS STRUCTURALLY CONSONANT WITH THE OLD SANDBOX: PERSISTENT POSSIBILITY STRUCTURE + FACTUAL HISTORY + CONDITIONAL CONTINUATIONS + MOVE-INDUCED CONTEXT CHANGE + CONFLUENCE**
+# **HISTORY RESONANCE WAS NOT DISCARDED: IT IS RETAINED AS Q-NATIVE ORGANIZATION, NOT AS A DERIVED WINNER RULE**
 
-# **NONZERO LOCAL A_21 MAY BE A CONDITIONAL LENS RESPONSE RATHER THAN AN EFFECTIVE-PHASE SYMMETRY BREAKING TERM**
+# **FIXED-READOUT Q-NATIVE RESPONSE RESONANCE OPERATOR EXISTS: R_C = F_C^dag F_C**
 
-# **EXACT THEOREM: AN SO(3)-INVARIANT PHYSICAL ENSEMBLE OF COVARIANT LENS RESPONSES HAS ZERO EFFECTIVE l=2->l=1 MEAN**
+# **THE 16 LEGAL CONTINUATIONS ORGANIZE INTO S4-TYPED COLLECTIVE MODE FAMILIES, NOT 16 ARBITRARY INDEPENDENT DIRECTIONS**
 
-# **POINTWISE APPLICATION OF ELGC TO EACH INDIVIDUAL LENS IS NOT YET JUSTIFIED**
+# **CURRENT Q ALREADY DISTINGUISHES REPEATED SAME-IRREP MODES THROUGH PROCESS/JET STRUCTURE, INCLUDING A UNIQUE CUBIC-POLAR STANDARD3 IN THE RETAINED FILTRATION**
+
+# **UNIVERSAL PHASE-SENSITIVE RESONANCE SPECTRUM / PROJECTORS REMAIN OPEN ACROSS COMPLEX READOUTS AND FULL REFINEMENT**
+
+# **NONZERO LOCAL A_21 MAY STILL BE A CONDITIONAL LENS RESPONSE RATHER THAN AN EFFECTIVE-PHASE SYMMETRY BREAKING TERM**
 
 # **H5 INTERFACE-LAW SEARCH = PAUSED, NOT REJECTED**
 
-# **LIVE FRONT = HISTORY-ENSEMBLE / ACTUALIZATION-LENS EFFECTIVE-COVARIANCE GATE**
+# **LIVE FRONT = Q-NATIVE RESONANCE-MODE ROBUSTNESS + HISTORY-ENSEMBLE / LENS EFFECTIVE-COVARIANCE GATE**
 
 No new Root2 law is admitted.
 
-## Historical consonance
+## Historical reconciliation
 
-The 2026-08-10 TDG-R sandbox had already isolated:
+The recovered Root2 baseline already stated:
 
-- persistent `Omega` possibility structure;
-- actualized relational history `C`;
-- conditional continuation structure relative to `C`;
-- fragmentation/incompatibility among continuations;
-- objective actualization;
-- factual changes altering later continuation structure;
-- confluence/bookkeeping invariance for independent events;
-- geometry/time only downstream.
+- `Omega_rel` is the pre-spatial/pre-temporal relational web;
+- histories are legal relational continuations;
+- the pre-factual tip is a narrowing/focusing region;
+- Q organizes amplitudes, phases, memory, composition and future responses among alternatives;
+- “history resonance” means coherent organization by overlaps, phases, couplings, predictive modes and persistence under composition/refinement;
+- the realized fact changes conditioned excitation/boundary data, not the universal Q law.
 
-Its explicit correction was that `Omega` remains while conditioning relative to actualized history changes.
+The 2026-08-10 actualization-first sandbox also defined continuation overlap `chi_ij(C)` and additive separation `q_ij=-log chi_ij^2`, with fragmentation into robust coherent blocks.
 
-Modern Root2/Q now supplies technically stronger counterparts in declared scopes:
+What was demoted was **least-incompatibility as a microscopic factual winner law**, not resonance/coherence itself.
 
-- uncollapsed global/predictive Q;
-- append-only factual ledger;
-- Q-native extension instrument;
-- actual legal move -> process descriptor;
-- cross-context recalibration;
-- predictive quotient;
-- exact 120/120 same-final path independence in tested shell.
+## Modern Q-native resonance construction
 
-This is structural consonance, not an identity theorem and not a promotion of the old sandbox to canon.
+On one same-stage 16-move legal shell, Q-B1850 gives a same-Q Cons/Feshbach response map
 
-## Exact ensemble symmetry theorem
+`F_C : M_C -> Y_C`,
 
-Let `Lambda` be a physically licensed common-stage actualization-lens context space with SO(3)-invariant measure `mu`, and conditional responses
+with:
 
-`A(lambda): l=2 -> l=1`
+- rank 16/16;
+- stable process-unit conditioning;
+- associated S4 covariance improving as O(a^2);
+- exact same-final Cons order/path independence on all 120 tested move pairs;
+- finite predictive-neighborhood/spectator locality;
+- strong real-readout projective stability;
+- full-rank but not uniquely probe-independent behavior for genuinely complex readouts.
 
-satisfying family covariance
+Define at fixed declared readout
 
-`A(g.lambda) D_2(g) = D_1(g) A(lambda)`.
+`R_C = F_C^dag F_C`.
 
-Then
+Then `R_C` is positive Hermitian, and its eigenmodes are principal collective legal-continuation response modes. Since `F_C` is invertible on the tested shell, there are no exact dark move directions at this level.
 
-`A_bar = integral A(lambda) dmu(lambda)`
+## Exact S4 mode organization
 
-is an SO(3) intertwiner. Since
+The exact 16-context/move representation decomposes as
 
-`Hom_SO(3)(l=2,l=1) = {0}`,
+`2*1 + 1*2 + 3*3 + 1*3'`.
 
-it follows exactly that
+At exact S4 covariance, `R_C` commutes with the representation and therefore has multiplicity-block form:
 
-`A_bar = 0`.
+- a 2x2 Hermitian singlet multiplicity block;
+- one scalar on the unique doublet;
+- a 3x3 Hermitian multiplicity block among the three polar Standard3 copies;
+- one scalar on the unique axial Standard3.
 
-Thus finite local/conditional anisotropy can coexist with an isotropic effective regular phase.
+Thus Q-native resonance is naturally a small set of collective symmetry-typed families, not a scalar ranking of 16 isolated histories.
 
-## Why this matters
+## Strong repeated-irrep evidence
 
-Previous audits proved only that benign **pointwise** rescues were not earned:
+Later Q-selected jet filtration shows that symmetry copies are not forever ambiguous:
 
-- selective quotient while preserving SO(3): impossible;
-- finite static l3 order parameter: not derived;
-- finite existing-lens L3 completion: not derived.
+- degree <=1 rank 4;
+- degree <=2 rank 10;
+- degree <=3 rank 16;
+- cubic quotient exactly `3 + 3'`;
+- retained predictive memory overwhelmingly selects the unique polar Standard3 in this cubic quotient;
+- cubic-polar fraction about `0.9858 -> 0.9894` with predictive depth;
+- axial contamination about `1e-7` or below in retained controls;
+- b4/b24 and cutoff shape stability;
+- actual Q-B1850 predictive field shows the same third-jet typing.
 
-They did not prove that every individual lens response must itself be the universal effective constitutive law.
+This is not yet proof that the selected cubic-polar Standard3 is an eigenmode of `R_C`; it proves that Q/process structure can distinguish repeated copies target-blindly without arbitrary multiplicity rotation.
 
-The historical R12 program — never executed — was precisely to search for an intrinsic weighting of actualized causal histories before asking what geometry is typical.
+## Phase-sensitive firewall
 
-The modern Q machinery may now make that old question scientifically testable.
+The positive Gram `R_C` is not the whole author intuition of “vibration”.
 
-## Current evidence
+Current Q contains genuine O(1) pre-tip interference, and positive mismatch/norm objects cannot reconstruct all signed/order-sensitive response information.
 
-Suggestive but not decisive:
+At fixed invertible `F_C`, polar decomposition
 
-- Q-B1853D: exact same-carrier capacity for balanced T3=0 combinations exists, but symmetry alone does not select one.
-- Q-B1853F: averaging contexts across different factual stages is forbidden; same-stage/common-interface typing is mandatory.
-- Q-B1854/Q-B1855: a target-blind signed full-process selector approaches `T3=O(a^2)->0` under b4/b24, suggesting an isotropic continuum angular sector.
-- Yet fixed-context conditional dynamics retains finite A_21.
+`F_C = U_C sqrt(R_C)`
 
-This combination motivates, but does not prove, the ensemble interpretation.
+separates:
 
-## Exact live gate
+- response strength/mode geometry `sqrt(R_C)`;
+- phase/orientation transport `U_C`.
+
+But one universal complex-readout `U_C` or full operator ray is not yet derived.
+
+Therefore:
+
+**RESONANCE ORGANIZATION = RETAINED / MODERN Q-NATIVE.**
+
+**UNIVERSAL PHASE-SENSITIVE RESONANCE SPECTRUM = OPEN.**
+
+**RESONANCE -> FACTUAL WINNER = NOT DERIVED.**
+
+## Relation to the lens / ensemble route
+
+For factual prefix `C_n` the current conceptual cycle is:
+
+`Q + C_n`
+
+`-> phase-sensitive continuation-response network`
+
+`-> collective resonance modes / coherent families`
+
+`-> context/fragmentation structure`
+
+`-> one factual event`
+
+`-> actualization-lens conditional update`
+
+`-> C_(n+1)`
+
+`-> new continuation-response network`.
+
+The physical ensemble/coarse-grained question remains separate: finite local/lens anisotropy may average to an isotropic effective phase if the same-stage physical lens/history measure is invariant.
+
+## Exact live gates
+
+### Gate A — resonance-mode robustness
+
+Before promoting a concrete resonance spectrum:
+
+1. normalize `Rhat_C = R_C / Tr(R_C)`;
+2. compare S4-isotypic spectral gaps/projectors at `a=.04,.02,.01`;
+3. compare b4 versus parity-balanced b24 using licensed transport only;
+4. test real-resolvent readout stability;
+5. use complex readouts as adversaries and determine whether singular projectors drift O(1) or mainly the polar phase/orientation does;
+6. rerun far-spectator controls;
+7. test whether the unique cubic-polar Standard3 aligns with one stable eigenline of the polar-Standard3 3x3 multiplicity block;
+8. test held-out predictive relevance to subsequent fragmentation/recombination;
+9. never fit to the subsequent factual winner.
+
+### Gate B — history-ensemble / lens effective covariance
 
 Before any H5 microscopic modification:
 
 1. identify a physically licensed same-stage/common-interface lens ensemble;
-2. determine its weights from current Q/FP/process structure, or explicitly classify the measure as open;
-3. transport conditional responses to one common interface using already-earned transport only;
+2. determine weights from current Q/FP/process structure, or classify the measure open;
+3. transport conditional responses to one common interface using earned transport only;
 4. compute effective mean `A_bar_21`;
 5. test b4/b24 continuum behavior;
-6. separately retain variance/higher moments as possible local fluctuation/process information;
+6. retain variance/higher moments as local lens fluctuation information;
 7. test Cons/path/spectator/readout stability;
-8. only if effective `A_bar_21` remains nonzero under a physically licensed ensemble does ELGC force an upstream constitutive completion.
+8. only if effective `A_bar_21` remains nonzero under a physically licensed ensemble does ELGC force upstream completion.
 
 ## H5 status
 
-The previous exact persistence theorem remains valid conditionally:
+If H5 is eventually required, persistence still forces
 
-if H5 is eventually required, any conservative correction must satisfy
+`I_e^dag delta Q I_e = 0`,
 
-`I_e^dag delta Q I_e = 0`
+so no conservative completion may rewrite the unaffected old-old Q block.
 
-and therefore cannot rewrite the unaffected old-old Q block.
+But H5 necessity remains premature.
 
-But H5 necessity is now premature.
-
-**H5 = PAUSED / NOT REJECTED / DO NOT FIT OR MODIFY Q BEFORE ENSEMBLE GATE.**
+**H5 = PAUSED / NOT REJECTED.**
 
 ## Provenance
 
@@ -146,21 +205,25 @@ But H5 necessity is now premature.
 - unchanged structure persists unless affected;
 - initial impulse given/out of scope;
 - relational web constrains possibilities;
-- actualization is a lens/process embedded in the web.
+- actualization is a lens/process embedded in the web;
+- histories can resonate more or less strongly and organize into coherent families.
 
 ### Historical sandbox, noncanonical
 
 - persistent Omega + changing conditioning relative to factual history;
-- continuation fragmentation;
+- continuation overlap `chi` and separation `q`;
+- fragmentation/context formation;
 - causal structure from factual changes;
 - unexecuted R12 history-weight/manifold-attractor program.
 
-### Assistant-origin / quarantined
+### Assistant formalization / quarantined where appropriate
 
-- local finite A_21 may be a conditional lens fluctuation whose physically weighted ensemble mean vanishes;
-- ELGC may belong at the effective regular-phase level rather than pointwise on every microscopic/event-conditioned lens.
+- `R_C=F_C^dag F_C` as fixed-readout response-resonance operator;
+- Schur/multiplicity interpretation of its S4 spectrum;
+- polar split `F_C=U_C sqrt(R_C)` as strength plus phase/orientation;
+- local finite A_21 may be a conditional lens fluctuation whose physical ensemble mean vanishes.
 
-These are not derived physical claims. The ensemble gate is the falsification test.
+No assistant formalization above is promoted beyond the stated mathematical type.
 
 ## Firewalls
 
@@ -176,14 +239,14 @@ These are not derived physical claims. The ensemble gate is the falsification te
 
 ## GR traffic light
 
-🟢 **Breathing test found a meaningful reclassification rather than a patch.**
+🟢 **Old resonance intuition now has a legitimate modern Q-native mathematical home.**
 
-🟢 **Modern Q appears surprisingly consonant with the old actualization-first architecture.**
+🟢 **S4 forces collective resonance families and Q already distinguishes at least one repeated same-irrep mode target-blindly.**
 
-🟢 **Exact ensemble theorem shows local anisotropy need not imply effective-phase anisotropy.**
+🟢 **This is reintegration, not rollback to the old least-cost selector.**
 
-🟡 **Physical Q-native lens/history measure is not yet derived.**
+🟡 **Universal phase-sensitive spectral projectors and physical history/lens measure remain open.**
 
-🟡 **H5 is paused while this more conservative route is tested.**
+🟡 **H5 remains paused while these more conservative routes are tested.**
 
-🔴 **No GR promotion yet.**
+🔴 **No factual winner derivation and no GR promotion yet.**
