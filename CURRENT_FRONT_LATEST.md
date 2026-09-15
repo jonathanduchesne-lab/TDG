@@ -38,15 +38,22 @@ This file is the latest-wins resume pointer. Historical FINAL-CERTIFIED authorit
    - Q-B1003 makes hidden order at a declared common Cons endpoint a projectability/type issue unless it is explicitly retained physical state;
    - Q-B1004/Q-B1005 give a carrier-subset projectable law `Phi_h(S)=sum_{s in S} Phi(s,h)` that extends through the complete local Boolean 4-cell, all 24 orders, with no new triple/quadruple coefficient;
    - Q-B1016 gives an exact uniformly-gapped Hermitian Schur/Feshbach realization of this subset law, retaining `tau~a^3` and `||K-I||~a^2` with machine-level agreement;
-   - therefore local k-cell/history hierarchy does **not** force primitive higher-cell memory even in a branch-aware TDG-like process class;
-   - only the global minimal predictive quotient under genuine physical refinement remains admissible as a positive B3 witness.
+   - therefore local k-cell/history hierarchy does **not** force primitive higher-cell memory even in a branch-aware TDG-like process class.
+
+8. `checkpoints/SENTRY/2026-09-15/TDG_ROUTE_B_G8_HISTORICAL_OBSERVABILITY_AUDIT_REMAINS_OPEN_2026-09-15.md`
+   - later-corpus audit found no hidden current-Q closure of the decisive observability/minimal-predictive gate;
+   - the EffG/PA line identifies `r_obs` with the local predictive quotient dimension and has exact rank-12 controls, but the six-qubit witness is only a control, not the geometric current-Q derivation;
+   - Q-B1204 still marks actual H160 `(h,K)` intervention-complete predictive closure OPEN;
+   - even Q-B1642 still explicitly requires true Q state/readouts, full-future `r_obs=12`, hidden-mode audit, and stability on an open/refinement family before HDA;
+   - therefore no forgotten historical G8 PASS rescues Route B.
 
 Portable B3 verifiers:
 - `checkpoints/SENTRY/2026-09-15/verify_b3_local_growth_finite_global.py`
 - `checkpoints/SENTRY/2026-09-15/verify_b3_subset_projectability_finite_memory.py`
 
 Latest verifier commit: `40f14cb61aa37d91570ff02981e78b151f7a293c`
-Latest B3 local-projectability checkpoint commit: `9c96de5a53aca475a55db697d203c6e4a7a4491e`
+B3 local-projectability checkpoint commit: `9c96de5a53aca475a55db697d203c6e4a7a4491e`
+G8 historical observability audit commit: `d603f0c0f7dfe032ed663e8d60cb2ae5ecdfdb33`
 
 ## Documentary gaps
 
@@ -85,6 +92,8 @@ The only remaining legal Route-B witness must use the same physical Q and satisf
 8. Cons, spectator, dilation, fresh-label/Aut and independent-event schedule-silence controls;
 9. no GR/O(3)/HDA information used in candidate construction.
 
+Equivalent geometric diagnostic: on a regular analytic branch the full Q-observability codistribution has rank `r_obs = dim P_pred`; only its stable intervention-complete/refinement behavior is admissible evidence. Exact rank-12 six-qubit/S3/M2 controls are calibration examples, not current-Q closure.
+
 Decision rule:
 
 - if one fixed finite licensed predictive realization carries all genuine refinements naturally, B3 is dilation-redundant and Route B closes;
@@ -102,7 +111,7 @@ Decision rule:
 - G5: PASS for the audit; no target-selected parameter introduced.
 - G6: local higher-order response has no positive identifying margin over fixed finite projectable memory; actual-Q global minimal quotient margin OPEN.
 - G7: strong Cons/naturality/projectability compatibility evidence; no primitive-memory necessity.
-- G8: OPEN and now uniquely decisive at the global minimal predictive quotient level.
+- G8: OPEN and uniquely decisive at the global minimal predictive quotient / full-future observability level; historical audit found no forgotten PASS.
 - G9: conservative old-Q consistency retained for the no-go/reclassification.
 - G10: PASS; downstream targets remain sealed.
 
@@ -118,8 +127,8 @@ Decision rule:
 
 ## GR traffic light
 
-🟢 **Advance:** Route B has been narrowed again. Local higher-cell hierarchy is no longer a plausible primitive-memory witness by itself: exact projectable finite-memory realizations exist, including a uniformly-gapped Hermitian Feshbach realization already in the TDG corpus.
+🟢 **Advance:** Route B has been narrowed again. Local higher-cell hierarchy is not a primitive-memory witness; exact finite projectable Hermitian realizations exist, and a full historical audit confirms no later result secretly closed the global observability gate.
 
-🟡 **Live frontier:** the global intervention-complete Q-B79 cut-Hankel minimal predictive rank/type of the **actual physical Q** across genuine refinements. Search later corpus for a provenance-complete existing calculation before attempting any new microphysics.
+🟡 **Live frontier:** the global intervention-complete Q-B79 cut-Hankel / full-future `r_obs` minimal predictive rank/type of the **actual physical Q** across genuine refinements. A provenance-complete microscopic response family must be recovered or legitimately regenerated before this can be decided.
 
 🔴 **No GR closure:** Route B still has no G0b/G4/G6 positive witness. O(3), HDA, spin-2 and full nonlinear GR remain closed/not established.
