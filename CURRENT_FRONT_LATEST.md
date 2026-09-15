@@ -6,22 +6,32 @@ Historical FINAL-CERTIFIED authority remains `Q-B1858L`.
 
 ## Binding newest checkpoints — latest wins
 
-1. `checkpoints/SENTRY/2026-09-15/TDG_HISTORY_RESONANCE_GATE_A_RAY_STRATIFIED_LAURENT_RETYPE_PROJECTIVE_RINFTY_2026-09-15.md`
+1. `checkpoints/SENTRY/2026-09-15/TDG_HISTORY_RESONANCE_GATE_A_EXACT_RAY_STRATIFIED_RESOLVENT_SYMBOL_SINGULAR_STRATUM_FRONTIER_2026-09-15.md`
+   - commit `4419847f54dddad048075ca9d74e3979da2ba830`;
+   - derives the exact upstream resolvent/Hermitianization expansion
+     `Y_X(r,theta)=sum_(k>=0) r^(-(k+4)) cos((k+4)theta) S_k(X)`;
+   - proves every `S_k` is Hermitian;
+   - proves generic-ray leading local response/Gram projective orientation is ray-independent up to scalar angular/radial factors;
+   - proves `theta=pi/8` exactly cancels the generic `k=0` / `r^-4` response stratum;
+   - proves `cos(4theta)=0` and `cos(5theta)=0` cannot occur simultaneously, so any further suppression on the singular ray is Q-specific rather than purely angular;
+   - exact remaining Gate-A gap is now the Q-specific singular-stratum projective coincidence after the full Q-B1850 Cons/cross-memory/process-unit pipeline.
+
+2. `checkpoints/SENTRY/2026-09-15/TDG_HISTORY_RESONANCE_GATE_A_RAY_STRATIFIED_LAURENT_RETYPE_PROJECTIVE_RINFTY_2026-09-15.md`
    - commit `8b75b7c49bb22fa1a6d2a5f7e7e5cb0b8a909186`;
    - corrects the formal target: physical Q-B1850 response is Hermitian/bianalytic in `z,zbar`, so one uniform holomorphic Laurent coefficient of process-normalized `F` is not the right universal object;
-   - projective `R_infty=[F^dag F]` survives the deliberate `theta=pi/8` angular-cancellation adversary.
+   - projective `R_infty=[F^dag F]` survives the deliberate `theta=pi/8` angular-cancellation adversary numerically.
 
-2. `checkpoints/SENTRY/2026-09-15/TDG_HISTORY_RESONANCE_GATE_A_ASYMPTOTIC_READOUT_FREE_PROJECTIVE_LIMIT_2026-09-15.md`
+3. `checkpoints/SENTRY/2026-09-15/TDG_HISTORY_RESONANCE_GATE_A_ASYMPTOTIC_READOUT_FREE_PROJECTIVE_LIMIT_2026-09-15.md`
    - commit `afbadf0a90e0ac7583fbab8757cefa03bf26e93c`;
    - strong multi-ray large-|z| convergence of normalized resonance operator/projectors;
    - direct Q-B1852 b4/b24 asymptotic agreement;
    - asymptotic held-out Q-B1851 process relevance.
 
-3. `checkpoints/SENTRY/2026-09-15/TDG_HISTORY_RESONANCE_GATE_A_HELDOUT_FULL_VECTOR_PROCESS_RELEVANCE_2026-09-15.md`
+4. `checkpoints/SENTRY/2026-09-15/TDG_HISTORY_RESONANCE_GATE_A_HELDOUT_FULL_VECTOR_PROCESS_RELEVANCE_2026-09-15.md`
    - commit `64bd9362e3baea992874dc20628d7f552fc0c2be`;
    - top Q-B1850 resonance Standard3 carries strong held-out Q-B1851 full-vector process relevance without factual-winner fitting.
 
-4. `checkpoints/SENTRY/2026-09-15/TDG_HISTORY_RESONANCE_GATE_A_SCALE_REFINEMENT_READOUT_AND_CUBIC_ALIGNMENT_AUDIT_2026-09-15.md`
+5. `checkpoints/SENTRY/2026-09-15/TDG_HISTORY_RESONANCE_GATE_A_SCALE_REFINEMENT_READOUT_AND_CUBIC_ALIGNMENT_AUDIT_2026-09-15.md`
    - commit `47cc88a0fe5ff2a4cb96b68449c8c2bd9b1061c8`;
    - cutoff/S4/real-readout/b4-b24 robustness passes;
    - finite complex-readout universality fails in tested family;
@@ -55,9 +65,17 @@ Preceding resonance/lens foundation:
 
 # **DIRECT b4/b24 ASYMPTOTIC `R_infty` AGREEMENT = STRONG PASS**
 
-# **ONE UNIFORM HOLomorphic LAURENT LEADING COEFFICIENT OF PROCESS-NORMALIZED F = RETYPED / NOT THE CORRECT UNIVERSAL OBJECT**
+# **RAY-STRATIFIED RESOLVENT/HERMITIAN RESPONSE SYMBOL = EXACTLY DERIVED**
 
-# **EXACT FRONT = REAL/BIANALYTIC PROJECTIVE LEADING-SYMBOL THEOREM FOR `[F^dag F]`**
+# **GENERIC-RAY LEADING LOCAL PROJECTIVE RESPONSE/GRAM CLASS = EXACT SCALAR-FACTOR PASS**
+
+# **`theta=pi/8` = EXACT SINGULAR STRATUM: `cos(4theta)=0`, WHILE `cos(5theta)!=0`**
+
+# **FULL GLOBAL `[F^dag F]` UNIVERSALITY ACROSS SINGULAR STRATA = STILL OPEN / Q-SPECIFIC**
+
+# **ONE UNIFORM HOLOMORPHIC LAURENT LEADING COEFFICIENT OF PROCESS-NORMALIZED F = RETYPED / NOT THE CORRECT UNIVERSAL OBJECT**
+
+# **EXACT FRONT = Q-B1850 SINGULAR-STRATUM PROJECTIVE-COINCIDENCE THEOREM THROUGH THE FULL PIPELINE**
 
 # **CUBIC-POLAR STANDARD3 != PURE RESPONSE-RESONANCE EIGENMODULE; THE TWO Q-NATIVE SELECTIONS ARE DISTINCT**
 
@@ -168,7 +186,7 @@ Relative differences:
 - `128`: `1.23e-5`;
 - `256`: `2.90e-6`.
 
-Thus even the strongest obvious singular-phase adversary converges to the same projective geometry.
+Thus even the strongest obvious singular-phase adversary converges to the same projective geometry numerically.
 
 ### Direct b4/b24 asymptotic refinement
 
@@ -179,28 +197,46 @@ At `a=.02`, `z=64`:
 
 Asymptotic held-out top-mode capture is `~74.31%`, about `92.70%` of the independent held-out optimum, and is the same in b4 and b24.
 
-## Binding asymptotic typing correction
+## Gate A — exact ray-stratified theorem
 
-The certified Q-B1850 physical construction explicitly Hermitianizes resolvent-derived blocks and forms real Gram responses. Therefore the observable response is not holomorphic in `z` alone; it is formally real/bianalytic in inverse powers of `z` and `zbar`.
+For a finite Hermitian current-Q Hamiltonian `H`, opposite physical blocks `P,Q` with `PQ=0`, Hermitian source insertion `X`, and resolvent `R(z)=(zI-H)^-1`, the off-diagonal response has
 
-Fresh scaling confirms ray-stratified scalar behavior:
+`P R(z) Q = sum_(m>=0) z^(-(m+2)) A_m`, `A_m=P H^(m+1) Q`.
 
-- on the positive real ray, raw cross-memory and process normalization both approach roughly `|z|^-2`, so process-unit `F` has finite norm;
-- on the `pi/8` ray, scalar cancellation changes the process-normalized amplitude hierarchy and `||F_proc||` decreases, while normalized `F^dag F` converges to the same projective operator.
+Defining
 
-Therefore the exact universal target is **not** one holomorphic Laurent coefficient of `F_proc`.
+`S_k(X)=sum_(m+n=k) A_m X A_n^dag`,
 
-### Correct exact Gate-A target
+each `S_k` is Hermitian and the physical Hermitianized response satisfies exactly
 
-Derive a real/bianalytic inverse-readout expansion and prove that, after removing the first nonzero scalar angular/radial factor on each admissible ray, the leading positive Gram class
+`Y_X(r,theta)=sum_(k>=0) r^(-(k+4)) cos((k+4)theta) S_k(X)`.
 
-`[F_C^dag F_C]`
+Therefore:
 
-is one common projective S4-typed object.
+- generic rays with `cos(4theta)!=0` have one common leading local projective response class when `S_0!=0`;
+- the local Gram leading class is likewise common up to `r^-8 cos^2(4theta)`;
+- `theta=pi/8` exactly cancels the generic `k=0` term;
+- `cos(5theta)` cannot vanish simultaneously on the `cos(4theta)=0` set;
+- additional singular-ray cancellation, if present, must come from Q-specific coefficient/pipeline structure.
 
-Until that theorem is obtained:
+This exact theorem explains the ray stratification but does **not** by itself prove that the first surviving singular-stratum coefficient after the full Q-B1850 pipeline has the same projective positive class as the generic coefficient.
 
-`R_infty` = **STRONG ASYMPTOTIC NUMERICAL/STRUCTURAL EVIDENCE**, not exact algebraic promotion.
+## Exact Gate-A frontier
+
+Recover or reconstruct the certified formal Q-B1850/Q-B1852 coefficient pipeline and compare, before finite-z fitting:
+
+- the first nonzero generic-stratum matrix;
+- the first nonzero `theta=pi/8` singular-stratum matrix after all Cons, differencing, normal-basis and process-unit normalization steps.
+
+Required positive theorem:
+
+`[K_sing^dag K_sing] = [K_gen^dag K_gen]`
+
+or the appropriate equivalent common positive S4-typed projective class.
+
+Until this is proved:
+
+`R_infty` = **STRONG ASYMPTOTIC NUMERICAL/STRUCTURAL EVIDENCE + EXACT UPSTREAM RAY-STRATIFICATION**, not full exact global algebraic promotion.
 
 ## Gate B — history-ensemble / lens effective covariance
 
@@ -233,6 +269,8 @@ Library archaeology recovered verbatim textual deltas for historical `Q-B977 -> 
 
 Historical `Q-B759 -> Q-B878` autonomous primary source remains UNKNOWN and must not be interpolated.
 
+The certified `qb1852_full_refined.py` source is repeatedly attested by SHA-256 `ebbe56f7d9c0b19b5c7e688e2b69c7acd2f9a271d161cf558e50e52cad86b5c7`, but this audit did not recover it as a standalone executable Library artifact. Do not invent Q-specific coefficient identities in its absence.
+
 ## Firewalls
 
 - Root1 frozen; `A_path` retired; global Q uncollapsed.
@@ -248,11 +286,11 @@ Historical `Q-B759 -> Q-B878` autonomous primary source remains UNKNOWN and must
 
 ## GR traffic light
 
-🟢 **Major advance:** resonance organization is now robust, refinement-natural, held-out-process relevant and supported by a common asymptotic projective limit across generic and singular complex rays.
+🟢 **Major advance:** the upstream bianalytic/ray-stratified structure is now exact, not merely numerical.
 
-🟢 **Major clarification:** finite complex-readout failure is localized to finite-probe dependence and does not destroy the large-|z| projective resonance geometry.
+🟢 **Major localization:** the deliberate `pi/8` singular-ray phenomenon is exactly understood; the remaining algebraic problem is one Q-specific projective-coincidence statement after the full Q-B1850 pipeline.
 
-🟡 **Exact Gate-A frontier:** prove the bianalytic/projective leading-symbol theorem for `[F^dag F]`.
+🟡 **Exact Gate-A frontier:** recover the certified formal coefficient source/bundle and prove or refute singular-stratum projective coincidence.
 
 🟡 **Parallel Gate-B frontier:** derive a physical lens/history ensemble and measure.
 
