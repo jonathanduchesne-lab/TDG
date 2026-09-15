@@ -6,142 +6,99 @@ Historical FINAL-CERTIFIED authority remains `Q-B1858L`.
 
 ## Binding newest checkpoint
 
-`checkpoints/SENTRY/2026-09-15/TDG_INITIAL_IMPULSE_SINGLE_HISTORY_PATHSPACE_SYMMETRY_SELECTOR_DEEP_AUDIT_2026-09-15.md`
+`checkpoints/SENTRY/2026-09-15/TDG_INITIAL_IMPULSE_SCOPE_FIREWALL_BRIDGE_ONLY_RECLASSIFICATION_2026-09-15.md`
 
-Commit: `7a7993af4e6e55927e48f39232765eddfba639e4`.
-
-Intuition provenance ledger:
-`checkpoints/SENTRY/2026-09-15/TDG_INTUITION_PROVENANCE_LEDGER_2026-09-15.md`
-commit `8a37acc3f6f50caa435418d0cf31e386c3fe9f88`.
+Commit: `6cfb5b99c4fd64f97e104d326baba97233d095e8`.
 
 ## Latest-wins verdict
 
-# **ONE FACTUAL HISTORY + REDUCTION MACHINE HAS AN EXACT PATH-SPACE REPRESENTATION**
+# **INITIAL IMPULSE = GIVEN BOUNDARY CONDITION / OUT OF EXPLANATORY SCOPE**
 
-# **ONE INITIAL SEED CAN GENERATE THE WHOLE FACTUAL HISTORY, BUT THIS IS REPRESENTATIONAL CAPACITY, NOT YET PHYSICAL DERIVATION**
+# **TDG LIVE OBJECTIVE = BUILD THE POST-INITIAL BRIDGE, NOT EXPLAIN THE ORIGIN OF THE FIRST IMPULSE**
 
-# **AN EXACTLY SYMMETRIC PREDICTIVE/WEB STATE CANNOT COVARIANTLY SELECT ONE SYMMETRY-EQUIVALENT BRANCH WITHOUT EXTRA SYMMETRY-BREAKING DATA OR STOCHASTICITY**
-
-# **NO GENERAL PRE-FACTUAL WINNER SELECTOR HAS BEEN FOUND IN THE RECOVERED CURRENT-Q CORPUS**
+# **LIVE FRONT = FORMALIZE THE RECURRENCE POSSIBILITIES + WEB + FACTUAL EVENT -> UPDATED POSSIBILITIES/WEB + EFFECTIVE PROJECTION**
 
 No new Root2 law is admitted.
 
-## A / web / B / C
+## Author scope correction
 
-Author notation retained:
+Jonathan clarifies that the initial impulse / first actualization was always accepted as an unexplained starting condition. TDG is not tasked with explaining why the Universe starts, why an initial selector exists, or any metaphysical first-cause question.
 
-- `A` = ensemble of still-possible continuations;
-- `W` = relational/constraint web acting on those possibilities;
+The research program starts **after** that boundary condition.
+
+## Correct live chain
+
+`I0 [given] -> first factual anchor -> (A,W) -> B -> C -> updated (A,W) -> next B -> ...`
+
+where:
+
+- `A` = possible continuations;
+- `W` = relational/constraint web;
 - `B` = one factual actualization;
-- `C` = post-actualization predictive/effective projection.
-
-Conservative TDG interpretation of `W` is Ext legality/incidence + Cons compatibility/descent + Q/FP predictive support/weights. This interpretation is not a new axiom.
-
-The previous result remains binding:
-
-`A + B -> C`
-
-is abstractly closed at the complete predictive-quotient level under composition-closed interface semantics.
-
-The unresolved arrow is:
-
-`(A,W) -> one B`.
-
-## Exact path-space results
-
-Given a normalized sequential branch kernel `p(e|h)`:
-
-1. factualization is exactly represented as conditioning on nested history-cylinder sets;
-2. paths incompatible with the realized prefix acquire conditional weight zero while compatible futures remain represented;
-3. one sample of the complete path at the initial boundary is distributionally equivalent to fresh branch sampling at every step;
-4. one real seed `u_0 in [0,1)` can constructively generate the complete single factual history by inverse-CDF branch partition and renormalized seed update.
-
-These are exact mathematical representation theorems. They do **not** derive the physical selector, path measure, or Born rule.
-
-## Exact symmetry-selector no-go
-
-If a predictive/web state `x` is invariant under a symmetry group `G`, its supported branch set is a nontrivial `G`-orbit with no global fixed branch, and a deterministic selector is required to be covariant, then no selector `S(x)` exists using `x` alone.
-
-Therefore a deterministic single-history completion in an exactly symmetric branch situation requires at least one of:
-
-- extra pre-factual symmetry-breaking data;
-- an already-asymmetric physical initial condition;
-- irreducible stochastic factualization;
-- genuine physical symmetry breaking.
-
-This is an exact abstract theorem and gives the sharpest current test of the author's initial-impulse idea.
-
-## Current-Q selector inventory
-
-No general winner selector is supplied by the recovered current-Q objects audited so far:
-
-- branch weights: support/relative probability, not a winner;
-- current carrier/endpoint algebra: insufficient as a hidden selector in the audited realization;
-- factual ledger: forbidden as pre-factual Q feedback;
-- occurrence/path labels: process information, not a winner-selection law;
-- Cons: constraint/descent, not winner;
-- Q-B1849->1852 process transport: process geometry, not factual selection;
-- Q-B1854/55 selected ray and Q-B1858 projective-conformal mode: wrong type / not universal branch selector;
-- future coorientation: chart orientation, not general Ext winner;
-- GR178 state update: exact conditioned-on-move successor, not move selection.
-
-Thus:
-
-**CURRENT-Q GENERAL PRE-FACTUAL WINNER SELECTOR = NOT DERIVED IN THE RECOVERED/AUDITED CORPUS.**
-
-## Initial impulse status
-
-Jonathan-origin intuition retained:
-
-- one initial impulse/first actualization launches one factual history;
-- information organizes through a reduction web;
-- incompatible possible paths are suppressed;
+- `C` = post-actualization predictive/effective projection;
 - one factual history is retained.
 
-This is coherent with the exact one-seed/path-space representation.
+## What remains acquired
 
-But current Q does not yet physically derive the selector state/law. If explored as deterministic completion, it is NEW FOUNDATIONAL CONTENT unless an upstream Q source is recovered.
+- global-Q/carrier persistence under legal extension is substantially derived in Q-B1818->Q-B1822 scope;
+- `A+B->C` is abstractly closed at complete predictive-quotient level under composition-closed interface semantics;
+- one factual history is compatible with uncollapsed predictive Q;
+- path-space nested-cylinder reduction is a useful exact representation once a normalized branch kernel is given;
+- current Q supports physical branches/weights but does not by itself derive a general winner selector.
 
-## Assistant-origin hypothesis quarantine
+## Scope firewall
 
-Assistant-origin possibilities are now explicitly logged separately from Jonathan's:
+Do NOT spend further research effort on:
 
-- nested-cylinder reduction as formalization of the web/reduction process;
-- contextual pre-factual Ext/channel section as a natural possible selector type;
-- possible low-dimensional "actualization phase" coordinate.
+- what caused the initial impulse;
+- why `I0` exists;
+- a metaphysical pre-Universe selector;
+- a first-cause explanation.
 
-These are NOT derived/adopted and must not be attributed to Jonathan.
+Assistant-origin ideas such as a contextual pre-factual selector section or scalar "actualization phase" remain quarantined side hypotheses, not the live target.
 
-## Born status
+## Correct bridge tasks
 
-Moving randomness/selection to the initial boundary does not derive Born. A measure/typicality/ergodic theorem is still required. Born remains **NOT DERIVED**.
+1. **Reduction dynamics:** how actualization removes/incompatibilizes alternatives and updates only affected relational structure.
+2. **Factual uniqueness:** maintain one factual ledger/history while predictive Q remains uncollapsed.
+3. **Projection closure:** retain `A+B->C` without extra post-B physics.
+4. **Repeated composition / continuum:** show stable effective structures under legal actualization, Cons, refinement and persistence.
+5. **Physics comparison:** only after the bridge is internally closed compare emergent structures with Lorentz/O(3)/HDA/spin-2/GR.
 
-## Legal next work
+## What remains scientifically open
 
-Do not invent a selector from downstream convenience.
+- whether the post-initial actualization rule is fully specified by existing Q/FP/Ext/Cons structure;
+- whether later branch factualization requires an additional law;
+- Born status if needed for dynamic closure;
+- quotient descent of emergent continuum structures;
+- status of retained `l=2 -> l=1` continuum content;
+- metric duration, Lambda, O(3), HDA, spin-2 and nonlinear GR.
 
-Next legal selector work is limited to:
+## NEXT
 
-1. recover/search for an already-derived pre-factual symmetry-breaking Q datum not equal to branch weights, ledger history, downstream geometry, or readout convention;
-2. if none exists, close derivation-only selector mining in the recovered corpus and keep initial-selector completion explicitly foundational;
-3. any proposed selector must be frozen pretarget and tested for support legality, covariance, source of symmetry breaking, non-script character, no ledger backflow, intervention/context consistency, Cons/refinement compatibility, and Born/FP measure or typicality.
+Formalize the post-initial recurrence using only already-derived structures:
+
+`(A_n, W_n, H_n) + B_(n+1) -> (A_(n+1), W_(n+1), H_(n+1), C_(n+1))`
+
+and identify exactly which arrow remains unclosed once `I0` is granted.
 
 ## Firewalls
 
 - Root1 frozen; `A_path` retired; global Q uncollapsed.
 - factual ledger append-only/separate.
-- actualisation soustractive retained; not yet a winner-selection rule.
-- hidden occurrence register and factual-history backflow forbidden.
+- actualisation soustractive retained as Jonathan-origin contribution.
+- initial impulse is a granted boundary condition, not a derivation target.
+- hidden occurrence register / factual-history backflow forbidden.
 - Born NOT DERIVED; metric duration NOT DERIVED; Lambda OPEN.
 - O(3) FAIL / NOT CLOSED.
 - HDA / spin-2 / full nonlinear GR NOT ESTABLISHED.
 
 ## GR traffic light
 
-🟢 **Advance:** the author's one-history/reduction intuition now has exact path-space mathematics and a precise symmetry constraint.
+🟢 **Focus corrected:** an out-of-scope first-cause problem is removed from the critical path.
 
-🟢 **Sharper localization:** the missing physics is specifically a pre-factual symmetry-breaking/contextual selection datum or irreducible stochastic factualization.
+🟢 **Bridge target restored:** reduction, persistence, projection, composition and continuum emergence after the given initial impulse.
 
-🟡 **Initial impulse viable but unearned:** one seed can encode the whole history, but current Q has not given that seed physical status or Born measure.
+🟡 **Post-initial selection/Born may still matter only if required for bridge closure.**
 
-🔴 **No GR promotion:** Born, O(3), HDA, spin-2 and nonlinear GR remain open/unestablished.
+🔴 **No GR promotion yet:** O(3), HDA, spin-2 and nonlinear GR remain unestablished.
