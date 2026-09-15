@@ -6,13 +6,14 @@ Historical FINAL-CERTIFIED authority remains `Q-B1858L`.
 
 ## Binding newest checkpoint
 
-`checkpoints/SENTRY/2026-09-15/TDG_HISTORY_RESONANCE_RESPONSE_SPECTRUM_S4_MODE_DECOMPOSITION_2026-09-15.md`
+`checkpoints/SENTRY/2026-09-15/TDG_HISTORY_RESONANCE_GATE_A_SCALE_REFINEMENT_READOUT_AND_CUBIC_ALIGNMENT_AUDIT_2026-09-15.md`
 
-Commit: `2ebf1617dfc3084721ba917a378fe6b47f1c9996`.
+Commit: `47cc88a0fe5ff2a4cb96b68449c8c2bd9b1061c8`.
 
 Preceding decisive checkpoints:
-- `TDG_BREATHING_TEST_HISTORICAL_ROOT_CONSONANCE_ENSEMBLE_LENS_SYMMETRY_RECLASSIFICATION_2026-09-15.md` — commit `2f2a772675a054b03a0a91284a84e46a567da6d2`.
-- `TDG_HISTORY_RESONANCE_RECONCILIATION_ROOT_VS_DOWNSTREAM_SELECTION_2026-09-15.md` — commit `751c5873dc370283aed58574e11a7188da556df0`.
+- `TDG_HISTORY_RESONANCE_RESPONSE_SPECTRUM_S4_MODE_DECOMPOSITION_2026-09-15.md` — commit `2ebf1617dfc3084721ba917a378fe6b47f1c9996`;
+- `TDG_BREATHING_TEST_HISTORICAL_ROOT_CONSONANCE_ENSEMBLE_LENS_SYMMETRY_RECLASSIFICATION_2026-09-15.md` — commit `2f2a772675a054b03a0a91284a84e46a567da6d2`;
+- `TDG_HISTORY_RESONANCE_RECONCILIATION_ROOT_VS_DOWNSTREAM_SELECTION_2026-09-15.md` — commit `751c5873dc370283aed58574e11a7188da556df0`;
 - `TDG_ELGC_STAGEI_H1_H5_TRIAGE_INTERFACE_SUPPORTED_H5_UNDERDETERMINATION_2026-09-15.md` — commit `ed3b2947c68cb4afba51adecd160ee070275ebec`.
 
 ## Latest-wins verdict
@@ -21,161 +22,101 @@ Preceding decisive checkpoints:
 
 # **ACTUALIZATION-LENS ONTOLOGY = RETAINED**
 
-# **HISTORY RESONANCE WAS NOT DISCARDED: IT IS RETAINED AS Q-NATIVE ORGANIZATION, NOT AS A DERIVED WINNER RULE**
+# **HISTORY RESONANCE = RETAINED AS Q-NATIVE ORGANIZATION, NOT AS A DERIVED FACTUAL-WINNER RULE**
 
-# **FIXED-READOUT Q-NATIVE RESPONSE RESONANCE OPERATOR EXISTS: R_C = F_C^dag F_C**
+# **FIXED-READOUT Q-NATIVE RESPONSE RESONANCE OPERATOR EXISTS: `R_C = F_C^dag F_C`**
 
-# **THE 16 LEGAL CONTINUATIONS ORGANIZE INTO S4-TYPED COLLECTIVE MODE FAMILIES, NOT 16 ARBITRARY INDEPENDENT DIRECTIONS**
+# **THE 16 LEGAL CONTINUATIONS ORGANIZE INTO EXACT S4-TYPED COLLECTIVE MODE FAMILIES `2*1 + 1*2 + 3*3 + 1*3'`**
 
-# **CURRENT Q ALREADY DISTINGUISHES REPEATED SAME-IRREP MODES THROUGH PROCESS/JET STRUCTURE, INCLUDING A UNIQUE CUBIC-POLAR STANDARD3 IN THE RETAINED FILTRATION**
+# **FIXED-REFERENCE RESONANCE GEOMETRY = STRONG CUTOFF/S4 PASS**
 
-# **UNIVERSAL PHASE-SENSITIVE RESONANCE SPECTRUM / PROJECTORS REMAIN OPEN ACROSS COMPLEX READOUTS AND FULL REFINEMENT**
+# **REAL-RESOLVENT READOUT FAMILY = STRONG PROJECTIVE/SPECTRAL STABILITY PASS**
 
-# **NONZERO LOCAL A_21 MAY STILL BE A CONDITIONAL LENS RESPONSE RATHER THAN AN EFFECTIVE-PHASE SYMMETRY BREAKING TERM**
+# **DIRECT SAME-Q b4/b24 RESONANCE-MODE COMPARISON AT a=.02 = STRONG PASS**
+
+# **UNIVERSAL COMPLEX-READOUT POSITIVE RESONANCE SPECTRUM = STRONG FAIL IN THE TESTED FAMILY**
+
+# **A Q-SELECTED READOUT-FREE / ASYMPTOTIC RESONANCE OPERATOR REMAINS OPEN**
+
+# **UNIQUE CUBIC-POLAR STANDARD3 != PURE `R_C` EIGENMODULE; IT IS A STABLE MIXTURE OF THE THREE POLAR STANDARD3 RESONANCE MODULES**
 
 # **H5 INTERFACE-LAW SEARCH = PAUSED, NOT REJECTED**
 
-# **LIVE FRONT = Q-NATIVE RESONANCE-MODE ROBUSTNESS + HISTORY-ENSEMBLE / LENS EFFECTIVE-COVARIANCE GATE**
+# **LIVE FRONT = GATE A HELD-OUT PREDICTIVE RELEVANCE + READOUT-FREE RESONANCE CONSTRUCTION; GATE B PHYSICAL HISTORY/LENS ENSEMBLE MEASURE**
 
 No new Root2 law is admitted.
 
-## Historical reconciliation
+## Gate A — newly established
 
-The recovered Root2 baseline already stated:
+On the certified Q-B1850 legal-move shell, with `Rhat_C=R_C/Tr(R_C)` and exact S4 Reynolds projection:
 
-- `Omega_rel` is the pre-spatial/pre-temporal relational web;
-- histories are legal relational continuations;
-- the pre-factual tip is a narrowing/focusing region;
-- Q organizes amplitudes, phases, memory, composition and future responses among alternatives;
-- “history resonance” means coherent organization by overlaps, phases, couplings, predictive modes and persistence under composition/refinement;
-- the realized fact changes conditioned excitation/boundary data, not the universal Q law.
+### Cutoff / covariance
+At `z=2+0.7i`, S4 leakage decreases
 
-The 2026-08-10 actualization-first sandbox also defined continuation overlap `chi_ij(C)` and additive separation `q_ij=-log chi_ij^2`, with fragmentation into robust coherent blocks.
+`7.42e-5 -> 2.03e-5 -> 5.21e-6`
 
-What was demoted was **least-incompatibility as a microscopic factual winner law**, not resonance/coherence itself.
+for `a=.04,.02,.01`, consistent with `O(a^2)`.
 
-## Modern Q-native resonance construction
+The normalized commutant operator changes by
 
-On one same-stage 16-move legal shell, Q-B1850 gives a same-Q Cons/Feshbach response map
+- `.04 -> .02`: `0.00471368`;
+- `.02 -> .01`: `0.00123299`.
 
-`F_C : M_C -> Y_C`,
+The three rank-3 polar Standard3 spectral projectors are correspondingly stable, with minimum principal cosines above `0.9999` and then above `0.99999` under successive halving.
 
-with:
+### Real readouts
+For real resolvents, the resonance operator is highly stable. At `a=.01`, comparing `z=1.4` or `z=8` to `z=2` changes the normalized S4-commutant operator only at about `8.4e-5` and `1.34e-4`, with polar projectors numerically coincident in the tested precision.
 
-- rank 16/16;
-- stable process-unit conditioning;
-- associated S4 covariance improving as O(a^2);
-- exact same-final Cons order/path independence on all 120 tested move pairs;
-- finite predictive-neighborhood/spectator locality;
-- strong real-readout projective stability;
-- full-rank but not uniquely probe-independent behavior for genuinely complex readouts.
+### Complex-readout adversary
+Relative to `z=2+0.7i`:
 
-Define at fixed declared readout
+- `z=1.4+0.5i` leaves an approximately `0.069` normalized-operator difference across refinement; polar projectors remain close but not identical;
+- `z=3+0.8i` leaves an approximately `0.79` difference across `.04,.02,.01`, and two polar Standard3 projectors retain only about `0.899` minimum principal cosine relative to the reference.
 
-`R_C = F_C^dag F_C`.
+Therefore complex-readout dependence is not confined to the polar-unitary factor `U_C`; the positive strength geometry `sqrt(R_C)` itself can change at `O(1)`.
 
-Then `R_C` is positive Hermitian, and its eigenmodes are principal collective legal-continuation response modes. Since `F_C` is invertible on the tested shell, there are no exact dark move directions at this level.
+This closes the claim of one universal finite-complex-readout resonance spectrum in the tested family. It does **not** close an independently derived readout-free/asymptotic construction.
 
-## Exact S4 mode organization
+### Direct b4/b24
+Using the exact Q-B1852 same-Q 101-parent refined engine at `a=.02`, with identical Q-B1849 process-unit normalization:
 
-The exact 16-context/move representation decomposes as
+- b4 condition `2.91446`;
+- b24 condition `2.91983`;
+- normalized commutant-operator difference `7.97e-4`;
+- three polar spectral-projector minimum principal cosines `0.9999991`, `0.9999969`, `0.9999974`.
 
-`2*1 + 1*2 + 3*3 + 1*3'`.
+Thus the fixed-readout collective resonance geometry is strongly refinement-natural in this direct parity-balanced comparison.
 
-At exact S4 covariance, `R_C` commutes with the representation and therefore has multiplicity-block form:
+### Cubic-polar relation
+The exact degree-`<=2` jet image has rank 10; its cubic complement is rank 6 and decomposes as `3 + 3'`.
 
-- a 2x2 Hermitian singlet multiplicity block;
-- one scalar on the unique doublet;
-- a 3x3 Hermitian multiplicity block among the three polar Standard3 copies;
-- one scalar on the unique axial Standard3.
+The unique cubic-polar Standard3 is **not** an eigenmodule of the polar Standard3 multiplicity block of `R_C`.
 
-Thus Q-native resonance is naturally a small set of collective symmetry-typed families, not a scalar ranking of 16 isolated histories.
+At `z=2+0.7i`, `a=.01`, its weight is distributed approximately
 
-## Strong repeated-irrep evidence
+- top resonance Standard3: `0.1228`;
+- middle resonance Standard3: `0.6794`;
+- lower resonance Standard3: `0.1978`.
 
-Later Q-selected jet filtration shows that symmetry copies are not forever ambiguous:
+The best middle-subspace principal cosine is about `0.824`, i.e. a finite maximum principal angle about `34.5 deg`.
 
-- degree <=1 rank 4;
-- degree <=2 rank 10;
-- degree <=3 rank 16;
-- cubic quotient exactly `3 + 3'`;
-- retained predictive memory overwhelmingly selects the unique polar Standard3 in this cubic quotient;
-- cubic-polar fraction about `0.9858 -> 0.9894` with predictive depth;
-- axial contamination about `1e-7` or below in retained controls;
-- b4/b24 and cutoff shape stability;
-- actual Q-B1850 predictive field shows the same third-jet typing.
+The same mixture is stable under b4/b24 refinement. Therefore jet-filtration selection and response-resonance eigenselection are distinct Q-native structures and must not be conflated.
 
-This is not yet proof that the selected cubic-polar Standard3 is an eigenmode of `R_C`; it proves that Q/process structure can distinguish repeated copies target-blindly without arbitrary multiplicity rotation.
+## Gate A — remaining live items
 
-## Phase-sensitive firewall
+1. **Held-out predictive relevance:** freeze resonance projectors without factual-winner information and test whether they carry predictive power for an independently retained later/full process observable, against symmetry-matched controls.
+2. **Readout-free construction:** search only for an independently Q-selected readout-free/asymptotic resonance object; no preferred complex `z` may be chosen because it gives a desired result.
+3. Far-spectator locality and 120/120 same-final Cons order independence remain retained inherited controls.
+4. Never fit or select modes using the subsequent factual winner.
 
-The positive Gram `R_C` is not the whole author intuition of “vibration”.
+## Gate B — history-ensemble / lens effective covariance
 
-Current Q contains genuine O(1) pre-tip interference, and positive mismatch/norm objects cannot reconstruct all signed/order-sensitive response information.
-
-At fixed invertible `F_C`, polar decomposition
-
-`F_C = U_C sqrt(R_C)`
-
-separates:
-
-- response strength/mode geometry `sqrt(R_C)`;
-- phase/orientation transport `U_C`.
-
-But one universal complex-readout `U_C` or full operator ray is not yet derived.
-
-Therefore:
-
-**RESONANCE ORGANIZATION = RETAINED / MODERN Q-NATIVE.**
-
-**UNIVERSAL PHASE-SENSITIVE RESONANCE SPECTRUM = OPEN.**
-
-**RESONANCE -> FACTUAL WINNER = NOT DERIVED.**
-
-## Relation to the lens / ensemble route
-
-For factual prefix `C_n` the current conceptual cycle is:
-
-`Q + C_n`
-
-`-> phase-sensitive continuation-response network`
-
-`-> collective resonance modes / coherent families`
-
-`-> context/fragmentation structure`
-
-`-> one factual event`
-
-`-> actualization-lens conditional update`
-
-`-> C_(n+1)`
-
-`-> new continuation-response network`.
-
-The physical ensemble/coarse-grained question remains separate: finite local/lens anisotropy may average to an isotropic effective phase if the same-stage physical lens/history measure is invariant.
-
-## Exact live gates
-
-### Gate A — resonance-mode robustness
-
-Before promoting a concrete resonance spectrum:
-
-1. normalize `Rhat_C = R_C / Tr(R_C)`;
-2. compare S4-isotypic spectral gaps/projectors at `a=.04,.02,.01`;
-3. compare b4 versus parity-balanced b24 using licensed transport only;
-4. test real-resolvent readout stability;
-5. use complex readouts as adversaries and determine whether singular projectors drift O(1) or mainly the polar phase/orientation does;
-6. rerun far-spectator controls;
-7. test whether the unique cubic-polar Standard3 aligns with one stable eigenline of the polar-Standard3 3x3 multiplicity block;
-8. test held-out predictive relevance to subsequent fragmentation/recombination;
-9. never fit to the subsequent factual winner.
-
-### Gate B — history-ensemble / lens effective covariance
+Still open and separate from Gate A.
 
 Before any H5 microscopic modification:
 
 1. identify a physically licensed same-stage/common-interface lens ensemble;
-2. determine weights from current Q/FP/process structure, or classify the measure open;
+2. determine weights from current Q/FP/process structure, or classify the measure OPEN;
 3. transport conditional responses to one common interface using earned transport only;
 4. compute effective mean `A_bar_21`;
 5. test b4/b24 continuum behavior;
@@ -195,58 +136,31 @@ But H5 necessity remains premature.
 
 **H5 = PAUSED / NOT REJECTED.**
 
-## Provenance
+## Provenance / documentary note
 
-### Jonathan-origin retained
+A separate Library archaeology performed during the 2026-09-15 continuation recovered verbatim textual deltas for historical `Q-B977 -> Q-B1012` inside preserved A-to-Z recoveries. Their raw historical repro tar bundles are still not recovered in the recent audit. Those deltas explicitly retain conditional/model-construction provenance for the occurrence-register and ordered-law pieces; they do not reopen strict G0 as Root-derived new microphysics.
 
-- actualization-first picture;
-- A/B/C architecture;
-- one factual history;
-- unchanged structure persists unless affected;
-- initial impulse given/out of scope;
-- relational web constrains possibilities;
-- actualization is a lens/process embedded in the web;
-- histories can resonate more or less strongly and organize into coherent families.
-
-### Historical sandbox, noncanonical
-
-- persistent Omega + changing conditioning relative to factual history;
-- continuation overlap `chi` and separation `q`;
-- fragmentation/context formation;
-- causal structure from factual changes;
-- unexecuted R12 history-weight/manifold-attractor program.
-
-### Assistant formalization / quarantined where appropriate
-
-- `R_C=F_C^dag F_C` as fixed-readout response-resonance operator;
-- Schur/multiplicity interpretation of its S4 spectrum;
-- polar split `F_C=U_C sqrt(R_C)` as strength plus phase/orientation;
-- local finite A_21 may be a conditional lens fluctuation whose physical ensemble mean vanishes.
-
-No assistant formalization above is promoted beyond the stated mathematical type.
+Historical `Q-B759 -> Q-B878` autonomous primary source remains UNKNOWN and must not be interpolated.
 
 ## Firewalls
 
 - Root1 frozen; `A_path` retired; global Q uncollapsed.
 - factual ledger append-only/separate.
+- actualisation soustractive retained; not a positive winner selector.
 - Born NOT DERIVED; metric duration NOT DERIVED; Lambda OPEN.
 - no cross-stage illegal averaging.
-- no analyst-uniform measure unless physically justified.
-- no new actualization field, fitted counterterm, hand l2 deletion, preferred readout/refinement, microscopic J, or factual-history backflow.
-- ELGC remains author-approved sandbox assumption only.
-- O(3) FAIL / NOT CLOSED at present.
+- no analyst-uniform lens measure unless physically justified.
+- no preferred complex readout, fitted resonance rotation, fitted counterterm, hand `l=2` deletion, microscopic `J`, metric projector, tetrad, ADM/EH target or factual-history backflow.
+- ELGC remains author-approved working postulate, not an old-Root theorem.
+- O(3) FAIL / NOT CLOSED.
 - HDA / spin-2 / full nonlinear GR NOT ESTABLISHED.
 
 ## GR traffic light
 
-🟢 **Old resonance intuition now has a legitimate modern Q-native mathematical home.**
+🟢 **Advance:** Q-native collective resonance modes are now quantitatively robust under cutoff, S4 covariance restoration, real readout changes and direct b4/b24 refinement.
 
-🟢 **S4 forces collective resonance families and Q already distinguishes at least one repeated same-irrep mode target-blindly.**
+🟢 **Advance:** cubic-polar process selection and response-resonance eigenselection are now cleanly separated instead of being conflated.
 
-🟢 **This is reintegration, not rollback to the old least-cost selector.**
+🟡 **Live:** held-out predictive relevance, readout-free/asymptotic resonance construction, and Gate-B physical ensemble/measure.
 
-🟡 **Universal phase-sensitive spectral projectors and physical history/lens measure remain open.**
-
-🟡 **H5 remains paused while these more conservative routes are tested.**
-
-🔴 **No factual winner derivation and no GR promotion yet.**
+🔴 **No GR promotion:** no factual-winner rule, no new Root2 law, universal complex-readout spectrum fails in the tested family, O(3) remains FAIL/NOT CLOSED, HDA/spin-2/full nonlinear GR remain NOT ESTABLISHED.
