@@ -6,149 +6,184 @@ Historical FINAL-CERTIFIED authority remains `Q-B1858L`.
 
 ## Binding newest checkpoint
 
-`checkpoints/SENTRY/2026-09-15/TDG_ELGC_STAGEI_H1_H5_TRIAGE_INTERFACE_SUPPORTED_H5_UNDERDETERMINATION_2026-09-15.md`
+`checkpoints/SENTRY/2026-09-15/TDG_BREATHING_TEST_HISTORICAL_ROOT_CONSONANCE_ENSEMBLE_LENS_SYMMETRY_RECLASSIFICATION_2026-09-15.md`
 
-Commit: `ed3b2947c68cb4afba51adecd160ee070275ebec`.
+Commit: `2f2a772675a054b03a0a91284a84e46a567da6d2`.
 
-Preceding decisive checkpoints:
-- `TDG_ACTUALIZATION_LENS_L3_COSELECTION_AUDIT_CURRENT_Q_NEGATIVE_2026-09-15.md` — commit `b989838d14b84f8eb74b46aa22146a5eb3296942`.
-- `TDG_ACTUALIZATION_LENS_EXISTING_Q_PROCESS_RETYPE_AND_CONTEXTUAL_COVARIANCE_GATE_2026-09-15.md` — commit `db93f42e92827fe3101d5723fea383c99f7d4194`.
-- `TDG_L1_L2_PREDICTIVE_QUOTIENT_IRREDUCIBILITY_DICHOTOMY_2026-09-15.md` — commit `45ff6a7009761648d802e08625cbe10168ce41bd`.
+Preceding decisive checkpoint:
+- `TDG_ELGC_STAGEI_H1_H5_TRIAGE_INTERFACE_SUPPORTED_H5_UNDERDETERMINATION_2026-09-15.md` — commit `ed3b2947c68cb4afba51adecd160ee070275ebec`.
 
 ## Latest-wins verdict
 
 # **INITIAL IMPULSE I0 = GIVEN / OUT OF EXPLANATORY SCOPE**
 
-# **ACTUALIZATION-LENS ONTOLOGY = RETAINED AS A STRONG CONCEPTUAL RETYPE OF EXISTING Q PROCESS, NOT A NEW FIELD**
+# **ACTUALIZATION-LENS ONTOLOGY = RETAINED AS STRONGLY CONSONANT WITH BOTH MODERN Q AND THE HISTORICAL ACTUALIZATION-FIRST ROOT**
 
-# **POST-INITIAL CONDITIONAL RECURRENCE U_e = SUBSTANTIALLY CLOSED IN DECLARED Q/EXT/CONS SCOPE**
+# **MODERN Q IS STRUCTURALLY CONSONANT WITH THE OLD SANDBOX: PERSISTENT POSSIBILITY STRUCTURE + FACTUAL HISTORY + CONDITIONAL CONTINUATIONS + MOVE-INDUCED CONTEXT CHANGE + CONFLUENCE**
 
-# **A+B->C QUOTIENT THEOREM REMAINS VALID WITH B AS FULLY TYPED ACTUALIZATION/LENS EVENT**
+# **NONZERO LOCAL A_21 MAY BE A CONDITIONAL LENS RESPONSE RATHER THAN AN EFFECTIVE-PHASE SYMMETRY BREAKING TERM**
 
-# **STRONGEST RETAINED CONTINUUM INVARIANT = NONZERO Q-CASIMIR l=2 -> l=1 RESPONSE A_21**
+# **EXACT THEOREM: AN SO(3)-INVARIANT PHYSICAL ENSEMBLE OF COVARIANT LENS RESPONSES HAS ZERO EFFECTIVE l=2->l=1 MEAN**
 
-# **SELECTIVE QUOTIENT, STATIC FINITE l=3, AND EXISTING-LENS FINITE L=3 RESCUES ARE NOT EARNED**
+# **POINTWISE APPLICATION OF ELGC TO EACH INDIVIDUAL LENS IS NOT YET JUSTIFIED**
 
-# **UNDER ELGC, FAMILY-LEVEL NECESSITY OF SOME COMPLETION = CONDITIONAL PASS, BUT NO PARTICULAR MICROSCOPIC REALIZATION IS SELECTED**
+# **H5 INTERFACE-LAW SEARCH = PAUSED, NOT REJECTED**
 
-# **H1-H4 = NOT CURRENTLY ADMISSIBLE FROM THE PRETARGET EVIDENCE**
-
-# **H5 = ONLY SURVIVING RESEARCH FAMILY, RESTRICTED BY PERSISTENCE TO INTERFACE/NEW-SECTOR SUPPORT; PARAMETER/BRANCH SELECTION REMAINS UNDERDETERMINED**
-
-# **LIVE FRONT = H5 INTERFACE-LAW IDENTIFIABILITY MAP, STAGE I ONLY**
+# **LIVE FRONT = HISTORY-ENSEMBLE / ACTUALIZATION-LENS EFFECTIVE-COVARIANCE GATE**
 
 No new Root2 law is admitted.
 
-## Exact conservative H5 support theorem
+## Historical consonance
 
-For a legal extension with old-space inclusion `I_e`, certified persistence gives
+The 2026-08-10 TDG-R sandbox had already isolated:
 
-`I_e^dag Q_K' I_e = Q_K`.
+- persistent `Omega` possibility structure;
+- actualized relational history `C`;
+- conditional continuation structure relative to `C`;
+- fragmentation/incompatibility among continuations;
+- objective actualization;
+- factual changes altering later continuation structure;
+- confluence/bookkeeping invariance for independent events;
+- geometry/time only downstream.
 
-For a candidate conservative H5 modification
+Its explicit correction was that `Omega` remains while conditioning relative to actualized history changes.
 
-`Q'_K' = Q_K' + delta Q_K'`
+Modern Root2/Q now supplies technically stronger counterparts in declared scopes:
 
-that preserves this success,
+- uncollapsed global/predictive Q;
+- append-only factual ledger;
+- Q-native extension instrument;
+- actual legal move -> process descriptor;
+- cross-context recalibration;
+- predictive quotient;
+- exact 120/120 same-final path independence in tested shell.
 
-`I_e^dag delta Q_K' I_e = 0`.
+This is structural consonance, not an identity theorem and not a promotion of the old sandbox to canon.
 
-Relative to
+## Exact ensemble symmetry theorem
 
-`H_K' = I_e(H_K) (+) H_new`,
+Let `Lambda` be a physically licensed common-stage actualization-lens context space with SO(3)-invariant measure `mu`, and conditional responses
 
-Hermiticity therefore gives
+`A(lambda): l=2 -> l=1`
 
-`delta Q = [[0, X^dag],[X,Y]]`.
+satisfying family covariance
 
-Hence a conservative completion cannot rewrite the unaffected old-old Q block. Any new content must live on the event/interface/new-sector support.
+`A(g.lambda) D_2(g) = D_1(g) A(lambda)`.
 
-This is structurally aligned with Jonathan's retained intuition that unaffected structure is not rewritten.
+Then
 
-## H1-H5 Stage-I triage
+`A_bar = integral A(lambda) dmu(lambda)`
 
-- **H1 new elementary Ext type:** no independently missing event type has been operationally established; not admissible.
-- **H2 genuine higher Q cell:** mathematically possible, but no positive dilation-normal pretarget witness forces one; sandbox only.
-- **H3 physical predictive-memory degree:** physical realization remains underdetermined; no-free-ontology-swap rule blocks promotion.
-- **H4 boundary/inflow degree:** audited forms have no positive identifying margin against static-boundary/predictive-memory controls; not admissible.
-- **H5 modified local Q law on existing carrier:** smallest surviving family by ontology enlargement, but not selected or admitted.
+is an SO(3) intertwiner. Since
 
-## Why H5 is not yet a law
+`Hom_SO(3)(l=2,l=1) = {0}`,
 
-Existing local-Q capacity is already nonunique:
+it follows exactly that
 
-- B3-B2 incidence intertwiner space has complex dimension 2;
-- covariance/no-spurion conditions do not uniquely select the leg;
-- larger B3 + 3xB2 local S3-covariant Hermitian space has real dimension 11, with 4 real cross-block parameters.
+`A_bar = 0`.
 
-Therefore exact symmetry/locality/persistence alone do not fix a unique H5 member.
+Thus finite local/conditional anisotropy can coexist with an isotropic effective regular phase.
 
-Choosing a coefficient because it cancels `A_21` would be forbidden target-facing fitting.
+## Why this matters
 
-Current H5 status:
+Previous audits proved only that benign **pointwise** rescues were not earned:
 
-- family-level motivation under ELGC: **conditional PASS**;
-- physical support typing: **strongly narrowed**;
-- G5 independent parameter/branch selection: **NOT PASSED**;
-- G6 positive identifying margin: **NOT PASSED**;
-- full G0-G10: **NOT PASSED**.
+- selective quotient while preserving SO(3): impossible;
+- finite static l3 order parameter: not derived;
+- finite existing-lens L3 completion: not derived.
 
-## Exact live gate — H5 interface-law identifiability map
+They did not prove that every individual lens response must itself be the universal effective constitutive law.
 
-Parameterize only the already-allowed interface-local H5 intertwiners after Hermiticity, exact carrier symmetry and persistence are imposed.
+The historical R12 program — never executed — was precisely to search for an intrinsic weighting of actualized causal histories before asking what geometry is typical.
 
-Construct, in Stage I and before downstream geometry:
+The modern Q machinery may now make that old question scientifically testable.
 
-`M : theta -> ELGC/Q-native regular-phase constitutive consistency defect`.
+## Current evidence
 
-Ask only:
+Suggestive but not decisive:
 
-1. does any `theta` solve the frozen ELGC consistency condition?
-2. what is `rank(M)` and solution-set dimension?
-3. is a solution unique modulo already-licensed gauge/projective equivalence?
-4. can existing Q-native Cons/refinement/naturality constraints reduce any degeneracy without target fitting?
-5. does the solution survive b4/b24 and spectator/fresh-label controls?
-6. does it preserve Q-B1819 instrument/persistence, global-Q no-collapse, Q-B1845 process chart, and Q-B1857/Q-B1858 earned connections?
-7. is there a matched alternative law with identical pretarget successes? If yes, microscopic physical selection remains underdetermined.
+- Q-B1853D: exact same-carrier capacity for balanced T3=0 combinations exists, but symmetry alone does not select one.
+- Q-B1853F: averaging contexts across different factual stages is forbidden; same-stage/common-interface typing is mandatory.
+- Q-B1854/Q-B1855: a target-blind signed full-process selector approaches `T3=O(a^2)->0` under b4/b24, suggesting an isotropic continuum angular sector.
+- Yet fixed-context conditional dynamics retains finite A_21.
 
-Only after this Stage-I map is frozen may downstream O(3)/HDA/spin-2/GR quantities be inspected.
+This combination motivates, but does not prove, the ensemble interpretation.
+
+## Exact live gate
+
+Before any H5 microscopic modification:
+
+1. identify a physically licensed same-stage/common-interface lens ensemble;
+2. determine its weights from current Q/FP/process structure, or explicitly classify the measure as open;
+3. transport conditional responses to one common interface using already-earned transport only;
+4. compute effective mean `A_bar_21`;
+5. test b4/b24 continuum behavior;
+6. separately retain variance/higher moments as possible local fluctuation/process information;
+7. test Cons/path/spectator/readout stability;
+8. only if effective `A_bar_21` remains nonzero under a physically licensed ensemble does ELGC force an upstream constitutive completion.
+
+## H5 status
+
+The previous exact persistence theorem remains valid conditionally:
+
+if H5 is eventually required, any conservative correction must satisfy
+
+`I_e^dag delta Q I_e = 0`
+
+and therefore cannot rewrite the unaffected old-old Q block.
+
+But H5 necessity is now premature.
+
+**H5 = PAUSED / NOT REJECTED / DO NOT FIT OR MODIFY Q BEFORE ENSEMBLE GATE.**
 
 ## Provenance
 
 ### Jonathan-origin retained
 
-- actualisation soustractive;
+- actualization-first picture;
 - A/B/C architecture;
 - one factual history;
 - unchanged structure persists unless affected;
 - initial impulse given/out of scope;
 - relational web constrains possibilities;
-- actualization is a lens/process generated through interaction with the web.
+- actualization is a lens/process embedded in the web.
+
+### Historical sandbox, noncanonical
+
+- persistent Omega + changing conditioning relative to factual history;
+- continuation fragmentation;
+- causal structure from factual changes;
+- unexecuted R12 history-weight/manifold-attractor program.
 
 ### Assistant-origin / quarantined
 
-- after Stage-I triage, the missing ingredient may be a selection principle for the already-available interface-local Q-law space rather than a new physical degree of freedom.
+- local finite A_21 may be a conditional lens fluctuation whose physically weighted ensemble mean vanishes;
+- ELGC may belong at the effective regular-phase level rather than pointwise on every microscopic/event-conditioned lens.
 
-This is not derived. The H5 identifiability map is the falsification gate.
+These are not derived physical claims. The ensemble gate is the falsification test.
 
 ## Firewalls
 
 - Root1 frozen; `A_path` retired; global Q uncollapsed.
 - factual ledger append-only/separate.
 - Born NOT DERIVED; metric duration NOT DERIVED; Lambda OPEN.
-- ELGC only inside explicit sandbox.
-- no new actualization field, resonance force, preferred readout/refinement, hand l2 deletion, fitted counterterm, microscopic J, or factual-history backflow.
-- O(3) FAIL / NOT CLOSED.
+- no cross-stage illegal averaging.
+- no analyst-uniform measure unless physically justified.
+- no new actualization field, fitted counterterm, hand l2 deletion, preferred readout/refinement, microscopic J, or factual-history backflow.
+- ELGC remains author-approved sandbox assumption only.
+- O(3) FAIL / NOT CLOSED at present.
 - HDA / spin-2 / full nonlinear GR NOT ESTABLISHED.
 
 ## GR traffic light
 
-🟢 **Major Stage-I narrowing:** unnecessary H1-H4 ontology is not justified by current evidence.
+🟢 **Breathing test found a meaningful reclassification rather than a patch.**
 
-🟢 **Any conservative H5 completion is forced to the actualization/interface support rather than rewriting old Q.**
+🟢 **Modern Q appears surprisingly consonant with the old actualization-first architecture.**
 
-🟡 **H5 is the only surviving research family, but parameter/realization identification is unresolved.**
+🟢 **Exact ensemble theorem shows local anisotropy need not imply effective-phase anisotropy.**
 
-🟡 **Next = H5 identifiability map, still pretarget.**
+🟡 **Physical Q-native lens/history measure is not yet derived.**
 
-🔴 **No concrete new Q law passes G0-G10; O(3), HDA, spin-2 and nonlinear GR remain unestablished.**
+🟡 **H5 is paused while this more conservative route is tested.**
+
+🔴 **No GR promotion yet.**
