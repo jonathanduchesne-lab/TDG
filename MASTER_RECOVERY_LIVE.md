@@ -9,37 +9,33 @@
 
 # 0. RESTART
 
-For a new conversation, read in this order:
+Read in this order:
 
 1. `CURRENT_FRONT_LATEST.md`;
-2. `00_START_HERE_NEW_CONVERSATION.md`;
-3. this file;
-4. `CURRENT_STATE.md`;
-5. `checkpoints/SENTRY/2026-09-15/TDG_ACTUALIZATION_PERSISTENCE_GLOBALQ_DERIVED_REFINEMENT_UNIVERSALITY_FRONTIER_2026-09-15.md`;
-6. the strict-G0 exhaustion checkpoint and scoped repro only as needed.
+2. `CURRENT_STATE.md`;
+3. `checkpoints/SENTRY/2026-09-15/TDG_AB_TO_C_PREDICTIVE_ACTUALIZATION_CLOSURE_QUOTIENT_DESCENT_THEOREM_2026-09-15.md`;
+4. `checkpoints/SENTRY/2026-09-15/TDG_ACTUALIZATION_PERSISTENCE_GLOBALQ_DERIVED_REFINEMENT_UNIVERSALITY_FRONTIER_2026-09-15.md`;
+5. strict-G0 exhaustion checkpoint and scoped repro only as needed.
 
-Work in French. GitHub is authoritative for substantive TDG work actually present in the repository. Never interpolate documentary gaps.
+Work in French. GitHub is authoritative. Never interpolate documentary gaps.
 
 ---
 
 # 1. EXACT LIVE FRONTIER
 
-The current scientific frontier is:
+# **A+B->C IS DERIVED AT COMPLETE PREDICTIVE-QUOTIENT LEVEL UNDER COMPOSITION-CLOSED INTERFACE SEMANTICS**
 
-# **GLOBAL-Q/CARRIER PERSISTENCE UNDER LEGAL ACTUALIZATION IS SUBSTANTIALLY DERIVED**
+# **MICROSCOPIC REALIZATION UNIQUENESS IS NOT REQUIRED FOR PREDICTIVE C**
 
-# **MICROSCOPIC REFINEMENT DIFFERENCE IS NOT AUTOMATICALLY A PHYSICAL DEFECT**
-
-# **LIVE TARGET = TARGET-BLIND PREDICTIVE REFINEMENT UNIVERSALITY AUDIT**
+# **LIVE TARGET = QUOTIENT-DESCENT AUDIT OF EMERGENT CONTINUUM STRUCTURES**
 
 Binding checkpoint:
+`checkpoints/SENTRY/2026-09-15/TDG_AB_TO_C_PREDICTIVE_ACTUALIZATION_CLOSURE_QUOTIENT_DESCENT_THEOREM_2026-09-15.md`
 
-`checkpoints/SENTRY/2026-09-15/TDG_ACTUALIZATION_PERSISTENCE_GLOBALQ_DERIVED_REFINEMENT_UNIVERSALITY_FRONTIER_2026-09-15.md`
+Commit:
+`e6955837261b1424c697b370b21f4c0cc67b3b64`.
 
-Checkpoint commit:
-`0a6fb13d4fe4c0e65259a863d690ca39eedc4129`.
-
-This is a latest-wins reclassification. It does **not** promote anything beyond historical FINAL-CERTIFIED `Q-B1858L` and does not admit a new Root2 law.
+This is a latest-wins scientific reclassification, not a promotion beyond historical FINAL-CERTIFIED `Q-B1858L` and not a new Root2 dynamical law.
 
 ---
 
@@ -49,211 +45,215 @@ This is a latest-wins reclassification. It does **not** promote anything beyond 
 - `A_path` retired.
 - global Q uncollapsed.
 - factual ledger append-only and separate from predictive/global Q.
-- actualisation soustractive credited to Jonathan Duchesne; it removes/incompatibilizes nonretained alternatives around actualized history and is not a positive winner-selection rule.
+- actualisation soustractive retained as Jonathan Duchesne's conceptual contribution; not a positive winner-selection rule.
 - Born NOT DERIVED.
 - metric/proper duration NOT DERIVED.
 - Lambda OPEN.
-- ELGC = author-approved working postulate, not an old-Root theorem.
+- ELGC remains author-approved working postulate, not an old-Root theorem.
 - O(3) FAIL / NOT CLOSED.
 - HDA / spin-2 / full nonlinear GR NOT ESTABLISHED.
+- ICPRT remains SANDBOX ONLY / STRICT G0 FAIL / NOT ADOPTED.
 
-Never insert preferred `z`, fitted transport/coefficient, inverse-regulator rescue, gravity decoder, metric projector, tetrad, ADM/EH target, hidden occurrence register, preferred microscopic embedding or factual-history backflow.
+Never insert preferred `z`, fitted microscopic transport/coefficient, inverse-regulator rescue, gravity decoder, metric projector, tetrad, ADM/EH target, hidden occurrence register, preferred microscopic embedding or factual-history backflow.
 
 ---
 
-# 3. LATEST-WINS CONCEPTUAL RECLASSIFICATION — ACTUALIZATION PERSISTENCE
+# 3. A / B / C TYPING
 
-A foundational intuition was tested:
+`A` = complete predictive equivalence class at the declared physical interface. It includes every distinction that can alter any Root-licensed future response after any allowed legal continuation.
 
-> an actualization should not rewrite the unaffected universe; it should update the relational support actually reorganized while the unaffected structure persists.
+`B` = fully typed legal event/morphism with its incidence/carrier anchoring. It is not merely an outcome label.
 
-This is **already substantially realized** in the recovered Q-B1818/Q-B1819/Q-B1822 architecture.
+`C` = post-event predictive class, or an already-licensed projection/readout of that class.
 
-For a legal carrier extension `e:K->K'`, TDG has a canonical old-degree inclusion `I_e:H_K->H_K'` preserving the old Q block in the certified scope, while the new local/interface support is added by the same Q law.
+If the legal future/intervention sets are closed under sequential composition, response-equivalence is preserved by a common legal event:
 
-Q-B1822 further establishes:
+`p ~ p'  =>  B o p ~ B o p'`.
 
-- same-final label-preserving embeddings agree in the tested scope;
-- the restricted old-Q block is preserved;
-- feeding a factual branch poststate back as the next global predictive Q is wrong;
-- noncollapsed global Q retains predictive alternatives;
+Therefore B induces a well-defined map on predictive classes:
+
+`Phi_B([p]) = [B o p]`.
+
+Any licensed readout gives:
+
+`C = Pi(Phi_B(A))`.
+
+At the complete predictive level, **A+B determines C**. `Pi` cannot inject new response-visible physics.
+
+---
+
+# 4. MAIN CONSEQUENCE
+
+If an additional datum `D` changes a licensed future response after the same `(A,B)`, then either:
+
+1. `D` was already predictive information and A was incomplete without it; or
+2. the declared interface/future algebra was incomplete.
+
+It cannot be genuinely response-visible new post-B physics while remaining absent from a genuinely complete A.
+
+This closes the need for a separate B->C constitutive rule at the predictive quotient level.
+
+It does **not** solve A->B selection.
+
+---
+
+# 5. CONCRETE TDG SUPPORT
+
+## Q-B1818->Q-B1822
+
+- legal extension preserves old global-Q/carrier structure by canonical inclusion in tested scope;
+- new local/interface support is added through same Q law;
+- factual branch poststate must not replace noncollapsed global predictive Q;
 - same-global-Q multistep propagation exists.
+
+## Q-B1849/Q-B1850
+
+- actual legal moves alter local/neighboring predictive responses;
+- same global Q plus Cons/Feshbach predictive memory carries those changes;
+- all 120 tested same-final legal move pairs are exactly order/path independent in final local Gram response; max defect `0.0`.
+
+## Q-B79
+
+- cut-Hankel/right-null quotient canonically defines predictive response-equivalence/minimal predictive information in its scope.
+
+Together these are concrete support for the abstract quotient-descent theorem.
+
+---
+
+# 6. HIGHER-CELL CAVEAT
+
+The 2026-09-14 theorem remains binding:
+
+`complete one- and two-event local conditional data`
+
+does **not** imply
+
+`unique global three-event process`.
+
+Therefore A must be the **complete predictive class**, not merely a local snapshot or pairwise dataset.
+
+If a connected higher cell `Omega_3` changes a licensed future response, it belongs in A. If it changes none, its microscopic realization is surplus at that interface.
+
+This is not a counterexample to A+B->C; it is a warning against under-specifying A.
+
+---
+
+# 7. MICROSCOPIC REALIZATION RECLASSIFICATION
+
+The existing no-go remains:
+
+`canonical minimal predictive state`
+
+does not imply
+
+`unique microscopic physical realization`.
+
+This no longer automatically counts as a physical obstruction.
+
+A microscopic intertwiner/embedding `J` becomes physically necessary only if a quantity claimed to be observable depends on microscopic representative and fails to descend to the predictive quotient.
 
 Therefore:
 
-**UNCHANGED OLD GLOBAL-Q/CARRIER STRUCTURE IS NOT REWRITTEN UNDER LEGAL EXTENSION = DERIVED / RETAINED IN THE Q-B1818->Q-B1822 SCOPE.**
-
-The non-rewrite principle does not need to be added as new physics at that level.
-
----
-
-# 4. WHAT THIS DOES NOT SOLVE
-
-The surviving strict-G0 microscopic issue is type-distinct.
-
-Q-B1849->Q-B1852 provides strong first-order process transport. But to transfer an already-derived process transport `[T_e]:E_x->E_y` to a distinct microscopic subleading/internal-frame fibre `F`, one still needs independently Q-selected common-domain identifications `[J_x],[J_y]`:
-
-`[R_e] = [J_y][T_e][J_x]^-1`.
-
-Current recovered Q does not uniquely fix those `J` maps:
-
-- RC23 representation matching retains nontrivial intertwiner freedom;
-- Ext/refinement naturality cannot create a missing common-domain morphism;
-- Cons cells constrain/descent-identify routes but do not manufacture an operator-valued cross-fibre map;
-- Q-B1842/Q-B1844 provide capacity/typing but no unique physical microscopic incidence law.
-
-Thus:
-
-- global-Q persistence = retained positive;
-- unique microscopic lift = NOT DERIVED;
-- ICPRT remains SANDBOX ONLY / STRICT G0 FAIL / NOT ADOPTED.
+- no new microscopic transport is admitted;
+- ICPRT remains rejected;
+- strict-G0 source exhaustion for a new microscopic transport remains valid;
+- the burden shifts to **quotient descent of claimed physical/emergent structures**.
 
 ---
 
-# 5. REFINEMENT RECLASSIFICATION
+# 8. PRU STATUS
 
-P10S establishes that b4 and b24 are genuinely distinct refinement/zoom prescriptions. A finite microscopic difference between them does not by itself imply physical inconsistency or missing microphysics.
+Predictive Refinement Universality remains a useful candidate formulation:
 
-The recovered Root does **not** derive:
+Distinct legal refinements may remain microscopically different yet represent the same continuum physics if their licensed Q-native predictive continuum class agrees.
 
-`same continuum physics => same microscopic realization`.
+But the new A+B->C theorem is more fundamental: it tells us which level is physically primary for the update map — the predictive quotient, not a unique microscopic realization.
 
-The intervention-complete/minimal-embedding audits directly support the distinction: a canonical operational/predictive process may have non-unique microscopic realizations unless a physical interface/common-domain embedding is independently fixed.
-
-Therefore future audits must distinguish:
-
-1. finite UV/realization difference;
-2. stable continuum predictive difference.
-
-Only the second is presumptively a physical difference at the continuum interface.
+PRU remains NOT DERIVED / NOT ADOPTED as a universal continuum principle pending descent audits across actual emergent observables.
 
 ---
 
-# 6. PRU — PREDICTIVE REFINEMENT UNIVERSALITY
+# 9. NEW LEGAL FRONTIER — QUOTIENT-DESCENT AUDIT
 
-A new target-blind foundational candidate has been formulated:
+For each retained emergent candidate `X`, test target-blindly:
 
-> Two legal refinement schemes may remain microscopically different. They belong to the same continuum physical class only if the designated Q-native, scale-stable predictive observable structure converges to the same physical limit, modulo only already-licensed quotient/projective/gauge identifications.
+1. invariance on Q-B79 response-equivalence classes;
+2. commutation with legal-event descent `Phi_e`;
+3. invariance under response-equivalent microscopic dilations/embeddings;
+4. Cons descent;
+5. disconnected-spectator independence;
+6. b4/b24 continuum equality when both refinements represent the same predictive class;
+7. if differences remain, determine whether they are independently future-visible physical content or mere representation dependence.
 
-Equivalent slogan:
+Priority order:
 
-`same continuum physics` need not imply `same microscopic presentation`, but should imply `same licensed asymptotic predictive class`.
+1. Q-B1849/Q-B1851 `1+3` process descriptor/connection;
+2. Q-B1852 refinement-natural transport structures;
+3. Q-B1857/Q-B1858 projective-conformal synchronization;
+4. retained universal `l=2 -> l=1` block.
 
-Status:
-
-- **CONCEPTUAL / FOUNDATIONAL CANDIDATE ONLY**;
-- **NOT DERIVED**;
-- **NOT ADOPTED INTO ROOT2**;
-- no O(3), HDA, spin-2 or GR target appears in its formulation.
-
-PRU is not ICPRT. It does not add a microscopic repair operator; it asks which already-Q-native predictive observables define physical equivalence across distinct refinements.
-
----
-
-# 7. PARTIAL EVIDENCE FOR PRU — NOT A THEOREM
-
-The retained Q-native `l=2 -> l=1` dynamical block has independent b4/b24 continuum extrapolations:
-
-- b4 approximately `0.1424778761`;
-- b24 approximately `0.1424778616`;
-- relative difference approximately `1.02e-7`.
-
-The structural type also survives inherited Cons and disconnected-spectator controls in the audited family.
-
-This is compatible with distinct microscopic refinements sharing a stable common continuum predictive feature.
-
-But one block is not a complete PRU theorem. The sufficiently complete Q-native predictive observable algebra/tower has not yet been audited across refinements.
-
----
-
-# 8. STRICT-G0 INVENTORY EXHAUSTION REMAINS BINDING IN ITS SCOPE
-
-The previous strict-G0 result remains valid:
-
-**NO RECOVERED/AUDITED CURRENT-Q OBJECT INDEPENDENTLY FORCES A NEW INCIDENCE-CONDITIONED MATRIX/PATH-VALUED MICROSCOPIC TRANSPORT LAW BEFORE DOWNSTREAM TARGETS ARE LOADED.**
-
-Consequences:
-
-- G0b for a new microscopic transport law remains FAIL / no witness found in recovered corpus;
-- ICPRT remains not admitted;
-- no renamed microscopic repair law is licensed by downstream usefulness;
-- the persistence/PRU reclassification does not erase the transport-transfer lemma.
-
----
-
-# 9. LEGAL NEXT TEST — PREDICTIVE-REFINEMENT UNIVERSALITY AUDIT
-
-Do not fit a microscopic transport and do not use O(3)/GR as selector.
-
-The next clean program is:
-
-1. define from already-derived Q/Cons/Ext/intervention semantics the smallest sufficiently complete predictive observable algebra for comparing b4/b24 and related legal refinements;
-2. compare at multiple refinement depths/scales;
-3. separate finite-UV realization differences from stable continuum predictive differences;
-4. require Cons descent, spectator stability, refinement/dilation compatibility and no factual-ledger backflow;
-5. classify sectors as:
-   - common continuum predictive class;
-   - genuine surviving physical refinement dependence;
-   - unresolved due source/repro gaps;
-6. never declare unmatched microscopic coordinates a physical failure unless they produce an independently licensed predictive distinction.
-
-A provenance-complete full local multi-refinement Q-B79 intervention-complete cut-Hankel dataset would be especially valuable.
+Do not use O(3)/GR target data to decide descent.
 
 ---
 
 # 10. DOCUMENTARY GAPS
 
-The following remain unresolved and must never be interpolated:
+Still unresolved; never interpolate:
 
-- Q-B759->878 autonomous delta = UNKNOWN;
-- original GR21/GR59 executable source used by GR61 not persisted in accessible artifacts;
+- Q-B759->878 autonomous delta UNKNOWN;
+- original GR21/GR59 executable source not persisted in accessible artifacts;
 - raw Q-B977->987 / 988->1000 / 1001->1012 repro tar bundles not recovered;
 - provenance-complete full local multi-refinement Q-B79 intervention-complete cut-Hankel dataset not recovered.
 
-These gaps can limit or reopen the predictive-refinement audit if genuine primary material is recovered.
+The last item is especially valuable for a full predictive-quotient/refinement audit.
 
 ---
 
-# 11. DERIVED / CANDIDATE / OPEN / NEXT
+# 11. DERIVED / ASSUMED / OPEN / NEXT
 
-## DERIVED / RETAINED IN CURRENT SCOPE
+## DERIVED / EXACT ABSTRACTLY
 
-- unchanged old global-Q/carrier structure persists under legal extension in Q-B1818->Q-B1822 scope;
-- factual branch poststates do not replace noncollapsed global predictive Q;
-- same-global-Q multistep propagation exists;
-- Q-B1849->Q-B1852 strong first-order process architecture remains retained;
-- microscopic realization equality is not implied by predictive/operational equivalence;
-- finite b4/b24 microscopic mismatch alone is not a strict-G0 witness;
-- strict-G0 inventory remains exhausted for a newly selected microscopic transport in recovered/audited corpus.
+- response-equivalence is preserved under a common legal event if the future/intervention algebra is closed under legal composition;
+- every legal event induces a well-defined map on complete predictive classes;
+- at that level A+B determines C without an independent third constitutive choice;
+- microscopic realization uniqueness is unnecessary for predictive C;
+- response-visible post-B information absent from A proves A/interface was incomplete.
 
-## CANDIDATE / NOT ADOPTED
+## RETAINED CONCRETE SUPPORT
 
-- Predictive Refinement Universality (PRU).
+- Q-B1818->Q-B1822 persistence and same-Q propagation;
+- Q-B1849/Q-B1850 process update plus exact 120/120 same-final path independence in tested shell;
+- Q-B79 predictive response quotient in its scope.
+
+## ASSUMED / TYPING CONDITION
+
+- declared future/intervention sets are closed under the legal sequential compositions used;
+- A means the complete predictive class at that declared interface.
 
 ## OPEN
 
-- whether PRU can be derived from existing Root semantics rather than postulated;
-- what Q-native predictive observable algebra is sufficiently complete for continuum equivalence;
-- full multi-scale b4/b24 predictive audit;
-- whether any sector retains genuine continuum refinement dependence;
-- recovery of missing primary/repro material.
+- universal physical interface selection;
+- quotient descent of emergent continuum/geometric structures;
+- full provenance-complete multi-refinement Q-B79 data;
+- A->B selection / Born;
+- metric duration, Lambda, O(3), HDA, spin-2 and full nonlinear GR.
 
 ## NEXT
 
-Run the target-blind predictive-refinement universality audit with recovered Q-native data only. If the needed source data are absent, record the recovery gap rather than infer them.
+Run the target-blind quotient-descent audit before considering any new microscopic transport hypothesis.
 
 ---
 
-# 12. SAVEPOINT / NO-LOSS RULE
+# 12. SAVEPOINT RULE
 
-At every future substantive stable state:
+At every substantive stable state:
 
-1. create/update a scoped checkpoint;
-2. state DERIVED / CANDIDATE-ASSUMED / OPEN / NEXT;
-3. preserve provenance/repro when available;
+1. create scoped checkpoint;
+2. state DERIVED / ASSUMED / OPEN / NEXT;
+3. preserve provenance/repro;
 4. update `CURRENT_FRONT_LATEST.md`;
-5. update `CURRENT_STATE.md` if frontier changes;
-6. update this `MASTER_RECOVERY_LIVE.md` whenever restart state materially changes;
+5. update `CURRENT_STATE.md`;
+6. update this master if restart state changes;
 7. commit specifically;
 8. never promote a result merely because it was committed.
 
@@ -261,10 +261,10 @@ At every future substantive stable state:
 
 # 13. GR TRAFFIC LIGHT
 
-🟢 **Conceptual advance:** the non-rewrite/persistence intuition is already substantially realized at global-Q/carrier level; no new principle needs to be smuggled in there.
+🟢 **Major conceptual advance:** B->C is now cleanly closed at complete predictive level.
 
-🟢 **Sharper ontology:** microscopic refinement difference is no longer automatically confused with continuum physical difference.
+🟢 **Microscopic wall retyped:** non-unique UV realization is not itself a physical defect.
 
-🟡 **Live frontier:** determine the Q-native predictive equivalence/universality class across legal refinements.
+🟡 **Live frontier:** determine which emergent continuum/geometric objects genuinely descend to the predictive quotient.
 
-🔴 **No GR reopening:** no new Root2 law is admitted. O(3) remains FAIL/NOT CLOSED; HDA, spin-2 and full nonlinear GR remain NOT ESTABLISHED. Born and metric duration remain NOT DERIVED.
+🔴 **Still open:** A->B/Born, metric duration, O(3), HDA, spin-2 and nonlinear GR.
