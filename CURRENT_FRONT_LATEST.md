@@ -6,119 +6,95 @@ This file is the latest-wins resume pointer. Historical FINAL-CERTIFIED authorit
 
 ## Binding newest checkpoint
 
-`checkpoints/SENTRY/2026-09-15/TDG_STRICT_G0_CURRENT_Q_SOURCE_INVENTORY_EXHAUSTION_ROOT_INSUFFICIENCY_2026-09-15.md`
+`checkpoints/SENTRY/2026-09-15/TDG_ACTUALIZATION_PERSISTENCE_GLOBALQ_DERIVED_REFINEMENT_UNIVERSALITY_FRONTIER_2026-09-15.md`
 
-Commit: `90d15ac18d464b5f2a279559b3f2ac379ff42d32`.
+Commit: `0a6fb13d4fe4c0e65259a863d690ca39eedc4129`.
 
-### Latest-wins verdict
+## Latest-wins verdict
 
 The exact live frontier is now:
 
-# **STRICT G0 CURRENT-Q SOURCE INVENTORY EXHAUSTED IN THE RECOVERED/AUDITED CORPUS**
+# **GLOBAL-Q / CARRIER PERSISTENCE UNDER LEGAL ACTUALIZATION IS ALREADY SUBSTANTIALLY DERIVED**
 
-# **CURRENT ROOT INVENTORY INSUFFICIENT FOR THIS CLOSURE**
+# **MICROSCOPIC REFINEMENT DIFFERENCE IS NOT AUTOMATICALLY A PHYSICAL DEFECT**
+
+# **LIVE TARGET = PREDICTIVE REFINEMENT UNIVERSALITY AUDIT, NOT A RENAMED MICROSCOPIC REPAIR LAW**
 
 No new Root2 law is admitted.
 
-The four admissible strict-G0 source classes named by the 2026-09-15 conversation-switch handoff have now been audited against the recovered/latest-wins current-Q corpus:
+## Major conceptual reclassification
 
-1. intervention-complete process observable;
-2. Q-native representation/coequalizer theorem;
-3. causal/process operational distinction;
-4. selected-future current-Q construction.
+The intuition that an actualization should not rewrite the unaffected universe was audited against the recovered corpus.
 
-No recovered object independently forces the missing incidence-conditioned matrix/path-valued microscopic transport law before downstream SAME-h, refinement repair, O(3), HDA or GR targets are loaded.
+In the Q-B1818/Q-B1819/Q-B1822 extension architecture, legal carrier extension preserves the old Q block by canonical inclusion and adds new local/interface support using the same Q law. Factual branch poststates do not replace the noncollapsed global predictive Q state. Same-global-Q multistep propagation is retained.
 
-## Why the best current-Q positive still does not pass G0
+Therefore the core non-rewrite/persistence idea is already present at the carrier/global-Q level.
 
-Q-B1849->Q-B1852 remains a strong retained first-order legal-cut/process architecture:
+This does **not** solve the distinct second-order/subleading microscopic inter-fibre transport problem. The transport-transfer lemma remains binding: a first-order process transport does not uniquely determine transport on a distinct microscopic fibre without independently selected common-domain intertwiners.
 
-- actual legal move -> canonical local `1+3` process descriptor;
-- invertible `P_cut`;
-- exact Cons/Feshbach cross-context scalar predictive-memory transport;
-- canonical no-fit prolongation `L_Q = V F^-1`;
-- strong b4/b24 refinement naturality and spectator locality.
+## New sharper interpretation of b4/b24 and refinement mismatch
 
-However transport on this already-typed first-order process fibre does **not** determine transport on the distinct microscopic subleading/internal-frame fibre without independently derived common-domain projective intertwiners.
+P10S already shows b4 and b24 are genuinely different refinement/zoom recipes. A finite microscopic difference between them does not, by itself, imply a physical inconsistency or missing law.
 
-If `[T_e]:E_x->E_y` is the retained process transport and `[J_x]:E_x->F_x`, `[J_y]:E_y->F_y` are required identifications, then
+The recovered Root does not justify:
 
-`[R_e]=[J_y][T_e][J_x]^-1`.
+`same continuum physics => same microscopic realization`.
 
-Without Q-selected `[J_x],[J_y]`, changing the identifications by allowed projective automorphisms changes `[R_e]`. Therefore copying the first-order process transport into the missing microscopic type would itself add constitutive content.
+Operational/predictive equivalence can coexist with non-unique microscopic realization.
 
-Current Q does not independently fix those identifications:
+Therefore the next target-blind question is:
 
-- RC23 representation matching leaves a nontrivial intertwiner family;
-- Ext/refinement naturality cannot create a missing common-domain morphism;
-- frozen Cons cells constrain/identify route classes but do not manufacture an operator-valued microscopic cross-fibre map;
-- Q-B1842/Q-B1844 representation capacity does not uniquely select the relevant microscopic incidence law.
+> Which already-Q-native predictive structures must become universal across legal refinements in the continuum, and which finite UV differences are merely realization detail?
 
-## Route B remains closed as a positive route
+## Predictive Refinement Universality (PRU) — candidate only
 
-Route B higher-coherence/new-memory mining remains CURRENTLY EXHAUSTED in the audited corpus.
+Candidate statement:
 
-Do not treat as primitive new-memory evidence:
+Two legal refinement schemes may remain microscopically different. They belong to the same continuum physical class only if the designated Q-native, scale-stable predictive observable structure converges to the same physical limit, modulo only already-licensed quotient/projective/gauge identifications.
 
-- extensive rank growth;
-- number of histories/cells;
-- local jet/presentation growth;
-- repeated fresh Cons-carrier growth;
-- reduced Gram rank;
-- global cut-Hankel/Feshbach rank proportional to region size;
-- direct sums/copies of a fixed local response module;
-- UV tensor growth by a fixed local factor.
+Status:
 
-Active43 regular local Feshbach memory remains finite-neighborhood, two-pole, local McMillan degree 4 in the audited scope.
+- **CONCEPTUAL / FOUNDATIONAL CANDIDATE ONLY**;
+- **NOT DERIVED**;
+- **NOT ADOPTED INTO ROOT2**;
+- no O(3), HDA, spin-2 or GR target used in its statement.
 
-## ICPRT remains rejected
+PRU differs from ICPRT: it does not add a microscopic transport operator. It asks which predictive continuum observables define physical equivalence of distinct refinements.
 
-The sandbox candidate `ICPRT` (Incidence-Conditioned Projective Refinement Transport) remains:
+## Existing partial evidence — not a theorem
 
-- coherently typed;
-- target-blind in its statement;
-- **STRICT G0 FAIL / NOT DERIVED**;
-- **NOT ADOPTED INTO ROOT2**.
+The retained Q-B1852/Q-native `l=2 -> l=1` block has independent b4/b24 continuum extrapolations approximately
 
-Its usefulness for repairing the downstream second-order/refinement defect is not evidence that current Q possesses the law.
+- b4: `0.1424778761`;
+- b24: `0.1424778616`;
+- relative difference about `1.02e-7`.
 
-## Strict G0-G10 latest status
+This is consistent with the possibility that distinct microscopic refinements share a stable continuum predictive feature, but one block is not a complete universality theorem.
 
-- G0a structural/inventory gap: **PASS / sharply localized**.
-- G0b independent physical transport witness: **FAIL / no witness found in the recovered current-Q inventory after the four-class audit**.
-- G1 minimal transport candidate: conditional sandbox typing only.
-- G2 nonredundancy: OPEN for a hypothetical selected law; not evidence of existence.
-- G3 composition: coherent by candidate form only.
-- G4 refinement/dilation: conditional requirement; physical pass not established.
-- G5 target-independent parameter selection: PASS for the minimal sandbox statement; no coefficient inserted.
-- G6 identifying margin: no positive pretarget margin for an independently selected law.
-- G7 Cons/naturality: conditional by type, not physically selected.
-- G8 Route B: currently exhausted as a positive route.
-- G9 conservative compatibility: not executed for an unselected law.
-- G10 pretarget freeze: PASS.
+## Strict-G0 inventory result remains valid
 
-No later gate compensates for G0b failure.
+The previous checkpoint remains binding in its proper scope:
+
+**STRICT G0 CURRENT-Q SOURCE INVENTORY IS EXHAUSTED FOR AN INDEPENDENTLY SELECTED NEW MICROSCOPIC TRANSPORT LAW IN THE RECOVERED/AUDITED CORPUS.**
+
+ICPRT remains SANDBOX ONLY / STRICT G0 FAIL / NOT ADOPTED.
+
+No renamed microscopic transport candidate is licensed merely because it repairs P10/O(3)/GR-facing defects.
 
 ## New legal work
 
-Do **not** continue internal derivation-only mining of the already-audited inventory for renamed variants of ICPRT.
+Do not fit a microscopic transport and do not use GR/O(3) as selector.
 
-The next scientific event must supply genuinely new upstream input, for example:
+Perform a target-blind predictive-refinement universality audit:
 
-1. recovery of a real primary current-Q source artifact not present in the audited corpus and containing an independently typed witness;
-2. external/empirical intervention evidence with a sufficiently independently frozen physical inventory/interface to create an inventory-relative representability failure;
-3. an explicitly declared **NEW FOUNDATIONAL / NEW PHYSICAL HYPOTHESIS**, clearly marked ASSUMED rather than DERIVED, frozen before any downstream comparison.
+1. define from already-derived Q/Cons/Ext/intervention semantics the smallest sufficiently complete predictive observable algebra for comparing refinements;
+2. compare at multiple refinement depths/scales;
+3. separate finite-UV realization differences from stable continuum predictive differences;
+4. require Cons descent, spectator stability, refinement/dilation compatibility and no factual-ledger backflow;
+5. classify sectors as common continuum predictive class, genuine surviving physical refinement dependence, or unresolved due source/repro gaps;
+6. never declare unmatched microscopic coordinates a defect unless they generate an independently licensed predictive distinction.
 
-Only after such a new source/premise is independently frozen may P10M/P10O/P10P/P10S be reused as held-out adversaries.
-
-## Documentary gaps that can still reopen source discovery
-
-- historical Q-B759->878 autonomous delta remains UNKNOWN;
-- original GR21/GR59 executable source used by GR61 is not currently persisted in accessible artifacts;
-- raw Q-B977->987 / 988->1000 / 1001->1012 repro tar bundles were not recovered in the recent audit;
-- a provenance-complete full local multi-refinement Q-B79 intervention-complete cut-Hankel dataset has not been recovered.
-
-Never reconstruct these gaps by interpolation.
+A provenance-complete multi-refinement Q-B79 intervention-complete cut-Hankel dataset remains a particularly important documentary gap.
 
 ## Firewalls
 
@@ -133,8 +109,10 @@ Never reconstruct these gaps by interpolation.
 
 ## GR traffic light
 
-🟢 **Advance:** the strict-G0 source question is now closed cleanly at the current inventory level. First-order process transport and representation capacity are no longer confused with evidence for the missing microscopic law.
+🟢 **Advance:** the non-rewrite/persistence intuition is already substantially realized in TDG at the global-Q/carrier level, so it does not need to be smuggled in as new physics.
 
-🟡 **Live frontier:** obtain genuinely new upstream source/evidence/premise. The present Root has reached an honest inventory boundary.
+🟢 **Sharper ontology:** microscopic refinement difference is no longer automatically treated as physical continuum difference.
 
-🔴 **No GR reopening:** no new Root2 law is admitted. O(3), HDA, spin-2 and full nonlinear GR remain not established.
+🟡 **Live frontier:** determine whether the Q-native predictive continuum class is refinement-universal across legal refinements.
+
+🔴 **No GR reopening:** no new Root2 law is admitted. O(3), HDA, spin-2 and full nonlinear GR remain not established; Born and metric duration remain not derived.
