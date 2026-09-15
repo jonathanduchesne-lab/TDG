@@ -8,16 +8,18 @@
 
 Le front actif est désormais :
 
-# **STRICT G0 CURRENT-Q SOURCE INVENTORY EXHAUSTED IN THE RECOVERED/AUDITED CORPUS**
+# **GLOBAL-Q / CARRIER PERSISTENCE UNDER LEGAL ACTUALIZATION = SUBSTANTIALLY DERIVED**
 
-# **CURRENT ROOT INVENTORY INSUFFICIENT FOR THIS CLOSURE**
+# **MICROSCOPIC REFINEMENT DIFFERENCE != AUTOMATIC PHYSICAL DEFECT**
+
+# **LIVE FRONTIER = TARGET-BLIND PREDICTIVE REFINEMENT UNIVERSALITY AUDIT**
 
 Checkpoint binding :
-`checkpoints/SENTRY/2026-09-15/TDG_STRICT_G0_CURRENT_Q_SOURCE_INVENTORY_EXHAUSTION_ROOT_INSUFFICIENCY_2026-09-15.md`
+`checkpoints/SENTRY/2026-09-15/TDG_ACTUALIZATION_PERSISTENCE_GLOBALQ_DERIVED_REFINEMENT_UNIVERSALITY_FRONTIER_2026-09-15.md`
 
-Commit du checkpoint : `90d15ac18d464b5f2a279559b3f2ac379ff42d32`.
+Commit du checkpoint : `0a6fb13d4fe4c0e65259a863d690ca39eedc4129`.
 
-Ce résultat est un **latest-wins scientific boundary checkpoint**, pas une promotion au rang historique FINAL-CERTIFIED.
+Ce résultat est un **latest-wins conceptual/scientific reclassification checkpoint**, pas une promotion au rang historique FINAL-CERTIFIED et pas l'admission d'une nouvelle loi Root2.
 
 ## 2. Firewalls permanents
 
@@ -32,121 +34,147 @@ Ce résultat est un **latest-wins scientific boundary checkpoint**, pas une prom
 - O(3) : **FAIL / NOT CLOSED**.
 - HDA / spin-2 / GR non linéaire : **NOT ESTABLISHED**.
 - Interdits : preferred `z`, fit de transport/coefficient, inverse-regulator rescue, gravity decoder, metric projector, tetrad, ADM/EH target, hidden occurrence register, factual-history backflow.
+- ICPRT : **SANDBOX ONLY / STRICT G0 FAIL / NOT ADOPTED**.
 
-## 3. Positifs current-Q retenus
+## 3. Reclassification de l'actualisation : la portion inchangée n'est déjà pas réécrite
 
-Le current Q possède une architecture processuelle importante au premier ordre :
+L'intuition testée était : une actualisation ne devrait pas reconstruire tout l'Univers; elle devrait réorganiser seulement le support physiquement affecté tandis que l'ancien support intact persiste.
 
-- Q-B1845 : collective four-B3 analytic process chart, dans le Q enrichi Q-B1842;
-- Q-B1849 : actual legal move -> local `1+3` process descriptor et `P_cut` inversible;
-- Q-B1850 : exact same-Q Cons/Feshbach cross-context predictive-memory response, rank16;
-- Q-B1850 : 120/120 same-final legal-pair paths exactement order/path independent dans le shell testé;
-- Q-B1851 : canonical no-fit prolongation `L_Q = V F^-1`;
-- Q-B1852 : strong b4/b24 process-transport naturality + spectator locality;
-- RC23 : unique associated rank12 solder-response transport dans son type propre;
-- RC25 : genuine history-odd process observable `K4 = 1' + 3'`.
+Le corpus récupéré montre que cette idée est déjà substantiellement réalisée dans la lignée Q-B1818/Q-B1819/Q-B1822.
 
-Le mur n'est donc **pas** le legal-cut/process bridge au premier ordre.
+Pour une extension légale
 
-## 4. Mur surviving
+`e : K -> K'`,
 
-Le problème reste :
+TDG possède une inclusion canonique
 
-**second-order/subleading physical co-selection**, plus précisément l'absence d'une loi microscopique Q-native, readout-free, pre-inversion, incidence-conditioned et matrix/path-valued, sélectionnée indépendamment et capable d'agir dans le bon fibre microscopic carrier/internal-frame.
+`I_e : H_K -> H_K'`
 
-GR188/GR189 ne dérivent pas de common subleading transport; l'ancien `rank3/degree4` de GR189 reste révoqué par P10I `rcoord_series`. P10J restaure D4 rank4. P10M->P10S restent des adversaires de refinement/cofinality, mais P10S n'est pas un strict-G0 witness par lui-même.
+qui conserve l'ancien bloc Q dans le nouvel espace dans le scope certifié, tandis que de nouveaux degrés/interface locaux sont ajoutés par la même loi Q.
 
-## 5. Pourquoi le transport de premier ordre ne force pas la loi manquante
+La branche factuelle réalisée est enregistrée séparément; son post-état ne doit pas remplacer le global Q prédictif non effondré. Q-B1822 retient aussi une propagation multi-étapes dans le même global Q.
 
-Soit un transport current-Q déjà dérivé
+Classification :
 
-`[T_e] : E_x -> E_y`
+**UNCHANGED OLD GLOBAL-Q/CARRIER STRUCTURE IS NOT REWRITTEN UNDER LEGAL EXTENSION = DERIVED / RETAINED IN Q-B1818->Q-B1822 SCOPE.**
 
-sur le fibre process/descriptor `E`. Pour obtenir un transport sur le fibre microscopique distinct `F`, il faut des identifications physiques Q-dérivées
+## 4. Ce que cela ne résout pas
 
-`[J_x]: E_x -> F_x`, `[J_y]: E_y -> F_y`,
+Le mur strict-G0 microscopique reste d'un autre type.
 
-puis
+Le transport de premier ordre `T_e` sur le fibre process ne détermine pas automatiquement un transport sur un fibre microscopique distinct `F`. Il faut encore des identifications physiques Q-dérivées `J_x,J_y` pour écrire
 
-`[R_e] = [J_y] [T_e] [J_x]^-1`.
+`R_e = J_y T_e J_x^-1`.
 
-Si les `[J]` ne sont pas indépendamment fixés, des automorphismes projectifs admissibles changent `[R_e]`; le transfert devient donc un nouveau contenu constitutif.
+Le corpus actuel ne fixe pas ces `J` de manière unique. RC23, Ext/refinement naturality, Cons et la capacité de représentation Q-B1842/Q-B1844 ne suffisent pas.
 
-Or le corpus actuel ne fixe pas ces `[J]` :
+Donc :
 
-- RC23 laisse un nontrivial intertwiner family (`End_S4(R18)` dim15; S4 + pair locality laisse 4D);
-- Ext/refinement naturality ne peut pas créer le missing common-domain morphism;
-- frozen Cons cells identifient/contraignent les routes mais ne créent pas un operator-valued cross-fibre microscopic map;
-- Q-B1842/Q-B1844 donnent capacité/typing mais pas sélection unique de la loi microscopique d'incidence.
+- persistance globale/non-réécriture = déjà gagnée dans son type;
+- lift microscopique unique = toujours non dérivé;
+- ICPRT n'est pas ressuscité.
 
-## 6. Audit strict G0 des quatre classes autorisées
+## 5. Reclassification b4/b24
 
-Les quatre formes de preuve prescrites par le handoff du 15 septembre ont été auditées :
+P10S montre que b4 et b24 sont de vraies recettes de refinement/zoom différentes.
 
-1. **intervention-complete process observable** : aucun witness ne force la loi microscopique; operational minimality ne fixe pas l'embedding microscopic;
-2. **Q-native representation/coequalizer theorem** : aucun théorème recovered ne force une unique projective transport class dans le bon type;
-3. **causal/process operational distinction** : les structures existantes se classent en active-without-order, order-without-active-recoupling, vertical/static-identifiable, ou dependent-with-zero-connected-remainder;
-4. **selected-future current-Q construction** : Q-B1849->1852 est un fort positif de premier ordre, mais ne force pas le transport microscopique distinct sans les `[J]` manquants.
+Une différence microscopique finie entre elles ne prouve pas, à elle seule, une incohérence physique ou une microphysique manquante.
 
-Verdict : **aucun strict-G0b physical transport witness dans le recovered/audited current-Q inventory.**
+Le Root actuel ne justifie pas l'implication
 
-## 7. Route B et ICPRT
+`same continuum physics => same microscopic realization`.
 
-Route B higher-coherence/new-memory reste **CURRENTLY EXHAUSTED AS A POSITIVE ROUTE** dans le corpus audité.
+Les audits d'embedding/intervention montrent au contraire qu'une même classe opérationnelle/prédictive peut admettre plusieurs réalisations microscopiques non identifiées canoniquement.
 
-Ne pas utiliser comme preuve de nouvelle mémoire primitive : croissance extensive de rang/dimension, nombre d'histoires/cells, local jet growth, fresh Cons growth, reduced Gram rank, total cut-Hankel/Feshbach rank, copies/direct sums d'un module local fixe, ou UV tensor growth par facteur local fixe.
+Il faut donc distinguer :
 
-Active43 regular local Feshbach memory reste finite-neighborhood, two-pole, local McMillan degree 4 dans le scope audité.
+1. différence UV / de réalisation;
+2. différence prédictive physique qui survit au continuum.
 
-`ICPRT` reste :
+## 6. PRU — Predictive Refinement Universality
 
-- SANDBOX ONLY;
-- target-blind dans sa formulation;
-- **STRICT G0 FAIL / NOT DERIVED**;
-- **NOT ADOPTED INTO ROOT2**.
+Nouvelle hypothèse-candidate conceptuelle :
 
-## 8. G0-G10 latest status
+> Deux raffinements légaux peuvent rester microscopiquement différents. Ils représentent la même physique continue seulement si la structure prédictive Q-native, scale-stable et physiquement licenciée converge vers la même classe dans la limite continue, modulo uniquement les quotients/projectivités/jauges déjà autorisés.
 
-- G0a structural/inventory gap : **PASS / sharply localized**.
-- G0b independent physical transport witness : **FAIL / no witness found after the four-class current-Q audit**.
-- G1 : conditional sandbox typing only.
-- G2 : OPEN pour une hypothétique loi sélectionnée; pas une preuve d'existence.
-- G3 : coherent by candidate form only.
-- G4 : conditional requirement; physical pass not established.
-- G5 : PASS pour le minimal sandbox statement; aucun coefficient introduit.
-- G6 : aucune positive pretarget identifying margin.
-- G7 : conditional by type, not physically selected.
-- G8 : Route B currently exhausted as a positive route.
-- G9 : not executed for an unselected law.
-- G10 : pretarget freeze PASS.
+Equivalent :
 
-Aucun gate ultérieur ne compense G0b.
+`same continuum physics`
+
+n'implique pas nécessairement
+
+`same microscopic presentation`,
+
+mais devrait impliquer
+
+`same licensed asymptotic predictive class`.
+
+Statut :
+
+- **CONCEPTUAL / FOUNDATIONAL CANDIDATE ONLY**;
+- **NOT DERIVED**;
+- **NOT ADOPTED INTO ROOT2**;
+- formulé sans O(3), HDA, spin-2 ni cible GR.
+
+PRU est différent d'ICPRT : il n'ajoute pas une matrice de transport microscopique pour réparer un défaut. Il cherche à définir quelles observables Q-native déterminent l'équivalence physique entre raffinements distincts.
+
+## 7. Indice positif partiel
+
+Le bloc Q-native retenu `l=2 -> l=1` donne, dans la famille auditée, deux extrapolations continues indépendantes :
+
+- b4 : environ `0.1424778761`;
+- b24 : environ `0.1424778616`;
+- différence relative : environ `1.02e-7`.
+
+Il survit aussi aux contrôles Cons et spectator dans le scope audité.
+
+C'est compatible avec l'idée que deux réalisations microscopiquement distinctes convergent vers une même propriété prédictive continue.
+
+Mais un seul bloc ne constitue pas un théorème de PRU complet.
+
+## 8. Strict G0 précédent reste valide
+
+Le checkpoint précédent reste valide dans son scope :
+
+**aucun witness current-Q récupéré/audité ne force une nouvelle loi microscopique incidence-conditioned matrix/path-valued sélectionnée indépendamment.**
+
+Donc :
+
+- G0b pour une nouvelle loi microscopique reste FAIL;
+- ICPRT reste rejeté;
+- aucune variante renommée de transport n'est autorisée par besoin downstream.
 
 ## 9. Front légal suivant
 
-Il n'est plus légal de continuer à miner le même inventaire current-Q pour une variante renommée d'ICPRT.
+Le prochain test propre est un **predictive-refinement universality audit** :
 
-La prochaine avancée scientifique requiert un **nouvel input upstream** :
+1. définir, seulement avec Q/Cons/Ext/intervention déjà dérivés, l'ensemble ou algèbre prédictive minimalement suffisante pour comparer b4 et b24;
+2. comparer plusieurs profondeurs/échelles de refinement;
+3. isoler différences UV finies vs différences prédictives stables au continuum;
+4. imposer Cons descent, spectator stability, refinement/dilation compatibility et aucun factual-ledger backflow;
+5. classer chaque secteur comme :
+   - common continuum predictive class;
+   - genuine surviving physical refinement dependence;
+   - unresolved faute de source/repro;
+6. ne jamais convertir une simple différence de coordonnées microscopiques en défaut physique sans distinction prédictive licenciée.
 
-1. récupération d'un véritable primary current-Q source artifact non présent dans le corpus audité et contenant un witness indépendamment typé; ou
-2. preuve/intervention externe ou empirique avec physical inventory/interface indépendamment gelé assez fortement pour produire une inventory-relative representability failure; ou
-3. un **NEW FOUNDATIONAL / NEW PHYSICAL HYPOTHESIS** explicitement déclaré ASSUMED, jamais présenté comme dérivé, et gelé avant tout test P10/O(3)/GR.
+Le dataset Q-B79 multi-refinement intervention-complete cut-Hankel avec provenance complète reste une lacune documentaire particulièrement importante.
 
-P10M/P10O/P10P/P10S ne redeviennent pertinents que comme held-out adversaries après qu'un futur candidat a été indépendamment sourcé et frozen.
-
-## 10. Trous documentaires capables de rouvrir G0
+## 10. Trous documentaires qui restent pertinents
 
 - Q-B759->878 autonomous delta : **UNKNOWN**;
 - original GR21/GR59 executable source utilisé par GR61 : non persisté dans les artifacts accessibles;
-- raw Q-B977->987 / 988->1000 / 1001->1012 repro tar bundles : non récupérés dans l'audit récent;
+- raw Q-B977->987 / 988->1000 / 1001->1012 repro tar bundles : non récupérés;
 - provenance-complete full local multi-refinement Q-B79 intervention-complete cut-Hankel dataset : non récupéré.
 
 Ne jamais interpoler ces trous.
 
 ## 11. Verdict GR
 
-🟢 **Progrès :** la frontière G0 est maintenant proprement localisée et l'inventaire recovered actuel a été épuisé sans smuggling de nouvelle loi.
+🟢 **Progrès conceptuel réel :** l'idée « la partie inchangée de l'Univers n'est pas réécrite » est déjà substantiellement présente dans TDG au niveau carrier/global-Q.
 
-🟡 **Frontier :** il faut une vraie nouvelle source upstream, une preuve externe, ou une prémisse fondationnelle explicitement assumée.
+🟢 **Reclassification importante :** une différence microscopique entre raffinements n'est plus automatiquement interprétée comme un défaut physique.
+
+🟡 **Frontière :** déterminer si la classe prédictive Q-native continue est universelle sous refinement, et quels secteurs gardent une vraie dépendance physique.
 
 🔴 **Pas de réouverture GR :** aucune nouvelle loi Root2 n'est admise; O(3), HDA, spin-2 et GR non linéaire restent non établis; Born et durée métrique restent non dérivés.
