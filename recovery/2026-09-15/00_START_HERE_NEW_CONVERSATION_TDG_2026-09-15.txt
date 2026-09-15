@@ -1,0 +1,71 @@
+COMPLETE TDG / ROOT2 — START HERE IN A NEW CONVERSATION
+Date: 2026-09-15 (America/Toronto)
+Repository: jonathanduchesne-lab/TDG
+
+PURPOSE
+This file is the minimal safe entry point for resuming Complete TDG in a brand-new ChatGPT conversation without losing the scientific state.
+
+READ IN THIS ORDER
+1. /CURRENT_FRONT_LATEST.md
+2. /recovery/2026-09-15/TDG_CONVERSATION_SWITCH_HANDOFF_STRICT_G0_2026-09-15.md
+3. /recovery/2026-09-15/EXACT_RESUME_PROMPT_TDG_STRICT_G0_2026-09-15.txt
+4. Follow only the checkpoints explicitly named by CURRENT_FRONT_LATEST.md if deeper provenance is needed.
+
+LATEST SCIENTIFIC AUTHORITY
+Historical FINAL-CERTIFIED authority remains Q-B1858L.
+Do NOT silently promote later sandbox/audit work to FINAL-CERTIFIED status.
+
+LATEST-WINS FRONTIER
+STRICT G0 SOURCE / INVENTORY BOUNDARY.
+The first-order legal-cut/process bridge is largely already solved historically (Q-B1849->Q-B1852).
+The surviving failure is second-order/subleading physical co-selection: no independently derived Q-native incidence-conditioned matrix/path transport law has been found that closes the corrected refinement/cofinality problem.
+
+ROUTE B
+Route B higher-coherence/new-memory route is CURRENTLY EXHAUSTED as a positive route.
+Do not use extensive spatial rank, UV tensor-factor growth, local jet growth, fresh Cons-carrier growth, reduced Gram rank, or total cut-Hankel/Feshbach rank as evidence of primitive new process memory.
+
+STRICT G0
+A minimal candidate transport law (ICPRT) has already been formulated in sandbox and REJECTED FOR ADMISSION at strict G0 because its only motivation was downstream need, not an independent pretarget physical witness.
+Checkpoint:
+/checkpoints/SENTRY/2026-09-15/TDG_POST_ROUTE_B_MINIMAL_INCIDENCE_TRANSPORT_HYPOTHESIS_STRICT_G0_ADMISSION_AUDIT_2026-09-15.md
+Commit: 2271cfac3db5de1425efd8fbcface444e76749a7
+
+PERMANENT FIREWALLS
+- Root1 frozen.
+- A_path retired.
+- global Q uncollapsed.
+- factual ledger append-only and separate from predictive/global Q.
+- Jonathan-origin subtractive actualization retained; it is not a positive winner-selection rule.
+- Born NOT DERIVED.
+- metric/proper duration NOT DERIVED.
+- Lambda OPEN.
+- ELGC is an author-approved working postulate, not an old-Root theorem.
+- O(3) FAIL / NOT CLOSED.
+- HDA / spin-2 / full nonlinear GR NOT ESTABLISHED.
+- no preferred z, fitted transport/coefficient, inverse-regulator rescue, gravity decoder, metric projector, tetrad, ADM/EH target, or hidden factual-history backflow.
+
+HOW TO CONTINUE
+Search only for an INDEPENDENT PRETARGET CURRENT-Q physical witness/source whose own operational typing forces the missing matrix/path-valued incidence-conditioned local transport law BEFORE O(3), cofinality repair, SAME-h, HDA or GR comparison.
+
+A valid positive source could be:
+- an intervention-complete process observable whose transformation necessarily requires that transport;
+- a Q-native representation/coequalizer theorem forcing a unique projective transport class;
+- a causal/process operational distinction impossible to represent without it;
+- a selected-future current-Q construction yielding the transport before downstream geometry targets are loaded.
+
+If no such witness exists, the scientifically correct conclusion is:
+CURRENT ROOT INVENTORY INSUFFICIENT FOR THIS CLOSURE.
+Do NOT adopt a law simply because it repairs the downstream defect.
+
+WORK STYLE
+- Speak French with Jonathan.
+- Use concise traffic-light summaries: green retained, yellow frontier, red closed/no-go.
+- Always answer explicitly whether we are moving toward GR.
+- Challenge hypotheses rather than agreeing automatically.
+- Separate exact/derived results from interpretation and sandbox hypotheses.
+- Create a GitHub safepoint proactively whenever a substantial stable scientific state is reached.
+- GitHub is the working reference repository.
+
+SAFE RESUME ACTION
+Paste the contents of EXACT_RESUME_PROMPT_TDG_STRICT_G0_2026-09-15.txt into the new conversation, or simply tell ChatGPT:
+"Reprends TDG complet depuis le handoff du 15 septembre 2026 dans le repo jonathanduchesne-lab/TDG. Lis CURRENT_FRONT_LATEST.md puis le handoff de changement de conversation et continue au strict G0 source/inventory boundary."
