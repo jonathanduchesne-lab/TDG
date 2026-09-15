@@ -32,16 +32,25 @@ This file is the latest-wins resume pointer. Historical FINAL-CERTIFIED authorit
    - B2 arbitrary finite-depth nonzero connected higher response is exactly realizable by fixed one-event updates on enlarged prefix memory, so primitive higher-cell ontology is not dilation-normal/identifiable;
    - only B3 remains live: a refinement-natural higher-coherence tower whose intervention-complete minimal predictive realization cannot stabilize inside one fixed licensed finite memory carrier.
 
-Portable verifier:
+6. `checkpoints/SENTRY/2026-09-14/TDG_ROUTE_B_B3_HANKEL_REFINEMENT_TOWER_SOURCE_DATA_GAP_2026-09-14.md`
+   - GR64 already supplies fact-given whole-cut evaluation by selecting active frontier `F(C)`, re-evaluating the same global Q/rho and sewing by existing Cons;
+   - independent commuting moves have exact active-order silence while a target-blind same/cross higher-order contextual split survives;
+   - recurrent fresh Cons carrier growth is `15 -> 20 -> 25`, adding a 5D fresh complement per tested extension, but those coordinates are fixed by the same underlying Q and do **not** establish new physical state/memory;
+   - descriptive Cons-carrier growth is not cut-Hankel minimal predictive-rank growth;
+   - no provenance-complete multi-refinement intervention-complete cut-Hankel response package was recovered from the persistent GR62-67/Active43 corpus;
+   - B3 therefore remains `OPEN / SOURCE-DATA GAP / NO G4-G6 PROMOTION`.
+
+Portable Stage-I verifier:
 `checkpoints/SENTRY/2026-09-14/verify_route_b_higher_coherence_stage1.py`
 
-## Documentary gap
+## Documentary gaps
 
-The historical `Q-B759 -> Q-B878` autonomous delta remains unrecovered/UNKNOWN. A surviving note only identifies `Q-B869 -> Q-B878` as coherent-arm Gram / same-branch 1-jet Cartan completion. Do not synthesize missing checkpoints or use this gap as positive evidence.
+1. Historical `Q-B759 -> Q-B878` autonomous delta remains unrecovered/UNKNOWN. A surviving note only identifies `Q-B869 -> Q-B878` as coherent-arm Gram / same-branch 1-jet Cartan completion. Do not synthesize missing checkpoints or use this gap as positive evidence.
+2. The persistent corpus does not currently expose a provenance-complete intervention-complete cut-Hankel response dataset for the GR64/65/67 branch on two genuine refinements. Do not reconstruct it from reduced Grams, O(3)-facing outputs or summaries.
 
 ## Exact current frontier
 
-### B3 — MINIMAL PREDICTIVE-RANK / REFINEMENT-TOWER GATE
+### B3 — INTERVENTION-COMPLETE CUT-HANKEL REGENERATION / MINIMAL PREDICTIVE-RANK GATE
 
 Route B is **NOT** yet admissible new TDG microphysics.
 
@@ -51,18 +60,22 @@ Need a target-blind Q-native witness that defeats the finite predictive-memory d
 
 whose right-null quotient defines the canonical minimal predictive space and for which a quantum memory of dimension `d` obeys `rank(H) <= d^2`.
 
-Exact next tasks:
+Next legal task, only when the exact production source is available or can be regenerated from frozen microscopic definitions without reverse-engineering target outputs:
 
-1. recover or construct intervention-complete 1-,2-,3-,... event regional response families on at least two **genuine physical refinements**;
-2. build cut-Hankel matrices before descriptive quotient loss;
-3. compute certified minimal predictive ranks/types after right-null quotient;
-4. track whether rank/type stabilizes under refinement;
-5. compare with already licensed predictive-memory inventories/carriers;
-6. enforce fresh-label/automorphism, Cons, spectator, dilation and independent-event schedule-silence controls;
-7. if one fixed finite licensed memory realizes all refinements, B3 remains dilation-redundant and Route B closes locally;
-8. if the minimal required memory grows or violates every licensed fixed-memory realization in a refinement-natural way, freeze that as the first genuine G4/G6 witness before assigning any higher-cell law.
+1. select at least two genuine physical refinements in already-licensed Q/Ext/Cons architecture;
+2. freeze separating past preparation and future intervention families;
+3. compute complete response matrices before descriptive quotient loss;
+4. certify cut-Hankel ranks/nullspaces and minimal predictive spaces;
+5. construct refinement intertwiners between the minimal spaces;
+6. test one fixed finite licensed predictive-memory realization across refinements;
+7. enforce fresh-label/automorphism, Cons, spectator, dilation and independent-event schedule-silence controls;
+8. fixed-memory realization across refinements => B3 dilation-redundant / Route B closes locally;
+9. unavoidable refinement-natural growth or type obstruction against every licensed fixed memory => first genuine G4/G6 witness, to be frozen before assigning any higher-cell law.
 
-Important: GR67's tested scalar three-step Q-native memory blocks remain finite/cutoff-stable rank 3; this is **not** by itself the intervention-complete Hankel needed for B3 and must not be overinterpreted.
+Important retained cautions:
+- GR64 recurrent `+5` fresh Cons fibres are same-Q contextual response, not by themselves memory-rank growth.
+- GR64 two-step fresh-process Gram rank 8 and GR67 scalar three-step rank-3 memories are reduced objects, not the required intervention-complete Hankel.
+- no higher-cell coefficient/value is currently licensed.
 
 ## Stage-I G0–G10 status
 
@@ -70,11 +83,11 @@ Important: GR67's tested scalar three-step Q-native memory blocks remain finite/
 - G1: PASS IN SANDBOX.
 - G2: FAIL-TO-PASS for finite B1/B2; B3 OPEN.
 - G3: OPEN.
-- G4: FAIL for arbitrary finite B2; B3 OPEN.
+- G4: FAIL for arbitrary finite B2; B3 OPEN / source data missing.
 - G5: PASS.
-- G6: FAIL for B1/B2; B3 OPEN.
+- G6: FAIL for B1/B2; B3 OPEN / source data missing.
 - G7: OPEN.
-- G8: OPEN and now decisive.
+- G8: OPEN and decisive.
 - G9: PASS BY CONSTRUCTION in the null/strict limit, pending nontrivial realization.
 - G10: PASS; downstream targets remain sealed.
 
@@ -90,8 +103,8 @@ Important: GR67's tested scalar three-step Q-native memory blocks remain finite/
 
 ## GR traffic light
 
-🟢 **Advance in localization:** finite higher-cell additions have been sharply classified and the false-easy Route-B options are removed.
+🟢 **Advance in architecture:** GR64 removes the false interpretation that fresh carrier growth requires a new state, while Route-B B1/B2 easy escapes are eliminated.
 
-🟡 **Live frontier:** B3 cut-Hankel/minimal-predictive-rank behavior under genuine refinement.
+🟡 **Live frontier:** regenerate the intervention-complete Q-B79 cut-Hankel experiment on genuine refinements and test minimal predictive rank. Current persistent corpus is insufficient for that calculation without illicit reconstruction.
 
 🔴 **No GR closure:** Route B has not passed G0–G10; O(3), HDA, spin-2 and full nonlinear GR remain closed/not established.
