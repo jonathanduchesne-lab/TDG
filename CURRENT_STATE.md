@@ -6,96 +6,83 @@
 
 ## 1. Front scientifique exact
 
-# **A+B->C = DERIVED PASS AU NIVEAU DU QUOTIENT PRÉDICTIF COMPLET, SOUS INTERFACE DÉCLARÉE FERMÉE PAR COMPOSITION LÉGALE**
+# **UNE SEULE HISTOIRE FACTUELLE = COMPATIBLE / RETENUE**
 
-# **C NE PEUT PAS AJOUTER UNE NOUVELLE LIBERTÉ PHYSIQUE RESPONSE-VISIBLE APRÈS A ET B**
+# **UN SUCCESSEUR FACTUEL UNIQUE À PARTIR DU SEUL A+H COURANT = NON DÉRIVÉ**
 
-# **FRONT ACTIF = QUOTIENT-DESCENT AUDIT DES STRUCTURES ÉMERGENTES**
+# **FRONT ACTIF = SOURCE D'UN ÉVENTUEL SÉLECTEUR INITIAL TARGET-BLIND**
 
 Checkpoint binding :
-`checkpoints/SENTRY/2026-09-15/TDG_AB_TO_C_PREDICTIVE_ACTUALIZATION_CLOSURE_QUOTIENT_DESCENT_THEOREM_2026-09-15.md`
+`checkpoints/SENTRY/2026-09-15/TDG_SINGLE_FACTUAL_HISTORY_DETERMINISTIC_SUCCESSOR_INITIAL_SELECTOR_AUDIT_2026-09-15.md`
 
-Commit : `e6955837261b1424c697b370b21f4c0cc67b3b64`.
+Commit : `0de013244c4256a34bdd94151142f2bbbfa4a822`.
 
-## 2. Typage A / B / C
+## 2. Distinction centrale
 
-`A` = état prédictif complet de la toile à l'interface physique déclarée, c'est-à-dire la classe d'équivalence qui conserve toute distinction capable de modifier une réponse future licenciée.
+TDG peut avoir une seule histoire réalisée
 
-`B` = événement légal pleinement typé avec son ancrage relationnel/carrier; pas un simple label de résultat.
+`H_n=(B_0,...,B_n)`
 
-`C` = classe prédictive post-événement, ou projection/readout déjà licencié de cette classe.
+sans que l'état prédictif avant l'actualisation détermine déjà un unique `B_(n+1)`.
 
-Sous fermeture par composition des futurs/interventions légaux, si deux représentants sont prédictivement équivalents avant B, ils le restent après le même B. Donc B induit une application bien définie sur le quotient :
+Q-B1819F fournit des branches physiques admissibles et des poids relatifs Q/FP. Q-B1819G ne dérive pas le gagnant; il établit seulement une compatibilité/équivariance Born dans l'architecture FP/NEF déjà gelée.
 
-`Phi_B([p]) = [B o p]`.
+Donc : ensemble pondéré de futurs admissibles = dérivé dans le scope; sélection d'un unique futur = non dérivée.
 
-Ainsi :
+## 3. Hypothèse initial-selector
 
-`C = Pi(Phi_B(A))`.
+Une complétion déterministe cohérente pourrait introduire un état initial `lambda_0` et une règle target-blind :
 
-La projection `Pi` ne peut pas injecter une nouvelle dynamique si elle est réellement un readout/projection du quotient prédictif.
+`B_(n+1)=S(lambda_n,A_n,H_n)`
 
-## 3. Conséquence principale
+`lambda_(n+1)=F(lambda_n,A_n,B_(n+1))`.
 
-Si un datum supplémentaire `D` change une réponse future après le même `(A,B)`, alors :
+Si `lambda_0,S,F` sont fixés, une seule histoire factuelle est produite.
 
-- soit `D` était déjà prédictivement visible et devait être inclus dans A;
-- soit l'interface/état A était incomplet.
+Statut : **NEW FOUNDATIONAL CANDIDATE / NOT DERIVED / NOT ADOPTED**.
 
-Il ne peut pas être à la fois physiquement response-visible et absent d'un A réellement prédictif-complet.
+Il doit rester prospectif, ne pas devenir un registre caché du ledger et ne pas modifier global Q autrement que par l'actualisation légale ordinaire.
 
-## 4. Support TDG concret
+## 4. Born
 
-- Q-B1818->Q-B1822 : persistance de l'ancien bloc Q/carrier sous extension légale; même global Q pour la propagation multi-étapes; pas de factual-branch backflow dans Q prédictif.
-- Q-B1849/Q-B1850 : les événements modifient effectivement les réponses voisines, mais 120/120 paires légales same-final sont exactement order/path independent après rétention de la mémoire prédictive complète dans le shell testé.
-- Q-B79 : quotient cut-Hankel/right-null canonique de l'information prédictive dans son scope.
+Le déterminisme ne supprime pas le problème de Born. Il le retype en problème de mesure/typicalité sur `lambda_0` ou le long de l'histoire unique.
 
-## 5. Higher-cell caveat
+Born : **NOT DERIVED**.
 
-Le théorème du 14 septembre reste valide : les données locales/pairwise peuvent être insuffisantes à déterminer un processus global à trois événements.
+## 5. A+B->C reste acquis dans son scope
 
-Donc `A` ne peut pas être réduit à un snapshot local ou à toutes les données 1- et 2-événements. Tout higher cell `Omega_3` qui change un futur licencié appartient à A. S'il ne change aucun futur licencié, sa réalisation microscopique est surplus à cette interface.
+Le théorème récent reste binding : au niveau du quotient prédictif complet et sous fermeture légale par composition,
 
-## 6. Reclassification de l'ancien mur J
+`A+B -> C`
 
-Le fait qu'un état prédictif canonique puisse avoir plusieurs réalisations microscopiques reste exact.
+sans choix physique supplémentaire après B.
 
-Mais cela ne bloque pas `A+B->C` au niveau physique/prédictif. Un `J` microscopique unique devient nécessaire uniquement si une quantité qu'on veut déclarer physique dépend du représentant microscopique et ne descend pas au quotient.
+Le mur restant est donc précisément `A -> B`.
 
-Donc :
+## 6. Prochain travail légal
 
-- G0 d'une nouvelle loi microscopique : toujours FAIL / aucune admission;
-- ICPRT : toujours rejeté;
-- B->C au quotient prédictif complet : PASS abstrait;
-- nouvelle charge de preuve : les structures émergentes doivent **descendre au quotient prédictif**.
+Chercher d'abord si un objet current-Q déjà dérivé peut jouer le rôle de `lambda` sans être :
 
-## 7. Front légal suivant
+- les poids de branche eux-mêmes;
+- une copie cachée de l'histoire factuelle;
+- une variable choisie pour réparer O(3)/GR.
 
-Audit target-blind de quotient-descent pour :
+À défaut, conserver ISS comme option fondationnelle explicite et non comme résultat dérivé.
 
-1. Q-B1849/Q-B1851 `1+3` process descriptor/connection;
-2. Q-B1852 refinement-natural transport;
-3. Q-B1857/Q-B1858 projective-conformal synchronization;
-4. bloc universel `l=2 -> l=1`.
-
-Pour chaque `X`, vérifier : invariance sur classes prédictives, commutation avec `Phi_e`, stabilité sous dilations/embeddings response-equivalent, Cons descent, spectator independence, et universalité b4/b24 au continuum lorsque les refinements sont dans la même classe prédictive.
-
-## 8. Firewalls
+## 7. Firewalls
 
 - Root1 gelé; `A_path` retiré; global Q non collapsed.
 - ledger factuel append-only/séparé.
-- actualisation soustractive retenue; pas une winner-selection rule.
+- actualisation soustractive retenue; pas encore winner-selection rule.
+- hidden occurrence register / factual-history backflow interdits.
 - Born NOT DERIVED; durée métrique NOT DERIVED; Lambda OPEN.
-- pas de preferred `z`, fit, inverse-regulator rescue, gravity decoder, metric projector, tetrad, ADM/EH target, factual-history backflow.
 - O(3) FAIL / NOT CLOSED.
 - HDA / spin-2 / GR non linéaire NOT ESTABLISHED.
 
-## 9. Verdict GR
+## 8. Verdict GR
 
-🟢 **Progrès majeur :** le côté `B->C` est maintenant proprement fermé au niveau prédictif complet.
+🟢 Progrès : le problème d'actualisation est localisé à la sélection d'un successeur parmi des branches déjà Q-licenciées.
 
-🟢 **Mur microscopique retypé :** la non-unicité UV n'est pas automatiquement un défaut physique.
+🟡 Une impulsion initiale/sélecteur unique est conceptuellement cohérente mais non dérivée.
 
-🟡 **Frontière :** vérifier quelles structures émergentes sont de vraies fonctions du quotient prédictif.
-
-🔴 **Toujours ouvert :** `A->B` (sélection/Born), durée métrique, O(3), HDA, spin-2 et GR non linéaire.
+🔴 Aucun résultat GR/Born supplémentaire n'est acquis.
