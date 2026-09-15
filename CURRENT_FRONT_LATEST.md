@@ -29,60 +29,66 @@ This file is the latest-wins resume pointer. Historical FINAL-CERTIFIED authorit
    - primitive higher-cell ontology is therefore not identified by finite higher-order response alone.
 
 6. `checkpoints/SENTRY/2026-09-15/TDG_B3_LOCAL_GROWTH_NOT_PREDICTIVE_MEMORY_GROWTH_AND_SOURCE_GAP_RECLASSIFICATION_2026-09-15.md`
-   - source-faithful GR21/GR59 executable provenance remains unavailable in persistent artifacts; the exact `gr21_gr59_base.py` audited historically is not recoverable from current Library/GitHub bundles;
-   - Q-B79 remains the legal invariant: `H_Sigma(f,p)=Resp_Q(f o p)`, with right-null quotient as minimal predictive space and `rank(H)<=d^2` for quantum memory dimension `d`;
-   - GR64 recurrent `+5` fresh Cons fibres do not establish minimal predictive-memory growth because their coordinates are fixed by the unchanged global Q/rho;
-   - H160/BSR supplies an internal TDG adversary: fixed-effect predictive closure stabilizes at 26D for `q>0`; after fresh-archive/Cons typing, the global response tower closes `21 -> 42 -> 42 -> 42 -> 42` while a one-face local tower still grows `6 -> 12 -> 17 -> ...`;
-   - Q-B1382 reconstructs those local innovations from neighboring already-closed global `(h,K)`, so pointwise growth is a spatial-germ/PDE effect rather than evidence for extra primitive local fields;
-   - a fresh exact finite-memory control reproduces local cumulative ranks `6,12,17,22,27,32,37,42` inside one fixed 42D global state, 5/5 PASS;
-   - therefore the B3 subroute `local/fresh growth => unbounded primitive predictive memory` is CLOSED as non-identifying;
-   - P10K/L is rejected as a substitute Hankel source because it is highest-hop graded F/V transport, not a provenance-complete intervention-complete physical response family.
+   - local/fresh rank growth does not imply primitive predictive-memory growth;
+   - H160/BSR gives an internal TDG finite-closure adversary: global `21 -> 42 -> 42 -> ...` while one-face local response still grows `6 -> 12 -> 17 -> ...`;
+   - a fresh 42D control reproduces `6,12,17,22,27,32,37,42` and saturates.
 
-Portable verifier:
-`checkpoints/SENTRY/2026-09-15/verify_b3_local_growth_finite_global.py`
+7. `checkpoints/SENTRY/2026-09-15/TDG_ROUTE_B_B3_LOCAL_HIGHER_CELL_FINITE_MEMORY_PROJECTABILITY_NOGO_2026-09-15.md`
+   - Q-B1001 shows ordered-triple selected-future tomography can identify a third conditional branch without implying a new primitive higher-cell degree;
+   - Q-B1003 makes hidden order at a declared common Cons endpoint a projectability/type issue unless it is explicitly retained physical state;
+   - Q-B1004/Q-B1005 give a carrier-subset projectable law `Phi_h(S)=sum_{s in S} Phi(s,h)` that extends through the complete local Boolean 4-cell, all 24 orders, with no new triple/quadruple coefficient;
+   - Q-B1016 gives an exact uniformly-gapped Hermitian Schur/Feshbach realization of this subset law, retaining `tau~a^3` and `||K-I||~a^2` with machine-level agreement;
+   - therefore local k-cell/history hierarchy does **not** force primitive higher-cell memory even in a branch-aware TDG-like process class;
+   - only the global minimal predictive quotient under genuine physical refinement remains admissible as a positive B3 witness.
 
-Verifier commit: `7543938cbe6ae28c6743967cb7140aa5fa0d0e18`
+Portable B3 verifiers:
+- `checkpoints/SENTRY/2026-09-15/verify_b3_local_growth_finite_global.py`
+- `checkpoints/SENTRY/2026-09-15/verify_b3_subset_projectability_finite_memory.py`
 
-B3 reclassification checkpoint commit: `7c5e832362d0ea6f990df4a5146e3a7e92b106f7`
+Latest verifier commit: `40f14cb61aa37d91570ff02981e78b151f7a293c`
+Latest B3 local-projectability checkpoint commit: `9c96de5a53aca475a55db697d203c6e4a7a4491e`
 
 ## Documentary gaps
 
 1. Historical `Q-B759 -> Q-B878` autonomous delta remains unrecovered/UNKNOWN. Do not interpolate it.
 2. The original GR21/GR59 executable source used by GR61 is not currently persisted in accessible GitHub/Library artifacts. Its historical source SHA-256 was recorded as `7f8136eb920a1218707734ca71409a26bd2febdff40647bc4f499a7a2e553ae8`.
-3. No provenance-complete intervention-complete multi-refinement cut-Hankel dataset for the GR64/65/67 branch is currently recoverable. Do not reconstruct it from summaries, reduced Grams or O(3)-facing outputs.
+3. The historical Q-B977→987, Q-B988→1000 and Q-B1001→1012 repro archives are represented in the Library by SHA records/deltas, but the raw tar bundles were not recovered in the present audit. Do not claim a fresh replay from those bundles.
+4. No provenance-complete actual-Q intervention-complete multi-refinement cut-Hankel dataset has yet been recovered. Reduced Grams, susceptibilities, local history counts and constructive post-M2 process classes are not substitutes.
 
 ## Exact current frontier
 
-### ACTUAL-Q INTERVENTION-COMPLETE CUT-HANKEL MINIMAL-RANK UNDER GENUINE PHYSICAL REFINEMENT
+### GLOBAL ACTUAL-Q CUT-HANKEL MINIMAL PREDICTIVE-RANK/TYPE UNDER GENUINE PHYSICAL REFINEMENT
 
 Route B is **NOT** admissible new TDG microphysics at present.
 
-The following are now explicitly insufficient as B3 witnesses:
+Local/hierarchical B3 is now sharply constrained: finite local k-cell process hierarchies can close on a fixed projectable carrier and fixed internal predictive factor. Therefore the following are explicitly insufficient as B3 witnesses:
 
 - existence of a connected three-event response;
+- ordered-triple or ordered-quadruple distinguishability before carrier quotienting;
 - local observability-rank growth;
 - recurrent fresh Cons carrier growth;
 - reduced history/process Gram rank;
 - susceptibility/control Jacobian rank;
 - highest-hop graded F/V rank or transport obstruction;
-- presentation/jet growth before future-response quotienting.
+- presentation/jet growth before future-response quotienting;
+- combinatorial growth in the number of execution histories.
 
 The only remaining legal Route-B witness must use the same physical Q and satisfy all of:
 
 1. provenance-complete intervention families on at least two genuine physical refinements;
 2. separating past preparations and future tests frozen target-blind;
 3. complete response matrices formed before descriptive quotient loss;
-4. certified Q-B79 right-null cut-Hankel quotients;
-5. minimal predictive rank/type measured at each refinement;
+4. certified Q-B79 right-null cut-Hankel quotients `H_Sigma(f,p)=Resp_Q(f o p)`;
+5. minimal predictive rank and operator-system/type measured at each refinement;
 6. Q-native refinement intertwiners between those minimal spaces;
-7. comparison against every already licensed fixed finite predictive-memory carrier;
+7. comparison against every already licensed fixed finite predictive-memory realization, including projectable carrier-state dilations;
 8. Cons, spectator, dilation, fresh-label/Aut and independent-event schedule-silence controls;
 9. no GR/O(3)/HDA information used in candidate construction.
 
 Decision rule:
 
-- if one fixed finite licensed predictive realization carries all genuine refinements naturally, B3 is dilation-redundant and Route B closes locally;
-- only if minimal predictive memory must grow or change type in a way incompatible with every fixed licensed realization does Route B obtain its first genuine G4/G6 witness;
+- if one fixed finite licensed predictive realization carries all genuine refinements naturally, B3 is dilation-redundant and Route B closes;
+- only if the **minimal intervention-complete predictive quotient itself** must grow or change type in a way incompatible with every fixed licensed realization does Route B obtain its first genuine G4/G6 witness;
 - no higher-cell value/coefficient is licensed before that witness is frozen.
 
 ## G0–G10 latest status
@@ -90,13 +96,13 @@ Decision rule:
 - G0a globalization incompleteness: PASS / retained.
 - G0b primitive nonzero higher-cell necessity: NOT DERIVED.
 - G1: sandbox typing only.
-- G2: finite B1/B2 and local/fresh-growth routes FAIL as identifying witnesses; full cut-Hankel B3 OPEN.
-- G3: structural composition capacity exists, primitive-law normality OPEN.
-- G4: local-growth/fresh-fibre inference FAILS; actual minimal cut-Hankel refinement behavior OPEN.
+- G2: finite B1/B2, local/fresh-growth and local higher-cell hierarchy all FAIL as identifying witnesses; global cut-Hankel B3 OPEN.
+- G3: strong structural composition/projectability capacity exists; primitive-law normality OPEN.
+- G4: local higher-cell necessity FAILS in an exact finite projectable Hermitian constructive class; actual-Q global minimal cut-Hankel refinement behavior OPEN.
 - G5: PASS for the audit; no target-selected parameter introduced.
-- G6: no positive identifying margin from current higher-order/local-growth evidence.
-- G7: strong Cons/naturality compatibility evidence, but no primitive-memory necessity.
-- G8: OPEN and decisive at the minimal predictive quotient level.
+- G6: local higher-order response has no positive identifying margin over fixed finite projectable memory; actual-Q global minimal quotient margin OPEN.
+- G7: strong Cons/naturality/projectability compatibility evidence; no primitive-memory necessity.
+- G8: OPEN and now uniquely decisive at the global minimal predictive quotient level.
 - G9: conservative old-Q consistency retained for the no-go/reclassification.
 - G10: PASS; downstream targets remain sealed.
 
@@ -112,8 +118,8 @@ Decision rule:
 
 ## GR traffic light
 
-🟢 **Advance:** a major false-positive route is closed. TDG now sharply distinguishes local/fresh descriptive growth from genuine minimal predictive-memory growth. The H160/BSR branch provides a concrete internal finite-closure adversary rather than only an abstract prefix-memory objection.
+🟢 **Advance:** Route B has been narrowed again. Local higher-cell hierarchy is no longer a plausible primitive-memory witness by itself: exact projectable finite-memory realizations exist, including a uniformly-gapped Hermitian Feshbach realization already in the TDG corpus.
 
-🟡 **Live frontier:** actual-Q intervention-complete cut-Hankel minimal rank/type across genuine refinements. This currently requires recovering or legitimately regenerating provenance-complete microscopic response data.
+🟡 **Live frontier:** the global intervention-complete Q-B79 cut-Hankel minimal predictive rank/type of the **actual physical Q** across genuine refinements. Search later corpus for a provenance-complete existing calculation before attempting any new microphysics.
 
 🔴 **No GR closure:** Route B still has no G0b/G4/G6 positive witness. O(3), HDA, spin-2 and full nonlinear GR remain closed/not established.
