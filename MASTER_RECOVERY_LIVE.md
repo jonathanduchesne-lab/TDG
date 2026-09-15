@@ -13,9 +13,9 @@ Read in this order:
 
 1. `CURRENT_FRONT_LATEST.md`;
 2. `CURRENT_STATE.md`;
-3. `checkpoints/SENTRY/2026-09-15/TDG_AB_TO_C_PREDICTIVE_ACTUALIZATION_CLOSURE_QUOTIENT_DESCENT_THEOREM_2026-09-15.md`;
-4. `checkpoints/SENTRY/2026-09-15/TDG_ACTUALIZATION_PERSISTENCE_GLOBALQ_DERIVED_REFINEMENT_UNIVERSALITY_FRONTIER_2026-09-15.md`;
-5. strict-G0 exhaustion checkpoint and scoped repro only as needed.
+3. `checkpoints/SENTRY/2026-09-15/TDG_SINGLE_FACTUAL_HISTORY_DETERMINISTIC_SUCCESSOR_INITIAL_SELECTOR_AUDIT_2026-09-15.md`;
+4. `checkpoints/SENTRY/2026-09-15/TDG_AB_TO_C_PREDICTIVE_ACTUALIZATION_CLOSURE_QUOTIENT_DESCENT_THEOREM_2026-09-15.md`;
+5. older strict-G0 / refinement checkpoints only as needed.
 
 Work in French. GitHub is authoritative. Never interpolate documentary gaps.
 
@@ -23,19 +23,19 @@ Work in French. GitHub is authoritative. Never interpolate documentary gaps.
 
 # 1. EXACT LIVE FRONTIER
 
-# **A+B->C IS DERIVED AT COMPLETE PREDICTIVE-QUOTIENT LEVEL UNDER COMPOSITION-CLOSED INTERFACE SEMANTICS**
+# **ONE FACTUAL HISTORY IS RETAINED / COMPATIBLE WITH CURRENT TDG**
 
-# **MICROSCOPIC REALIZATION UNIQUENESS IS NOT REQUIRED FOR PREDICTIVE C**
+# **UNIQUE NEXT FACTUAL SUCCESSOR FROM CURRENT A+H IS NOT DERIVED**
 
-# **LIVE TARGET = QUOTIENT-DESCENT AUDIT OF EMERGENT CONTINUUM STRUCTURES**
+# **LIVE TARGET = IDENTIFY OR RULE OUT AN ALREADY-DERIVED TARGET-BLIND SELECTOR STATE BEFORE INTRODUCING NEW FOUNDATION**
 
 Binding checkpoint:
-`checkpoints/SENTRY/2026-09-15/TDG_AB_TO_C_PREDICTIVE_ACTUALIZATION_CLOSURE_QUOTIENT_DESCENT_THEOREM_2026-09-15.md`
+`checkpoints/SENTRY/2026-09-15/TDG_SINGLE_FACTUAL_HISTORY_DETERMINISTIC_SUCCESSOR_INITIAL_SELECTOR_AUDIT_2026-09-15.md`
 
-Commit:
-`e6955837261b1424c697b370b21f4c0cc67b3b64`.
+Checkpoint commit:
+`0de013244c4256a34bdd94151142f2bbbfa4a822`.
 
-This is a latest-wins scientific reclassification, not a promotion beyond historical FINAL-CERTIFIED `Q-B1858L` and not a new Root2 dynamical law.
+No new Root2 law is admitted.
 
 ---
 
@@ -45,226 +45,166 @@ This is a latest-wins scientific reclassification, not a promotion beyond histor
 - `A_path` retired.
 - global Q uncollapsed.
 - factual ledger append-only and separate from predictive/global Q.
-- actualisation soustractive retained as Jonathan Duchesne's conceptual contribution; not a positive winner-selection rule.
+- actualisation soustractive retained as Jonathan Duchesne's conceptual contribution; not yet a positive winner-selection rule.
 - Born NOT DERIVED.
 - metric/proper duration NOT DERIVED.
 - Lambda OPEN.
 - ELGC remains author-approved working postulate, not an old-Root theorem.
 - O(3) FAIL / NOT CLOSED.
 - HDA / spin-2 / full nonlinear GR NOT ESTABLISHED.
+- hidden occurrence register and factual-history backflow forbidden.
 - ICPRT remains SANDBOX ONLY / STRICT G0 FAIL / NOT ADOPTED.
 
-Never insert preferred `z`, fitted microscopic transport/coefficient, inverse-regulator rescue, gravity decoder, metric projector, tetrad, ADM/EH target, hidden occurrence register, preferred microscopic embedding or factual-history backflow.
+---
+
+# 3. SINGLE FACTUAL HISTORY VS DETERMINISTIC SUCCESSOR
+
+Single factuality:
+
+`H_n=(B_0,...,B_n)`
+
+records one realized history.
+
+Deterministic succession would require:
+
+`B_(n+1)=S(A_n,H_n)`.
+
+The first does not imply the second.
+
+Q-B1819F already provides a Q-native physical extension instrument with multiple admissible branch operators, exact completeness and relative Q/FP branch weights. Q-B1819G is Born equivariance/consistency under frozen FP/NEF, not a winner-selection theorem.
+
+Therefore current TDG supplies a weighted admissible continuation set and one factual result, but not a general rule mapping the former to the latter.
 
 ---
 
-# 3. A / B / C TYPING
+# 4. INITIAL-SELECTOR / INITIAL-IMPULSE CANDIDATE
 
-`A` = complete predictive equivalence class at the declared physical interface. It includes every distinction that can alter any Root-licensed future response after any allowed legal continuation.
+A deterministic completion consistent with the author's intuition could use one fixed initial selector state `lambda_0` and target-blind laws:
 
-`B` = fully typed legal event/morphism with its incidence/carrier anchoring. It is not merely an outcome label.
+`B_(n+1)=S(lambda_n,A_n,H_n)`
 
-`C` = post-event predictive class, or an already-licensed projection/readout of that class.
+`lambda_(n+1)=F(lambda_n,A_n,B_(n+1))`.
 
-If the legal future/intervention sets are closed under sequential composition, response-equivalence is preserved by a common legal event:
+If `lambda_0,S,F` are fixed, one unique factual history follows without requiring a fresh exogenous random draw at every actualization.
 
-`p ~ p'  =>  B o p ~ B o p'`.
+Status:
 
-Therefore B induces a well-defined map on predictive classes:
+- **NEW FOUNDATIONAL CANDIDATE**;
+- **NOT DERIVED**;
+- **NOT ADOPTED**.
 
-`Phi_B([p]) = [B o p]`.
-
-Any licensed readout gives:
-
-`C = Pi(Phi_B(A))`.
-
-At the complete predictive level, **A+B determines C**. `Pi` cannot inject new response-visible physics.
+The candidate must be prospective and compactly physical. It may select only among Q-supported legal branches. It may not become a covert copy of the factual ledger, a prewritten future lookup table or a downstream repair variable.
 
 ---
 
-# 4. MAIN CONSEQUENCE
+# 5. BORN STATUS
 
-If an additional datum `D` changes a licensed future response after the same `(A,B)`, then either:
+Determinism does not derive Born by itself.
 
-1. `D` was already predictive information and A was incomplete without it; or
-2. the declared interface/future algebra was incomplete.
+A future deterministic completion must derive either:
 
-It cannot be genuinely response-visible new post-B physics while remaining absent from a genuinely complete A.
+- a measure/distribution `mu(lambda_0|preparation)` giving the retained branch frequencies; or
+- a rigorous typicality/ergodic theorem along the unique history.
 
-This closes the need for a separate B->C constitutive rule at the predictive quotient level.
-
-It does **not** solve A->B selection.
+Born remains **NOT DERIVED**.
 
 ---
 
-# 5. CONCRETE TDG SUPPORT
+# 6. A+B->C RESULT REMAINS BINDING
 
-## Q-B1818->Q-B1822
+The previous quotient-descent theorem is retained:
 
-- legal extension preserves old global-Q/carrier structure by canonical inclusion in tested scope;
-- new local/interface support is added through same Q law;
-- factual branch poststate must not replace noncollapsed global predictive Q;
-- same-global-Q multistep propagation exists.
+at the complete predictive quotient level, under legal composition-closed interface semantics,
 
-## Q-B1849/Q-B1850
+`A+B -> C`
 
-- actual legal moves alter local/neighboring predictive responses;
-- same global Q plus Cons/Feshbach predictive memory carries those changes;
-- all 120 tested same-final legal move pairs are exactly order/path independent in final local Gram response; max defect `0.0`.
+without an independent response-visible physical choice after B.
 
-## Q-B79
+Thus the present conceptual split is sharp:
 
-- cut-Hankel/right-null quotient canonically defines predictive response-equivalence/minimal predictive information in its scope.
+`A+B -> C` = closed in the stated abstract scope;
 
-Together these are concrete support for the abstract quotient-descent theorem.
+`A -> B` = winner selection still open.
 
 ---
 
-# 6. HIGHER-CELL CAVEAT
+# 7. LEGAL NEXT TEST
 
-The 2026-09-14 theorem remains binding:
+Before introducing any new selector law, search current-Q for an already-derived quantity that could play `lambda` while satisfying all of:
 
-`complete one- and two-event local conditional data`
+1. independent pretarget physical typing;
+2. not merely the Q/FP branch weights;
+3. not a factual-history register or backflow field;
+4. single-valued selection among already-supported legal branches;
+5. covariance/relabeling invariance;
+6. legal composition consistency;
+7. target-blindness from O(3)/GR;
+8. plausible path toward Born/FP frequencies without per-experiment fitting.
 
-does **not** imply
-
-`unique global three-event process`.
-
-Therefore A must be the **complete predictive class**, not merely a local snapshot or pairwise dataset.
-
-If a connected higher cell `Omega_3` changes a licensed future response, it belongs in A. If it changes none, its microscopic realization is surplus at that interface.
-
-This is not a counterexample to A+B->C; it is a warning against under-specifying A.
-
----
-
-# 7. MICROSCOPIC REALIZATION RECLASSIFICATION
-
-The existing no-go remains:
-
-`canonical minimal predictive state`
-
-does not imply
-
-`unique microscopic physical realization`.
-
-This no longer automatically counts as a physical obstruction.
-
-A microscopic intertwiner/embedding `J` becomes physically necessary only if a quantity claimed to be observable depends on microscopic representative and fails to descend to the predictive quotient.
-
-Therefore:
-
-- no new microscopic transport is admitted;
-- ICPRT remains rejected;
-- strict-G0 source exhaustion for a new microscopic transport remains valid;
-- the burden shifts to **quotient descent of claimed physical/emergent structures**.
+If no current-Q object satisfies these conditions, freeze ISS as explicit new foundational content rather than pretending it is derived.
 
 ---
 
-# 8. PRU STATUS
+# 8. DOCUMENTARY / SCIENTIFIC OPEN ITEMS
 
-Predictive Refinement Universality remains a useful candidate formulation:
+- Q-native source of any selector state `lambda`;
+- selector law `S` and update law `F`;
+- Born measure/typicality;
+- quotient descent of emergent continuum structures;
+- universal physical interface selection;
+- metric duration, Lambda, O(3), HDA, spin-2, nonlinear GR.
 
-Distinct legal refinements may remain microscopically different yet represent the same continuum physics if their licensed Q-native predictive continuum class agrees.
-
-But the new A+B->C theorem is more fundamental: it tells us which level is physically primary for the update map — the predictive quotient, not a unique microscopic realization.
-
-PRU remains NOT DERIVED / NOT ADOPTED as a universal continuum principle pending descent audits across actual emergent observables.
-
----
-
-# 9. NEW LEGAL FRONTIER — QUOTIENT-DESCENT AUDIT
-
-For each retained emergent candidate `X`, test target-blindly:
-
-1. invariance on Q-B79 response-equivalence classes;
-2. commutation with legal-event descent `Phi_e`;
-3. invariance under response-equivalent microscopic dilations/embeddings;
-4. Cons descent;
-5. disconnected-spectator independence;
-6. b4/b24 continuum equality when both refinements represent the same predictive class;
-7. if differences remain, determine whether they are independently future-visible physical content or mere representation dependence.
-
-Priority order:
-
-1. Q-B1849/Q-B1851 `1+3` process descriptor/connection;
-2. Q-B1852 refinement-natural transport structures;
-3. Q-B1857/Q-B1858 projective-conformal synchronization;
-4. retained universal `l=2 -> l=1` block.
-
-Do not use O(3)/GR target data to decide descent.
+Historical documentary gaps remain unchanged and must never be interpolated.
 
 ---
 
-# 10. DOCUMENTARY GAPS
+# 9. DERIVED / CANDIDATE / OPEN / NEXT
 
-Still unresolved; never interpolate:
+## DERIVED / RETAINED
 
-- Q-B759->878 autonomous delta UNKNOWN;
-- original GR21/GR59 executable source not persisted in accessible artifacts;
-- raw Q-B977->987 / 988->1000 / 1001->1012 repro tar bundles not recovered;
-- provenance-complete full local multi-refinement Q-B79 intervention-complete cut-Hankel dataset not recovered.
+- one factual history is compatible with uncollapsed multi-possibility Q;
+- Q-B1819F supplies physical supported branches and relative weights;
+- Q-B1819G does not derive the winner;
+- current A+H does not generally imply singleton support;
+- A+B->C remains closed at complete predictive quotient level in its stated scope.
 
-The last item is especially valuable for a full predictive-quotient/refinement audit.
+## CANDIDATE / NOT ADOPTED
 
----
-
-# 11. DERIVED / ASSUMED / OPEN / NEXT
-
-## DERIVED / EXACT ABSTRACTLY
-
-- response-equivalence is preserved under a common legal event if the future/intervention algebra is closed under legal composition;
-- every legal event induces a well-defined map on complete predictive classes;
-- at that level A+B determines C without an independent third constitutive choice;
-- microscopic realization uniqueness is unnecessary for predictive C;
-- response-visible post-B information absent from A proves A/interface was incomplete.
-
-## RETAINED CONCRETE SUPPORT
-
-- Q-B1818->Q-B1822 persistence and same-Q propagation;
-- Q-B1849/Q-B1850 process update plus exact 120/120 same-final path independence in tested shell;
-- Q-B79 predictive response quotient in its scope.
-
-## ASSUMED / TYPING CONDITION
-
-- declared future/intervention sets are closed under the legal sequential compositions used;
-- A means the complete predictive class at that declared interface.
+- initial selector state `lambda_0` plus deterministic target-blind `(S,F)`.
 
 ## OPEN
 
-- universal physical interface selection;
-- quotient descent of emergent continuum/geometric structures;
-- full provenance-complete multi-refinement Q-B79 data;
-- A->B selection / Born;
-- metric duration, Lambda, O(3), HDA, spin-2 and full nonlinear GR.
+- whether an existing Q-native object already provides such a selector;
+- Born/typicality;
+- all downstream geometric/GR gates.
 
 ## NEXT
 
-Run the target-blind quotient-descent audit before considering any new microscopic transport hypothesis.
+Search only for a genuinely already-derived current-Q selector candidate. If none exists, stop derivation-only mining and classify ISS as new foundational physics.
 
 ---
 
-# 12. SAVEPOINT RULE
+# 10. SAVEPOINT RULE
 
 At every substantive stable state:
 
 1. create scoped checkpoint;
-2. state DERIVED / ASSUMED / OPEN / NEXT;
-3. preserve provenance/repro;
-4. update `CURRENT_FRONT_LATEST.md`;
-5. update `CURRENT_STATE.md`;
-6. update this master if restart state changes;
+2. state DERIVED / CANDIDATE / OPEN / NEXT;
+3. update `CURRENT_FRONT_LATEST.md`;
+4. update `CURRENT_STATE.md`;
+5. update this master when restart state changes;
+6. preserve provenance/repro;
 7. commit specifically;
-8. never promote a result merely because it was committed.
+8. never promote merely because committed.
 
 ---
 
-# 13. GR TRAFFIC LIGHT
+# 11. GR TRAFFIC LIGHT
 
-🟢 **Major conceptual advance:** B->C is now cleanly closed at complete predictive level.
+🟢 **Advance:** the actualization problem is sharply localized to winner selection among Q-supported continuations.
 
-🟢 **Microscopic wall retyped:** non-unique UV realization is not itself a physical defect.
+🟢 **Single-history intuition survives:** a one-time initial selector can coherently produce one deterministic factual history in a future completion.
 
-🟡 **Live frontier:** determine which emergent continuum/geometric objects genuinely descend to the predictive quotient.
+🟡 **Not derived:** current TDG has branch weights, not a selector.
 
-🔴 **Still open:** A->B/Born, metric duration, O(3), HDA, spin-2 and nonlinear GR.
+🔴 **No GR promotion:** Born, O(3), HDA, spin-2 and nonlinear GR remain open/unestablished.
