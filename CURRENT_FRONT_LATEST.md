@@ -6,33 +6,43 @@
 
 ## 1. Binding newest checkpoints
 
-### Gate A — ACTIVE PRIMARY FRONT
+### Gate A — positive all-angle closure
 
 `checkpoints/SENTRY/2026-09-16/TDG_GATE_A_ALL_ANGLE_LEADING_PROJECTIVE_CLASS_EXHAUSTION_2026-09-16.md`
 
 commit `a7fc3976f8fb29867524605b0a62798cede12f4a`.
 
-Binding result:
+Binding:
 
-- exact upstream ray law retained: `Y_X(r,theta)=sum_(k>=0) r^(-(k+4)) cos((k+4)theta) S_k(X)`;
-- exact structural source proof now gives `D0=D1=0` for every legal first move in the certified formal Q-B1850 family;
-- first environment-sensitive move coefficient is therefore `D2`;
-- all real angular rays split exhaustively into exactly three leading strata:
-  1. generic: base `G0`, move `D2`;
-  2. `cos(4theta)=0`: base `G1`, move `D2`;
-  3. `cos(6theta)=0`: base `G0`, move `D3`;
-- no simultaneous base/move singular ray exists because `cos4theta=0` and `cos6theta=0` cannot occur together;
-- `cos4theta=0` also never kills `G1`; `cos6theta=0` never kills `D3`;
-- full-pipeline base-singular result: `G1=34.5 G0`, hence the positive class is identical to generic with residuals ~`1e-15` across b4 `.04,.02,.01` and b24 `.02`;
-- full-pipeline move-singular result: `K2 ~= (3/130) K3`, giving the same positive projective class across b4 `.04,.02,.01` and b24 `.02`, with residuals ~`1e-10 -> 2e-9` as coefficients approach floating floor;
-- therefore the leading positive response-resonance projective class is **all-angle universal in the tested certified formal family**;
-- exact symbolic proof of the observed `3/130` D2/D3 proportionality remains open.
+- exact structural `D0=D1=0`;
+- all real angular rays exhaust into exactly three leading strata: generic `(G0,D2)`, base-singular `(G1,D2)`, move-singular `(G0,D3)`;
+- base-singular class rejoins generic via `G1=34.5 G0`;
+- move-singular class rejoins generic to strong formal-numerical precision via `K2 ~= (3/130) K3` across b4/b24/cutoff;
+- no fourth leading angular stratum exists;
+- therefore the leading positive response-resonance projective class is all-angle universal in the tested certified formal family;
+- exact symbolic proof of the rational-looking `3/130` coefficient remains open.
 
-Immediate parents:
+Immediate structural parent:
 
-- `checkpoints/SENTRY/2026-09-16/TDG_GATE_A_D0_D1_EXACT_STRUCTURAL_CANCELLATION_PROOF_2026-09-16.md` — commit `61134fae88ae3b273069ab26f9d15b387a076456`;
-- `checkpoints/SENTRY/2026-09-16/TDG_GATE_A_COS6_ZERO_D3_PROJECTIVE_COINCIDENCE_PASS_2026-09-16.md` — commit `a1ad5b234120f9eff7e99306c417a0bfaecc0df0`;
-- `checkpoints/SENTRY/2026-09-16/TDG_GATE_A_FULL_PIPELINE_GENERIC_VS_PI8_PROJECTIVE_COINCIDENCE_PASS_2026-09-16.md` — commit `b8c4ce3ca721984f75221f392724857ae09bc24f`.
+`checkpoints/SENTRY/2026-09-16/TDG_GATE_A_D0_D1_EXACT_STRUCTURAL_CANCELLATION_PROOF_2026-09-16.md`
+
+commit `61134fae88ae3b273069ab26f9d15b387a076456`.
+
+### Gate A — physical typing of that positive class
+
+`checkpoints/SENTRY/2026-09-16/TDG_GATE_A_ALL_ANGLE_POSITIVE_CLASS_PHYSICAL_TYPING_NO_STANDARD3_SELECTOR_2026-09-16.md`
+
+commit `238ecb7c1727ef729c4bc080805fdc6ebef06da0`.
+
+Binding interpretation:
+
+- exact same-cut S4 representation has physical Standard3 multiplicity 3 plus one twisted `3'` copy;
+- Q-B1854 historically showed that signed memory carries multiplicity information erased by a positive Gram;
+- the actual target-blind physical Standard3 selector is the kernel of the signed/oriented multiplicity operator `K_F=(A_F-A_F^T)/2`;
+- this signed selector is readout-stable, b4/b24-natural and its selected Standard3 has `T3 -> 0` under refinement;
+- therefore the new positive all-angle class is a genuine readout/phase-robust projective resonance object, but **not by itself the unique physical Standard3 selector**;
+- Q-B1854J/K remains binding: the signed-selected angular Standard3 is **not dynamically co-selected/preserved** by the current prolongation `L_Q=VF^-1`; STF-Hessian -> gradient mixing remains finite;
+- Gate A positive closure and Gate B dynamic obstruction are therefore consistent, not contradictory.
 
 ### Gate B — binding endpoint / route exhausted
 
@@ -42,11 +52,11 @@ commit `8a07d4fb00b8f735b2a217dc191ec94a5bf6b23c`.
 
 Binding Gate-B endpoint:
 
-- genuine post-event 19D Q-B1852 conditional A21 family constructed, nonzero and S4-covariant;
+- genuine post-event 19D Q-B1852 conditional `A21(C)` family constructed, nonzero and S4-covariant;
 - state-universal FP operator cancellation = EXACT FAIL;
 - Q-B1819 does not derive/select a physical `rho_Kstar`;
 - maximally symmetric equal-B3 diagnostic Kstar control gives nonzero mean `||Abar21||=0.1764742860`;
-- radial and side orbit averages lie on same S4-intertwiner ray and add;
+- radial and side orbit averages lie on the same S4-intertwiner ray and add;
 - Gate-B FP/ensemble restoration route is exhausted in current admitted law set.
 
 ## 2. Latest-wins verdict
@@ -55,15 +65,19 @@ Binding Gate-B endpoint:
 
 # **ACTUALIZATION-LENS ONTOLOGY = RETAINED**
 
-# **GATE B ENSEMBLE-RESTORATION ROUTE = EXHAUSTED IN CURRENT LAW SET**
+# **GATE A POSITIVE LEADING PROJECTIVE CLASS = ALL-ANGLE UNIVERSAL IN TESTED CERTIFIED FORMAL FAMILY**
 
-# **GATE A D0=D1 = EXACT STRUCTURAL ZERO**
+# **POSITIVE ALL-ANGLE CLASS != UNIQUE PHYSICAL STANDARD3 SELECTOR**
 
-# **GATE A ALL REAL ANGULAR STRATA = EXHAUSTED INTO THREE CASES**
+# **PHYSICAL SAME-CUT STANDARD3 SELECTOR = SIGNED/ORIENTED Q-B1854 SKEW-MEMORY KERNEL**
 
-# **GATE A LEADING POSITIVE PROJECTIVE RESPONSE CLASS = ALL-ANGLE UNIVERSAL IN TESTED CERTIFIED FORMAL FAMILY**
+# **HISTORICAL DYNAMIC CO-SELECTION OF THAT SIGNED SELECTOR = FAIL / BINDING**
 
-# **ACTIVE PRIMARY FRONT = D2/D3 SYMBOLIC PROPORTIONALITY + PHYSICAL CONSEQUENCE OF UNIQUE PROJECTIVE CLASS**
+# **GATE B POST-EVENT 19D A21 OBSTRUCTION = NONZERO / UNIVERSAL ENSEMBLE RESCUE FAIL**
+
+# **ACTIVE PRIMARY FRONT = SIGNED ALL-ANGLE SELECTOR / DYNAMIC CO-SELECTION REAUDIT**
+
+# **PARALLEL ALGEBRA SUBTASK = EXACT D2/D3 3/130 PROPORTIONALITY**
 
 # **H5 = PAUSED / NOT REJECTED**
 
@@ -71,35 +85,33 @@ No new Root2 microscopic law is admitted.
 
 ## 3. Exact active task
 
-### A. D2/D3 symbolic proportionality
+# **SIGNED ALL-ANGLE / DYNAMIC CO-SELECTION REAUDIT**
 
-Derive from the certified local Hamiltonian path algebra and the exact Cons/avg_back response construction whether
+1. Keep the positive all-angle projective class fixed as a readout/phase-robust background object.
+2. Return to the signed coefficient-level memory before `K^dag K` information loss.
+3. Reconstruct the Q-B1854 physical Standard3 multiplicity operator coefficientwise/formally from the recovered Q-B1850/Q-B1852 family.
+4. Determine the first nonzero signed/skew multiplicity coefficient and its exact angular factor.
+5. Classify all exceptional angular strata for the signed selector, analogously to the positive Gate-A theorem.
+6. Test whether the kernel ray of the signed skew operator is all-angle stable and b4/b24 natural without selecting a finite `z`.
+7. Carry the same signed-selected Standard3 through the current and post-event prolongations.
+8. Compare directly with the Gate-B 19D `A21(C)` family.
+9. PASS only if signed selection and dynamics co-select one common physical Standard3 without fitted O(3) projection, sector deletion or new law.
+10. Otherwise certify the current RefinedQ realization as dynamically insufficient for O(3).
 
-`K2 = (3/130) K3`
+Parallel algebra subtask:
 
-holds exactly, or derive the exact coefficient replacing `3/130`.
+- derive symbolically whether `K2=(3/130)K3` exactly or derive the correct exact coefficient;
+- do not use this coefficient as a substitute for signed dynamic co-selection.
 
-Do not promote the rational-looking number solely from floating agreement.
+## 4. Retained exact structure
 
-### B. Physical typing of the unique all-angle projective class
-
-Once the algebraic proportionality is settled, determine what the unique class actually fixes:
-
-1. exact S4 irrep/eigenspace typing of `R=K^dag K`;
-2. whether it selects a target-blind predictive response direction or only a projective resonance object;
-3. whether the class acts on or constrains the separate Gate-B post-event `A21` obstruction;
-4. whether any retained H5 route can be reopened without importing O(3), HDA or GR assumptions.
-
-No gravity-facing projection or coefficient may be inserted by hand.
-
-## 4. Gate-A retained structure
-
-- `D0=D1=0` follows from the exact block adjacency: `U0=H_FT`, `U1=H_FF H_FT + H_FT H_TT`; exterior environment first enters through `H^3/U2`.
-- Q-B1818G exact functorial extension prevents old-block retuning.
-- Q-B1818H exact 1->4 context replacement supplies the canonical parent/child relabeling.
-- `G0,G1` are already Cons-fixed; Cons does not create their cancellation.
-- base-singular all-angle seam is closed at machine precision.
-- move-singular seam is strongly closed formal-numerically across b4/b24/cutoff; exact `3/130` theorem open.
+- `D0=D1=0` from local H-path adjacency + Q-B1818G functorial extension + Q-B1818H 1->4 replacement + Cons fixedness.
+- exterior environment first enters through `H^3/U2`.
+- positive base-singular seam closed by `G1=34.5 G0`.
+- positive move-singular seam strongly closed by D3 projective coincidence.
+- same-cut physical Standard3 multiplicity is three; same irrep type does not mean same physical copy.
+- signed orientation/nonreciprocity is essential for copy selection.
+- historical angular selector and dynamic prolongation are not co-selected in current Q.
 
 ## 5. Global firewalls
 
@@ -109,6 +121,8 @@ No gravity-facing projection or coefficient may be inserted by hand.
 - Born NOT DERIVED as a universal factual-winner law.
 - metric duration NOT DERIVED; Lambda OPEN.
 - Gate B remains independently negative.
+- positive Gram/projective class must not be retyped as signed multiplicity selector.
+- same S4 irrep type must not be retyped as identical physical copy.
 - no analyst-uniform physical lens measure.
 - no physical `rho_Kstar` chosen by hand.
 - no pseudoinverse/rank rescue.
@@ -119,12 +133,12 @@ No gravity-facing projection or coefficient may be inserted by hand.
 
 ## 6. GR traffic light
 
-🟢 **Gate A advanced decisively:** all real angular rays now fall into one leading positive projective response-resonance class in the certified formal family.
+🟢 **Gate A positive analytic ambiguity is sharply closed:** one leading positive projective class survives all real angular strata in the tested formal family.
 
-🟢 **The former analytic-phase ambiguity is no longer an open leading-order loophole:** both exceptional ray families rejoin the generic class.
+🟢 **Physical typing is now cleaner:** the positive class is real and target-blind, but signed orientation is correctly retained as the ingredient that selects one physical Standard3 copy.
 
-🟢 **D0/D1 seam is structurally closed:** those terms are exact zeros from local Q path structure, not hidden small physics.
+🟡 **Immediate GR-facing target:** derive an all-angle signed selector and test dynamic co-selection against the post-event 19D `A21(C)` obstruction.
 
-🟡 **Immediate exact target:** derive the D2/D3 proportionality symbolically and then type the physical content of the unique class.
+🟡 **Parallel exact algebra:** prove or correct the `3/130` D2/D3 proportionality.
 
-🔴 **No GR promotion:** Gate B anisotropy remains binding; O(3), HDA, spin-2 and full nonlinear GR remain unestablished.
+🔴 **No O(3)/HDA/GR reopening yet:** historical dynamic co-selection failure and Gate-B nonzero A21 remain binding.
