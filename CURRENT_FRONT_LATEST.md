@@ -1,68 +1,65 @@
 # Complete TDG — CURRENT FRONT LATEST
 
-**Date:** 2026-09-16 (America/Toronto)  
+**Date:** 2026-09-18 (America/Toronto)  
 **Historical FINAL-CERTIFIED authority:** `Q-B1858L`, unchanged.  
 **LATEST WINS.** Older active-front wording is superseded where it conflicts with this file.
 
-## 1. Binding newest checkpoints
+## 1. Binding newest corrective checkpoint
 
-### Gate A — positive all-angle closure
+`checkpoints/SENTRY/2026-09-18/TDG_SIGNED_FORMAL_SELECTOR_CANONICAL_A3_CORRECTION_DYNAMIC_FAIL_2026-09-18.md`
+
+commit `512dd7d02a3504bf9c66bf2c2cde65a4226a6030`.
+
+Binding correction:
+
+- previous conclusion `formal-leading signed T3 ~ 0.117851 -> O3 fail` is **SUPERSEDED**;
+- the historical Q-B1854 `t3` diagnostic used absolute support threshold `rr > 1e-10`;
+- the formal selector has four structurally radial-null rows that float at `~1e-10..1e-9` while the 12 side rows are `~0.5`;
+- normalizing those numerical zeros generated the spurious `~0.117851` third moment;
+- exact side-orbit pairing gives a 6D antisymmetric pair space;
+- its intersection with the ordinary S4 Standard3 projector gives
+  `P_can=P_std P_anti`, an exact rank-3 projector;
+- `P_can` is zero on all 4 radial contexts and has diagonal `1/4` on all 12 side contexts;
+- the formal signed D2 selector projector agrees with `P_can` at numerical floor across b4 `.04,.02,.01` and b24 `.02`;
+- its 12 normalized side directions form the A3 root system / cuboctahedral orbit with six exact antipodal pairs;
+- hence every odd angular moment, in particular T3, vanishes at representation level;
+- finite-z Q-B1854 selector converges to this same canonical copy as `O(a^2)`;
+- therefore **readout-free / all-angle / S4-canonical angular Standard3 selection is closed in the tested certified formal family**;
+- however carrying that same canonical selector through `L_Q=V F^-1` still gives finite STF->gradient mixing approaching `~11.677`;
+- dynamic co-selection therefore remains a strong continuum fail.
+
+## 2. Retained Gate-A structure
+
+Parent positive all-angle checkpoint:
 
 `checkpoints/SENTRY/2026-09-16/TDG_GATE_A_ALL_ANGLE_LEADING_PROJECTIVE_CLASS_EXHAUSTION_2026-09-16.md`
 
 commit `a7fc3976f8fb29867524605b0a62798cede12f4a`.
 
+Retained:
+
 - `D0=D1=0` structurally;
-- all real angular rays exhaust into three leading strata only;
-- base-singular and move-singular strata rejoin the generic positive projective class;
-- leading positive response-resonance class is all-angle universal in the tested certified formal family;
+- all real angular rays exhaust into three leading strata;
+- base-singular and move-singular strata rejoin one positive projective class;
+- signed D2 and D3 skews share the same canonical kernel;
+- signed skew-amplitude ratio reproduces `3/130` to strong formal-numerical precision;
 - exact symbolic `3/130` proof remains open.
 
-### Signed formal selector — newest binding result
-
-`checkpoints/SENTRY/2026-09-16/TDG_SIGNED_ALL_ANGLE_LEADING_SELECTOR_FORMAL_PASS_O3_COMPATIBILITY_FAIL_2026-09-16.md`
-
-commit `bd369a56f9c2d5873656900d7108f98389b0833a`.
-
-Binding:
-
-- exact certified Q-B1854 handoff recovered, SHA-256 `59ec9a0ea5eab2aaa716c53b9493fb07122eb400c0c3258dd0414308afd2cde4`;
-- historical Q-B1854 multiplicity/skew reduction replayed coefficientwise on formal scalar-memory leaders;
-- formal signed `m=2` and `m=3` skew operators are rank two and have the same one-dimensional kernel ray across b4 `.04,.02,.01` and b24 `.02`;
-- the skew-amplitude ratio reproduces `3/130` to approximately `1e-10`-level across those controls;
-- hence a readout-free/all-angle **leading signed kernel ray** exists;
-- however that formal leading ray has stable nonzero tetrahedral third moment `T3 ~ 0.11785113`, while the historical finite-family Q-B1854H selector has `T3=O(a^2)->0`;
-- therefore the Laurent-leading signed selector is not itself the O3-compatible physical selector.
-
-### Same-basis correction / sensitivity audit
-
-`checkpoints/SENTRY/2026-09-16/TDG_SIGNED_FORMAL_VS_FINITE_SELECTOR_SAMEBASIS_SENSITIVITY_2026-09-16.md`
-
-commit `56687ecb5d0512c6a8e35033ad1f46027db784b9`.
-
-Binding clarification:
-
-- raw 3D multiplicity coordinates from separate degenerate-eigenspace runs are not physically comparable;
-- using one common historical multiplicity basis `W`, at b4 `.02`, `z=2+.7i`, the physical 16D formal-leading and finite-family signed rays have overlap
-  `0.9999993539504345`;
-- despite this tiny angular separation (~`1.14e-3` rad), their `T3` values are drastically different:
-  formal `~0.117851135` vs finite-family `~0.001392166`;
-- thus the good historical O3-compatible selector is a **small but physically decisive subleading rotation** of the formal-leading signed ray;
-- high ray overlap is therefore insufficient as an O3 discriminator in this neighborhood.
-
-### Gate B — binding endpoint / route exhausted
+## 3. Gate B — binding endpoint
 
 `checkpoints/SENTRY/2026-09-16/TDG_GATE_B_KSTAR_STATE_SELECTION_GAP_SYMMETRIC_CONTROL_NONZERO_EXHAUSTION_2026-09-16.md`
 
 commit `8a07d4fb00b8f735b2a217dc191ec94a5bf6b23c`.
 
+Binding:
+
 - genuine post-event 19D `A21(C)` family nonzero and S4-covariant;
 - state-universal FP cancellation = EXACT FAIL;
-- no physical `rho_Kstar` is derived by Q-B1819;
+- no physical `rho_Kstar` is derived;
 - symmetric diagnostic mean remains nonzero;
-- Gate-B ensemble restoration route exhausted in current admitted law set.
+- ensemble-restoration route exhausted in current law set.
 
-## 2. Latest-wins verdict
+## 4. Latest-wins verdict
 
 # **INITIAL IMPULSE I0 = GIVEN / OUT OF EXPLANATORY SCOPE**
 
@@ -70,17 +67,17 @@ commit `8a07d4fb00b8f735b2a217dc191ec94a5bf6b23c`.
 
 # **GATE A POSITIVE LEADING PROJECTIVE CLASS = ALL-ANGLE UNIVERSAL**
 
-# **LEADING SIGNED KERNEL RAY = ALL-ANGLE / READOUT-FREE**
+# **SIGNED ALL-ANGLE SELECTOR = CANONICAL A3 / CUBOCTAHEDRAL STANDARD3**
 
-# **LEADING SIGNED KERNEL -> O3-COMPATIBLE STANDARD3 = FAIL**
+# **FINITE-z Q-B1854 SELECTOR -> SAME CANONICAL COPY AS O(a^2)**
 
-# **HISTORICAL GOOD Q-B1854 SELECTOR = SMALL SUBLEADING ROTATION OF LEADING SIGNED RAY**
+# **ANGULAR / KINEMATIC O3-COMPATIBLE STANDARD3 SELECTION = CLOSED IN TESTED FORMAL FAMILY**
 
-# **HISTORICAL DYNAMIC CO-SELECTION OF GOOD SELECTOR = FAIL / BINDING**
+# **SAME SELECTOR DYNAMIC STF->GRAD CO-SELECTION = STRONG CONTINUUM FAIL (~11.677)**
 
 # **GATE B POST-EVENT 19D A21 OBSTRUCTION = NONZERO / UNIVERSAL ENSEMBLE RESCUE FAIL**
 
-# **ACTIVE PRIMARY FRONT = SIGNED COEFFICIENT-PENCIL KERNEL TRANSPORT / CANONICAL RESUMMATION**
+# **ACTIVE PRIMARY FRONT = CANONICAL STANDARD3 / DYNAMIC OBSTRUCTION UNIFICATION**
 
 # **PARALLEL ALGEBRA SUBTASK = EXACT D2/D3 3/130 PROPORTIONALITY**
 
@@ -88,64 +85,44 @@ commit `8a07d4fb00b8f735b2a217dc191ec94a5bf6b23c`.
 
 No new Root2 microscopic law is admitted.
 
-## 3. Exact active task
+## 5. Exact active task
 
-# **SIGNED COEFFICIENT-PENCIL KERNEL TRANSPORT / CANONICAL RESUMMATION GATE**
+# **CANONICAL STANDARD3 / DYNAMIC OBSTRUCTION UNIFICATION GATE**
 
-1. Build the signed physical Standard3 multiplicity pencil coefficientwise:
-   `A(t)=sum_m t^m A_m`, `S(t)=skew A(t)`.
-2. Track the rank-2 skew kernel line projectively wherever defined.
-3. Derive its differential/projective transport from the coefficient pencil itself, without selecting a finite `t=1/z` by hand.
-4. Determine whether Q supplies a distinguished analytic criterion — fixed line, transported line, monodromy/holonomy condition, asymptotic matching, Feshbach condition, or already-earned predictive constraint — that selects the tiny subleading rotation giving `T3->0`.
-5. Test that criterion directly in b4/b24 and across `.04,.02,.01`.
-6. Treat `T3`, not mere ray overlap, as the required angular/O3 discriminator because the current multiplicity neighborhood is highly sensitive.
-7. If a canonical readout-free good line is derived, carry **that same line** through `L_Q=VF^-1` and the post-event 19D `A21(C)` family.
-8. PASS only if selection and dynamics co-select one common physical Standard3 without fitted O3 projection, irrep rescaling or new law.
-9. If no Q-native canonical multi-order rule exists, classify the finite-family Q-B1854 selector as strong readout-family naturality without a readout-free physical-selection theorem.
+1. Freeze `P_can=P_std P_anti` as the Q-derived all-angle continuum angular Standard3.
+2. Express the surviving pre-event STF->grad map in the Q-derived SO3/little-group `l=2 -> l=1` typing.
+3. Determine whether it is the same unique intertwiner ray as the base/post-event `A21` obstruction, modulo already-earned transports/normalizations.
+4. Track that map through one actualization event and the genuine 19D post-event shell.
+5. PASS if pre- and post-event obstructions are one transported nonzero scalar channel; otherwise identify the exact new copy/type.
+6. Search only already-earned Q-native cancellations/quotients.
+7. No fitted O3 projection, sector deletion, new field, state measure, preferred readout or counterterm.
+8. Parallel: derive exact `3/130` from local H-path/Cons algebra.
 
-Parallel algebra:
+## 6. Global firewalls
 
-- derive exact `3/130`; the ratio now appears directly in the signed source and not only in the positive response class.
-
-## 4. Retained structure
-
-- `D0=D1=0` exact structural theorem.
-- Positive all-angle analytic-phase ambiguity sharply reduced.
-- Signed `S2,S3` kernel ray all-angle stable.
-- Positive Gram cannot replace signed multiplicity information.
-- Same S4 irrep type does not identify one physical copy.
-- Formal-leading signed line is close to, but physically distinct from, the historical O3-compatible line by `T3`.
-- Historical good angular selector is still not dynamically preserved by current `L_Q`.
-- Gate B remains independently negative.
-
-## 5. Global firewalls
-
-- Root1 frozen; `A_path` retired; global Q uncollapsed.
-- factual ledger append-only/separate.
-- actualisation soustractive retained; not a positive winner selector.
-- Born NOT DERIVED as a universal factual-winner law.
-- metric duration NOT DERIVED; Lambda OPEN.
-- no finite `z` or `t` selected by convenience.
-- no fitted multi-order coefficient combination.
-- no angular averaging.
-- no positive-Gram substitution for signed orientation.
-- no hand-selected multiplicity ray or O3 projector.
-- no analyst-uniform physical lens measure or physical `rho_Kstar` chosen by hand.
-- no pseudoinverse/rank rescue, fitted rotation/counterterm, microscopic J, metric projector, tetrad, ADM/EH target or factual-history backflow.
-- ELGC remains author-approved working postulate, not old-Root theorem.
-- O(3) FAIL/NOT CLOSED.
+- old absolute `1e-10` T3 support threshold is not a physical law;
+- structurally zero radial rows must not be normalized into unit directions;
+- angular Standard3 closure does not imply dynamic O3 closure;
+- Root1 frozen; `A_path` retired; global Q uncollapsed;
+- factual ledger append-only/separate;
+- actualisation soustractive retained; not a positive winner selector;
+- Born NOT DERIVED universally;
+- metric duration NOT DERIVED; Lambda OPEN;
+- no preferred finite z, angular averaging, fitted rotation/counterterm, O3 projector, pseudoinverse rescue, microscopic J, tetrad, ADM/EH target or factual-history backflow;
+- ELGC remains author-approved working postulate, not old-Root theorem;
+- full/dynamical O(3) FAIL/NOT CLOSED;
 - HDA/spin-2/full nonlinear GR NOT ESTABLISHED.
 
-## 6. GR traffic light
+## 7. GR traffic light
 
-🟢 **Gate A positive sector:** all-angle leading positive projective universality retained.
+🟢 **Major advance/correction:** the signed formal selector is exactly the canonical A3/cuboctahedral Standard3 at representation level; the previous formal T3 fail was a threshold artifact.
 
-🟢 **Signed source sharpened:** the leading signed selector is also all-angle/readout-free and exposes the `3/130` relation directly.
+🟢 **Readout ambiguity removed at continuum:** finite-z Q-B1854 selector converges to the same copy as `O(a^2)`.
 
-🟢 **False shortcut removed:** that leading signed line is not sufficient for O3 compatibility.
+🟢 **Angular O3-compatible selector is now readout-free and target-blind.**
 
-🟡 **Immediate GR-facing target:** derive the tiny but decisive subleading rotation canonically from the signed coefficient pencil, without selecting `z`.
+🟡 **Primary wall is now purely dynamic/constitutive:** the same copy still carries finite `l=2 -> l=1` mixing approaching `~11.677`.
 
-🟡 **Then:** retest dynamic co-selection against `L_Q` and post-event 19D `A21(C)`.
+🟡 **Immediate target:** unify this pre-event channel with the genuine post-event 19D `A21(C)` obstruction.
 
-🔴 **No O3/HDA/GR reopening yet:** canonical multi-order selection and dynamic co-selection remain unproved; Gate-B obstruction remains binding.
+🔴 **No GR promotion:** full/dynamical O(3), HDA, spin-2 and nonlinear GR remain unestablished.
