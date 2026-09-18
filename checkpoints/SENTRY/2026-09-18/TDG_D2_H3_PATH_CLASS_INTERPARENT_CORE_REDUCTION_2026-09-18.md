@@ -1,0 +1,304 @@
+# Complete TDG — H3 path-class reduction of the D2 dynamic obstruction
+
+**Date:** 2026-09-18 (America/Toronto)  
+**Status:** **D2 SOURCE REDUCED TO TWO PROPORTIONAL H3 PATH CLASSES / INTER-PARENT P->F->P->F IS THE UNIQUE CONSTITUTIVE CORE / FINE-B4 P->F->C->F IS AN EXACT REFINEMENT COPY WITH N^(-1/3) SCALE / FACTOR CANCELS IN V F^-1 / ZERO-IDENTITY RESCUE SHARPLY CONSTRAINED / NO GR PROMOTION**  
+**Historical FINAL-CERTIFIED authority:** `Q-B1858L`, unchanged.
+
+## 0. Parent
+
+Immediate parent:
+
+`TDG_D2_ONLY_FORMAL_DYNAMIC_OBSTRUCTION_SOURCE_2026-09-18.md`
+
+commit `6e759e02c7afe6c6eff02bdd2fb7819255f186dd`.
+
+That checkpoint established that the complete readout-free dynamic obstruction is already present in the D2-only coefficient:
+
+- b4 `c_D2=10.7691976968`;
+- b24 `c_D2=10.7691978263`;
+- map lies on unique S4 intertwiner `J` to `~1e-8`.
+
+---
+
+## 1. Exact H3 path decomposition
+
+Because D2 first enters through
+
+`U2=P_F H^3 P_T`,
+
+decompose the three H steps by intermediate sectors of the frozen Hamiltonian graph:
+
+- `P`: coarse parent core;
+- `F`: B3 port;
+- `C`: fine B4 core;
+- `E`: B2 port.
+
+Starting from a parent core and ending on a B3 port, the only graph-allowed sector sequences are:
+
+1. `P -> P -> P -> F`;
+2. `P -> P -> F -> F`;
+3. `P -> F -> P -> F`;
+4. `P -> F -> F -> F`;
+5. `P -> F -> C -> F`;
+6. `P -> F -> E -> F`.
+
+The numerical sector reconstruction satisfies
+
+`U2 = sum_class U2_class`
+
+with max relative defect:
+
+- b4: `6.22e-16`;
+- b24: `5.65e-16`.
+
+Thus the path partition is complete.
+
+---
+
+## 2. Only two classes survive the legal-move D2 difference
+
+Each class was propagated separately through:
+
+- the U2 cross terms in the Hermitian response;
+- Gram coefficient construction;
+- Cons projection;
+- local_grams;
+- child avg_back;
+- baseline-vs-legal-move subtraction;
+- scalar F2 and full V2 response.
+
+At b4 `a=.02`:
+
+| class | ||F_class|| | ||V_class|| |
+|---|---:|---:|
+| PP | 1.73e-9 | 3.38e-18 |
+| PF | 2.31e-9 | 4.57e-18 |
+| **FP** | **21.83722910** | **2.27493321e-8** |
+| FF | 3.15e-9 | 6.18e-18 |
+| **FC** | **13.75659231** | **1.43311812e-8** |
+| FE | 1.28e-13 | 2.52e-22 |
+
+At b24 `a=.02`:
+
+| class | ||F_class|| | ||V_class|| |
+|---|---:|---:|
+| PP | 1.73e-9 | 3.38e-18 |
+| PF | 2.29e-9 | 4.55e-18 |
+| **FP** | **21.83722910** | **2.27493321e-8** |
+| FF | 3.22e-9 | 6.27e-18 |
+| **FC** | **7.57054450** | **7.88675296e-9** |
+| FE | 9.30e-14 | 1.85e-22 |
+
+Thus, above the formal subtraction floor, exactly two path classes survive:
+
+# `P -> F -> P -> F`
+
+and
+
+# `P -> F -> C -> F`.
+
+The first is the genuine inter-parent path: leave parent T through a B3 face, enter a parent core sharing that port, then return to a B3 port.
+
+The second is its fine-B4 internal-refinement analogue.
+
+---
+
+## 3. Exact refinement proportionality
+
+The two surviving contributions are not independent.
+
+### b4
+
+Best scalar relation:
+
+`F_FP = alpha_4 F_FC`
+
+with
+
+`alpha_4 = 1.5874010519681994`.
+
+Exact refinement comparator:
+
+`4^(1/3)=1.5874010519681994...`.
+
+Relative matrix residual:
+
+`3.87e-15`.
+
+For V:
+
+`alpha_4 = 1.5874010514351433`;
+
+relative residual `3.51e-8`.
+
+### b24
+
+`F_FP = alpha_24 F_FC`
+
+with
+
+`alpha_24 = 2.8844991406148175`.
+
+Exact comparator:
+
+`24^(1/3)=2.8844991406148166...`.
+
+Relative matrix residual:
+
+`4.46e-15`.
+
+For V:
+
+`alpha_24 = 2.884499143084774`;
+
+relative residual `3.24e-8`.
+
+Since the refinement source uses
+
+`scale=N^(-1/6)`,
+
+this is exactly the expected
+
+`alpha_N = scale^(-2)=N^(1/3)`.
+
+Therefore:
+
+[
+(F_{FC},V_{FC})=N^{-1/3}(F_{FP},V_{FP})
+]
+
+to the certified numerical precision.
+
+---
+
+## 4. Consequence for the constitutive quotient
+
+The full D2 pair is therefore
+
+[
+(F_2,V_2)=left(1+N^{-1/3}ight)(F_{FP},V_{FP})
+]
+
+up to formal-floor terms.
+
+In
+
+[
+L_2=V_2 F_2^{-1},
+]
+
+the entire refinement factor cancels.
+
+This gives an explicit structural explanation for the b4/b24 universality of the readout-free coefficient.
+
+The fine-B4 path does not introduce a second constitutive mechanism. It is a scaled copy of the inter-parent path.
+
+---
+
+## 5. Each surviving class alone gives the same obstruction
+
+Using only the inter-parent FP class:
+
+- b4:
+  `c_J=10.769197650887373`,
+  residual from `c_J J` = `4.87e-13`;
+- b24:
+  `c_J=10.769197770880158`,
+  residual = `4.77e-13`.
+
+Using only the fine-B4 FC class:
+
+- b4:
+  `c_J=10.769197650887380`,
+  residual = `4.51e-13`;
+- b24:
+  `c_J=10.769197770880115`,
+  residual = `4.63e-13`.
+
+Thus both are the same constitutive map, not merely collinear source matrices.
+
+The entire physical content can therefore be represented by the single inter-parent class.
+
+---
+
+## 6. Binding localization
+
+The first nonzero dynamic O3 obstruction has now been reduced to one topological process:
+
+[
+oxed{P_T 	o F 	o P_{T'} 	o F'}
+]
+
+with `T'` an incident parent core.
+
+The fine-refinement realization is forced to be a scaled copy and cancels out of the quotient.
+
+Hence the surviving scalar `c_Q` is fundamentally an **inter-parent incidence/return coefficient**.
+
+It is not generated by:
+
+- parent diagonal self propagation;
+- B3 diagonal self propagation;
+- B2 excursions;
+- independent fine-B4 dynamics;
+- higher-order resummation;
+- finite-z choice;
+- refinement scheme.
+
+---
+
+## 7. Zero-identity pressure
+
+A Q-native zero identity would now have to annihilate the inter-parent FP path itself.
+
+It cannot arise from cancellation between FP and FC because:
+
+- they have the same sign/ray;
+- FC is a positive refinement-scaled copy of FP;
+- both separately give the same nonzero constitutive quotient.
+
+Nor can PP/PF/FF/FE cancel it: their legal-move D2 contributions are at the formal numerical floor.
+
+Thus any future rescue must be a genuine already-earned identity acting on the inter-parent incidence-return channel, not a balance among path classes.
+
+No such identity is currently established.
+
+---
+
+## 8. Algebraic constant recognition firewall
+
+Numerical constant-recognition experiments can fit `10.76919765...` to many artificial radical expressions.
+
+None is promoted.
+
+An exact closed form must be derived from the frozen source matrices `H0,A_f,Bcanon_f`, incidence multiplicities and Cons maps, not guessed from decimals.
+
+---
+
+## 9. Exact next gate
+
+# **INTER-PARENT FP PATH EXACT ALGEBRA / NONZERO THEOREM**
+
+1. Freeze only the `P->F->P->F` class.
+2. Reduce its parent/B3 coupling product using
+   `H_FT`, parent incidence multiplicity and the exact tetrahedral slot algebra.
+3. Exploit `Bcanon_f=(Q0^dag A_f)^(-1)`.
+4. Carry the resulting exact slot tensor through the S4 Reynolds projector and Cons.
+5. Derive the scalar multiplying the unique `J` channel.
+6. Determine whether it is exactly nonzero from positive/rank/incidence structure without relying on decimal recognition.
+7. If yes, certify the present RefinedQ realization as constitutively incompatible with full dynamic O3 at first environment-sensitive order.
+8. Parallel: use the same path algebra to attack the exact signed `3/130` D2/D3 relation.
+
+---
+
+## 10. GR traffic light
+
+🟢 **Major reduction:** six H3 path classes collapsed to one constitutive mechanism.
+
+🟢 **Refinement naturality explained algebraically:** b4/b24 differ only by a factor that cancels in `VF^-1`.
+
+🟢 **No cancellation route among path classes:** the only two nonzero classes are positive proportional copies.
+
+🟡 **Immediate exact task:** prove the inter-parent incidence-return map is nonzero directly from exact slot algebra.
+
+🔴 **Full/dynamic O3, HDA, spin-2 and nonlinear GR remain unestablished.**
