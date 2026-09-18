@@ -77,7 +77,7 @@ Binding:
 
 # **GATE B POST-EVENT 19D A21 OBSTRUCTION = NONZERO / UNIVERSAL ENSEMBLE RESCUE FAIL**
 
-# **ACTIVE PRIMARY FRONT = CANONICAL STANDARD3 / DYNAMIC OBSTRUCTION UNIFICATION**
+# **ACTIVE PRIMARY FRONT = FORMAL SCALAR COEFFICIENT ORIGIN / ZERO-IDENTITY GATE**
 
 # **PARALLEL ALGEBRA SUBTASK = EXACT D2/D3 3/130 PROPORTIONALITY**
 
@@ -121,8 +121,8 @@ No new Root2 microscopic law is admitted.
 
 🟢 **Angular O3-compatible selector is now readout-free and target-blind.**
 
-🟡 **Primary wall is now purely dynamic/constitutive:** the same copy still carries finite `l=2 -> l=1` mixing approaching `~11.677`.
+🟢 **Pre/post obstruction unified:** the same unique S4 `l=2 -> l=1` intertwiner survives before and after actualization.\n\n🟢 **Readout rescue closed:** the formal `z->infinity` Q pencil itself gives a nonzero coefficient `c_inf ~ 10.769201`, with direct b4/b24 agreement.\n\n🟡 **Primary wall is now purely scalar/constitutive:** derive the exact source of `c_inf` and test whether an already-earned Q identity can force it to zero.
 
-🟡 **Immediate target:** unify this pre-event channel with the genuine post-event 19D `A21(C)` obstruction.
+🟡 **Immediate target:** reduce `c_inf` to exact local H-path/Cons algebra and test a true zero identity. Parallel: finish exact `3/130`.
 
 🔴 **No GR promotion:** full/dynamical O(3), HDA, spin-2 and nonlinear GR remain unestablished.
