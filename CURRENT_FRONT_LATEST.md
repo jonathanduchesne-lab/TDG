@@ -45,6 +45,19 @@ Retained:
 - signed skew-amplitude ratio reproduces `3/130` to strong formal-numerical precision;
 - exact symbolic `3/130` proof remains open.
 
+### D2/D3 exact source proportionality — newest algebraic closure
+
+`checkpoints/SENTRY/2026-09-18/TDG_D2_D3_EXACT_3_OVER_130_SOURCE_DERIVATION_2026-09-18.md`
+
+commit `6b2c1aa2f0e1351766d63159cce50dc4dd45fe75`.
+
+- proportionality already holds in the full post-Cons Gram-difference tensors before nbasis;
+- D3/D2 one-extra-H insertion law:
+  `lambda23=10 SHIFT + 5 MU + (10/3) s_H`;
+- canonical `SHIFT=3, MU=2, s_H=1` gives `lambda23=130/3`;
+- therefore `D2=(3/130)D3` at source level;
+- Gate-A move-singular stratum no longer depends on rational recognition.
+
 ## 3. Gate B — binding endpoint
 
 `checkpoints/SENTRY/2026-09-16/TDG_GATE_B_KSTAR_STATE_SELECTION_GAP_SYMMETRIC_CONTROL_NONZERO_EXHAUSTION_2026-09-16.md`
@@ -79,7 +92,7 @@ Binding:
 
 # **ACTIVE PRIMARY FRONT = INTER-PARENT FP PATH EXACT ALGEBRA / NONZERO THEOREM**
 
-# **PARALLEL ALGEBRA SUBTASK = EXACT D2/D3 3/130 PROPORTIONALITY**
+# **D2/D3 3/130 PROPORTIONALITY = SOURCE-DERIVED / CLOSED**
 
 # **H5 = PAUSED / NOT REJECTED**
 
@@ -123,6 +136,6 @@ No new Root2 microscopic law is admitted.
 
 🟢 **Pre/post obstruction unified:** the same unique S4 `l=2 -> l=1` intertwiner survives before and after actualization.\n\n🟢 **Readout rescue closed:** the formal `z->infinity` Q pencil itself gives a nonzero coefficient `c_inf ~ 10.769201`, with direct b4/b24 agreement.\n\n🟢 **D2 source localized:** the obstruction is already D2-only and its six H3 path classes collapse to one constitutive mechanism, the inter-parent `P->F->P->F` return path. The fine-B4 path is exactly an `N^(-1/3)` refinement copy and cancels from `VF^-1`.\n\n🟡 **Primary wall is now exact algebra:** reduce that inter-parent path using `H_FT`, incidence and `Bcanon=(Q0^dag A_f)^(-1)`, and prove whether its scalar on `J` is structurally nonzero.
 
-🟡 **Immediate target:** reduce `c_inf` to exact local H-path/Cons algebra and test a true zero identity. Parallel: finish exact `3/130`.
+🟢 **3/130 closed at source:** the D2/D3 relation follows from the one-extra-H energy insertion law.\n\n🟡 **Immediate target:** prove the inter-parent D2 projection on the unique `J` channel is structurally nonzero, or find an already-earned Q identity that forces it to zero.
 
 🔴 **No GR promotion:** full/dynamical O(3), HDA, spin-2 and nonlinear GR remain unestablished.
