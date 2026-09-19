@@ -90,7 +90,9 @@ Binding:
 
 # **GATE B POST-EVENT 19D A21 OBSTRUCTION = NONZERO / UNIVERSAL ENSEMBLE RESCUE FAIL**
 
-# **ACTIVE PRIMARY FRONT = INTER-PARENT FP PATH EXACT ALGEBRA / NONZERO THEOREM**
+# **CURRENT REFINEDQ D2 l2->l1 CHANNEL = ALGEBRAICALLY NONZERO / REALIZATION-SPECIFIC NO-GO**
+
+# **ACTIVE PRIMARY FRONT = INDEPENDENTLY MOTIVATED Q-NATIVE EXTENSION AUDIT (H5 FIRST)**
 
 # **D2/D3 3/130 PROPORTIONALITY = SOURCE-DERIVED / CLOSED**
 
@@ -98,18 +100,33 @@ Binding:
 
 No new Root2 microscopic law is admitted.
 
+### Inter-parent D2 multiplicity no-go — newest binding closure
+
+`checkpoints/SENTRY/2026-09-18/TDG_INTERPARENT_D2_MULTIPLICITY_ALGEBRAIC_NONZERO_NOGO_2026-09-18.md`
+
+commit `ff7e83a5ef83c66d490d1e64a2b1106a8a3a65c7`.
+
+Binding:
+
+- three ordinary-Standard3 shell copies reduce canonically to radial `R`, physical A3 antisymmetric `A`, and side-symmetric `S`;
+- D2 memory reduces, after one common source scale, to an exact 3x3 multiplicity matrix with nonzero determinant;
+- central output row is proportional to `(1/18,0,1)`;
+- exact constitutive coefficient on the unique `J` channel is `c_Q = 938987 sqrt(2) / 123308 != 0`;
+- direct unreduced b4/b24 pipelines agree to formal numerical floor;
+- no cancellation remains inside current D2 path/refinement/readout/Gibbs/selector structure;
+- current RefinedQ therefore fails full dynamic O(3) at first environment-sensitive order.
+
 ## 5. Exact active task
 
-# **CANONICAL STANDARD3 / DYNAMIC OBSTRUCTION UNIFICATION GATE**
+# **INDEPENDENTLY MOTIVATED Q-NATIVE EXTENSION AUDIT — H5 FIRST**
 
-1. Freeze `P_can=P_std P_anti` as the Q-derived all-angle continuum angular Standard3.
-2. Express the surviving pre-event STF->grad map in the Q-derived SO3/little-group `l=2 -> l=1` typing.
-3. Determine whether it is the same unique intertwiner ray as the base/post-event `A21` obstruction, modulo already-earned transports/normalizations.
-4. Track that map through one actualization event and the genuine 19D post-event shell.
-5. PASS if pre- and post-event obstructions are one transported nonzero scalar channel; otherwise identify the exact new copy/type.
-6. Search only already-earned Q-native cancellations/quotients.
-7. No fitted O3 projection, sector deletion, new field, state measure, preferred readout or counterterm.
-8. Parallel: derive exact `3/130` from local H-path/Cons algebra.
+1. Recover the exact historical H5 definition, motivation, and pause reason.
+2. Verify H5 predates the new D2 no-go and was not introduced to cancel `c_Q`.
+3. Determine whether H5 changes the inter-parent multiplicity map, adds an independent operator-valued/process channel, or merely reparametrizes the already-failed RefinedQ response.
+4. Require a target-blind criterion for any new coefficient or degree of freedom.
+5. Reject any use of H5 that tunes directly against `c_Q` or inserts an O(3) projector by hand.
+6. If H5 is structurally independent, derive its D2 contribution and test whether the combined law changes the exact 3x3 multiplicity map for independently fixed reasons.
+7. If H5 cannot legally affect the channel, move to the next independently motivated unresolved completion rather than inventing a repair.
 
 ## 6. Global firewalls
 
@@ -134,8 +151,8 @@ No new Root2 microscopic law is admitted.
 
 🟢 **Angular O3-compatible selector is now readout-free and target-blind.**
 
-🟢 **Pre/post obstruction unified:** the same unique S4 `l=2 -> l=1` intertwiner survives before and after actualization.\n\n🟢 **Readout rescue closed:** the formal `z->infinity` Q pencil itself gives a nonzero coefficient `c_inf ~ 10.769201`, with direct b4/b24 agreement.\n\n🟢 **D2 source localized:** the obstruction is already D2-only and its six H3 path classes collapse to one constitutive mechanism, the inter-parent `P->F->P->F` return path. The fine-B4 path is exactly an `N^(-1/3)` refinement copy and cancels from `VF^-1`.\n\n🟡 **Primary wall is now exact algebra:** reduce that inter-parent path using `H_FT`, incidence and `Bcanon=(Q0^dag A_f)^(-1)`, and prove whether its scalar on `J` is structurally nonzero.
+🟢 **Pre/post obstruction unified:** the same unique S4 `l=2 -> l=1` intertwiner survives before and after actualization.\n\n🟢 **Readout rescue closed:** the formal `z->infinity` Q pencil itself gives a nonzero coefficient `c_inf ~ 10.769201`, with direct b4/b24 agreement.\n\n🟢 **D2 source localized:** the obstruction is already D2-only and its six H3 path classes collapse to one constitutive mechanism, the inter-parent `P->F->P->F` return path. The fine-B4 path is exactly an `N^(-1/3)` refinement copy and cancels from `VF^-1`.\n\n🟢 **Current-law no-go closed:** the inter-parent D2 channel reduces to an exact 3x3 multiplicity problem with `c_Q = 938987 sqrt(2) / 123308 != 0`.
 
-🟢 **3/130 closed at source:** the D2/D3 relation follows from the one-extra-H energy insertion law.\n\n🟡 **Immediate target:** prove the inter-parent D2 projection on the unique `J` channel is structurally nonzero, or find an already-earned Q identity that forces it to zero.
+🟢 **3/130 closed at source:** the D2/D3 relation follows from the one-extra-H energy insertion law.\n\n🟡 **Immediate target:** audit H5 as an independently motivated Q-native extension; it may reopen the constitutive story only if it changes the multiplicity map for reasons that existed before this no-go.
 
 🔴 **No GR promotion:** full/dynamical O(3), HDA, spin-2 and nonlinear GR remain unestablished.
