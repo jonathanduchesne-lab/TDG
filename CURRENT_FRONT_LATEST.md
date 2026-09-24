@@ -1,6 +1,6 @@
 # Complete TDG — CURRENT FRONT LATEST
 
-**Date:** 2026-09-18 (America/Toronto)  
+**Date:** 2026-09-23 (America/Toronto)  
 **Historical FINAL-CERTIFIED authority:** `Q-B1858L`, unchanged.  
 **LATEST WINS.** Older active-front wording is superseded where it conflicts with this file.
 
@@ -98,7 +98,15 @@ Binding:
 
 # **PREEXISTING Q-RICH / FRESH-RECORD ORIENTED PROCESS BRANCH = LEGITIMATE DISTINCT EXTENSION CANDIDATE**
 
-# **ACTIVE PRIMARY FRONT = REFINEDQ D2 <-> Q-RICH ORIENTED PROCESS RECONCILIATION GATE**
+# **REFINEDQ <-> Q-RICH INCIDENCE BRIDGE = CLOSED POSITIVE**
+
+# **DIRECT SAME-SHELL ORIENTED SIGN SUBSTITUTION = REPRESENTATION/COVARIANCE FAIL**
+
+# **CURRENT REFINEDQ c_Q != 0 NO-GO = REMAINS BINDING**
+
+# **Q-RICH = DISTINCT PREEXISTING PROCESS REALIZATION / B5-PRESYMPLECTIC WALL REMAINS**
+
+# **ACTIVE PRIMARY FRONT = COORIENTATION-AWARE REFINEDQ -> Q-RICH RESPONSE-BUNDLE BRIDGE-LIFT THEOREM**
 
 # **D2/D3 3/130 PROPORTIONALITY = SOURCE-DERIVED / CLOSED**
 
@@ -143,19 +151,45 @@ Binding:
 - however no exact natural bridge from current RefinedQ D2 multiplicity matrix to Q-rich has yet been derived;
 - Q-rich later has its own scalar/B5/presymplectic wall and is not GR closure.
 
+### RefinedQ D2 <-> Q-rich incidence bridge / type firewall — newest binding checkpoint
+
+`checkpoints/SENTRY/2026-09-23/TDG_REFINEDQ_D2_QRICH_ORIENTED_RETURN_INCIDENCE_BRIDGE_TYPE_FIREWALL_2026-09-23.md`
+
+commit `01ac587d311f56e1ab5ed15ed422e6f24719fe38`.
+
+Verifier:
+
+`checkpoints/SENTRY/2026-09-23/verify_refinedq_qrich_incidence_bridge.py`
+
+commit `fad9afdeda6f9d3d9e303f37eaffe40197a52852`.
+
+Binding:
+
+- fresh H3 `P->F->P->F` replay reproduces the certified unsigned D2 FP source: `||F_FP||=21.837229101466438`, `||V_FP||=2.2749332061765997e-8`, full ranks 16/16;
+- its canonical `(R,A,S)` reduction reproduces the archived exact 3x3 multiplicity matrix up to common source scale with relative defect `~1.2e-14`;
+- the RefinedQ cross-parent combinatorial factor is exactly the local unsigned incidence return `U^T U` (off-diagonal source proportional to `3(U^T U-4I)`);
+- on the actual current carrier there are 101 B4 parents, 154 B3 faces and exactly 25 complete B5 cells;
+- exact ranks: `rank(U)=101`, `rank(d3)=76`, `rank(d4)=25`;
+- `d3 d4=0` exactly and therefore `ker(d3)=im(d4)`, dimension 25;
+- hence the historical Q-rich oriented return acts on the exact same parent/B3 incidence skeleton as the current RefinedQ obstruction;
+- however inserting only the oriented cross-parent signs into the old scalar 16-shell RefinedQ response breaks ordinary S4 covariance at O(1): defect `~1.40` versus `~5e-14` for the unsigned replay;
+- therefore the old `(R,A,S)` multiplicity reduction and unique `J` coefficient are not typed on that patched object;
+- no legal cancellation of `c_Q` follows;
+- the missing object is now sharply identified as a **coorientation-aware natural transformation of response bundles**, not another incidence/sign choice;
+- if no such target-blind bridge-lift is derivable from already-earned Q-B1397/Q-B1422–Q-B1428 structure, RefinedQ and Q-rich remain distinct Root2 realizations.
+
 ## 5. Exact active task
 
-# **REFINEDQ D2 <-> Q-RICH ORIENTED PROCESS RECONCILIATION GATE**
+# **COORIENTATION-AWARE REFINEDQ -> Q-RICH RESPONSE-BUNDLE BRIDGE-LIFT THEOREM**
 
-1. Freeze the exact Q-B1447/Q-B1450/Q-B1451/Q-B1453 executable chain.
-2. Type the present D2 inter-parent path `P_T -> F -> P_T' -> F'` as a parent-B3-parent coherent return.
-3. Determine whether its unsigned incidence factor is exactly the relevant local restriction of the historical `U^T U` return.
-4. If yes, derive the carrier-native oriented replacement `d3^T d3` from the already-earned coorientation + recombine-before-record process law, not by hand.
-5. Rebuild the D2 response/memory multiplicity map in the same canonical A3 Standard3 chart.
-6. Evaluate the same normalized unique `J` coefficient.
-7. PASS only if any change follows from the preexisting process law and the full affine/Hessian response remains nondegenerate and covariant.
-8. A zero obtained by arbitrary sign insertion, path deletion or O3 fitting is forbidden.
-9. If no bridge theorem exists, keep RefinedQ and Q-rich as distinct Root2 realizations: RefinedQ retains its algebraic D2 no-go; Q-rich retains its separate B5/presymplectic wall.
+1. Freeze Q-B1397 coorientation-chart sewing and Q-B1422–Q-B1428 rich B3 associated-bundle morphism.
+2. Treat the current RefinedQ parent/B3 response as a source object; do **not** insert scalar orientation signs into the old shell.
+3. Determine whether an already-earned, target-blind natural transformation maps that response into the cooriented rich-B3 bundle while preserving recombine-before-record coherence.
+4. Prove ordinary metric/S4 descent of the transformed response **before** applying any `(R,A,S)` or `J` diagnostic.
+5. Require full affine/Hessian response nondegeneracy and covariance; no group averaging may manufacture the descent.
+6. Only if steps 1–5 pass, rebuild the D2 multiplicity map and evaluate the same normalized unique `J` coefficient.
+7. If no such natural transformation exists in the already-earned structure, formally close the reconciliation gate with branch separation: RefinedQ retains its algebraic D2 no-go; Q-rich resumes at its independent normal/B5/presymplectic activation wall.
+8. No new H5 operator, fitted sign, path deletion, O3 projector, or premature which-parent recording.
 
 ## 6. Global firewalls
 
@@ -182,6 +216,6 @@ Binding:
 
 🟢 **Pre/post obstruction unified:** the same unique S4 `l=2 -> l=1` intertwiner survives before and after actualization.\n\n🟢 **Readout rescue closed:** the formal `z->infinity` Q pencil itself gives a nonzero coefficient `c_inf ~ 10.769201`, with direct b4/b24 agreement.\n\n🟢 **D2 source localized:** the obstruction is already D2-only and its six H3 path classes collapse to one constitutive mechanism, the inter-parent `P->F->P->F` return path. The fine-B4 path is exactly an `N^(-1/3)` refinement copy and cancels from `VF^-1`.\n\n🟢 **Current-law no-go closed:** the inter-parent D2 channel reduces to an exact 3x3 multiplicity problem with `c_Q = 938987 sqrt(2) / 123308 != 0`.
 
-🟢 **3/130 closed at source:** the D2/D3 relation follows from the one-extra-H energy insertion law.\n\n🟢 **H5 firewall closed:** neither legacy nor modern H5 supplies a licensed executable repair.\n\n🟢 **Preexisting alternative recovered:** Q-rich/fresh-record/rich-B3 is independently motivated, exact at its own active A6 level, and acts on coherent parent return rather than merely changing readout.\n\n🟡 **Immediate target:** derive or refute the exact RefinedQ-D2 to Q-rich oriented-return bridge and rerun the same canonical `J` diagnostic.
+🟢 **3/130 closed at source:** the D2/D3 relation follows from the one-extra-H energy insertion law.\n\n🟢 **H5 firewall closed:** neither legacy nor modern H5 supplies a licensed executable repair.\n\n🟢 **Preexisting alternative recovered:** Q-rich/fresh-record/rich-B3 is independently motivated, exact at its own active A6 level, and acts on coherent parent return rather than merely changing readout.\n\n🟢 **Incidence bridge closed positive:** the current 101-parent carrier itself supports the exact Q-rich oriented boundary complex with `ker d3=im d4`, dimension 25.\n\n🟡 **Immediate target:** derive or refute a coorientation-aware response-bundle natural transformation. Direct scalar sign insertion is now closed negative and must not be retried.
 
 🔴 **No GR promotion:** full/dynamical O(3), HDA, spin-2 and nonlinear GR remain unestablished.
