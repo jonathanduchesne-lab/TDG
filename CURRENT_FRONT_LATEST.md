@@ -1,6 +1,6 @@
 # Complete TDG — CURRENT FRONT LATEST
 
-**Date:** 2026-09-23 (America/Toronto)  
+**Date:** 2026-09-24 (America/Toronto)  
 **Historical FINAL-CERTIFIED authority:** `Q-B1858L`, unchanged.  
 **LATEST WINS.** Older active-front wording is superseded where it conflicts with this file.
 
@@ -106,7 +106,13 @@ Binding:
 
 # **Q-RICH = DISTINCT PREEXISTING PROCESS REALIZATION / B5-PRESYMPLECTIC WALL REMAINS**
 
-# **ACTIVE PRIMARY FRONT = COORIENTATION-AWARE REFINEDQ -> Q-RICH RESPONSE-BUNDLE BRIDGE-LIFT THEOREM**
+# **COORIENTATION-AWARE CURRENT-Q PROCESS BRIDGE = HISTORICALLY DERIVED / CERTIFIED (Q-B1843S -> Q-B1845K)**
+
+# **ORDINARY HAMILTONIAN D2 RESPONSE -> PROCESS BRIDGE = STRONG NO-GO / WRONG TYPE (Q-B1844J)**
+
+# **REFINEDQ <-> Q-RICH RECONCILIATION = CLOSED BY BRANCH SEPARATION**
+
+# **ACTIVE PRIMARY FRONT = Q-RICH NORMAL-RELATION / B5-PRESYMPLECTIC PROVENANCE GATE**
 
 # **D2/D3 3/130 PROPORTIONALITY = SOURCE-DERIVED / CLOSED**
 
@@ -178,18 +184,44 @@ Binding:
 - the missing object is now sharply identified as a **coorientation-aware natural transformation of response bundles**, not another incidence/sign choice;
 - if no such target-blind bridge-lift is derivable from already-earned Q-B1397/Q-B1422–Q-B1428 structure, RefinedQ and Q-rich remain distinct Root2 realizations.
 
+### RefinedQ ↔ Q-rich bridge-lift provenance recovery / branch separation — newest binding checkpoint
+
+`checkpoints/SENTRY/2026-09-24/TDG_REFINEDQ_QRICH_BRIDGE_LIFT_PROVENANCE_RECOVERY_BRANCH_SEPARATION_2026-09-24.md`
+
+commit `1bcd111f6234418e6b276ad8eb99059caa33a83c`.
+
+Binding correction:
+
+- the broad Sep23 statement that a coorientation-aware response-bundle bridge was still missing is superseded;
+- Q-B1843S had already factorized the active rank-4 source/target representations through the existing physical B3 Herm2 with a common mediator and discrete gauge only;
+- Q-B1845K had already derived a target-blind collective four-B3 analytic-process susceptibility / cut-redescription connection with rank-4 chart, exact leading incidence isometry, b24 cocycle `1/sqrt(3)`, associated S4 covariance, and anisotropic SAME-h endpoint recovery;
+- Q-B1846J then established exact local M2 derivation, Feshbach Cons-diamond projectability and projective inter-context transport, while also finding a complementary curvature channel and no first-class HDA closure;
+- Q-B1848B generalized the cooriented collective solder across shared parents with decoded-chart mismatch scaling as `O(a^2)` and no O(1) sewing defect;
+- fresh 2026-09-24 rerun of the Q-B1844 portable verifier confirms the decisive type firewall: the best ordinary existing-fibre Hamiltonian full-G4 vertical-kernel residual remains finite, `~0.80225`, with the simpler cross-Hom family `~0.81125`;
+- therefore Q-B1845 is a distinct collective process/redescription connection, not the same dynamical map as the RefinedQ D2 Hamiltonian response `U2=P_F H^3 P_T`;
+- current RefinedQ `c_Q = 938987 sqrt(2) / 123308 != 0` remains binding for that realization;
+- no scalar sign patch, D2 decoder insertion, or process-chart reinterpretation can convert the current RefinedQ D2 no-go into a cancellation;
+- reconciliation is therefore closed by **branch separation**, exactly as allowed by the Sep19 extension audit.
+
+Later historical controls retained:
+
+- Q-B1852 same-Q b4/b24 refinements preserve finite non-O3 jet mixing and SAME-h failure;
+- Q-B1854/55 find a target-blind first-order signed resonance line but dynamic/process preservation still fails;
+- Q-B1857 retypes part of the multitime pair obstruction as Cons-normalization connection;
+- Q-B1858 identifies a robust projective conformal face-scale ray, but the subleading predictively visible operator content remains nonuniversal and SAME-h still fails.
+
 ## 5. Exact active task
 
-# **COORIENTATION-AWARE REFINEDQ -> Q-RICH RESPONSE-BUNDLE BRIDGE-LIFT THEOREM**
+# **Q-RICH NORMAL-RELATION / B5-PRESYMPLECTIC PROVENANCE RECONCILIATION GATE**
 
-1. Freeze Q-B1397 coorientation-chart sewing and Q-B1422–Q-B1428 rich B3 associated-bundle morphism.
-2. Treat the current RefinedQ parent/B3 response as a source object; do **not** insert scalar orientation signs into the old shell.
-3. Determine whether an already-earned, target-blind natural transformation maps that response into the cooriented rich-B3 bundle while preserving recombine-before-record coherence.
-4. Prove ordinary metric/S4 descent of the transformed response **before** applying any `(R,A,S)` or `J` diagnostic.
-5. Require full affine/Hessian response nondegeneracy and covariance; no group averaging may manufacture the descent.
-6. Only if steps 1–5 pass, rebuild the D2 multiplicity map and evaluate the same normalized unique `J` coefficient.
-7. If no such natural transformation exists in the already-earned structure, formally close the reconciliation gate with branch separation: RefinedQ retains its algebraic D2 no-go; Q-rich resumes at its independent normal/B5/presymplectic activation wall.
-8. No new H5 operator, fitted sign, path deletion, O3 projector, or premature which-parent recording.
+1. Freeze the active Q-rich recurrence and rich-B3/fresh-record process branch, including Q-B1447→Q-B1505 and the later Q-B1845/46 collective process connection.
+2. Recover the exact historical B5 candidate normal relation `C0 ~ k_i k_j h_ij - k^2 tr(h)` and the theorem that the then-current Q-rich realization was relation-absent.
+3. Test whether the later collective four-B3 / Cons-Feshbach process connection supplies any already-earned presymplectic degeneracy or codimension-one normal relation that was unavailable in the earlier Q-rich audit.
+4. The relation must be derived target-blindly from process composition, predictive memory, Cons/Feshbach degeneracy or exact B5 boundary structure.
+5. No TT projector, soft penalty, scalar dose, hand B5 constraint, ADM coefficient, or deletion of the scalar mode.
+6. Require b4/b24 refinement naturality, shared-parent sewing, analytic-family stability and exact/strong process composition controls.
+7. PASS only if a genuine first-class/presymplectic relation emerges and the Q-rich physical mode count reduces accordingly without fitting.
+8. If no such relation exists, certify the Q-rich process branch as still relation-absent and isolate the minimal missing mathematical property.
 
 ## 6. Global firewalls
 
@@ -216,6 +248,6 @@ Binding:
 
 🟢 **Pre/post obstruction unified:** the same unique S4 `l=2 -> l=1` intertwiner survives before and after actualization.\n\n🟢 **Readout rescue closed:** the formal `z->infinity` Q pencil itself gives a nonzero coefficient `c_inf ~ 10.769201`, with direct b4/b24 agreement.\n\n🟢 **D2 source localized:** the obstruction is already D2-only and its six H3 path classes collapse to one constitutive mechanism, the inter-parent `P->F->P->F` return path. The fine-B4 path is exactly an `N^(-1/3)` refinement copy and cancels from `VF^-1`.\n\n🟢 **Current-law no-go closed:** the inter-parent D2 channel reduces to an exact 3x3 multiplicity problem with `c_Q = 938987 sqrt(2) / 123308 != 0`.
 
-🟢 **3/130 closed at source:** the D2/D3 relation follows from the one-extra-H energy insertion law.\n\n🟢 **H5 firewall closed:** neither legacy nor modern H5 supplies a licensed executable repair.\n\n🟢 **Preexisting alternative recovered:** Q-rich/fresh-record/rich-B3 is independently motivated, exact at its own active A6 level, and acts on coherent parent return rather than merely changing readout.\n\n🟢 **Incidence bridge closed positive:** the current 101-parent carrier itself supports the exact Q-rich oriented boundary complex with `ker d3=im d4`, dimension 25.\n\n🟡 **Immediate target:** derive or refute a coorientation-aware response-bundle natural transformation. Direct scalar sign insertion is now closed negative and must not be retried.
+🟢 **3/130 closed at source:** the D2/D3 relation follows from the one-extra-H energy insertion law.\n\n🟢 **H5 firewall closed:** neither legacy nor modern H5 supplies a licensed executable repair.\n\n🟢 **Preexisting alternative recovered:** Q-rich/fresh-record/rich-B3 is independently motivated, exact at its own active A6 level, and acts on coherent parent return rather than merely changing readout.\n\n🟢 **Incidence bridge closed positive:** the current 101-parent carrier itself supports the exact Q-rich oriented boundary complex with `ker d3=im d4`, dimension 25.\n\n🟢 **Process bridge provenance recovered:** Q-B1843S/Q-B1845K already derive the cooriented common-Herm2 / collective four-B3 connection.\n\n🟢 **Branch separation closed:** fresh Q-B1844 replay confirms the ordinary Hamiltonian D2 response cannot be identified with that process connection.\n\n🟡 **Immediate target:** inside Q-rich only, derive or refute a B5/presymplectic normal relation that can change the physical mode count.
 
 🔴 **No GR promotion:** full/dynamical O(3), HDA, spin-2 and nonlinear GR remain unestablished.
