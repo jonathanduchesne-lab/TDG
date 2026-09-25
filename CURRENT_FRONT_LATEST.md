@@ -1,6 +1,6 @@
 # Complete TDG — CURRENT FRONT LATEST
 
-**Date:** 2026-09-24 (America/Toronto)  
+**Date:** 2026-09-25 (America/Toronto)  
 **Historical FINAL-CERTIFIED authority:** `Q-B1858L`, unchanged.  
 **LATEST WINS.** Older active-front wording is superseded where it conflicts with this file.
 
@@ -112,7 +112,9 @@ Binding:
 
 # **REFINEDQ <-> Q-RICH RECONCILIATION = CLOSED BY BRANCH SEPARATION**
 
-# **ACTIVE PRIMARY FRONT = Q-RICH NORMAL-RELATION / B5-PRESYMPLECTIC PROVENANCE GATE**
+# **LATE COLLECTIVE PROCESS CONNECTION -> B5 beta!=0 = CLOSED NEGATIVE BY RANK-PRESERVATION / WRONG TYPE**
+
+# **ACTIVE PRIMARY FRONT = ROOT-NATIVE NONINVERTIBLE HIGHER-CONS / B5 ADMISSIBILITY ACTIVATION GATE**
 
 # **D2/D3 3/130 PROPORTIONALITY = SOURCE-DERIVED / CLOSED**
 
@@ -210,18 +212,39 @@ Later historical controls retained:
 - Q-B1857 retypes part of the multitime pair obstruction as Cons-normalization connection;
 - Q-B1858 identifies a robust projective conformal face-scale ray, but the subleading predictively visible operator content remains nonuniversal and SAME-h still fails.
 
+### Q-rich B5/presymplectic invertible-process no-go — newest binding checkpoint
+
+`checkpoints/SENTRY/2026-09-25/TDG_QRICH_B5_PRESYMPLECTIC_INVERTIBLE_PROCESS_NOGO_2026-09-25.md`
+
+commit `f2f061f0ea9826b65faa920a46ad77ac558348b3`.
+
+Binding:
+
+- Q-B1462 active rich map has rank 21 with no active kernel for the physical class;
+- Q-B1464 state→Cauchy map `(h,K)` has exact rank `42/42`: current Q-rich constraint locus is codimension 0;
+- after the three tangential/basicness directions, the symmetric metric content is exactly `TT2 + scalar1`;
+- the unique allowed normal scalar relation is `C0 = k_i k_j h_ij - |k|^2 tr(h)` (or the tetrahedral-`g(k)` version);
+- current H160/Q-rich remains in the relation-absent `beta=0` class;
+- Q-B1845 collective four-B3 chart is rank-4 with exact leading isometry `A0^T A0=I4` and is explicitly a process/redescription connection;
+- Q-B1846 local action is an exact M2 automorphism/projectable Feshbach-diamond connection to numerical floor;
+- an invertible source/target redescription preserves rank, so composing it with a 42/42 Cauchy-surjective map cannot create a codimension-one equation `C0=0`;
+- therefore the later Q-B1845/46 process bridge cannot activate `beta!=0` or generate the missing fourth first-class relation;
+- Q-B1500/1504 two-helicity-2 constrained class remains exact conditional capacity only;
+- any successful activation must be genuinely **noninvertible and relation-valued**, with no independent Cauchy datum and leading q² relevance.
+
 ## 5. Exact active task
 
-# **Q-RICH NORMAL-RELATION / B5-PRESYMPLECTIC PROVENANCE RECONCILIATION GATE**
+# **ROOT-NATIVE NONINVERTIBLE HIGHER-CONS / B5 ADMISSIBILITY ACTIVATION GATE**
 
-1. Freeze the active Q-rich recurrence and rich-B3/fresh-record process branch, including Q-B1447→Q-B1505 and the later Q-B1845/46 collective process connection.
-2. Recover the exact historical B5 candidate normal relation `C0 ~ k_i k_j h_ij - k^2 tr(h)` and the theorem that the then-current Q-rich realization was relation-absent.
-3. Test whether the later collective four-B3 / Cons-Feshbach process connection supplies any already-earned presymplectic degeneracy or codimension-one normal relation that was unavailable in the earlier Q-rich audit.
-4. The relation must be derived target-blindly from process composition, predictive memory, Cons/Feshbach degeneracy or exact B5 boundary structure.
-5. No TT projector, soft penalty, scalar dose, hand B5 constraint, ADM coefficient, or deletion of the scalar mode.
-6. Require b4/b24 refinement naturality, shared-parent sewing, analytic-family stability and exact/strong process composition controls.
-7. PASS only if a genuine first-class/presymplectic relation emerges and the Q-rich physical mode count reduces accordingly without fitting.
-8. If no such relation exists, certify the Q-rich process branch as still relation-absent and isolate the minimal missing mathematical property.
+1. Freeze the exact B5 scalar form `C0` and binary classification `beta=0` versus `beta!=0`.
+2. Retain Q-B1845/46 as an invertible process/redescription connection; do not reuse it as a rank-dropping constraint.
+3. Recover Q-B1506+ and later regional/intervention-complete structures for any already-earned relation-valued higher-cell operation.
+4. Demand an exact physical rank test: after tangential basicness, PASS requires codimension exactly one in the Cauchy image, not a small singular value or fitted projection.
+5. The B5 multiplier/relation must carry no independent Cauchy datum.
+6. Require compatibility with fresh-record/recombine-before-record ordering, B5 orientation, shared-parent sewing and refinement naturality.
+7. Require leading q² relevance; ordinary `O(a4)` bulk corrections to an `O(a2)` boundary process and finite `C0^2` penalties remain disqualified.
+8. Only after a derived `beta!=0` relation may Q-B1500/1504 be promoted from conditional capacity and the spin-2/HDA gates be reopened.
+9. If no preexisting noninvertible relation survives, classify missing B5 activation as a genuine Root2 architectural-law gap rather than inventing a constraint.
 
 ## 6. Global firewalls
 
@@ -248,6 +271,6 @@ Later historical controls retained:
 
 🟢 **Pre/post obstruction unified:** the same unique S4 `l=2 -> l=1` intertwiner survives before and after actualization.\n\n🟢 **Readout rescue closed:** the formal `z->infinity` Q pencil itself gives a nonzero coefficient `c_inf ~ 10.769201`, with direct b4/b24 agreement.\n\n🟢 **D2 source localized:** the obstruction is already D2-only and its six H3 path classes collapse to one constitutive mechanism, the inter-parent `P->F->P->F` return path. The fine-B4 path is exactly an `N^(-1/3)` refinement copy and cancels from `VF^-1`.\n\n🟢 **Current-law no-go closed:** the inter-parent D2 channel reduces to an exact 3x3 multiplicity problem with `c_Q = 938987 sqrt(2) / 123308 != 0`.
 
-🟢 **3/130 closed at source:** the D2/D3 relation follows from the one-extra-H energy insertion law.\n\n🟢 **H5 firewall closed:** neither legacy nor modern H5 supplies a licensed executable repair.\n\n🟢 **Preexisting alternative recovered:** Q-rich/fresh-record/rich-B3 is independently motivated, exact at its own active A6 level, and acts on coherent parent return rather than merely changing readout.\n\n🟢 **Incidence bridge closed positive:** the current 101-parent carrier itself supports the exact Q-rich oriented boundary complex with `ker d3=im d4`, dimension 25.\n\n🟢 **Process bridge provenance recovered:** Q-B1843S/Q-B1845K already derive the cooriented common-Herm2 / collective four-B3 connection.\n\n🟢 **Branch separation closed:** fresh Q-B1844 replay confirms the ordinary Hamiltonian D2 response cannot be identified with that process connection.\n\n🟡 **Immediate target:** inside Q-rich only, derive or refute a B5/presymplectic normal relation that can change the physical mode count.
+🟢 **3/130 closed at source:** the D2/D3 relation follows from the one-extra-H energy insertion law.\n\n🟢 **H5 firewall closed:** neither legacy nor modern H5 supplies a licensed executable repair.\n\n🟢 **Preexisting alternative recovered:** Q-rich/fresh-record/rich-B3 is independently motivated, exact at its own active A6 level, and acts on coherent parent return rather than merely changing readout.\n\n🟢 **Incidence bridge closed positive:** the current 101-parent carrier itself supports the exact Q-rich oriented boundary complex with `ker d3=im d4`, dimension 25.\n\n🟢 **Process bridge provenance recovered:** Q-B1843S/Q-B1845K already derive the cooriented common-Herm2 / collective four-B3 connection.\n\n🟢 **Branch separation closed:** fresh Q-B1844 replay confirms the ordinary Hamiltonian D2 response cannot be identified with that process connection.\n\n🟢 **Late-process route closed:** the Q-B1845/46 collective connection is invertible/redescriptive and cannot create the required codimension-one B5 relation.\n\n🟡 **Immediate target:** audit Q-B1506+ and later regional/higher-Cons structures for a genuinely noninvertible, multiplier-like B5 admissibility law.
 
 🔴 **No GR promotion:** full/dynamical O(3), HDA, spin-2 and nonlinear GR remain unestablished.
