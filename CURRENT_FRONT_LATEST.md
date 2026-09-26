@@ -116,7 +116,9 @@ Binding:
 
 # **C0 FORM / EFFECTIVE PARENT / REFINEMENT NATURALITY = HISTORICALLY DERIVED**
 
-# **ACTIVE PRIMARY FRONT = Q-NATIVE EFFECTIVE COISOTROPIC RETENTION / RANK-1 CONFORMAL DESCENT GATE**
+# **COISOTROPIC RETENTION QUOTIENT = CLOSED NEGATIVE / CONFORMAL SCALAR REMAINS RETAINED PHYSICAL RESPONSE**
+
+# **ACTIVE PRIMARY FRONT = ROOT2 RELATION-CELL / B5 NORMAL-ADMISSIBILITY LAW GENERATION GATE**
 
 # **D2/D3 3/130 PROPORTIONALITY = SOURCE-DERIVED / CLOSED**
 
@@ -257,18 +259,35 @@ Binding recovery:
 
 Therefore the old broad B5 question is superseded. The remaining wall is exactly whether the Q-retained predictive/geometric quotient selects the effective coisotropic parent rather than the unconstrained child.
 
+### Coisotropic retention audit — conformal direction remains physical
+
+`checkpoints/SENTRY/2026-09-26/TDG_QRICH_COISOTROPIC_RETENTION_FAIL_B5_RELATION_CELL_GAP_2026-09-26.md`
+
+commit `0d2324f509039b58c213c11bf28809fb96879eb4`.
+
+Binding:
+
+- the Q-rich third mode is the determinant/intensity/volume conformal scalar, not a record/history artifact;
+- the complete 24-chain event screen retains the full rich response metric, with h-tangent rank21 and K-like tangent rank21;
+- true response volume `mu_Q` varies physically under state perturbations and participates in Hodge/Stokes/refinement locking;
+- `Gamma_pred` identifies duplicate factual histories only when they reach the same future-process node `(H_K,outgoing Q couplings)`; it is not a blind quotient of local response determinant/metric scale;
+- inequivalent grown carriers are spectrally distinguishable, confirming predictive sensitivity rather than universal quotienting;
+- therefore the one-dimensional pure-trace difference between lambda=11/37 child and lambda=1/2 parent is not derived vertical, descriptive, or retention-null;
+- the unique lambda=1/2 effective parent remains a conditional emergent completion, not the derived physical parent of current Q-rich;
+- the remaining B5 problem is an actual state/admissibility restriction `beta=0 -> beta!=0`, requiring a relation-valued noninvertible Root2 law.
+
 ## 5. Exact active task
 
-# **Q-NATIVE EFFECTIVE COISOTROPIC RETENTION / RANK-1 CONFORMAL DESCENT GATE**
+# **ROOT2 RELATION-CELL / B5 NORMAL-ADMISSIBILITY LAW GENERATION GATE**
 
-1. Freeze Q-derived `C0`, child `lambda=11/37`, parent `lambda=1/2`, and `DeltaW=(15/4)|I><I|`.
-2. Do not retry microscopic KKS→C0; that route is strongly negative and refinement-stable.
-3. Recover the post-Q-B1775 retained-screen / complete-future predictive quotient and identify the exact criterion by which microscopic process directions become retained geometric observables versus vertical/descriptive/process-memory directions.
-4. Apply that criterion specifically to the one-dimensional pure-trace child-parent difference.
-5. PASS requires a target-blind theorem that all retained complete-future geometric observables factor through the lambda=1/2 parent quotient, or are insensitive to the rank-1 conformal direction.
-6. The theorem must preserve physical 1→24 refinement naturality and the inductive Q witness.
-7. If the trace direction remains predictively distinguishable, the coisotropic parent remains conditional and C0 cannot be promoted to a first-class physical constraint.
-8. Only after PASS may the Q-B1500/1504 two-helicity-2 phase be promoted and HDA/spin-2 gates reopened.
+1. Freeze the Q-derived C0 scalar and the binary beta=0 / beta!=0 architecture.
+2. Do not search for a new C0 tensor form, coefficient, projector, normalization, retention quotient, or KKS rescue.
+3. Search only preexisting Root2 structures that are genuinely relation-valued/noninvertible: regional admissibility cells, intervention-complete process equations, higher-cell fillability relations, or equivalent multiplier-like process laws.
+4. PASS requires reduction of the physical Cauchy image by exactly one dimension with no new propagating Cauchy datum.
+5. C0 must emerge at leading q2 from that law rather than being inserted as a target.
+6. Require compatibility with fresh-record/recombine-before-record ordering, tangential basicness, complete-screen geometry, two-sided higher-Cons and physical 1→24 refinement.
+7. Only after beta!=0 is derived may the Q-B1500/1504 two-helicity-2 constrained class be promoted and HDA/spin-2 gates reopened.
+8. If no such preexisting Root2 relation-cell mechanism exists, certify a genuine new-law requirement and stop the pure-current-Q route to two-mode GR.
 
 ## 6. Global firewalls
 
@@ -295,6 +314,6 @@ Therefore the old broad B5 question is superseded. The remaining wall is exactly
 
 🟢 **Pre/post obstruction unified:** the same unique S4 `l=2 -> l=1` intertwiner survives before and after actualization.\n\n🟢 **Readout rescue closed:** the formal `z->infinity` Q pencil itself gives a nonzero coefficient `c_inf ~ 10.769201`, with direct b4/b24 agreement.\n\n🟢 **D2 source localized:** the obstruction is already D2-only and its six H3 path classes collapse to one constitutive mechanism, the inter-parent `P->F->P->F` return path. The fine-B4 path is exactly an `N^(-1/3)` refinement copy and cancels from `VF^-1`.\n\n🟢 **Current-law no-go closed:** the inter-parent D2 channel reduces to an exact 3x3 multiplicity problem with `c_Q = 938987 sqrt(2) / 123308 != 0`.
 
-🟢 **3/130 closed at source:** the D2/D3 relation follows from the one-extra-H energy insertion law.\n\n🟢 **H5 firewall closed:** neither legacy nor modern H5 supplies a licensed executable repair.\n\n🟢 **Preexisting alternative recovered:** Q-rich/fresh-record/rich-B3 is independently motivated, exact at its own active A6 level, and acts on coherent parent return rather than merely changing readout.\n\n🟢 **Incidence bridge closed positive:** the current 101-parent carrier itself supports the exact Q-rich oriented boundary complex with `ker d3=im d4`, dimension 25.\n\n🟢 **Process bridge provenance recovered:** Q-B1843S/Q-B1845K already derive the cooriented common-Herm2 / collective four-B3 connection.\n\n🟢 **Branch separation closed:** fresh Q-B1844 replay confirms the ordinary Hamiltonian D2 response cannot be identified with that process connection.\n\n🟢 **Late-process route closed:** the Q-B1845/46 collective connection is invertible/redescriptive and cannot create the required codimension-one B5 relation.\n\n🟢 **B5 form and parent recovered:** C0, lambda=1/2, the rank-1 child-parent difference, and the local <=2-derivative effective parent are already derived.\n\n🟢 **Refinement naturality recovered:** the effective parent survives the physical 1→24 hierarchy and an inductive Q witness.\n\n🟡 **Immediate target:** prove or refute Q-native retention of the coisotropic parent by testing whether the single pure-trace child-parent direction survives the complete-future predictive quotient.
+🟢 **3/130 closed at source:** the D2/D3 relation follows from the one-extra-H energy insertion law.\n\n🟢 **H5 firewall closed:** neither legacy nor modern H5 supplies a licensed executable repair.\n\n🟢 **Preexisting alternative recovered:** Q-rich/fresh-record/rich-B3 is independently motivated, exact at its own active A6 level, and acts on coherent parent return rather than merely changing readout.\n\n🟢 **Incidence bridge closed positive:** the current 101-parent carrier itself supports the exact Q-rich oriented boundary complex with `ker d3=im d4`, dimension 25.\n\n🟢 **Process bridge provenance recovered:** Q-B1843S/Q-B1845K already derive the cooriented common-Herm2 / collective four-B3 connection.\n\n🟢 **Branch separation closed:** fresh Q-B1844 replay confirms the ordinary Hamiltonian D2 response cannot be identified with that process connection.\n\n🟢 **Late-process route closed:** the Q-B1845/46 collective connection is invertible/redescriptive and cannot create the required codimension-one B5 relation.\n\n🟢 **B5 form and parent recovered:** C0, lambda=1/2, the rank-1 child-parent difference, and the local <=2-derivative effective parent are already derived.\n\n🟢 **Refinement naturality recovered:** the effective parent survives the physical 1→24 hierarchy and an inductive Q witness.\n\n🟢 **Retention test closed:** the pure-trace conformal direction survives as retained physical response and cannot be quotiented by the existing complete-screen/Gamma_pred architecture.\n\n🟡 **Immediate target:** find or rule out a genuinely relation-valued Root2/B5 admissibility process that changes beta=0 to beta!=0 without adding a propagating degree of freedom.
 
 🔴 **No GR promotion:** full/dynamical O(3), HDA, spin-2 and nonlinear GR remain unestablished.
