@@ -118,7 +118,9 @@ Binding:
 
 # **COISOTROPIC RETENTION QUOTIENT = CLOSED NEGATIVE / CONFORMAL SCALAR REMAINS RETAINED PHYSICAL RESPONSE**
 
-# **ACTIVE PRIMARY FRONT = ROOT2 RELATION-CELL / B5 NORMAL-ADMISSIBILITY LAW GENERATION GATE**
+# **PREEXISTING B5 RELATION-CELL SEARCH = EXHAUSTED / NO beta=0→beta!=0 MECHANISM DERIVED**
+
+# **ACTIVE PRIMARY FRONT = MINIMAL ROOT2 B5 RELATION-CELL EXTENSION / CONSTITUTIVE-CONSISTENCY GATE**
 
 # **D2/D3 3/130 PROPORTIONALITY = SOURCE-DERIVED / CLOSED**
 
@@ -276,18 +278,46 @@ Binding:
 - the unique lambda=1/2 effective parent remains a conditional emergent completion, not the derived physical parent of current Q-rich;
 - the remaining B5 problem is an actual state/admissibility restriction `beta=0 -> beta!=0`, requiring a relation-valued noninvertible Root2 law.
 
+### Exhaustion audit — no preexisting Root2 B5 relation-cell found
+
+`checkpoints/SENTRY/2026-09-28/TDG_ROOT2_B5_RELATION_CELL_EXHAUSTION_NEW_LAW_REQUIREMENT_2026-09-28.md`
+
+commit `1a68aeafcb6700736d2467506cdca3f7f5c63693`.
+
+Binding result:
+
+- active Q-rich Cauchy map remains rank42/42 and codim0;
+- B5↔dark A6 module supplies a representation slot but active→dark coupling is zero;
+- one-B5 H160 fillability is boundary-surjective;
+- genuine B5/bulk effects are O(a^4), too subleading to generate the required leading q^2 relation;
+- finite penalties/ordinary auxiliaries and positive-square constructions are IR-inadequate;
+- Feshbach marked-intervention transport is exact but does not imply embedding basicness;
+- moving-frontier germs and fresh-step comb restore process naturality but do not create a Cauchy relation;
+- Q-B1630→1675 fresh moving-cut/higher-Cons work derives C0 and nonlinear projectability but still does not derive the coisotropic parent;
+- raw microscopic KKS descent is the wrong tensor map;
+- complete-screen/Gamma_pred retention leaves the conformal scalar physical;
+- old Q-B251 Ward/HDA architecture is only a conditional theorem: one concrete Root2 Q satisfying the premises was never derived;
+- H5 remains reserve/new microphysics, not an executable current-law B5 solution.
+
+Therefore no currently derived Root2 mechanism implements the binary architectural jump `beta=0 -> beta!=0`.
+
 ## 5. Exact active task
 
-# **ROOT2 RELATION-CELL / B5 NORMAL-ADMISSIBILITY LAW GENERATION GATE**
+# **MINIMAL ROOT2 B5 RELATION-CELL EXTENSION / CONSTITUTIVE-CONSISTENCY GATE**
 
-1. Freeze the Q-derived C0 scalar and the binary beta=0 / beta!=0 architecture.
-2. Do not search for a new C0 tensor form, coefficient, projector, normalization, retention quotient, or KKS rescue.
-3. Search only preexisting Root2 structures that are genuinely relation-valued/noninvertible: regional admissibility cells, intervention-complete process equations, higher-cell fillability relations, or equivalent multiplier-like process laws.
-4. PASS requires reduction of the physical Cauchy image by exactly one dimension with no new propagating Cauchy datum.
-5. C0 must emerge at leading q2 from that law rather than being inserted as a target.
-6. Require compatibility with fresh-record/recombine-before-record ordering, tangential basicness, complete-screen geometry, two-sided higher-Cons and physical 1→24 refinement.
-7. Only after beta!=0 is derived may the Q-B1500/1504 two-helicity-2 constrained class be promoted and HDA/spin-2 gates reopened.
-8. If no such preexisting Root2 relation-cell mechanism exists, certify a genuine new-law requirement and stop the pure-current-Q route to two-mode GR.
+The project is no longer searching for a hidden preexisting B5 law. Any candidate from this point is an explicit **Root2 constitutive extension** until a deeper principle derives it.
+
+1. Reuse the existing B5/dark A6 `1+5` relation slot if possible; do not introduce an unrelated carrier.
+2. Introduce no new propagating Cauchy degree of freedom. The new object must be multiplier/relation-valued.
+3. Its nonzero branch must generate the already-unique refined leading scalar `C0`; do not fit a transverse projector or Einstein coefficients.
+4. Preserve existing Q-rich TT child dynamics exactly after reduction.
+5. Preserve fresh-record / recombine-before-record ordering and no old-record autonomous feedback.
+6. Preserve two-sided higher-Cons, complete-screen retained geometry and physical 1->24 refinement.
+7. Reduction must reproduce the already-derived effective parent `lambda=1/2` and eliminate only the one conformal physical branch.
+8. Verify that beta!=0 normalization is pure multiplier rescaling, while beta=0 remains the only distinct unconstrained phase.
+9. Run adversaries: no-extra-syndrome, no new pole, no ghost/hidden oscillator, no target-fitted cancellation, no damage to TT response, no loss of Q covariance/basicness.
+10. Until a root principle selects the extension, label it CAPACITY / CONSTITUTIVE ROOT2 EXTENSION, not derived TDG law.
+11. Only after this gate passes may the four-constraint two-helicity-2 phase be promoted and HDA/spin-2 gates reopened.
 
 ## 6. Global firewalls
 
@@ -314,6 +344,6 @@ Binding:
 
 🟢 **Pre/post obstruction unified:** the same unique S4 `l=2 -> l=1` intertwiner survives before and after actualization.\n\n🟢 **Readout rescue closed:** the formal `z->infinity` Q pencil itself gives a nonzero coefficient `c_inf ~ 10.769201`, with direct b4/b24 agreement.\n\n🟢 **D2 source localized:** the obstruction is already D2-only and its six H3 path classes collapse to one constitutive mechanism, the inter-parent `P->F->P->F` return path. The fine-B4 path is exactly an `N^(-1/3)` refinement copy and cancels from `VF^-1`.\n\n🟢 **Current-law no-go closed:** the inter-parent D2 channel reduces to an exact 3x3 multiplicity problem with `c_Q = 938987 sqrt(2) / 123308 != 0`.
 
-🟢 **3/130 closed at source:** the D2/D3 relation follows from the one-extra-H energy insertion law.\n\n🟢 **H5 firewall closed:** neither legacy nor modern H5 supplies a licensed executable repair.\n\n🟢 **Preexisting alternative recovered:** Q-rich/fresh-record/rich-B3 is independently motivated, exact at its own active A6 level, and acts on coherent parent return rather than merely changing readout.\n\n🟢 **Incidence bridge closed positive:** the current 101-parent carrier itself supports the exact Q-rich oriented boundary complex with `ker d3=im d4`, dimension 25.\n\n🟢 **Process bridge provenance recovered:** Q-B1843S/Q-B1845K already derive the cooriented common-Herm2 / collective four-B3 connection.\n\n🟢 **Branch separation closed:** fresh Q-B1844 replay confirms the ordinary Hamiltonian D2 response cannot be identified with that process connection.\n\n🟢 **Late-process route closed:** the Q-B1845/46 collective connection is invertible/redescriptive and cannot create the required codimension-one B5 relation.\n\n🟢 **B5 form and parent recovered:** C0, lambda=1/2, the rank-1 child-parent difference, and the local <=2-derivative effective parent are already derived.\n\n🟢 **Refinement naturality recovered:** the effective parent survives the physical 1→24 hierarchy and an inductive Q witness.\n\n🟢 **Retention test closed:** the pure-trace conformal direction survives as retained physical response and cannot be quotiented by the existing complete-screen/Gamma_pred architecture.\n\n🟡 **Immediate target:** find or rule out a genuinely relation-valued Root2/B5 admissibility process that changes beta=0 to beta!=0 without adding a propagating degree of freedom.
+🟢 **3/130 closed at source:** the D2/D3 relation follows from the one-extra-H energy insertion law.\n\n🟢 **H5 firewall closed:** neither legacy nor modern H5 supplies a licensed executable repair.\n\n🟢 **Preexisting alternative recovered:** Q-rich/fresh-record/rich-B3 is independently motivated, exact at its own active A6 level, and acts on coherent parent return rather than merely changing readout.\n\n🟢 **Incidence bridge closed positive:** the current 101-parent carrier itself supports the exact Q-rich oriented boundary complex with `ker d3=im d4`, dimension 25.\n\n🟢 **Process bridge provenance recovered:** Q-B1843S/Q-B1845K already derive the cooriented common-Herm2 / collective four-B3 connection.\n\n🟢 **Branch separation closed:** fresh Q-B1844 replay confirms the ordinary Hamiltonian D2 response cannot be identified with that process connection.\n\n🟢 **Late-process route closed:** the Q-B1845/46 collective connection is invertible/redescriptive and cannot create the required codimension-one B5 relation.\n\n🟢 **B5 form and parent recovered:** C0, lambda=1/2, the rank-1 child-parent difference, and the local <=2-derivative effective parent are already derived.\n\n🟢 **Refinement naturality recovered:** the effective parent survives the physical 1→24 hierarchy and an inductive Q witness.\n\n🟢 **Retention test closed:** the pure-trace conformal direction survives as retained physical response and cannot be quotiented by the existing complete-screen/Gamma_pred architecture.\n\n🟢 **Preexisting mechanism search closed:** no derived Root2 process generates beta!=0.\n\n🟡 **Immediate target:** design the minimal B5 relation-cell as an explicit Root2 constitutive extension and stress-test whether it preserves all previously derived Q-rich/fresh-comb/refinement structure without adding propagating data.
 
 🔴 **No GR promotion:** full/dynamical O(3), HDA, spin-2 and nonlinear GR remain unestablished.
