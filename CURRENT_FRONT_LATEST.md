@@ -122,7 +122,9 @@ Binding:
 
 # **MINIMAL B5 CONSTITUTIVE EXTENSION v0.1 = STRONG STRUCTURAL CAPACITY PASS / NOT DERIVED TDG LAW**
 
-# **ACTIVE PRIMARY FRONT = B5 EXTENSION v0.2 — A6 MULTIPLIER REALIZATION + NO-EXTRA-SYNDROME GATE**
+# **B5 EXTENSION v0.2 = A6 MULTIPLIER REGISTER PASS + LOCAL LINEAR RANK8 NO-EXTRA-SYNDROME PASS**
+
+# **ACTIVE PRIMARY FRONT = B5 EXTENSION v0.3 — OVERLAPPING RELATION-CELL HIGHER-CONS / REGIONAL COMPOSITION GATE**
 
 # **D2/D3 3/130 PROPORTIONALITY = SOURCE-DERIVED / CLOSED**
 
@@ -323,21 +325,45 @@ Binding v0.1 result:
 - physical 1->24 second-jet/scalar refinement provides inherited compatibility for the relation form;
 - explicit A6 multiplier process realization and fresh rank8 no-extra-syndrome test remain OPEN.
 
+### B5 extension v0.2 — A6 multiplier realization + rank8 pass
+
+checkpoints/SENTRY/2026-10-06/TDG_B5_EXTENSION_V0_2_A6_MULTIPLIER_RANK8_PASS_2026-10-06.md
+
+commit f73b5e09bf73f06b31b42a6f020bd611302c7d76.
+
+Verifier:
+
+checkpoints/SENTRY/2026-10-06/verify_b5_v02_a6_rank8.py
+
+commit 5afc6d3e6d225d8e48420378a264533b7ce8a10d.
+
+Binding v0.2 results:
+
+- archived Q-B1462->1505 baseline freshly certifies 18/18 PASS;
+- finite-carrier carrier-basic h21->B5 map space splits exactly into one singlet + one Standard5 channel;
+- oriented d4 has rank5/null1 and its unique kernel is exactly the oriented A6 singlet;
+- the pure singlet channel is annihilated by d4 at numerical floor while the Standard5 channel has boundary rank5;
+- both oriented channels are exactly A6-equivariant after correct orientation typing;
+- the existing Q-rich dark 1+5 module hosts the B5 relation register via a full-rank A6 intertwiner; the Standard5 subchannel has dark rank5;
+- actual Q-rich state->Cauchy map remains rank42/42;
+- imposing the four local cut relations on a full-rank local Cauchy chart gives rank8 exactly for three independent derivative directions, with s8/s1 about 0.231032539 and relation residuals at 1e-15;
+- therefore local linear no-extra-syndrome passes, conditional on the extension being relation-only and leaving the bulk->cut Q-rich map unchanged;
+- beta!=0 remains a new constitutive premise and is not derived by these passes.
+
 ## 5. Exact active task
 
-# **B5 EXTENSION v0.2 — A6 MULTIPLIER REALIZATION + NO-EXTRA-SYNDROME GATE**
+# **B5 EXTENSION v0.3 — OVERLAPPING RELATION-CELL HIGHER-CONS / REGIONAL COMPOSITION GATE**
 
-1. Realize the nonpropagating multiplier using the already-existing B5/dark A6 1+5 relation slot if possible.
-2. Use d4 rank5/null1 only as internal relation-label structure; never identify its null direction with the physical conformal metric direction.
-3. Derive the regional geometric relation map after tangential basicness and demand exactly one new scalar conormal.
-4. Build the constrained regional restriction map on the 8D four-constraint surface.
-5. Demand rank(d r_R)=8 and a nonzero eighth singular value; rank <=7 is an extra-syndrome FAIL.
-6. Verify no new pole / no multiplier kinetic partner / no finite C0^2 penalty.
-7. Verify TT Q-rich response is unchanged under reduction.
-8. Verify fresh-record/recombine-before-record ordering and no old-record feedback.
-9. Verify relation transport under the established 1->24 second-germ refinement.
-10. Only after rank8 and overlapping relation-cell higher-Cons pass may v0.1 be promoted to a coherent Root2 constitutive extension candidate.
-11. It remains NOT DERIVED TDG until an independent root principle selects beta!=0.
+1. Build two overlapping B5 relation cells on the actual carrier using the oriented d4/Standard5 multiplier register.
+2. Propagate relation data through shared B4/B3 boundaries without identifying the d4 singlet redundancy with physical metric trace.
+3. Compute the combined conormal rank after tangential basicness; overlapping cells must represent one local scalar field C0(x), not accumulate spurious independent scalar constraints.
+4. Demand the regional restricted Cauchy image has the expected rank and no extra syndrome.
+5. Extend to a multi-cell patch and test whether rank defects are topological/expected or pathological.
+6. Verify compatibility with fresh-step/recombine-before-record ordering and no old-record feedback.
+7. Verify physical 1->24 second-germ refinement transports the relation-cell data consistently.
+8. Verify TT response remains unchanged under regional composition.
+9. If overlap generates extra independent conormals or rank below expectation, v0.2 is only a local toy and the extension fails.
+10. Only after overlap/higher-Cons pass may the extension be promoted to a coherent regional Root2 constitutive candidate.
 ## 6. Global firewalls
 
 - old absolute `1e-10` T3 support threshold is not a physical law;
@@ -363,6 +389,6 @@ Binding v0.1 result:
 
 🟢 **Pre/post obstruction unified:** the same unique S4 `l=2 -> l=1` intertwiner survives before and after actualization.\n\n🟢 **Readout rescue closed:** the formal `z->infinity` Q pencil itself gives a nonzero coefficient `c_inf ~ 10.769201`, with direct b4/b24 agreement.\n\n🟢 **D2 source localized:** the obstruction is already D2-only and its six H3 path classes collapse to one constitutive mechanism, the inter-parent `P->F->P->F` return path. The fine-B4 path is exactly an `N^(-1/3)` refinement copy and cancels from `VF^-1`.\n\n🟢 **Current-law no-go closed:** the inter-parent D2 channel reduces to an exact 3x3 multiplicity problem with `c_Q = 938987 sqrt(2) / 123308 != 0`.
 
-🟢 **3/130 closed at source:** the D2/D3 relation follows from the one-extra-H energy insertion law.\n\n🟢 **H5 firewall closed:** neither legacy nor modern H5 supplies a licensed executable repair.\n\n🟢 **Preexisting alternative recovered:** Q-rich/fresh-record/rich-B3 is independently motivated, exact at its own active A6 level, and acts on coherent parent return rather than merely changing readout.\n\n🟢 **Incidence bridge closed positive:** the current 101-parent carrier itself supports the exact Q-rich oriented boundary complex with `ker d3=im d4`, dimension 25.\n\n🟢 **Process bridge provenance recovered:** Q-B1843S/Q-B1845K already derive the cooriented common-Herm2 / collective four-B3 connection.\n\n🟢 **Branch separation closed:** fresh Q-B1844 replay confirms the ordinary Hamiltonian D2 response cannot be identified with that process connection.\n\n🟢 **Late-process route closed:** the Q-B1845/46 collective connection is invertible/redescriptive and cannot create the required codimension-one B5 relation.\n\n🟢 **B5 form and parent recovered:** C0, lambda=1/2, the rank-1 child-parent difference, and the local <=2-derivative effective parent are already derived.\n\n🟢 **Refinement naturality recovered:** the effective parent survives the physical 1→24 hierarchy and an inductive Q witness.\n\n🟢 **Retention test closed:** the pure-trace conformal direction survives as retained physical response and cannot be quotiented by the existing complete-screen/Gamma_pred architecture.\n\n🟢 **Preexisting mechanism search closed:** no derived Root2 process generates beta!=0.\n\n🟢 **Minimal v0.1 structural design passed:** one binary multiplier-like B5 activation is sufficient at the constitutive level; C0 form and lambda=1/2 are then forced by existing closure results and TT dynamics is untouched.\n\n🟡 **Immediate target:** realize that multiplier in the existing A6 B5/dark slot and run the decisive regional rank-8 no-extra-syndrome test.
+🟢 **3/130 closed at source:** the D2/D3 relation follows from the one-extra-H energy insertion law.\n\n🟢 **H5 firewall closed:** neither legacy nor modern H5 supplies a licensed executable repair.\n\n🟢 **Preexisting alternative recovered:** Q-rich/fresh-record/rich-B3 is independently motivated, exact at its own active A6 level, and acts on coherent parent return rather than merely changing readout.\n\n🟢 **Incidence bridge closed positive:** the current 101-parent carrier itself supports the exact Q-rich oriented boundary complex with `ker d3=im d4`, dimension 25.\n\n🟢 **Process bridge provenance recovered:** Q-B1843S/Q-B1845K already derive the cooriented common-Herm2 / collective four-B3 connection.\n\n🟢 **Branch separation closed:** fresh Q-B1844 replay confirms the ordinary Hamiltonian D2 response cannot be identified with that process connection.\n\n🟢 **Late-process route closed:** the Q-B1845/46 collective connection is invertible/redescriptive and cannot create the required codimension-one B5 relation.\n\n🟢 **B5 form and parent recovered:** C0, lambda=1/2, the rank-1 child-parent difference, and the local <=2-derivative effective parent are already derived.\n\n🟢 **Refinement naturality recovered:** the effective parent survives the physical 1→24 hierarchy and an inductive Q witness.\n\n🟢 **Retention test closed:** the pure-trace conformal direction survives as retained physical response and cannot be quotiented by the existing complete-screen/Gamma_pred architecture.\n\n🟢 **Preexisting mechanism search closed:** no derived Root2 process generates beta!=0.\n\n🟢 **Minimal v0.1 structural design passed:** one binary multiplier-like B5 activation is sufficient at the constitutive level; C0 form and lambda=1/2 are then forced by existing closure results and TT dynamics is untouched.\n\n🟢 **v0.2 passed:** the A6 B5/dark multiplier register is well typed and the local linear no-extra-syndrome test gives rank8 exactly.\n\n🟡 **Immediate target:** compose overlapping B5 relation cells and verify that regional higher-Cons does not create extra scalar conormals or overconstrain the Q-rich patch.
 
 🔴 **No GR promotion:** full/dynamical O(3), HDA, spin-2 and nonlinear GR remain unestablished.
