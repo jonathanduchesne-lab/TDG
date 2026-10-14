@@ -134,7 +134,9 @@ Binding:
 
 # **GR190 LONG-MOMENT FOURTH-NULL ROUTE = SUPERSEDED BY P10I NUMERICAL CORRECTION**
 
-# **ACTIVE PRIMARY FRONT = P10J — STABLE FULL-RANK D4 SCHEME-COCYCLE / COFINAL TRANSPORT GATE**
+# **P10J->P10O HISTORICAL CHAIN = RECOVERED / D4 FUTURE-VISIBILITY ESTABLISHED AT FINITE CUTOFF**
+
+# **ACTIVE PRIMARY FRONT = P10P — D4 IR-RELEVANCE / FINITE-RESPONSE REFINEMENT-UNIVERSALITY GATE**
 
 # **D2/D3 3/130 PROPORTIONALITY = SOURCE-DERIVED / CLOSED**
 
@@ -466,20 +468,36 @@ Binding correction:
 - within-scheme b4 and b24 cutoff flow is strong/natural;
 - but b4<->b24 full-rank D4 projective residual remains ~0.255 at both .02 and .01;
 - therefore GR190 D8-D12 higher-order fourth-channel search is superseded; the live wall is the leading D4 refinement/cofinal scheme cocycle.
+### Historical P10J->P10O reconciliation
+
+Recovered from `Complete_TDG_ROOT2_A_TO_Z_GRANDMOTHER_WORK_RECOVERY_P10O_CLOSED_P10P_NOT_STARTED_2026-09-06.md`.
+
+Binding chain:
+
+- P10J: exact normalization-preserving rcoord formula; full D4 rank4 rebuild; fixed invertible two-sided transport at fixed analytic coordinates excluded by invariant trace mismatch; general Q-native cofinal transport remained open.
+- P10K: global native self-energy/source reconstruction; joint D4 source structure retained.
+- P10L: exact lower degrees 0..3 and mixed (2,2) cancellation in the highest-hop associated grade; only pure (4,0)/(0,4) remain.
+- P10M: pure D4 source coefficients enclosed with directed arithmetic; trace gap source-certified in [0.103258867737612470361716326364,0.103258867737612470361716326365] for the tested regular fixed-coordinate two-sided class.
+- P10N: descriptive equivalence, exact full-process equivalence and physical IR universality separated; no unlicensed quotient/coordinate map allowed.
+- P10O: on the already-earned scalar Cons/Feshbach predictive carrier, b4/b24 pure-D4 differences are future-visible at finite cutoff. 1812/1920 two-context projective wedges are source-certified nonzero; all 16 legal moves are separated, even allowing a distinct scalar gain per move.
+- Therefore the complete D4 defect cannot simply be deleted as descriptive gauge on the tested carrier.
+- But P10O does not decide whether the defect survives the physical IR limit.
+
 ## 5. Exact active task
 
-# **P10J — STABLE FULL-RANK D4 SCHEME-COCYCLE / COFINAL TRANSPORT GATE**
+# **P10P — D4 IR-RELEVANCE / FINITE-RESPONSE REFINEMENT-UNIVERSALITY GATE**
 
-1. Freeze the P10I stable singlet+triplet solver; normal equations are forbidden for central rcoord.
-2. Rebuild the full D4 common-process coefficient pencil in b4 and b24 with that stable solver.
-3. Re-audit coefficientwise and phase-ray b4/b24 comparisons.
-4. Test only already-derived Q-native Cons, synchronization, process-refinement and cofinal transports.
-5. Freeze every candidate transport before comparing residuals; no post-hoc GL4 fit.
-6. PASS requires one Q-native transport under which the stable rank4 D4 pencils are refinement/cofinal-natural.
-7. If all pre-existing transports fail and the ~0.255 cocycle remains finite, certify current RefinedQ as lacking universal leading four-affine refinement transport.
-8. Do not use D8-D12 until D4 cocycle is resolved.
-9. No preferred z, whitening, inverse-regulator normalization, target O3 projector, duration/Born/QSC input.
-10. Historical FINAL-CERTIFIED authority remains Q-B1858L.
+1. Freeze P10O and its source-certified finite-cutoff future-separation witnesses.
+2. Return to the complete finite-a response with Hdiag, not only the highest-hop associated grade.
+3. Use the stable normalization-preserving solver from P10J/P10M.
+4. Track the same predeclared move/context projective ratios across multiple controlled cutoffs.
+5. Keep F and V response scopes distinct.
+6. Measure whether the b4/b24 future-visible defect decays with a positive power of a, approaches a nonzero constant, or remains numerically unresolved.
+7. Do not multiply by inverse powers of a and call the result a physical observable.
+8. If defect ->0: classify finite-cutoff future-visible but IR-irrelevant for the tested observable; do not call it gauge.
+9. If defect -> nonzero constant: classify physical refinement-universality failure for the tested response.
+10. If conditioning blocks the limit, improve validated solver/bounds before physics.
+11. No D8-D12, fitted b4->b24 map, preferred z/phase, counterterm, Born/QSC, new field, or visible-memory deletion.
 ## 6. Global firewalls
 
 - old absolute `1e-10` T3 support threshold is not a physical law;
