@@ -154,7 +154,9 @@ Binding:
 
 # **MRP7B = CLOSED NEGATIVE FOR BARE FRESH-COMB PROJECTIVE ACTION**
 
-# **ACTIVE PRIMARY FRONT = MRP7C — DRESSED SELECTED-FUTURE PROJECTIVE BRANCH / POST-COMB RESPONSE EXTRACTION GATE**
+# **MRP8 = CLOSED PRETARGET / RELATIVE-ATTACHMENT EDGE-LAW SHAPE SELECTED BY SAME-FACE IDENTITY**
+
+# **ACTIVE PRIMARY FRONT = MRP9 — ACTUAL-Q EFFECTIVE SAME-FACE ATTACHMENT EXTRACTION / PROJECTIVE-LINK NONTRIVIALITY GATE**
 
 # **D2/D3 3/130 PROPORTIONALITY = SOURCE-DERIVED / CLOSED**
 
@@ -639,19 +641,36 @@ Binding:
 - this is consistent with Q-B1594->1596: bare star/POVM is insufficient to produce rich B3 geometry;
 - MRP1 is not falsified; only bare one-shot realization is excluded;
 - the only legitimate remaining source is the dressed post-comb / intervention-complete future response.
+### MRP8 — pretaret relative-attachment edge-law selection
+
+Checkpoint:
+`checkpoints/SENTRY/2026-10-14/TDG_MRP8_RELATIVE_ATTACHMENT_EDGE_LAW_SELECTION_PASS_2026-10-14.md`
+
+Verifier:
+`checkpoints/SENTRY/2026-10-14/verify_mrp8_relative_attachment_uniqueness.py`
+
+Binding:
+
+- Q-B746 independently forces the geometric link between two embeddings of the SAME physical Herm2/M2 face algebra to be the determinant-normalized relative attachment `S=Khat_CF Khat_C'F^-1`, up to central phase;
+- Q-B747 gives exact cell-frame covariance and exact cancellation of a common face-right refinement/redescription factor;
+- Q-B748 derives the dynamic effective attachment form from common-parent/Feshbach response and the corresponding traceless relative logarithmic link response;
+- therefore the projective edge-law SHAPE is no longer a free MRP constitutive choice once the physical attachments are given;
+- what remains open is whether the actual frozen RefinedQ/qb1852 process generates nontrivial dressed effective attachments of this type.
+
 ## 5. Exact active task
 
-# **MRP7C — DRESSED SELECTED-FUTURE PROJECTIVE BRANCH / POST-COMB RESPONSE EXTRACTION GATE**
+# **MRP9 — ACTUAL-Q EFFECTIVE SAME-FACE ATTACHMENT EXTRACTION / PROJECTIVE-LINK NONTRIVIALITY GATE**
 
-1. Freeze MRP1-7B.
-2. Work only after coherent recombination on the exact active B4+B3 post-comb future process.
-3. Use labelled future outcomes plus separating Herm2 interventions; do not read projective frame action from bare branch intensity.
-4. Derive the effective response map on the Q-B1264 bright M2 using Q-B978-type future tomography.
-5. Reuse Q-B1597/1598/1599 post-comb naturality and Q-B1606 relational support-changing transport where typing matches.
-6. Test non-scalarity on an open smooth phase, label covariance, branch phase gauge and sequential composition.
-7. If dressed maps remain projectively scalar, reject MRP as physical law of current Q.
-8. If nontrivial maps are earned, freeze them before any P10M/P10O comparison.
-9. O3/HDA/spin2/GR remain closed.
+1. Freeze MRP1-8 and Q-B746/747/748.
+2. Use the exact recovered qb1852 RefinedQ source with no coefficient changes.
+3. Identify actual neighboring B4 cells C,C' sharing a physical B3/M2 face F.
+4. Compute dressed effective attachments K_CF, K_C'F by exact Schur/Feshbach elimination of the legal internal complement, respecting Q-B748 typing.
+5. Do not confuse bare H_CF proportional-to-I2 legs with the dressed effective attachment.
+6. Form determinant-normalized relative link S and test projective nontriviality, invertibility, relabel covariance and common-face-right redressing cancellation.
+7. Require a noncentral S on an open smooth class, not one isolated fitted point.
+8. If every dressed link is scalar/factorizable, current RefinedQ does not physically realize MRP and the MRP route stops.
+9. Only after PASS may P10M/P10O b4/b24 cofinality be opened.
+10. O3/HDA/spin2/GR remain closed.
 ## 6. Global firewalls
 
 - old absolute `1e-10` T3 support threshold is not a physical law;
