@@ -150,7 +150,9 @@ Binding:
 
 # **MRP7 DIRECT INSERTION = BLOCKED / SELECTED-FUTURE CARRIER TYPE GAP**
 
-# **ACTIVE PRIMARY FRONT = MRP7A — ACTUAL-Q SELECTED-FUTURE CARRIER LOCALIZATION / VARIABLE-DEGREE BRIGHT-DOUBLET GATE**
+# **MRP7A = CLOSED TYPE PASS / VARIABLE-DEGREE BRIGHT M2 + BRANCHWISE PROJECTIVE TOMOGRAPHY**
+
+# **ACTIVE PRIMARY FRONT = MRP7B — ACTUAL-Q / FRESH-COMB BRANCH-MAP EXTRACTION ON BRIGHT M2**
 
 # **D2/D3 3/130 PROPORTIONALITY = SOURCE-DERIVED / CLOSED**
 
@@ -603,18 +605,34 @@ Binding:
 - exact qb1852 source SHA is recovered; this is a real carrier-typing fact, not a guessed summary;
 - historical MRP2 already identified the missing object as actual-Q selected-future response/tomography on a bright M2 doublet; its Q-B1247->1264 raw source archive remains unrecovered;
 - MRP1-6 are retained; microscopic b4/b24 insertion is postponed until the carrier/bright quotient is derived.
+### MRP7A — variable-degree bright-M2 type pass
+
+Checkpoint:
+`checkpoints/SENTRY/2026-10-14/TDG_MRP7A_SELECTED_FUTURE_CARRIER_TYPE_PASS_BRIGHT_M2_2026-10-14.md`
+
+commit `023f50a370ea92fe65b2f28a4d1d1b3bc1574f28`.
+
+Binding:
+
+- Q-B1264 already derives the q-wise uniform compatible-hinge bright doublet and preserves internal M2 through the cross-hinge presentation quotient;
+- Q-B978 reconstructs a physically labelled invertible branch on retained M2 from intervention-complete future tomography and canonically splits intensity from projective SL2 transport;
+- Q-B988/Q-B1001 give ordered-pair/triple branch composition when occurrence registers remain physically readable;
+- therefore raw B3 coface degree 2/3/4/5/6 is not a fundamental transport-type obstruction;
+- MRP3/MRP4 six-label degree3 construction is retyped as an exact local comparator/chart, not the universal carrier definition;
+- the universal candidate is branchwise projective response on the Q-derived bright M2;
+- actual current-Q numerical branch-map extraction remains open.
 ## 5. Exact active task
 
-# **MRP7A — ACTUAL-Q SELECTED-FUTURE CARRIER LOCALIZATION / VARIABLE-DEGREE BRIGHT-DOUBLET GATE**
+# **MRP7B — ACTUAL-Q / FRESH-COMB BRANCH-MAP EXTRACTION ON BRIGHT M2**
 
-1. Freeze MRP1-6 and the MRP7 type obstruction.
-2. Do not choose three future alternatives by hand and do not pad low-degree contexts with invented spectators.
-3. Search only pretaret Q/process structure for the actual selected-future response carrier at each B3-B2 incidence.
-4. PASS route A: derive a canonical three-alternative selected-future star whose degree3 realization is exactly the frozen MRP3/MRP4 carrier.
-5. PASS route B: derive a variable-degree local response object with a canonical rank2 bright quotient, reducing to the MRP3/MRP4 sum-zero doublet at degree3.
-6. Require automorphism covariance, predictive-equivalence compatibility, spectator stability, exact projective composition and no pseudoinverse.
-7. Future-visible modes may not be removed by averaging/quotient unless an independent process theorem makes them null.
-8. Only after PASS may MRP transports be inserted into qb1852 and P10M/P10O cofinality reopened.
+1. Freeze MRP1-7A.
+2. Use an already-derived labelled physical process/instrument, preferably the exact Q-B1597->1601 fresh-comb/recombine-before-record B3 instrument.
+3. Recover its exact source/repro before computing; do not reconstruct branch maps from downstream gravity-facing residuals.
+4. Restrict each response-visible branch to the Q-B1264 bright M2 predictive factor.
+5. Test branch rank/invertibility, projective non-scalarity, phase gauge, automorphism covariance and ordered-pair composition.
+6. If all branches are projectively scalar, MRP1 is not realized by current Q and the MRP physical-law branch fails.
+7. If nontrivial projective branch maps exist pretaret, freeze them before any b4/b24 comparison.
+8. Only after PASS reopen MRP microscopic insertion and P10M/P10O cofinality adversaries.
 9. O3/HDA/spin2/GR remain closed.
 ## 6. Global firewalls
 
