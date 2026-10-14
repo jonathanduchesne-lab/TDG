@@ -144,7 +144,9 @@ Binding:
 
 # **MRP1->MRP4 NEW ROOT2 PRETARGET BRANCH = RECOVERED / MRP4 STRONG CONSTRUCTIVE PASS**
 
-# **ACTIVE PRIMARY FRONT = MRP5 — PAIR-JOINT RESPONSE STATE REFINEMENT / PROJECTIVE-DIAMOND FUNCTORIALITY AND SPECTATOR-COMPOSITION GATE**
+# **MRP5 = CLOSED PRETARGET / CHI-ONLY REFINEMENT STATE NONCLOSURE**
+
+# **ACTIVE PRIMARY FRONT = MRP6 — FULL PROJECTIVE RESPONSE-STATE CLOSURE / POLAR-COMPACT MEMORY MINIMALITY GATE**
 
 # **D2/D3 3/130 PROPORTIONALITY = SOURCE-DERIVED / CLOSED**
 
@@ -544,18 +546,38 @@ Recovered historical lineage after the P10S stop rule:
 - MRP4 primary 71/71, exact 18/18, independent 21/21.
 - Comparator remains pretaret NEW-Q capacity, not final physical Q. Refinement functoriality/cofinality has not yet been earned.
 
+### MRP5 — chi-only refinement nonclosure
+
+Checkpoint:
+`checkpoints/SENTRY/2026-10-14/TDG_MRP5_CHI_REFINEMENT_NONCLOSURE_FULL_PGL_NEXT_2026-10-14.md`
+
+Verifier:
+`checkpoints/SENTRY/2026-10-14/verify_mrp5_pair_joint_refinement_closure.py`
+
+Binding:
+
+- exact MRP4 witness `d=(1,2,4)`, `d'=(1,3,2)` gives nonzero commutator `-5 sqrt(3)/9` in the offdiagonal;
+- determinant normalization does not remove the noncommutativity;
+- generic composition of two MRP4 positive factors is nonsymmetric and therefore not representable by a new chi-only MRP4 state;
+- global `log chi -> {T_Fe}` tangent rank is 14/15; only common scalar scaling is null;
+- spectator/common-scalar blindness remains exact;
+- even after retaining a continuous polar rotation, the composed positive factor can leave the positive-chi cone; explicit witness reconstructs `d_eff ~= (1.65177674,-0.06170430,1.95080529)`;
+- therefore MRP4 is a local positive chart/comparator, not a closed microscopic refinement-state family;
+- MRP1 full PGL projective transport remains the natural larger closure candidate.
+
 ## 5. Exact active task
 
-# **MRP5 — PAIR-JOINT RESPONSE STATE REFINEMENT / PROJECTIVE-DIAMOND FUNCTORIALITY AND SPECTATOR-COMPOSITION GATE**
+# **MRP6 — FULL PROJECTIVE RESPONSE-STATE CLOSURE / POLAR-COMPACT MEMORY MINIMALITY GATE**
 
-1. Freeze the exact MRP4 pair-joint polar rule and its candidate SHA; do not alter it after observing any refinement defect.
-2. Derive the coarse->fine transformation of labelled `chi_uv` from predictive-equivalent process composition before opening b4/b24 or O3.
-3. Require projective response products to agree on genuinely equivalent refinement diamonds; preserve nonflat holonomy for physically distinct process alternatives.
-4. Test independent spectators, direct sums, scalar response factors, relabel covariance and singular-boundary behavior.
-5. Track all five MRP3 kernel-origin modes through refinement; no deletion, pseudoinverse or hidden quotient.
-6. PASS requires a compositional, Q-native refinement law for chi with no target-fitted coefficient.
-7. Only after MRP5 passes may the frozen MRP4 comparator be confronted with P10M/P10O b4/b24 cofinality adversaries.
-8. O3/HDA/spin2/GR remain closed throughout MRP5.
+1. Freeze MRP1 PGL transport, MRP4 local chi chart and MRP5 nonclosure theorem.
+2. Promote only as a candidate state the full process-derived local class `T in PGL(2,C)`; do not add an independent compact angle or noncompact coordinate by hand.
+3. Derive compact and positive polar data solely from ordered response products.
+4. Test exact path composition, reverse-edge law, S6 covariance, spectator/direct-sum stability and singular-boundary behavior.
+5. Determine the minimal retained real state dimension and whether MRP4 chi is a valid positive subchart.
+6. Require all previously visible MRP3/MRP4 modes to remain visible; no quotient/pseudoinverse rescue.
+7. PASS requires closure with no extra endpoint memory beyond the response class itself.
+8. Only after PASS may MRP confront P10M/P10O b4/b24 cofinality.
+9. O3/HDA/spin2/GR remain closed throughout MRP6.
 ## 6. Global firewalls
 
 - old absolute `1e-10` T3 support threshold is not a physical law;
