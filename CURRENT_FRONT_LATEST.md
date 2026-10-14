@@ -136,7 +136,9 @@ Binding:
 
 # **P10J->P10O HISTORICAL CHAIN = RECOVERED / D4 FUTURE-VISIBILITY ESTABLISHED AT FINITE CUTOFF**
 
-# **ACTIVE PRIMARY FRONT = P10P — D4 IR-RELEVANCE / FINITE-RESPONSE REFINEMENT-UNIVERSALITY GATE**
+# **P10P = CLOSED / EXACT INTERNAL-B2 SCHUR IMAGE EXPOSES NON-COFINAL UNIFORM-GAMMA MICROSCOPIC LAW**
+
+# **ACTIVE PRIMARY FRONT = P10Q — INCIDENCE-NORMALIZED MICROSCOPIC REFINEMENT LAW / PRETARGET HAMILTONIAN REDESIGN UNIQUENESS GATE**
 
 # **D2/D3 3/130 PROPORTIONALITY = SOURCE-DERIVED / CLOSED**
 
@@ -483,21 +485,37 @@ Binding chain:
 - Therefore the complete D4 defect cannot simply be deleted as descriptive gauge on the tested carrier.
 - But P10O does not decide whether the defect survives the physical IR limit.
 
+### P10P closed — exact internal-B2 Schur image
+
+Historical source: `TDG_CURRENT_CANONICAL_STATE_P10P_2026-09-04.md` and `TDG_P10P_AUDIT_v1_0_2026-09-04.md`.
+
+Binding P10P result:
+
+- internal B2 elimination is exact:
+  Sigma_int(z)=((gamma*a*scale)^2/(z-SHIFT)) D_int tensor I2;
+- coarse projection is deceptively scalar: E_F^T D_int E_F = 4 I exactly;
+- full action leaks strongly: D_int E_F = 4E_F + L with leakage fraction 0.629347623633;
+- first leakage is Q-native occurrence-typed and obeys L^T L = 4 D_occ exactly;
+- a universal 2-copy scalar RG fails; fresh Krylov rank154 appears at each tested layer;
+- low-order projected moments organize exactly in the native incidence algebra through M4;
+- historical Q-B1842 gamma_eff/gamma=1.056200839041407 is retained only as a projective lower-incidence subfamily, not full Schur closure;
+- exact Feshbach cannot rescue frozen b4/b24 cofinality because the parent formal M4 spectra already differ (relative eigenvalue-multiset defect ~0.2100; direct defect ~0.2295);
+- current uniform-gamma RefinedQ universal second-response cofinality is therefore not derived / fails for the current realization;
+- the missing object is upstream: a target-blind matrix/incidence-normalized microscopic refinement law, or a redesigned microscopic Hamiltonian.
+
 ## 5. Exact active task
 
-# **P10P — D4 IR-RELEVANCE / FINITE-RESPONSE REFINEMENT-UNIVERSALITY GATE**
+# **P10Q — INCIDENCE-NORMALIZED MICROSCOPIC REFINEMENT LAW / PRETARGET HAMILTONIAN REDESIGN UNIQUENESS GATE**
 
-1. Freeze P10O and its source-certified finite-cutoff future-separation witnesses.
-2. Return to the complete finite-a response with Hdiag, not only the highest-hop associated grade.
-3. Use the stable normalization-preserving solver from P10J/P10M.
-4. Track the same predeclared move/context projective ratios across multiple controlled cutoffs.
-5. Keep F and V response scopes distinct.
-6. Measure whether the b4/b24 future-visible defect decays with a positive power of a, approaches a nonzero constant, or remains numerically unresolved.
-7. Do not multiply by inverse powers of a and call the result a physical observable.
-8. If defect ->0: classify finite-cutoff future-visible but IR-irrelevant for the tested observable; do not call it gauge.
-9. If defect -> nonzero constant: classify physical refinement-universality failure for the tested response.
-10. If conditioning blocks the limit, improve validated solver/bounds before physics.
-11. No D8-D12, fitted b4->b24 map, preferred z/phase, counterterm, Born/QSC, new field, or visible-memory deletion.
+1. Freeze P10P and the non-cofinality of the current uniform-gamma RefinedQ realization.
+2. Do not tune against C, O3, HDA, GR or any downstream response target.
+3. Starting only from parent/B3/B2 incidence, Cons/coequalizer structure, hermiticity, locality and composition, derive the most constrained normalized incidence leg compatible with refinement embeddings.
+4. Degree/equitable left-right normalization is admissible only if forced by an isometry/coisometry/composition principle; no fitted exponents.
+5. Freeze any candidate microscopic law before b4/b24 comparison.
+6. Regenerate b4/b24 and require parent M2, M4 and at least M6 cofinality while preserving predictive visibility of the internal sector.
+7. If no unique law is derived, stop the current microscopic-Q route rather than fit a matrix counterterm.
+8. No preferred z/phase, fitted GL, deleted modes, Born/QSC, duration or GR coefficient.
+9. Historical FINAL-CERTIFIED authority remains Q-B1858L.
 ## 6. Global firewalls
 
 - old absolute `1e-10` T3 support threshold is not a physical law;
