@@ -128,9 +128,11 @@ Binding:
 
 # **B5 EXTENSION v0.4 = MINIMAL B5 EXTENSION INSUFFICIENT FOR COMB-NATIVE HDA / FRAME-CURVATURE WALL RETAINED**
 
-# **B5-TO-GR BRANCH = STOPPED UNDER CURRENT ROOT2 / ONE-BIT EXTENSION**
+# **MINIMAL B5-ONLY ROUTE = STOPPED / SCOPE RETAINED**
 
-# **ACTIVE PRIMARY FRONT = PROJECT-LEVEL RECLASSIFICATION / DEEPER-ROOT PRINCIPLE ONLY**
+# **DEEP PROCESS-PROLONGED GR ROUTE = HISTORICALLY RECOVERED THROUGH GR189P**
+
+# **ACTIVE PRIMARY FRONT = RC40F-GR190P — FOURTH-AFFINE-CHANNEL VALUATION / LONG-MOMENT TRANSPORT GATE**
 
 # **D2/D3 3/130 PROPORTIONALITY = SOURCE-DERIVED / CLOSED**
 
@@ -426,19 +428,42 @@ Binding final branch result:
 - therefore B5 cannot modify the surviving STF obstruction;
 - any rescue now requires at least one second independent constitutive principle beyond beta!=0, which is forbidden for this branch absent a deeper root derivation;
 - B5 constrained two-mode capacity is retained as effective/conditional; B5 as a derivation of HDA/GR from current Root2 is stopped.
+### Deep-process GR branch reconciliation through GR189P
+
+checkpoints/SENTRY/2026-10-13/TDG_DEEP_PROCESS_GR_BRANCH_RECONCILIATION_THROUGH_GR189P_2026-10-13.md
+
+commit `5b7e1f7262935dfb7b0ab192e465e1d4089a81fa`.
+
+Binding reconciliation:
+
+- the October B5 stop remains binding only for the minimal bare `(h,K)+beta!=0` route;
+- a distinct historical process-prolonged Root2 branch was recovered with valid provenance and must not be collapsed into the stopped B5 branch;
+- RC29->36 derives physical relation-memory prolongation and IR10 metric closure without adding a new field;
+- RC37->40 / RC40F derive a process-native W3 connection / projective physical SO3 frame bridge;
+- BF/BH derive a connected normal bracket, exact 3+3' typing, Bianchi/Cons/Jacobi and alpha_Q=beta_Q=-1/3;
+- GR17->20 historically earn the local/affine hypersurface-deformation generator algebroid, including H-H closure with the same dynamic h^{-1} structure function;
+- GR21->31 show direct canonical Hamiltonization remains nontrivial/nonexact;
+- GR32->54 progressively localize and then derive a same-process normalized metric T2 second-normal; GR54 is the key positive metric-normal milestone;
+- GR184 derives physical continuous SO3 from the SU2 stabilizer of the current future-timelike Herm2 germ, acting on the same physical/process Standard3;
+- GR185->189 show dynamic subleading SO3/O3 is still not closed;
+- GR189 removes finite-z/inversion ambiguity by working pre-inversion with formal H moments and finds the first resolved synchronized memory degree at total degree4;
+- the degree4 affine pencil is rank3, and b4/b24 scheme nonuniversality already exists at the formal coefficient level;
+- therefore the next precise gate is the first higher H-moment that lifts the fourth affine channel and whether that lift is local/refinement-natural.
+
 ## 5. Exact active task
 
-# **PROJECT-LEVEL RECLASSIFICATION / DEEPER-ROOT PRINCIPLE ONLY**
+# **RC40F-GR190P — FOURTH-AFFINE-CHANNEL VALUATION / LONG-MOMENT TRANSPORT GATE**
 
-1. Do not continue engineering the B5->GR branch inside current Root2.
-2. Retain B5 beta!=0 only as a coherent effective two-mode constitutive capacity.
-3. Preserve all passed A6/rank8/overlap/refinement/TT results as conditional structure.
-4. Preserve the nonzero STF->gradient and frame-curvature obstructions as binding current-Q failures.
-5. Reopen GR only if a deeper independent Root/Root2 principle derives either:
-   - the missing dynamic solder preservation/co-selection, or
-   - a genuine Q-native frame/Gauss first-class structure,
-   without target-fitting or new ad hoc coefficients.
-6. Otherwise redirect new work toward non-GR outputs already strongly supported by TDG (predictive geometry, Lorentz/time-orientation, process causality, actualization/records, etc.) or toward revising the microscopic root law itself.
+1. Freeze GR189P and its formal pre-inversion degree4 coefficient pencil.
+2. Work directly with exact H-moment / resolvent-series coefficients; do not infer the lift from large finite z.
+3. Compute the left-null fourth affine channel of J_aff^(4).
+4. Determine the first formal total degree >4 at which that channel obtains a nonzero valuation.
+5. Decompose the lifting term by legal H-path / incidence class and identify whether it is local/shared-B3 or requires longer path memory.
+6. Test b4/b24 and a=.02,.01 projective naturality of the lifting coefficient/object.
+7. PASS requires a Q-native common higher-order transport law that lifts the fourth channel with one refinement-natural projective rule.
+8. If the first lift is intrinsically scheme-dependent or long-path specific with no common Q transport, classify current RefinedQ as insufficient for universal second-order dynamics.
+9. No preferred z, fitted GL15, inverse-regulator normalization, deletion of visible modes, target O3 projector, or new field/fibre.
+10. Historical FINAL-CERTIFIED authority remains Q-B1858L; post-B1858 GR chain remains LIVE/COLD substrate unless freshly re-certified.
 ## 6. Global firewalls
 
 - old absolute `1e-10` T3 support threshold is not a physical law;
@@ -464,6 +489,6 @@ Binding final branch result:
 
 🟢 **Pre/post obstruction unified:** the same unique S4 `l=2 -> l=1` intertwiner survives before and after actualization.\n\n🟢 **Readout rescue closed:** the formal `z->infinity` Q pencil itself gives a nonzero coefficient `c_inf ~ 10.769201`, with direct b4/b24 agreement.\n\n🟢 **D2 source localized:** the obstruction is already D2-only and its six H3 path classes collapse to one constitutive mechanism, the inter-parent `P->F->P->F` return path. The fine-B4 path is exactly an `N^(-1/3)` refinement copy and cancels from `VF^-1`.\n\n🟢 **Current-law no-go closed:** the inter-parent D2 channel reduces to an exact 3x3 multiplicity problem with `c_Q = 938987 sqrt(2) / 123308 != 0`.
 
-🟢 **3/130 closed at source:** the D2/D3 relation follows from the one-extra-H energy insertion law.\n\n🟢 **H5 firewall closed:** neither legacy nor modern H5 supplies a licensed executable repair.\n\n🟢 **Preexisting alternative recovered:** Q-rich/fresh-record/rich-B3 is independently motivated, exact at its own active A6 level, and acts on coherent parent return rather than merely changing readout.\n\n🟢 **Incidence bridge closed positive:** the current 101-parent carrier itself supports the exact Q-rich oriented boundary complex with `ker d3=im d4`, dimension 25.\n\n🟢 **Process bridge provenance recovered:** Q-B1843S/Q-B1845K already derive the cooriented common-Herm2 / collective four-B3 connection.\n\n🟢 **Branch separation closed:** fresh Q-B1844 replay confirms the ordinary Hamiltonian D2 response cannot be identified with that process connection.\n\n🟢 **Late-process route closed:** the Q-B1845/46 collective connection is invertible/redescriptive and cannot create the required codimension-one B5 relation.\n\n🟢 **B5 form and parent recovered:** C0, lambda=1/2, the rank-1 child-parent difference, and the local <=2-derivative effective parent are already derived.\n\n🟢 **Refinement naturality recovered:** the effective parent survives the physical 1→24 hierarchy and an inductive Q witness.\n\n🟢 **Retention test closed:** the pure-trace conformal direction survives as retained physical response and cannot be quotiented by the existing complete-screen/Gamma_pred architecture.\n\n🟢 **Preexisting mechanism search closed:** no derived Root2 process generates beta!=0.\n\n🟢 **Minimal v0.1 structural design passed:** one binary multiplier-like B5 activation is sufficient at the constitutive level; C0 form and lambda=1/2 are then forced by existing closure results and TT dynamics is untouched.\n\n🟢 **v0.2 passed:** the A6 B5/dark multiplier register is well typed and the local linear no-extra-syndrome test gives rank8 exactly.\n\n🟢 **v0.3 passed:** overlapping B5 relation cells compose without extra regional conormals; the only nullities are ordinary higher-cell boundary identities, and refinement/TT compatibility survives fresh reruns.\n\n🔴 **Final decision:** the B5->GR route is stopped under current Root2. Q-B1849->1855 exhaust the horizontal/operator rescue path and leave a nonzero STF->gradient obstruction that a pure-trace B5 correction cannot touch.\n\n🟡 **Immediate target:** project-level reclassification. Reopen GR only from a deeper independently motivated root principle, not by adding another constitutive repair.
+🟢 **3/130 closed at source:** the D2/D3 relation follows from the one-extra-H energy insertion law.\n\n🟢 **H5 firewall closed:** neither legacy nor modern H5 supplies a licensed executable repair.\n\n🟢 **Preexisting alternative recovered:** Q-rich/fresh-record/rich-B3 is independently motivated, exact at its own active A6 level, and acts on coherent parent return rather than merely changing readout.\n\n🟢 **Incidence bridge closed positive:** the current 101-parent carrier itself supports the exact Q-rich oriented boundary complex with `ker d3=im d4`, dimension 25.\n\n🟢 **Process bridge provenance recovered:** Q-B1843S/Q-B1845K already derive the cooriented common-Herm2 / collective four-B3 connection.\n\n🟢 **Branch separation closed:** fresh Q-B1844 replay confirms the ordinary Hamiltonian D2 response cannot be identified with that process connection.\n\n🟢 **Late-process route closed:** the Q-B1845/46 collective connection is invertible/redescriptive and cannot create the required codimension-one B5 relation.\n\n🟢 **B5 form and parent recovered:** C0, lambda=1/2, the rank-1 child-parent difference, and the local <=2-derivative effective parent are already derived.\n\n🟢 **Refinement naturality recovered:** the effective parent survives the physical 1→24 hierarchy and an inductive Q witness.\n\n🟢 **Retention test closed:** the pure-trace conformal direction survives as retained physical response and cannot be quotiented by the existing complete-screen/Gamma_pred architecture.\n\n🟢 **Preexisting mechanism search closed:** no derived Root2 process generates beta!=0.\n\n🟢 **Minimal v0.1 structural design passed:** one binary multiplier-like B5 activation is sufficient at the constitutive level; C0 form and lambda=1/2 are then forced by existing closure results and TT dynamics is untouched.\n\n🟢 **v0.2 passed:** the A6 B5/dark multiplier register is well typed and the local linear no-extra-syndrome test gives rank8 exactly.\n\n🟢 **v0.3 passed:** overlapping B5 relation cells compose without extra regional conormals; the only nullities are ordinary higher-cell boundary identities, and refinement/TT compatibility survives fresh reruns.\n\n🔴 **Minimal B5-only route remains stopped.**\n\n🟢 **Deeper process route recovered:** historical RC40F-GR work advances much further, including a local/affine HDA-like generator algebroid, a normalized metric second-normal, and a derived physical SO3 carrier.\n\n🟡 **Immediate target:** GR190P — find the first exact higher H-moment that lifts the missing fourth affine channel and test whether that lift is one common Q-native refinement-natural transport.
 
 🔴 **No GR promotion:** full/dynamical O(3), HDA, spin-2 and nonlinear GR remain unestablished.
