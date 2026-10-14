@@ -140,7 +140,11 @@ Binding:
 
 # **P10Q->P10S = CLOSED / CURRENT GR190-PROJECTION BRANCH STOPPED**
 
-# **ACTIVE PRIMARY FRONT = ROOT2 MICROSCOPIC REFINEMENT PRINCIPLE — INDEPENDENT PRETARGET ADOPTION GATE ONLY**
+# **P10S PROJECTION BRANCH STOP = RETAINED**
+
+# **MRP1->MRP4 NEW ROOT2 PRETARGET BRANCH = RECOVERED / MRP4 STRONG CONSTRUCTIVE PASS**
+
+# **ACTIVE PRIMARY FRONT = MRP5 — PAIR-JOINT RESPONSE STATE REFINEMENT / PROJECTIVE-DIAMOND FUNCTORIALITY AND SPECTATOR-COMPOSITION GATE**
 
 # **D2/D3 3/130 PROPORTIONALITY = SOURCE-DERIVED / CLOSED**
 
@@ -520,18 +524,38 @@ Binding closure:
 - therefore the current GR190/projection branch is stopped;
 - continuation requires an explicitly new microscopic Root2 refinement principle derived/adopted from independent pretaret requirements before any b4/b24/O3 test.
 
+### MRP1->MRP4 independent microscopic-refinement branch
+
+Recovered historical lineage after the P10S stop rule:
+
+- MRP1 explicitly adopts NEW ROOT2 PRETARGET content: Projective Response Transport `T_Fe=[R_Fe] in PGL(2,C)`; this is not a retroactive theorem of old H160.
+- MRP2 documents a source-recovery gap for the old actual-Q realization and does not claim physical validation.
+- MRP3 constructs an independent S6 incidence-pairing doublet comparator: exact 60-link incidence maps, exact S6 covariance, nonflat projective holonomy, rank25 with five retained kernel-origin modes; pure incidence remains one projective ray.
+- MRP4 adds a frozen pair-joint response state `chi_uv>0` and derives
+  `G_Fe=Q_F^dag diag(chi_uv) Q_F`,
+  `P_Fe=G_Fe/sqrt(det G_Fe)`,
+  `R_Fe^chi=P_Fe R_Fe^0`, `T_Fe^chi=[R_Fe^chi] in PGL2`.
+- Exact local determinant: `(d1 d2+d1 d3+d2 d3)/3 > 0`.
+- Positive determinant-one factor and 2D noncompact tangent = PASS.
+- S6 covariance = PASS.
+- Formal response span >1 on all 60 links across five generic states = PASS.
+- all five MRP3 kernel-origin modes remain visible/activated = PASS.
+- endpoint-gauge-only explanation rejected by projective cycle invariants.
+- MRP4 primary 71/71, exact 18/18, independent 21/21.
+- Comparator remains pretaret NEW-Q capacity, not final physical Q. Refinement functoriality/cofinality has not yet been earned.
+
 ## 5. Exact active task
 
-# **ROOT2 MICROSCOPIC REFINEMENT PRINCIPLE — INDEPENDENT PRETARGET ADOPTION GATE ONLY**
+# **MRP5 — PAIR-JOINT RESPONSE STATE REFINEMENT / PROJECTIVE-DIAMOND FUNCTORIALITY AND SPECTATOR-COMPOSITION GATE**
 
-1. Do not continue P10T/O3/GR calculations on the frozen uniform-gamma RefinedQ law.
-2. Search only independently motivated Root2 principles that predate or do not reference the b4/b24 defect: locality, composition, predictive equivalence, Hermiticity/unitarity, automorphism covariance, refinement functoriality, coequalizer/naturality or exact incidence isometry.
-3. Any candidate must specify a carrier<->internal-frame / B3-B2 refinement intertwiner before seeing P10M/P10O targets.
-4. Freeze the law and all coefficients from those pretaret axioms alone.
-5. Only after freeze may it be tested against P10M/P10O cofinality, D4, O3 or GR.
-6. If no independently motivated candidate exists, retain Root2 as constitutively incomplete at the microscopic refinement level and stop GR-directed engineering.
-7. No fitted matrix/path map, b4/b24-derived coefficient, preferred z, Born/QSC, deleted predictive-visible mode, inverse-regulator normalization or target O3 projector.
-8. Historical FINAL-CERTIFIED authority remains Q-B1858L.
+1. Freeze the exact MRP4 pair-joint polar rule and its candidate SHA; do not alter it after observing any refinement defect.
+2. Derive the coarse->fine transformation of labelled `chi_uv` from predictive-equivalent process composition before opening b4/b24 or O3.
+3. Require projective response products to agree on genuinely equivalent refinement diamonds; preserve nonflat holonomy for physically distinct process alternatives.
+4. Test independent spectators, direct sums, scalar response factors, relabel covariance and singular-boundary behavior.
+5. Track all five MRP3 kernel-origin modes through refinement; no deletion, pseudoinverse or hidden quotient.
+6. PASS requires a compositional, Q-native refinement law for chi with no target-fitted coefficient.
+7. Only after MRP5 passes may the frozen MRP4 comparator be confronted with P10M/P10O b4/b24 cofinality adversaries.
+8. O3/HDA/spin2/GR remain closed throughout MRP5.
 ## 6. Global firewalls
 
 - old absolute `1e-10` T3 support threshold is not a physical law;
