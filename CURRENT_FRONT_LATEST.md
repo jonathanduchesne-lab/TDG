@@ -148,7 +148,9 @@ Binding:
 
 # **MRP6 = CLOSED PRETARGET / MINIMAL REAL PROJECTIVE STATE CLOSURE PASS**
 
-# **ACTIVE PRIMARY FRONT = MRP7 — FULL-PGL MICROSCOPIC REFINEMENT INSERTION / P10M-P10O COFINALITY ADVERSARY**
+# **MRP7 DIRECT INSERTION = BLOCKED / SELECTED-FUTURE CARRIER TYPE GAP**
+
+# **ACTIVE PRIMARY FRONT = MRP7A — ACTUAL-Q SELECTED-FUTURE CARRIER LOCALIZATION / VARIABLE-DEGREE BRIGHT-DOUBLET GATE**
 
 # **D2/D3 3/130 PROPORTIONALITY = SOURCE-DERIVED / CLOSED**
 
@@ -585,20 +587,35 @@ Binding:
 - scalar/spectator cancellation, S6 covariance and the singular-map firewall survive;
 - actual microscopic b4/b24 cofinality for the frozen full-PGL state remains untested.
 
+### MRP7 — direct insertion blocked by selected-future carrier type gap
+
+Checkpoint:
+`checkpoints/SENTRY/2026-10-14/TDG_MRP7_DIRECT_INSERTION_BLOCKED_SELECTED_FUTURE_CARRIER_GAP_2026-10-14.md`
+
+commit `421eda6d39e4e3e1294bac9aea6bbdb53c9c165d`.
+
+Binding:
+
+- frozen MRP3/MRP4 requires a six-label local selected-future carrier: for e subset F, u=F\e and exactly three future alternatives v in F^c;
+- exact historical qb1852 coarse universe has 154 B3 contexts with distinct outside/coface-degree distribution 2:108, 3:12, 4:24, 5:4, 6:6;
+- only 12/154 contexts therefore instantiate the frozen three-alternative star without extra choices;
+- choosing triples for degree4-6 or padding degree2 would be new target-dependent structure and is forbidden;
+- exact qb1852 source SHA is recovered; this is a real carrier-typing fact, not a guessed summary;
+- historical MRP2 already identified the missing object as actual-Q selected-future response/tomography on a bright M2 doublet; its Q-B1247->1264 raw source archive remains unrecovered;
+- MRP1-6 are retained; microscopic b4/b24 insertion is postponed until the carrier/bright quotient is derived.
 ## 5. Exact active task
 
-# **MRP7 — FULL-PGL MICROSCOPIC REFINEMENT INSERTION / P10M-P10O COFINALITY ADVERSARY**
+# **MRP7A — ACTUAL-Q SELECTED-FUTURE CARRIER LOCALIZATION / VARIABLE-DEGREE BRIGHT-DOUBLET GATE**
 
-1. Freeze MRP1/MRP4/MRP5/MRP6; no modification after seeing P10M/P10O.
-2. Use the full process-derived real projective state `T in PGL(2,R)` as the carrier<->internal-frame transport.
-3. Choose determinant-normal representatives only by the already-adopted projective rule; no target-based gauge fixing.
-4. Insert transports into microscopic B3-B2 coupling before b4/b24 comparison; reverse blocks use the adjoint so H remains Hermitian.
-5. Derive coarse/fine transport by ordered projective composition and the frozen refinement embedding.
-6. Rebuild parent M2/M4/M6 and compare b4/b24 spectral/projective cofinality.
-7. Preserve P10O internal predictive visibility; no mode deletion.
-8. PASS requires target-blind cofinality improvement/closure from the frozen MRP law.
-9. O(1) failure means MRP1-6 is not the missing microscopic refinement law; no retuning of chi or extra coefficient is permitted.
-10. O3/HDA/spin2/GR remain closed until PASS.
+1. Freeze MRP1-6 and the MRP7 type obstruction.
+2. Do not choose three future alternatives by hand and do not pad low-degree contexts with invented spectators.
+3. Search only pretaret Q/process structure for the actual selected-future response carrier at each B3-B2 incidence.
+4. PASS route A: derive a canonical three-alternative selected-future star whose degree3 realization is exactly the frozen MRP3/MRP4 carrier.
+5. PASS route B: derive a variable-degree local response object with a canonical rank2 bright quotient, reducing to the MRP3/MRP4 sum-zero doublet at degree3.
+6. Require automorphism covariance, predictive-equivalence compatibility, spectator stability, exact projective composition and no pseudoinverse.
+7. Future-visible modes may not be removed by averaging/quotient unless an independent process theorem makes them null.
+8. Only after PASS may MRP transports be inserted into qb1852 and P10M/P10O cofinality reopened.
+9. O3/HDA/spin2/GR remain closed.
 ## 6. Global firewalls
 
 - old absolute `1e-10` T3 support threshold is not a physical law;
