@@ -138,7 +138,9 @@ Binding:
 
 # **P10P = CLOSED / EXACT INTERNAL-B2 SCHUR IMAGE EXPOSES NON-COFINAL UNIFORM-GAMMA MICROSCOPIC LAW**
 
-# **ACTIVE PRIMARY FRONT = P10Q — INCIDENCE-NORMALIZED MICROSCOPIC REFINEMENT LAW / PRETARGET HAMILTONIAN REDESIGN UNIQUENESS GATE**
+# **P10Q->P10S = CLOSED / CURRENT GR190-PROJECTION BRANCH STOPPED**
+
+# **ACTIVE PRIMARY FRONT = ROOT2 MICROSCOPIC REFINEMENT PRINCIPLE — INDEPENDENT PRETARGET ADOPTION GATE ONLY**
 
 # **D2/D3 3/130 PROPORTIONALITY = SOURCE-DERIVED / CLOSED**
 
@@ -503,19 +505,33 @@ Binding P10P result:
 - current uniform-gamma RefinedQ universal second-response cofinality is therefore not derived / fails for the current realization;
 - the missing object is upstream: a target-blind matrix/incidence-normalized microscopic refinement law, or a redesigned microscopic Hamiltonian.
 
+### P10Q->P10S closure — microscopic refinement law missing
+
+Historical source: P10Q/P10R/P10S canonical state and P10S provenance audit.
+
+Binding closure:
+
+- P10Q: scalar/equitable degree-normalized local incidence redesign = exact no-go; coarse intertwining leaves a 5D weight family, while exact self-energy coarse invariance forces all internal weights zero, forbidden by P10O visibility;
+- P10R: arbitrary common Hom2 and historical flat/unitary B3-B2 gauge freedom cannot alter the combinatorial leakage; only the zero leg closes, also forbidden;
+- P10S: exhaustive provenance audit finds zero already-derived licensed matrix/path-valued refinement laws for the current frozen B3-B2 Hamiltonian;
+- historical Q-B1247->1264 had already identified the missing object as a Q-derived carrier<->internal-frame intertwiner / same-tetrad geometric response factorization law;
+- reusing the old orientation-sensitive B2 comparator would be new constitutive Root2 content, not a theorem of current H160;
+- Cons, StateSync, Feshbach, natural-recovery, response-quotient and legal-move/history transports are retained in their own domains but do not supply the missing microscopic cofinal refinement functor;
+- therefore the current GR190/projection branch is stopped;
+- continuation requires an explicitly new microscopic Root2 refinement principle derived/adopted from independent pretaret requirements before any b4/b24/O3 test.
+
 ## 5. Exact active task
 
-# **P10Q — INCIDENCE-NORMALIZED MICROSCOPIC REFINEMENT LAW / PRETARGET HAMILTONIAN REDESIGN UNIQUENESS GATE**
+# **ROOT2 MICROSCOPIC REFINEMENT PRINCIPLE — INDEPENDENT PRETARGET ADOPTION GATE ONLY**
 
-1. Freeze P10P and the non-cofinality of the current uniform-gamma RefinedQ realization.
-2. Do not tune against C, O3, HDA, GR or any downstream response target.
-3. Starting only from parent/B3/B2 incidence, Cons/coequalizer structure, hermiticity, locality and composition, derive the most constrained normalized incidence leg compatible with refinement embeddings.
-4. Degree/equitable left-right normalization is admissible only if forced by an isometry/coisometry/composition principle; no fitted exponents.
-5. Freeze any candidate microscopic law before b4/b24 comparison.
-6. Regenerate b4/b24 and require parent M2, M4 and at least M6 cofinality while preserving predictive visibility of the internal sector.
-7. If no unique law is derived, stop the current microscopic-Q route rather than fit a matrix counterterm.
-8. No preferred z/phase, fitted GL, deleted modes, Born/QSC, duration or GR coefficient.
-9. Historical FINAL-CERTIFIED authority remains Q-B1858L.
+1. Do not continue P10T/O3/GR calculations on the frozen uniform-gamma RefinedQ law.
+2. Search only independently motivated Root2 principles that predate or do not reference the b4/b24 defect: locality, composition, predictive equivalence, Hermiticity/unitarity, automorphism covariance, refinement functoriality, coequalizer/naturality or exact incidence isometry.
+3. Any candidate must specify a carrier<->internal-frame / B3-B2 refinement intertwiner before seeing P10M/P10O targets.
+4. Freeze the law and all coefficients from those pretaret axioms alone.
+5. Only after freeze may it be tested against P10M/P10O cofinality, D4, O3 or GR.
+6. If no independently motivated candidate exists, retain Root2 as constitutively incomplete at the microscopic refinement level and stop GR-directed engineering.
+7. No fitted matrix/path map, b4/b24-derived coefficient, preferred z, Born/QSC, deleted predictive-visible mode, inverse-regulator normalization or target O3 projector.
+8. Historical FINAL-CERTIFIED authority remains Q-B1858L.
 ## 6. Global firewalls
 
 - old absolute `1e-10` T3 support threshold is not a physical law;
