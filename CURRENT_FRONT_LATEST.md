@@ -152,7 +152,9 @@ Binding:
 
 # **MRP7A = CLOSED TYPE PASS / VARIABLE-DEGREE BRIGHT M2 + BRANCHWISE PROJECTIVE TOMOGRAPHY**
 
-# **ACTIVE PRIMARY FRONT = MRP7B — ACTUAL-Q / FRESH-COMB BRANCH-MAP EXTRACTION ON BRIGHT M2**
+# **MRP7B = CLOSED NEGATIVE FOR BARE FRESH-COMB PROJECTIVE ACTION**
+
+# **ACTIVE PRIMARY FRONT = MRP7C — DRESSED SELECTED-FUTURE PROJECTIVE BRANCH / POST-COMB RESPONSE EXTRACTION GATE**
 
 # **D2/D3 3/130 PROPORTIONALITY = SOURCE-DERIVED / CLOSED**
 
@@ -621,18 +623,34 @@ Binding:
 - MRP3/MRP4 six-label degree3 construction is retyped as an exact local comparator/chart, not the universal carrier definition;
 - the universal candidate is branchwise projective response on the Q-derived bright M2;
 - actual current-Q numerical branch-map extraction remains open.
+### MRP7B — bare fresh-comb projectively scalar
+
+Checkpoint:
+`checkpoints/SENTRY/2026-10-14/TDG_MRP7B_BARE_FRESH_COMB_PROJECTIVELY_SCALAR_FAIL_2026-10-14.md`
+
+commit `b40d2be17850689018792485ae0873c378ea9dbe`.
+
+Binding:
+
+- Q-B1593/Q-B1601 bare physical B3 branches are built from incidence legs proportional to `I2` on the internal factor;
+- Q-B1251/Q-B1264 bright sector is presentation-uniform tensor internal M2;
+- coherent summation over presentations therefore yields `C_F|bright = c_F I2` for every nonzero bare branch;
+- the bare branch is projectively trivial even though its intensity and recombination interference are physical;
+- this is consistent with Q-B1594->1596: bare star/POVM is insufficient to produce rich B3 geometry;
+- MRP1 is not falsified; only bare one-shot realization is excluded;
+- the only legitimate remaining source is the dressed post-comb / intervention-complete future response.
 ## 5. Exact active task
 
-# **MRP7B — ACTUAL-Q / FRESH-COMB BRANCH-MAP EXTRACTION ON BRIGHT M2**
+# **MRP7C — DRESSED SELECTED-FUTURE PROJECTIVE BRANCH / POST-COMB RESPONSE EXTRACTION GATE**
 
-1. Freeze MRP1-7A.
-2. Use an already-derived labelled physical process/instrument, preferably the exact Q-B1597->1601 fresh-comb/recombine-before-record B3 instrument.
-3. Recover its exact source/repro before computing; do not reconstruct branch maps from downstream gravity-facing residuals.
-4. Restrict each response-visible branch to the Q-B1264 bright M2 predictive factor.
-5. Test branch rank/invertibility, projective non-scalarity, phase gauge, automorphism covariance and ordered-pair composition.
-6. If all branches are projectively scalar, MRP1 is not realized by current Q and the MRP physical-law branch fails.
-7. If nontrivial projective branch maps exist pretaret, freeze them before any b4/b24 comparison.
-8. Only after PASS reopen MRP microscopic insertion and P10M/P10O cofinality adversaries.
+1. Freeze MRP1-7B.
+2. Work only after coherent recombination on the exact active B4+B3 post-comb future process.
+3. Use labelled future outcomes plus separating Herm2 interventions; do not read projective frame action from bare branch intensity.
+4. Derive the effective response map on the Q-B1264 bright M2 using Q-B978-type future tomography.
+5. Reuse Q-B1597/1598/1599 post-comb naturality and Q-B1606 relational support-changing transport where typing matches.
+6. Test non-scalarity on an open smooth phase, label covariance, branch phase gauge and sequential composition.
+7. If dressed maps remain projectively scalar, reject MRP as physical law of current Q.
+8. If nontrivial maps are earned, freeze them before any P10M/P10O comparison.
 9. O3/HDA/spin2/GR remain closed.
 ## 6. Global firewalls
 
