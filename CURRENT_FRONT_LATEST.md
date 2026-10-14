@@ -132,7 +132,9 @@ Binding:
 
 # **DEEP PROCESS-PROLONGED GR ROUTE = HISTORICALLY RECOVERED THROUGH GR189P**
 
-# **ACTIVE PRIMARY FRONT = RC40F-GR190P — FOURTH-AFFINE-CHANNEL VALUATION / LONG-MOMENT TRANSPORT GATE**
+# **GR190 LONG-MOMENT FOURTH-NULL ROUTE = SUPERSEDED BY P10I NUMERICAL CORRECTION**
+
+# **ACTIVE PRIMARY FRONT = P10J — STABLE FULL-RANK D4 SCHEME-COCYCLE / COFINAL TRANSPORT GATE**
 
 # **D2/D3 3/130 PROPORTIONALITY = SOURCE-DERIVED / CLOSED**
 
@@ -450,20 +452,34 @@ Binding reconciliation:
 - the degree4 affine pencil is rank3, and b4/b24 scheme nonuniversality already exists at the formal coefficient level;
 - therefore the next precise gate is the first higher H-moment that lifts the fourth affine channel and whether that lift is local/refinement-natural.
 
+### P10I correction — fourth channel restored already at D4
+
+checkpoints/SENTRY/2026-10-14/TDG_P10I_CORRECTION_GR190_SUPERSESSION_P10J_FRONT_2026-10-14.md
+
+commit `a812f0671ff15641b415a3e7bb50119071413c08`.
+
+Binding correction:
+
+- historical GR189/P10G degree4 rank3/fourth-null was produced by an ill-conditioned normal-equation implementation; cond(A)~a^-4 and cond(A^T A) reaches ~1e16 at .02/.01;
+- direct stable S4 singlet+triplet reconstruction restores rank4 already at D4;
+- the fourth direction scales at the same leading cutoff order as the full D4 pencil;
+- within-scheme b4 and b24 cutoff flow is strong/natural;
+- but b4<->b24 full-rank D4 projective residual remains ~0.255 at both .02 and .01;
+- therefore GR190 D8-D12 higher-order fourth-channel search is superseded; the live wall is the leading D4 refinement/cofinal scheme cocycle.
 ## 5. Exact active task
 
-# **RC40F-GR190P — FOURTH-AFFINE-CHANNEL VALUATION / LONG-MOMENT TRANSPORT GATE**
+# **P10J — STABLE FULL-RANK D4 SCHEME-COCYCLE / COFINAL TRANSPORT GATE**
 
-1. Freeze GR189P and its formal pre-inversion degree4 coefficient pencil.
-2. Work directly with exact H-moment / resolvent-series coefficients; do not infer the lift from large finite z.
-3. Compute the left-null fourth affine channel of J_aff^(4).
-4. Determine the first formal total degree >4 at which that channel obtains a nonzero valuation.
-5. Decompose the lifting term by legal H-path / incidence class and identify whether it is local/shared-B3 or requires longer path memory.
-6. Test b4/b24 and a=.02,.01 projective naturality of the lifting coefficient/object.
-7. PASS requires a Q-native common higher-order transport law that lifts the fourth channel with one refinement-natural projective rule.
-8. If the first lift is intrinsically scheme-dependent or long-path specific with no common Q transport, classify current RefinedQ as insufficient for universal second-order dynamics.
-9. No preferred z, fitted GL15, inverse-regulator normalization, deletion of visible modes, target O3 projector, or new field/fibre.
-10. Historical FINAL-CERTIFIED authority remains Q-B1858L; post-B1858 GR chain remains LIVE/COLD substrate unless freshly re-certified.
+1. Freeze the P10I stable singlet+triplet solver; normal equations are forbidden for central rcoord.
+2. Rebuild the full D4 common-process coefficient pencil in b4 and b24 with that stable solver.
+3. Re-audit coefficientwise and phase-ray b4/b24 comparisons.
+4. Test only already-derived Q-native Cons, synchronization, process-refinement and cofinal transports.
+5. Freeze every candidate transport before comparing residuals; no post-hoc GL4 fit.
+6. PASS requires one Q-native transport under which the stable rank4 D4 pencils are refinement/cofinal-natural.
+7. If all pre-existing transports fail and the ~0.255 cocycle remains finite, certify current RefinedQ as lacking universal leading four-affine refinement transport.
+8. Do not use D8-D12 until D4 cocycle is resolved.
+9. No preferred z, whitening, inverse-regulator normalization, target O3 projector, duration/Born/QSC input.
+10. Historical FINAL-CERTIFIED authority remains Q-B1858L.
 ## 6. Global firewalls
 
 - old absolute `1e-10` T3 support threshold is not a physical law;
