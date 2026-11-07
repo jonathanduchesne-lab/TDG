@@ -40,3 +40,14 @@ Les scripts `.py` et sorties `.json`/`.txt` accompagnent les rapports disponible
 - `TDG_MRP9B_FESHBACH_HOLONOMY_SHA256.txt` : empreintes de la sauvegarde locale reproductible.
 
 **Verdict :** construction de capacité bien typée, mais H synthétique et attachage Σ non attesté comme carte réelle Q-B1592. Holonomie non triviale possible sans pseudo-inverse ; attention, ses commutateurs engendrent précisément le secteur vertical SU2 rang3 qui demeure un obstacle à HDA. **MRP9B reste ouvert.** Aucun fichier canonique modifié.
+
+## 2026-11-06 - MRP9B / source Q-B1592 Q-B1852 recovered
+
+The original Q-B1592 code was recovered from the Library and replayed: 4/4 historic certificate.
+The exact Q-B1852 source was recovered with certified SHA-256 and its final verifier passed.
+
+- TDG_MRP9B_Q1852_RECONSTRUCTION_2026_11_06.md: comprehensive scientific report.
+- TDG_MRP9B_Q1852_SOURCE_MANIFEST_2026_11_06.md: source archive hashes and nested extraction path.
+- MRP9B_Q1852_LAB_WITNESS_2026_11_06.json: compact verified numerical data.
+
+Lab classification: static candidate loops scale as a^4; marked Q-core source response scales as a^2 but is readout dependent and lacks a licensed unique predictive-fibre chart. No GR derivation. Main TDG scientific checkpoint unchanged.

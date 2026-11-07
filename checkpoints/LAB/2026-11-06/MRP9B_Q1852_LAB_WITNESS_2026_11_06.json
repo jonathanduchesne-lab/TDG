@@ -1,0 +1,44 @@
+{
+  "source_qb1592_sha256": "7bc91553a01e2b5024c9982e2f4bd2a392f612621a826b6f9f5a111739f140ab",
+  "source_qb1852_sha256": "ebbe56f7d9c0b19b5c7e688e2b69c7acd2f9a271d161cf558e50e52cad86b5c7",
+  "classification": "EXPERIMENTAL_Q-B1852_CHART_TRANSPLANT_NOT_GR",
+  "records": [
+    {
+      "a": 0.05,
+      "static_loop_median": 0.000002893120680090663,
+      "rowspace_max": 0.0008168655663220889,
+      "alternative_rightinverse_loop_median": 0.0012465356908893238,
+      "source_jet_over_a2": 0.08768881448583175
+    },
+    {
+      "a": 0.025,
+      "static_loop_median": 1.7763553402323117e-7,
+      "rowspace_max": 0.0002007942236497355,
+      "alternative_rightinverse_loop_median": 0.0003070528559885574,
+      "source_jet_over_a2": 0.08645505107873204
+    },
+    {
+      "a": 0.0125,
+      "static_loop_median": 1.1052976064579433e-8,
+      "rowspace_max": 0.00004998679395457085,
+      "alternative_rightinverse_loop_median": 0.00007647924915637375,
+      "source_jet_over_a2": 0.08614917303370388
+    }
+  ],
+  "z_sweep_a0025": [
+    {
+      "z": "1.4+0.5j",
+      "jet_a2": 0.04411609612800959
+    },
+    {
+      "z": "2+0.7j",
+      "jet_a2": 0.08645505107873204
+    },
+    {
+      "z": "3+0.8j",
+      "jet_a2": 0.19902199049600802
+    }
+  ],
+  "reference_verification": "original Q-B1592 certificate 4/4 PASS; Q-B1852 24 PASS; Woodbury vs direct sparse solve relative 9.22e-16",
+  "no_go": "The Q-B1592 formula transplanted onto the exact Q-B1852 Q is not yet licensed as selected-future chart; right-inverse ambiguity O(a^2) dominates static signal O(a^4); z-dependence remains."
+}
