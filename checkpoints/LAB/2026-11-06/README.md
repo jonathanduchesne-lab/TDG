@@ -61,3 +61,11 @@ L'ensemble des **19 pièces de la session de récupération** est sauvegardé so
 - **Verdict conservateur :** source Q-B1592 récupérée et revalidée ; Q-B1852 revalidé ; la transplantation de la carte et l'identification physique du jet ne sont pas dérivées ; ni O(3), ni HDA, ni GR n'est promue.
 
 Les dépendances historiques complètes se trouvent dans les archives Library dont les chemins et empreintes sont précisés dans le rapport. Aucun fichier canonique n'a été modifié.
+
+## 2026-11-06 — MRP9B — défaut formel Q1852 et mémoire fraîche
+
+- [Dossier complet](mrp9b_formal_paths/README.md) : rapport, code, sorties, journaux, SHA256 et archive ZIP.
+- [Rapport scientifique](mrp9b_formal_paths/REPORT.md) : le premier défaut de descente vient au moment `z^-3`; l'identité source B4 -> B3 -> B2 -> B3 est vérifiée à la précision numérique sur b4/b24.
+- Comparateur « mémoire fraîche » : supprime le terme d'ordre 3 et abaisse le défaut de raccordement de ~6600 fois à `a=.025`, mais reste une loi conditionnelle non dérivée.
+- **Contrôle gravitationnel négatif :** le couplage `l=2 -> l=1` subsiste presque inchangé (environ 0.1745 au continuum dans le diagnostic). Aucun GR/O3/HDA dérivé.
+- Source Q-B1852 et `CURRENT_FRONT_LATEST.md` inchangés, l'ancien historique reste normatif.

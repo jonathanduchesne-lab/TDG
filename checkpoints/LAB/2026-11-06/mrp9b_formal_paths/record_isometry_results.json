@@ -1,0 +1,150 @@
+{
+  "scope": "New absorbing-record isometry from actual Q-B1852 B3->B2 block, NOT licensed as Q update",
+  "source_sha256": "ebbe56f7d9c0b19b5c7e688e2b69c7acd2f9a271d161cf558e50e52cad86b5c7",
+  "cases": [
+    {
+      "scheme": "b4",
+      "a": 0.05,
+      "gamma": 1.0,
+      "face": [
+        0,
+        1,
+        2
+      ],
+      "B2_dimension": 1020,
+      "V_gram_eigs": [
+        0.004724703937105775,
+        0.004724703937105775
+      ],
+      "one_step_cptp_error": 0.0,
+      "nstep_cptp_error": 1.5700924586837752e-16,
+      "nsteps": 8,
+      "nstep_outcome_prob_sum": 1.0,
+      "no_record_probability": 0.9628215361674364,
+      "first_record_probability": 0.004724703937105775,
+      "late_record_probability": 0.00457064163117041,
+      "retained_first_record_operator_norm": 0.09720806486198329,
+      "physical_claim": "This is a new candidate Stinespring instrument using Q coupling, not proof of actual TDG update"
+    },
+    {
+      "scheme": "b4",
+      "a": 0.025,
+      "gamma": 1.0,
+      "face": [
+        0,
+        1,
+        2
+      ],
+      "B2_dimension": 1020,
+      "V_gram_eigs": [
+        0.0011811759842764438,
+        0.0011811759842764438
+      ],
+      "one_step_cptp_error": 0.0,
+      "nstep_cptp_error": 1.5700924586837752e-16,
+      "nsteps": 8,
+      "nstep_outcome_prob_sum": 0.9999999999999998,
+      "no_record_probability": 0.9905895649245229,
+      "first_record_probability": 0.0011811759842764438,
+      "late_record_probability": 0.0011714442862215005,
+      "retained_first_record_operator_norm": 0.048604032430991644,
+      "physical_claim": "This is a new candidate Stinespring instrument using Q coupling, not proof of actual TDG update"
+    },
+    {
+      "scheme": "b4",
+      "a": 0.0125,
+      "gamma": 1.0,
+      "face": [
+        0,
+        1,
+        2
+      ],
+      "B2_dimension": 1020,
+      "V_gram_eigs": [
+        0.00029529399606911095,
+        0.00029529399606911095
+      ],
+      "one_step_cptp_error": 3.1401849173675503e-16,
+      "nstep_cptp_error": 1.88411095042053e-15,
+      "nsteps": 8,
+      "nstep_outcome_prob_sum": 1.0000000000000013,
+      "no_record_probability": 0.9976400881492602,
+      "first_record_probability": 0.00029529399606911095,
+      "late_record_probability": 0.0002946841467276005,
+      "retained_first_record_operator_norm": 0.024302016215495822,
+      "physical_claim": "This is a new candidate Stinespring instrument using Q coupling, not proof of actual TDG update"
+    },
+    {
+      "scheme": "b24",
+      "a": 0.05,
+      "gamma": 1.0,
+      "face": [
+        0,
+        1,
+        2
+      ],
+      "B2_dimension": 5100,
+      "V_gram_eigs": [
+        0.004333507964691471,
+        0.004333507964691471
+      ],
+      "one_step_cptp_error": 0.0,
+      "nstep_cptp_error": 0.0,
+      "nsteps": 8,
+      "nstep_outcome_prob_sum": 1.0,
+      "no_record_probability": 0.96585322374757,
+      "first_record_probability": 0.00433350796469147,
+      "late_record_probability": 0.004203749620294142,
+      "retained_first_record_operator_norm": 0.0930968094479233,
+      "physical_claim": "This is a new candidate Stinespring instrument using Q coupling, not proof of actual TDG update"
+    },
+    {
+      "scheme": "b24",
+      "a": 0.025,
+      "gamma": 1.0,
+      "face": [
+        0,
+        1,
+        2
+      ],
+      "B2_dimension": 5100,
+      "V_gram_eigs": [
+        0.0010833769911728678,
+        0.0010833769911728678
+      ],
+      "one_step_cptp_error": 0.0,
+      "nstep_cptp_error": 7.850462293418876e-16,
+      "nsteps": 8,
+      "nstep_outcome_prob_sum": 0.9999999999999996,
+      "no_record_probability": 0.9913657767190218,
+      "first_record_probability": 0.0010833769911728676,
+      "late_record_probability": 0.0010751877059554308,
+      "retained_first_record_operator_norm": 0.04654840472396165,
+      "physical_claim": "This is a new candidate Stinespring instrument using Q coupling, not proof of actual TDG update"
+    },
+    {
+      "scheme": "b24",
+      "a": 0.0125,
+      "gamma": 1.0,
+      "face": [
+        0,
+        1,
+        2
+      ],
+      "B2_dimension": 5100,
+      "V_gram_eigs": [
+        0.00027084424779321695,
+        0.00027084424779321695
+      ],
+      "one_step_cptp_error": 0.0,
+      "nstep_cptp_error": 0.0,
+      "nsteps": 8,
+      "nstep_outcome_prob_sum": 0.9999999999999999,
+      "no_record_probability": 0.9978352988903945,
+      "first_record_probability": 0.0002708442477932169,
+      "late_record_probability": 0.00027033116859150096,
+      "retained_first_record_operator_norm": 0.023274202361980825,
+      "physical_claim": "This is a new candidate Stinespring instrument using Q coupling, not proof of actual TDG update"
+    }
+  ]
+}

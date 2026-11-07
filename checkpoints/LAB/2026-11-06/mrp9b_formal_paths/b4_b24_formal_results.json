@@ -1,0 +1,1542 @@
+{
+  "status": "Q-B1852 source H path-moment audit (no resolvent readout)",
+  "original_source_sha256": "ebbe56f7d9c0b19b5c7e688e2b69c7acd2f9a271d161cf558e50e52cad86b5c7",
+  "observations": [
+    {
+      "scheme": "b4",
+      "a": 0.05,
+      "gamma": 0.0,
+      "dim": 5570,
+      "nnz": 60110,
+      "parent_count": 101,
+      "fine_B4": 404,
+      "fine_B3": 760,
+      "fine_B2": 510,
+      "leading_coupling_error": 1.0991222180778051e-16,
+      "moments": [
+        {
+          "n": 1,
+          "descent_residual_norm": 2.435628134419441e-17,
+          "rhs_norm": 0.12247448713915893,
+          "residual_fraction": 1.988682044164849e-16,
+          "relative_to_port_coupling": 1.988682044164849e-16
+        },
+        {
+          "n": 2,
+          "descent_residual_norm": 6.75934367985294e-17,
+          "rhs_norm": 1.1576707949441852e-16,
+          "residual_fraction": 0.5838744234865861,
+          "relative_to_port_coupling": 5.518981003915359e-16
+        },
+        {
+          "n": 3,
+          "descent_residual_norm": 4.779664345764159e-16,
+          "rhs_norm": 0.0009185586535460233,
+          "residual_fraction": 5.203439461718249e-13,
+          "relative_to_port_coupling": 3.902579596298592e-15
+        },
+        {
+          "n": 4,
+          "descent_residual_norm": 1.622546907342744e-14,
+          "rhs_norm": 0.008113934772979612,
+          "residual_fraction": 1.999704154322293e-12,
+          "relative_to_port_coupling": 1.324804002240206e-13
+        },
+        {
+          "n": 5,
+          "descent_residual_norm": 1.5445768123066005e-06,
+          "rhs_norm": 0.054437523298391,
+          "residual_fraction": 2.8373385097632705e-05,
+          "relative_to_port_coupling": 1.261141686228585e-05
+        },
+        {
+          "n": 6,
+          "descent_residual_norm": 3.463263681755446e-05,
+          "rhs_norm": 0.32811347375718153,
+          "residual_fraction": 0.00010555079138013133,
+          "relative_to_port_coupling": 0.00028277429550044894
+        },
+        {
+          "n": 7,
+          "descent_residual_norm": 0.0004674242744882047,
+          "rhs_norm": 1.8707170648491034,
+          "residual_fraction": 0.00024986369305713703,
+          "relative_to_port_coupling": 0.00381650321962242
+        }
+      ],
+      "runtime_seconds": 0.29
+    },
+    {
+      "scheme": "b4",
+      "a": 0.05,
+      "gamma": 0.5,
+      "dim": 5570,
+      "nnz": 69230,
+      "parent_count": 101,
+      "fine_B4": 404,
+      "fine_B3": 760,
+      "fine_B2": 510,
+      "leading_coupling_error": 1.0991222180778051e-16,
+      "moments": [
+        {
+          "n": 1,
+          "descent_residual_norm": 2.435628134419441e-17,
+          "rhs_norm": 0.12247448713915893,
+          "residual_fraction": 1.988682044164849e-16,
+          "relative_to_port_coupling": 1.988682044164849e-16
+        },
+        {
+          "n": 2,
+          "descent_residual_norm": 6.75934367985294e-17,
+          "rhs_norm": 1.1576707949441852e-16,
+          "residual_fraction": 0.5838744234865861,
+          "relative_to_port_coupling": 5.518981003915359e-16
+        },
+        {
+          "n": 3,
+          "descent_residual_norm": 9.09269696646503e-05,
+          "rhs_norm": 0.0009070538463986605,
+          "residual_fraction": 0.10024429092678899,
+          "relative_to_port_coupling": 0.0007424155984530602
+        },
+        {
+          "n": 4,
+          "descent_residual_norm": 0.0010380829036604326,
+          "rhs_norm": 0.008105671642800077,
+          "residual_fraction": 0.12806870909735374,
+          "relative_to_port_coupling": 0.00847591141558269
+        },
+        {
+          "n": 5,
+          "descent_residual_norm": 0.008008410867666592,
+          "rhs_norm": 0.054848755060848325,
+          "residual_fraction": 0.1460089815854925,
+          "relative_to_port_coupling": 0.06538840092114215
+        },
+        {
+          "n": 6,
+          "descent_residual_norm": 0.05219191447804421,
+          "rhs_norm": 0.3325703750578976,
+          "residual_fraction": 0.15693494788571608,
+          "relative_to_port_coupling": 0.4261451972339537
+        },
+        {
+          "n": 7,
+          "descent_residual_norm": 0.3103231182491655,
+          "rhs_norm": 1.9036576973519344,
+          "residual_fraction": 0.16301413782574337,
+          "relative_to_port_coupling": 2.53377765033274
+        }
+      ],
+      "runtime_seconds": 0.36
+    },
+    {
+      "scheme": "b4",
+      "a": 0.05,
+      "gamma": 1.0,
+      "dim": 5570,
+      "nnz": 69230,
+      "parent_count": 101,
+      "fine_B4": 404,
+      "fine_B3": 760,
+      "fine_B2": 510,
+      "leading_coupling_error": 1.0991222180778051e-16,
+      "moments": [
+        {
+          "n": 1,
+          "descent_residual_norm": 2.435628134419441e-17,
+          "rhs_norm": 0.12247448713915893,
+          "residual_fraction": 1.988682044164849e-16,
+          "relative_to_port_coupling": 1.988682044164849e-16
+        },
+        {
+          "n": 2,
+          "descent_residual_norm": 6.75934367985294e-17,
+          "rhs_norm": 1.1576707949441852e-16,
+          "residual_fraction": 0.5838744234865861,
+          "relative_to_port_coupling": 5.518981003915359e-16
+        },
+        {
+          "n": 3,
+          "descent_residual_norm": 0.0003637078786575246,
+          "rhs_norm": 0.0009284663049793082,
+          "residual_fraction": 0.391729755519378,
+          "relative_to_port_coupling": 0.0029696623938034504
+        },
+        {
+          "n": 4,
+          "descent_residual_norm": 0.00415233161466473,
+          "rhs_norm": 0.008848658184413088,
+          "residual_fraction": 0.469261161198323,
+          "relative_to_port_coupling": 0.03390364566251856
+        },
+        {
+          "n": 5,
+          "descent_residual_norm": 0.0320495380626252,
+          "rhs_norm": 0.06256157783915274,
+          "residual_fraction": 0.5122878797114948,
+          "relative_to_port_coupling": 0.2616833824844649
+        },
+        {
+          "n": 6,
+          "descent_residual_norm": 0.2090823415159985,
+          "rhs_norm": 0.39017527711158034,
+          "residual_fraction": 0.5358677337626551,
+          "relative_to_port_coupling": 1.7071501698017588
+        },
+        {
+          "n": 7,
+          "descent_residual_norm": 1.2450628612393433,
+          "rhs_norm": 2.2719214193839647,
+          "residual_fraction": 0.5480219740949245,
+          "relative_to_port_coupling": 10.165895692420154
+        }
+      ],
+      "runtime_seconds": 0.34
+    },
+    {
+      "scheme": "b4",
+      "a": 0.05,
+      "gamma": 2.0,
+      "dim": 5570,
+      "nnz": 69230,
+      "parent_count": 101,
+      "fine_B4": 404,
+      "fine_B3": 760,
+      "fine_B2": 510,
+      "leading_coupling_error": 1.0991222180778051e-16,
+      "moments": [
+        {
+          "n": 1,
+          "descent_residual_norm": 2.435628134419441e-17,
+          "rhs_norm": 0.12247448713915893,
+          "residual_fraction": 1.988682044164849e-16,
+          "relative_to_port_coupling": 1.988682044164849e-16
+        },
+        {
+          "n": 2,
+          "descent_residual_norm": 6.75934367985294e-17,
+          "rhs_norm": 1.1576707949441852e-16,
+          "residual_fraction": 0.5838744234865861,
+          "relative_to_port_coupling": 5.518981003915359e-16
+        },
+        {
+          "n": 3,
+          "descent_residual_norm": 0.0014548315146291266,
+          "rhs_norm": 0.001598110150380594,
+          "residual_fraction": 0.9103449560611668,
+          "relative_to_port_coupling": 0.011878649575205867
+        },
+        {
+          "n": 4,
+          "descent_residual_norm": 0.016609326458674446,
+          "rhs_norm": 0.017990825518053873,
+          "residual_fraction": 0.9232109133628645,
+          "relative_to_port_coupling": 0.135614582650201
+        },
+        {
+          "n": 5,
+          "descent_residual_norm": 0.12842670069134335,
+          "rhs_norm": 0.13839107565110265,
+          "residual_fraction": 0.9279984282737966,
+          "relative_to_port_coupling": 1.0485996201431025
+        },
+        {
+          "n": 6,
+          "descent_residual_norm": 0.8407730986581352,
+          "rhs_norm": 0.9042630284118013,
+          "residual_fraction": 0.9297882056892491,
+          "relative_to_port_coupling": 6.8648836039037695
+        },
+        {
+          "n": 7,
+          "descent_residual_norm": 5.032663588042243,
+          "rhs_norm": 5.410151424792863,
+          "residual_fraction": 0.9302260127099727,
+          "relative_to_port_coupling": 41.091526125959525
+        }
+      ],
+      "runtime_seconds": 0.42
+    },
+    {
+      "scheme": "b4",
+      "a": 0.025,
+      "gamma": 0.0,
+      "dim": 5570,
+      "nnz": 60110,
+      "parent_count": 101,
+      "fine_B4": 404,
+      "fine_B3": 760,
+      "fine_B2": 510,
+      "leading_coupling_error": 1.0991222180778051e-16,
+      "moments": [
+        {
+          "n": 1,
+          "descent_residual_norm": 1.2178140672097204e-17,
+          "rhs_norm": 0.061237243569579464,
+          "residual_fraction": 1.988682044164849e-16,
+          "relative_to_port_coupling": 1.988682044164849e-16
+        },
+        {
+          "n": 2,
+          "descent_residual_norm": 3.37967183992647e-17,
+          "rhs_norm": 5.788353974720926e-17,
+          "residual_fraction": 0.5838744234865861,
+          "relative_to_port_coupling": 5.518981003915359e-16
+        },
+        {
+          "n": 3,
+          "descent_residual_norm": 2.820968186978543e-16,
+          "rhs_norm": 0.00011481983169456748,
+          "residual_fraction": 2.4568649381777595e-12,
+          "relative_to_port_coupling": 4.6066217591477324e-15
+        },
+        {
+          "n": 4,
+          "descent_residual_norm": 1.0085914880712728e-14,
+          "rhs_norm": 0.0010142418466158947,
+          "residual_fraction": 9.944289830246358e-12,
+          "relative_to_port_coupling": 1.647023003126003e-13
+        },
+        {
+          "n": 5,
+          "descent_residual_norm": 4.8268035884070826e-08,
+          "rhs_norm": 0.006799890753661523,
+          "residual_fraction": 7.098354610782539e-06,
+          "relative_to_port_coupling": 7.882137253488122e-07
+        },
+        {
+          "n": 6,
+          "descent_residual_norm": 1.0822697097894285e-06,
+          "rhs_norm": 0.040929278702895144,
+          "residual_fraction": 2.6442432998773415e-05,
+          "relative_to_port_coupling": 1.767339035369421e-05
+        },
+        {
+          "n": 7,
+          "descent_residual_norm": 1.4602857647926584e-05,
+          "rhs_norm": 0.23289381165753295,
+          "residual_fraction": 6.270178474900776e-05,
+          "relative_to_port_coupling": 0.00023846366682612696
+        }
+      ],
+      "runtime_seconds": 0.35
+    },
+    {
+      "scheme": "b4",
+      "a": 0.025,
+      "gamma": 0.5,
+      "dim": 5570,
+      "nnz": 69230,
+      "parent_count": 101,
+      "fine_B4": 404,
+      "fine_B3": 760,
+      "fine_B2": 510,
+      "leading_coupling_error": 1.0991222180778051e-16,
+      "moments": [
+        {
+          "n": 1,
+          "descent_residual_norm": 1.2178140672097204e-17,
+          "rhs_norm": 0.061237243569579464,
+          "residual_fraction": 1.988682044164849e-16,
+          "relative_to_port_coupling": 1.988682044164849e-16
+        },
+        {
+          "n": 2,
+          "descent_residual_norm": 3.37967183992647e-17,
+          "rhs_norm": 5.788353974720926e-17,
+          "residual_fraction": 0.5838744234865861,
+          "relative_to_port_coupling": 5.518981003915359e-16
+        },
+        {
+          "n": 3,
+          "descent_residual_norm": 1.1365871208255112e-05,
+          "rhs_norm": 0.0001133817308011004,
+          "residual_fraction": 0.10024429092720115,
+          "relative_to_port_coupling": 0.0001856038996161036
+        },
+        {
+          "n": 4,
+          "descent_residual_norm": 0.00012976036296210764,
+          "rhs_norm": 0.0010132089553472278,
+          "residual_fraction": 0.12806870910219958,
+          "relative_to_port_coupling": 0.002118977853970032
+        },
+        {
+          "n": 5,
+          "descent_residual_norm": 0.0010004695288558364,
+          "rhs_norm": 0.0068513214355625214,
+          "residual_fraction": 0.14602577594196525,
+          "relative_to_port_coupling": 0.016337598992663266
+        },
+        {
+          "n": 6,
+          "descent_residual_norm": 0.006512840744339151,
+          "rhs_norm": 0.04148636767205052,
+          "residual_fraction": 0.15698749034437326,
+          "relative_to_port_coupling": 0.10635424399759404
+        },
+        {
+          "n": 7,
+          "descent_residual_norm": 0.038660871808935855,
+          "rhs_norm": 0.23700711242409728,
+          "residual_fraction": 0.16312114608508718,
+          "relative_to_port_coupling": 0.6313293929536247
+        }
+      ],
+      "runtime_seconds": 0.33
+    },
+    {
+      "scheme": "b4",
+      "a": 0.025,
+      "gamma": 1.0,
+      "dim": 5570,
+      "nnz": 69230,
+      "parent_count": 101,
+      "fine_B4": 404,
+      "fine_B3": 760,
+      "fine_B2": 510,
+      "leading_coupling_error": 1.0991222180778051e-16,
+      "moments": [
+        {
+          "n": 1,
+          "descent_residual_norm": 1.2178140672097204e-17,
+          "rhs_norm": 0.061237243569579464,
+          "residual_fraction": 1.988682044164849e-16,
+          "relative_to_port_coupling": 1.988682044164849e-16
+        },
+        {
+          "n": 2,
+          "descent_residual_norm": 3.37967183992647e-17,
+          "rhs_norm": 5.788353974720926e-17,
+          "residual_fraction": 0.5838744234865861,
+          "relative_to_port_coupling": 5.518981003915359e-16
+        },
+        {
+          "n": 3,
+          "descent_residual_norm": 4.5463484832348044e-05,
+          "rhs_norm": 0.00011605828812347615,
+          "residual_fraction": 0.3917297555171481,
+          "relative_to_port_coupling": 0.000742415598453434
+        },
+        {
+          "n": 4,
+          "descent_residual_norm": 0.0005190414518380093,
+          "rhs_norm": 0.0011060822730489459,
+          "residual_fraction": 0.46926116120391065,
+          "relative_to_port_coupling": 0.00847591141570995
+        },
+        {
+          "n": 5,
+          "descent_residual_norm": 0.004002374838332503,
+          "rhs_norm": 0.007814530577405521,
+          "residual_fraction": 0.5121708589770877,
+          "relative_to_port_coupling": 0.06535850742179296
+        },
+        {
+          "n": 6,
+          "descent_residual_norm": 0.02606119802563383,
+          "rhs_norm": 0.04866533912248671,
+          "residual_fraction": 0.5355186770617155,
+          "relative_to_port_coupling": 0.42557758165620846
+        },
+        {
+          "n": 7,
+          "descent_residual_norm": 0.15476128873627099,
+          "rhs_norm": 0.28275480195517805,
+          "residual_fraction": 0.5473339008431891,
+          "relative_to_port_coupling": 2.5272412622626765
+        }
+      ],
+      "runtime_seconds": 0.31
+    },
+    {
+      "scheme": "b4",
+      "a": 0.025,
+      "gamma": 2.0,
+      "dim": 5570,
+      "nnz": 69230,
+      "parent_count": 101,
+      "fine_B4": 404,
+      "fine_B3": 760,
+      "fine_B2": 510,
+      "leading_coupling_error": 1.0991222180778051e-16,
+      "moments": [
+        {
+          "n": 1,
+          "descent_residual_norm": 1.2178140672097204e-17,
+          "rhs_norm": 0.061237243569579464,
+          "residual_fraction": 1.988682044164849e-16,
+          "relative_to_port_coupling": 1.988682044164849e-16
+        },
+        {
+          "n": 2,
+          "descent_residual_norm": 3.37967183992647e-17,
+          "rhs_norm": 5.788353974720926e-17,
+          "residual_fraction": 0.5838744234865861,
+          "relative_to_port_coupling": 5.518981003915359e-16
+        },
+        {
+          "n": 3,
+          "descent_residual_norm": 0.00018185393932874594,
+          "rhs_norm": 0.0001997637687984083,
+          "residual_fraction": 0.9103449560578921,
+          "relative_to_port_coupling": 0.0029696623938031833
+        },
+        {
+          "n": 4,
+          "descent_residual_norm": 0.00207616580733919,
+          "rhs_norm": 0.0022488531897577936,
+          "residual_fraction": 0.9232109133646014,
+          "relative_to_port_coupling": 0.03390364566263
+        },
+        {
+          "n": 5,
+          "descent_residual_norm": 0.016016641500615606,
+          "rhs_norm": 0.017265162023787202,
+          "residual_fraction": 0.9276855600050878,
+          "relative_to_port_coupling": 0.26155066046395525
+        },
+        {
+          "n": 6,
+          "descent_residual_norm": 0.10438365930182694,
+          "rhs_norm": 0.11236490857432171,
+          "residual_fraction": 0.9289702686206902,
+          "relative_to_port_coupling": 1.7045780184933261
+        },
+        {
+          "n": 7,
+          "descent_residual_norm": 0.6206810333941785,
+          "rhs_norm": 0.6683048148343177,
+          "residual_fraction": 0.9287394308958468,
+          "relative_to_port_coupling": 10.135678832260687
+        }
+      ],
+      "runtime_seconds": 0.3
+    },
+    {
+      "scheme": "b4",
+      "a": 0.0125,
+      "gamma": 0.0,
+      "dim": 5570,
+      "nnz": 60110,
+      "parent_count": 101,
+      "fine_B4": 404,
+      "fine_B3": 760,
+      "fine_B2": 510,
+      "leading_coupling_error": 1.0991222180778051e-16,
+      "moments": [
+        {
+          "n": 1,
+          "descent_residual_norm": 6.089070336048602e-18,
+          "rhs_norm": 0.030618621784789732,
+          "residual_fraction": 1.988682044164849e-16,
+          "relative_to_port_coupling": 1.988682044164849e-16
+        },
+        {
+          "n": 2,
+          "descent_residual_norm": 1.689835919963235e-17,
+          "rhs_norm": 2.894176987360463e-17,
+          "residual_fraction": 0.5838744234865861,
+          "relative_to_port_coupling": 5.518981003915359e-16
+        },
+        {
+          "n": 3,
+          "descent_residual_norm": 1.0557330726457653e-16,
+          "rhs_norm": 1.4352478964559014e-05,
+          "residual_fraction": 7.355754188894595e-12,
+          "relative_to_port_coupling": 3.4480097767503595e-15
+        },
+        {
+          "n": 4,
+          "descent_residual_norm": 1.370429820223127e-15,
+          "rhs_norm": 0.00012678023081981566,
+          "residual_fraction": 1.0809491443274214e-11,
+          "relative_to_port_coupling": 4.475805050454325e-14
+        },
+        {
+          "n": 5,
+          "descent_residual_norm": 1.5083633597697436e-09,
+          "rhs_norm": 0.000849836354923565,
+          "residual_fraction": 1.7748868367786018e-06,
+          "relative_to_port_coupling": 4.926294104194612e-08
+        },
+        {
+          "n": 6,
+          "descent_residual_norm": 3.3820898899813664e-08,
+          "rhs_norm": 0.005113506545733943,
+          "residual_fraction": 6.614032581620436e-06,
+          "relative_to_port_coupling": 1.1045859326240058e-06
+        },
+        {
+          "n": 7,
+          "descent_residual_norm": 4.563070326898967e-07,
+          "rhs_norm": 0.02908217785275554,
+          "residual_fraction": 1.5690263466518947e-05,
+          "relative_to_port_coupling": 1.4902925281783068e-05
+        }
+      ],
+      "runtime_seconds": 0.29
+    },
+    {
+      "scheme": "b4",
+      "a": 0.0125,
+      "gamma": 0.5,
+      "dim": 5570,
+      "nnz": 69230,
+      "parent_count": 101,
+      "fine_B4": 404,
+      "fine_B3": 760,
+      "fine_B2": 510,
+      "leading_coupling_error": 1.0991222180778051e-16,
+      "moments": [
+        {
+          "n": 1,
+          "descent_residual_norm": 6.089070336048602e-18,
+          "rhs_norm": 0.030618621784789732,
+          "residual_fraction": 1.988682044164849e-16,
+          "relative_to_port_coupling": 1.988682044164849e-16
+        },
+        {
+          "n": 2,
+          "descent_residual_norm": 1.689835919963235e-17,
+          "rhs_norm": 2.894176987360463e-17,
+          "residual_fraction": 0.5838744234865861,
+          "relative_to_port_coupling": 5.518981003915359e-16
+        },
+        {
+          "n": 3,
+          "descent_residual_norm": 1.4207339010145373e-06,
+          "rhs_norm": 1.4172716352876207e-05,
+          "residual_fraction": 0.10024429090660619,
+          "relative_to_port_coupling": 4.640097490345919e-05
+        },
+        {
+          "n": 4,
+          "descent_residual_norm": 1.6220045368567688e-05,
+          "rhs_norm": 0.00012665111940986105,
+          "residual_fraction": 0.12806870909744836,
+          "relative_to_port_coupling": 0.0005297444634371245
+        },
+        {
+          "n": 5,
+          "descent_residual_norm": 0.0001250405098403439,
+          "rhs_norm": 0.0008562660250529732,
+          "residual_fraction": 0.14602997921423802,
+          "relative_to_port_coupling": 0.004083805950484018
+        },
+        {
+          "n": 6,
+          "descent_residual_norm": 0.0008137567617671141,
+          "rhs_norm": 0.0051831419330853985,
+          "residual_fraction": 0.15700067107417692,
+          "relative_to_port_coupling": 0.026577184547586667
+        },
+        {
+          "n": 7,
+          "descent_residual_norm": 0.004828564399479064,
+          "rhs_norm": 0.02959620713209702,
+          "residual_fraction": 0.16314808103375167,
+          "relative_to_port_coupling": 0.15770025291855974
+        }
+      ],
+      "runtime_seconds": 0.31
+    },
+    {
+      "scheme": "b4",
+      "a": 0.0125,
+      "gamma": 1.0,
+      "dim": 5570,
+      "nnz": 69230,
+      "parent_count": 101,
+      "fine_B4": 404,
+      "fine_B3": 760,
+      "fine_B2": 510,
+      "leading_coupling_error": 1.0991222180778051e-16,
+      "moments": [
+        {
+          "n": 1,
+          "descent_residual_norm": 6.089070336048602e-18,
+          "rhs_norm": 0.030618621784789732,
+          "residual_fraction": 1.988682044164849e-16,
+          "relative_to_port_coupling": 1.988682044164849e-16
+        },
+        {
+          "n": 2,
+          "descent_residual_norm": 1.689835919963235e-17,
+          "rhs_norm": 2.894176987360463e-17,
+          "residual_fraction": 0.5838744234865861,
+          "relative_to_port_coupling": 5.518981003915359e-16
+        },
+        {
+          "n": 3,
+          "descent_residual_norm": 5.682935604098116e-06,
+          "rhs_norm": 1.450728601801028e-05,
+          "residual_fraction": 0.3917297554513611,
+          "relative_to_port_coupling": 0.0001856038996151421
+        },
+        {
+          "n": 4,
+          "descent_residual_norm": 6.488018147785599e-05,
+          "rhs_norm": 0.00013826028412432267,
+          "residual_fraction": 0.46926116121326783,
+          "relative_to_port_coupling": 0.0021189778538655917
+        },
+        {
+          "n": 5,
+          "descent_residual_norm": 0.0005001775620802419,
+          "rhs_norm": 0.0009766392429938228,
+          "residual_fraction": 0.5121415770136174,
+          "relative_to_port_coupling": 0.016335730771811316
+        },
+        {
+          "n": 6,
+          "descent_residual_norm": 0.003255334401771946,
+          "rhs_norm": 0.006079837282539854,
+          "residual_fraction": 0.5354311720020292,
+          "relative_to_port_coupling": 0.10631877635292791
+        },
+        {
+          "n": 7,
+          "descent_residual_norm": 0.019317938715138535,
+          "rhs_norm": 0.0353057628018303,
+          "residual_fraction": 0.5471610632963598,
+          "relative_to_port_coupling": 0.6309212364592784
+        }
+      ],
+      "runtime_seconds": 0.29
+    },
+    {
+      "scheme": "b4",
+      "a": 0.0125,
+      "gamma": 2.0,
+      "dim": 5570,
+      "nnz": 69230,
+      "parent_count": 101,
+      "fine_B4": 404,
+      "fine_B3": 760,
+      "fine_B2": 510,
+      "leading_coupling_error": 1.0991222180778051e-16,
+      "moments": [
+        {
+          "n": 1,
+          "descent_residual_norm": 6.089070336048602e-18,
+          "rhs_norm": 0.030618621784789732,
+          "residual_fraction": 1.988682044164849e-16,
+          "relative_to_port_coupling": 1.988682044164849e-16
+        },
+        {
+          "n": 2,
+          "descent_residual_norm": 1.689835919963235e-17,
+          "rhs_norm": 2.894176987360463e-17,
+          "residual_fraction": 0.5838744234865861,
+          "relative_to_port_coupling": 5.518981003915359e-16
+        },
+        {
+          "n": 3,
+          "descent_residual_norm": 2.2731742416164207e-05,
+          "rhs_norm": 2.4970471100985397e-05,
+          "residual_fraction": 0.910344956017556,
+          "relative_to_port_coupling": 0.0007424155984531135
+        },
+        {
+          "n": 4,
+          "descent_residual_norm": 0.00025952072591562693,
+          "rhs_norm": 0.00028110664871522383,
+          "residual_fraction": 0.9232109133730786,
+          "relative_to_port_coupling": 0.008475911415599634
+        },
+        {
+          "n": 5,
+          "descent_residual_norm": 0.002000933440485842,
+          "rhs_norm": 0.0021570916701609626,
+          "residual_fraction": 0.9276070498832959,
+          "relative_to_port_coupling": 0.06535021251282566
+        },
+        {
+          "n": 6,
+          "descent_residual_norm": 0.013025677211182602,
+          "rhs_norm": 0.014024750707056305,
+          "residual_fraction": 0.928763546907751,
+          "relative_to_port_coupling": 0.4254168362879516
+        },
+        {
+          "n": 7,
+          "descent_residual_norm": 0.07732286042412549,
+          "rhs_norm": 0.08328969737405698,
+          "residual_fraction": 0.9283604438717767,
+          "relative_to_port_coupling": 2.525354046554009
+        }
+      ],
+      "runtime_seconds": 0.3
+    },
+    {
+      "scheme": "b24",
+      "a": 0.05,
+      "gamma": 0.0,
+      "dim": 29370,
+      "nnz": 350550,
+      "parent_count": 101,
+      "fine_B4": 2424,
+      "fine_B3": 4560,
+      "fine_B2": 2550,
+      "leading_coupling_error": 2.5027256650078056e-16,
+      "moments": [
+        {
+          "n": 1,
+          "descent_residual_norm": 2.629406645919365e-17,
+          "rhs_norm": 0.12247448713915896,
+          "residual_fraction": 2.1469015362618006e-16,
+          "relative_to_port_coupling": 2.1469015362618006e-16
+        },
+        {
+          "n": 2,
+          "descent_residual_norm": 8.271634043331233e-17,
+          "rhs_norm": 2.6443074097054425e-16,
+          "residual_fraction": 0.31280909371473703,
+          "relative_to_port_coupling": 6.753760915065331e-16
+        },
+        {
+          "n": 3,
+          "descent_residual_norm": 1.144969342439463e-15,
+          "rhs_norm": 0.0009185586535428858,
+          "residual_fraction": 1.2464847378262782e-12,
+          "relative_to_port_coupling": 9.34863553368888e-15
+        },
+        {
+          "n": 4,
+          "descent_residual_norm": 7.891839894907307e-15,
+          "rhs_norm": 0.008113934772963969,
+          "residual_fraction": 9.726279685169896e-13,
+          "relative_to_port_coupling": 6.443660291420837e-14
+        },
+        {
+          "n": 5,
+          "descent_residual_norm": 1.4356033647632737e-06,
+          "rhs_norm": 0.05442785648685225,
+          "residual_fraction": 2.6376261301233902e-05,
+          "relative_to_port_coupling": 1.1721652388975516e-05
+        },
+        {
+          "n": 6,
+          "descent_residual_norm": 3.2042746844159943e-05,
+          "rhs_norm": 0.32794238975815937,
+          "residual_fraction": 9.770846296445488e-05,
+          "relative_to_port_coupling": 0.0002616279324178927
+        },
+        {
+          "n": 7,
+          "descent_residual_norm": 0.0004324066342393474,
+          "rhs_norm": 1.8688107940497642,
+          "residual_fraction": 0.00023138063821983302,
+          "relative_to_port_coupling": 0.003530585384268928
+        }
+      ],
+      "runtime_seconds": 1.62
+    },
+    {
+      "scheme": "b24",
+      "a": 0.05,
+      "gamma": 0.5,
+      "dim": 29370,
+      "nnz": 405270,
+      "parent_count": 101,
+      "fine_B4": 2424,
+      "fine_B3": 4560,
+      "fine_B2": 2550,
+      "leading_coupling_error": 2.5027256650078056e-16,
+      "moments": [
+        {
+          "n": 1,
+          "descent_residual_norm": 2.629406645919365e-17,
+          "rhs_norm": 0.12247448713915896,
+          "residual_fraction": 2.1469015362618006e-16,
+          "relative_to_port_coupling": 2.1469015362618006e-16
+        },
+        {
+          "n": 2,
+          "descent_residual_norm": 8.271634043331233e-17,
+          "rhs_norm": 2.6443074097054425e-16,
+          "residual_fraction": 0.31280909371473703,
+          "relative_to_port_coupling": 6.753760915065331e-16
+        },
+        {
+          "n": 3,
+          "descent_residual_norm": 1.6679679932729e-05,
+          "rhs_norm": 0.0009157619892119917,
+          "residual_fraction": 0.01821399023897222,
+          "relative_to_port_coupling": 0.00013618901636042025
+        },
+        {
+          "n": 4,
+          "descent_residual_norm": 0.00019042634590201376,
+          "rhs_norm": 0.008102412788552933,
+          "residual_fraction": 0.023502424632209258,
+          "relative_to_port_coupling": 0.0015548246034755467
+        },
+        {
+          "n": 5,
+          "descent_residual_norm": 0.0014689682330933326,
+          "rhs_norm": 0.05441622376529302,
+          "residual_fraction": 0.026995041762347516,
+          "relative_to_port_coupling": 0.011994075398121485
+        },
+        {
+          "n": 6,
+          "descent_residual_norm": 0.009572129033393422,
+          "rhs_norm": 0.3281590859543696,
+          "residual_fraction": 0.029169172645502867,
+          "relative_to_port_coupling": 0.07815610627964745
+        },
+        {
+          "n": 7,
+          "descent_residual_norm": 0.056903487544735065,
+          "rhs_norm": 1.8712103094689456,
+          "residual_fraction": 0.030409990398612342,
+          "relative_to_port_coupling": 0.46461503023139605
+        }
+      ],
+      "runtime_seconds": 1.67
+    },
+    {
+      "scheme": "b24",
+      "a": 0.05,
+      "gamma": 1.0,
+      "dim": 29370,
+      "nnz": 405270,
+      "parent_count": 101,
+      "fine_B4": 2424,
+      "fine_B3": 4560,
+      "fine_B2": 2550,
+      "leading_coupling_error": 2.5027256650078056e-16,
+      "moments": [
+        {
+          "n": 1,
+          "descent_residual_norm": 2.629406645919365e-17,
+          "rhs_norm": 0.12247448713915896,
+          "residual_fraction": 2.1469015362618006e-16,
+          "relative_to_port_coupling": 2.1469015362618006e-16
+        },
+        {
+          "n": 2,
+          "descent_residual_norm": 8.271634043331233e-17,
+          "rhs_norm": 2.6443074097054425e-16,
+          "residual_fraction": 0.31280909371473703,
+          "relative_to_port_coupling": 6.753760915065331e-16
+        },
+        {
+          "n": 3,
+          "descent_residual_norm": 6.671871973186827e-05,
+          "rhs_norm": 0.0009092155704781494,
+          "residual_fraction": 0.07338052921462994,
+          "relative_to_port_coupling": 0.0005447560654494563
+        },
+        {
+          "n": 4,
+          "descent_residual_norm": 0.0007617053836083091,
+          "rhs_norm": 0.00809481178695188,
+          "residual_fraction": 0.09409797332608902,
+          "relative_to_port_coupling": 0.0062192984139042605
+        },
+        {
+          "n": 5,
+          "descent_residual_norm": 0.005877127858811345,
+          "rhs_norm": 0.05461886597835759,
+          "residual_fraction": 0.10760252439404587,
+          "relative_to_port_coupling": 0.04798654802394549
+        },
+        {
+          "n": 6,
+          "descent_residual_norm": 0.03831424208967424,
+          "rhs_norm": 0.33047595799279456,
+          "residual_fraction": 0.115936548977368,
+          "relative_to_port_coupling": 0.31283447667056175
+        },
+        {
+          "n": 7,
+          "descent_residual_norm": 0.22792591003348878,
+          "rhs_norm": 1.8887258885650855,
+          "residual_fraction": 0.12067707199515863,
+          "relative_to_port_coupling": 1.86100726247184
+        }
+      ],
+      "runtime_seconds": 1.61
+    },
+    {
+      "scheme": "b24",
+      "a": 0.05,
+      "gamma": 2.0,
+      "dim": 29370,
+      "nnz": 405270,
+      "parent_count": 101,
+      "fine_B4": 2424,
+      "fine_B3": 4560,
+      "fine_B2": 2550,
+      "leading_coupling_error": 2.5027256650078056e-16,
+      "moments": [
+        {
+          "n": 1,
+          "descent_residual_norm": 2.629406645919365e-17,
+          "rhs_norm": 0.12247448713915896,
+          "residual_fraction": 2.1469015362618006e-16,
+          "relative_to_port_coupling": 2.1469015362618006e-16
+        },
+        {
+          "n": 2,
+          "descent_residual_norm": 8.271634043331233e-17,
+          "rhs_norm": 2.6443074097054425e-16,
+          "residual_fraction": 0.31280909371473703,
+          "relative_to_port_coupling": 6.753760915065331e-16
+        },
+        {
+          "n": 3,
+          "descent_residual_norm": 0.00026687487892765993,
+          "rhs_norm": 0.000911332944368333,
+          "residual_fraction": 0.29284015307121086,
+          "relative_to_port_coupling": 0.0021790242617993508
+        },
+        {
+          "n": 4,
+          "descent_residual_norm": 0.003046821534434917,
+          "rhs_norm": 0.008461370637231156,
+          "residual_fraction": 0.3600860504831802,
+          "relative_to_port_coupling": 0.024877193655630764
+        },
+        {
+          "n": 5,
+          "descent_residual_norm": 0.023531235944629712,
+          "rhs_norm": 0.05883041930563779,
+          "residual_fraction": 0.3999841616354872,
+          "relative_to_port_coupling": 0.1921317369379376
+        },
+        {
+          "n": 6,
+          "descent_residual_norm": 0.15369967459676018,
+          "rhs_norm": 0.3632324804163451,
+          "residual_fraction": 0.4231440823259699,
+          "relative_to_port_coupling": 1.254952587979587
+        },
+        {
+          "n": 7,
+          "descent_residual_norm": 0.9169270392566342,
+          "rhs_norm": 2.1032574003869384,
+          "residual_fraction": 0.435955693814721,
+          "relative_to_port_coupling": 7.486677925132244
+        }
+      ],
+      "runtime_seconds": 1.69
+    },
+    {
+      "scheme": "b24",
+      "a": 0.025,
+      "gamma": 0.0,
+      "dim": 29370,
+      "nnz": 350550,
+      "parent_count": 101,
+      "fine_B4": 2424,
+      "fine_B3": 4560,
+      "fine_B2": 2550,
+      "leading_coupling_error": 2.5027256650078056e-16,
+      "moments": [
+        {
+          "n": 1,
+          "descent_residual_norm": 1.3147033229596825e-17,
+          "rhs_norm": 0.06123724356957948,
+          "residual_fraction": 2.1469015362618006e-16,
+          "relative_to_port_coupling": 2.1469015362618006e-16
+        },
+        {
+          "n": 2,
+          "descent_residual_norm": 4.1358170216656166e-17,
+          "rhs_norm": 1.3221537048527213e-16,
+          "residual_fraction": 0.31280909371473703,
+          "relative_to_port_coupling": 6.753760915065331e-16
+        },
+        {
+          "n": 3,
+          "descent_residual_norm": 2.2513212817767587e-15,
+          "rhs_norm": 0.0001148198316936764,
+          "residual_fraction": 1.9607425377377105e-11,
+          "relative_to_port_coupling": 3.676392258281097e-14
+        },
+        {
+          "n": 4,
+          "descent_residual_norm": 6.184223840799083e-15,
+          "rhs_norm": 0.0010142418466218333,
+          "residual_fraction": 6.097385807336848e-12,
+          "relative_to_port_coupling": 1.0098795243408358e-13
+        },
+        {
+          "n": 5,
+          "descent_residual_norm": 4.4862593671026186e-08,
+          "rhs_norm": 0.006799588665863329,
+          "residual_fraction": 6.597839351114642e-06,
+          "relative_to_port_coupling": 7.326030868788541e-07
+        },
+        {
+          "n": 6,
+          "descent_residual_norm": 1.0013358017363253e-06,
+          "rhs_norm": 0.04092393233380947,
+          "residual_fraction": 2.4468220540699794e-05,
+          "relative_to_port_coupling": 1.6351745169564654e-05
+        },
+        {
+          "n": 7,
+          "descent_residual_norm": 1.3509363718336259e-05,
+          "rhs_norm": 0.23283426433452242,
+          "residual_fraction": 5.8021373086767025e-05,
+          "relative_to_port_coupling": 0.00022060698573061246
+        }
+      ],
+      "runtime_seconds": 1.69
+    },
+    {
+      "scheme": "b24",
+      "a": 0.025,
+      "gamma": 0.5,
+      "dim": 29370,
+      "nnz": 405270,
+      "parent_count": 101,
+      "fine_B4": 2424,
+      "fine_B3": 4560,
+      "fine_B2": 2550,
+      "leading_coupling_error": 2.5027256650078056e-16,
+      "moments": [
+        {
+          "n": 1,
+          "descent_residual_norm": 1.3147033229596825e-17,
+          "rhs_norm": 0.06123724356957948,
+          "residual_fraction": 2.1469015362618006e-16,
+          "relative_to_port_coupling": 2.1469015362618006e-16
+        },
+        {
+          "n": 2,
+          "descent_residual_norm": 4.1358170216656166e-17,
+          "rhs_norm": 1.3221537048527213e-16,
+          "residual_fraction": 0.31280909371473703,
+          "relative_to_port_coupling": 6.753760915065331e-16
+        },
+        {
+          "n": 3,
+          "descent_residual_norm": 2.08495999306099e-06,
+          "rhs_norm": 0.00011447024865207303,
+          "residual_fraction": 0.018213990251721462,
+          "relative_to_port_coupling": 3.404725411410786e-05
+        },
+        {
+          "n": 4,
+          "descent_residual_norm": 2.3803293234785333e-05,
+          "rhs_norm": 0.00101280159857008,
+          "residual_fraction": 0.02350242462925801,
+          "relative_to_port_coupling": 0.00038870615082044576
+        },
+        {
+          "n": 5,
+          "descent_residual_norm": 0.00018352345814751715,
+          "rhs_norm": 0.00679805775196197,
+          "residual_fraction": 0.026996454699807593,
+          "relative_to_port_coupling": 0.0029969255219496065
+        },
+        {
+          "n": 6,
+          "descent_residual_norm": 0.0011946551164720082,
+          "rhs_norm": 0.04094967406908637,
+          "residual_fraction": 0.029173739318571878,
+          "relative_to_port_coupling": 0.01950863635974417
+        },
+        {
+          "n": 7,
+          "descent_residual_norm": 0.007091231556175076,
+          "rhs_norm": 0.23311944262159462,
+          "residual_fraction": 0.030418876591455063,
+          "relative_to_port_coupling": 0.11579932640367491
+        }
+      ],
+      "runtime_seconds": 1.85
+    },
+    {
+      "scheme": "b24",
+      "a": 0.025,
+      "gamma": 1.0,
+      "dim": 29370,
+      "nnz": 405270,
+      "parent_count": 101,
+      "fine_B4": 2424,
+      "fine_B3": 4560,
+      "fine_B2": 2550,
+      "leading_coupling_error": 2.5027256650078056e-16,
+      "moments": [
+        {
+          "n": 1,
+          "descent_residual_norm": 1.3147033229596825e-17,
+          "rhs_norm": 0.06123724356957948,
+          "residual_fraction": 2.1469015362618006e-16,
+          "relative_to_port_coupling": 2.1469015362618006e-16
+        },
+        {
+          "n": 2,
+          "descent_residual_norm": 4.1358170216656166e-17,
+          "rhs_norm": 1.3221537048527213e-16,
+          "residual_fraction": 0.31280909371473703,
+          "relative_to_port_coupling": 6.753760915065331e-16
+        },
+        {
+          "n": 3,
+          "descent_residual_norm": 8.339839967862629e-06,
+          "rhs_norm": 0.00011365194631150917,
+          "residual_fraction": 0.07338052922564053,
+          "relative_to_port_coupling": 0.0001361890163848846
+        },
+        {
+          "n": 4,
+          "descent_residual_norm": 9.521317294850892e-05,
+          "rhs_norm": 0.0010118514733687331,
+          "residual_fraction": 0.09409797332361236,
+          "relative_to_port_coupling": 0.001554824603434755
+        },
+        {
+          "n": 5,
+          "descent_residual_norm": 0.0007341331140016551,
+          "rhs_norm": 0.00682315559545844,
+          "residual_fraction": 0.10759436799159341,
+          "relative_to_port_coupling": 0.011988343550563513
+        },
+        {
+          "n": 6,
+          "descent_residual_norm": 0.004779429308759779,
+          "rhs_norm": 0.041235000695313384,
+          "residual_fraction": 0.1159070990218994,
+          "relative_to_port_coupling": 0.07804775378776246
+        },
+        {
+          "n": 7,
+          "descent_residual_norm": 0.02837482036363708,
+          "rhs_norm": 0.23526011330139082,
+          "residual_fraction": 0.12061041697827549,
+          "relative_to_port_coupling": 0.46335887622696165
+        }
+      ],
+      "runtime_seconds": 1.68
+    },
+    {
+      "scheme": "b24",
+      "a": 0.025,
+      "gamma": 2.0,
+      "dim": 29370,
+      "nnz": 405270,
+      "parent_count": 101,
+      "fine_B4": 2424,
+      "fine_B3": 4560,
+      "fine_B2": 2550,
+      "leading_coupling_error": 2.5027256650078056e-16,
+      "moments": [
+        {
+          "n": 1,
+          "descent_residual_norm": 1.3147033229596825e-17,
+          "rhs_norm": 0.06123724356957948,
+          "residual_fraction": 2.1469015362618006e-16,
+          "relative_to_port_coupling": 2.1469015362618006e-16
+        },
+        {
+          "n": 2,
+          "descent_residual_norm": 4.1358170216656166e-17,
+          "rhs_norm": 1.3221537048527213e-16,
+          "residual_fraction": 0.31280909371473703,
+          "relative_to_port_coupling": 6.753760915065331e-16
+        },
+        {
+          "n": 3,
+          "descent_residual_norm": 3.335935986735376e-05,
+          "rhs_norm": 0.00011391661804737197,
+          "residual_fraction": 0.29284015308004796,
+          "relative_to_port_coupling": 0.0005447560654726387
+        },
+        {
+          "n": 4,
+          "descent_residual_norm": 0.00038085269180122155,
+          "rhs_norm": 0.0010576713296543614,
+          "residual_fraction": 0.3600860504800496,
+          "relative_to_port_coupling": 0.006219298413856366
+        },
+        {
+          "n": 5,
+          "descent_residual_norm": 0.002937242615783222,
+          "rhs_norm": 0.007347895192779784,
+          "residual_fraction": 0.3997393183655404,
+          "relative_to_port_coupling": 0.047964971062844204
+        },
+        {
+          "n": 6,
+          "descent_residual_norm": 0.019131553178687942,
+          "rhs_norm": 0.04529373669808697,
+          "residual_fraction": 0.422388492833182,
+          "relative_to_port_coupling": 0.31241695516471335
+        },
+        {
+          "n": 7,
+          "descent_residual_norm": 0.11366243506596689,
+          "rhs_norm": 0.2616347628920044,
+          "residual_fraction": 0.4344317009314378,
+          "relative_to_port_coupling": 1.8560997922256322
+        }
+      ],
+      "runtime_seconds": 1.74
+    },
+    {
+      "scheme": "b24",
+      "a": 0.0125,
+      "gamma": 0.0,
+      "dim": 29370,
+      "nnz": 350550,
+      "parent_count": 101,
+      "fine_B4": 2424,
+      "fine_B3": 4560,
+      "fine_B2": 2550,
+      "leading_coupling_error": 2.5027256650078056e-16,
+      "moments": [
+        {
+          "n": 1,
+          "descent_residual_norm": 6.5735166147984125e-18,
+          "rhs_norm": 0.03061862178478974,
+          "residual_fraction": 2.1469015362618006e-16,
+          "relative_to_port_coupling": 2.1469015362618006e-16
+        },
+        {
+          "n": 2,
+          "descent_residual_norm": 2.0679085108328083e-17,
+          "rhs_norm": 6.610768524263606e-17,
+          "residual_fraction": 0.31280909371473703,
+          "relative_to_port_coupling": 6.753760915065331e-16
+        },
+        {
+          "n": 3,
+          "descent_residual_norm": 1.282974582705991e-15,
+          "rhs_norm": 1.4352478961064993e-05,
+          "residual_fraction": 8.939045207356924e-11,
+          "relative_to_port_coupling": 4.1901774407864696e-14
+        },
+        {
+          "n": 4,
+          "descent_residual_norm": 2.3919660875868642e-15,
+          "rhs_norm": 0.0001267802308390968,
+          "residual_fraction": 1.886702738869934e-11,
+          "relative_to_port_coupling": 7.812128528838974e-14
+        },
+        {
+          "n": 5,
+          "descent_residual_norm": 1.4019507631801682e-09,
+          "rhs_norm": 0.0008498269147136146,
+          "residual_fraction": 1.6496897649477428e-06,
+          "relative_to_port_coupling": 4.578752019062492e-08
+        },
+        {
+          "n": 6,
+          "descent_residual_norm": 3.129173219712464e-08,
+          "rhs_norm": 0.005113339471441026,
+          "residual_fraction": 6.119627373049436e-06,
+          "relative_to_port_coupling": 1.021983694010332e-06
+        },
+        {
+          "n": 7,
+          "descent_residual_norm": 4.2214128983550325e-07,
+          "rhs_norm": 0.02908031718434022,
+          "residual_fraction": 1.4516392209876814e-05,
+          "relative_to_port_coupling": 1.3787076792764339e-05
+        }
+      ],
+      "runtime_seconds": 1.82
+    },
+    {
+      "scheme": "b24",
+      "a": 0.0125,
+      "gamma": 0.5,
+      "dim": 29370,
+      "nnz": 405270,
+      "parent_count": 101,
+      "fine_B4": 2424,
+      "fine_B3": 4560,
+      "fine_B2": 2550,
+      "leading_coupling_error": 2.5027256650078056e-16,
+      "moments": [
+        {
+          "n": 1,
+          "descent_residual_norm": 6.5735166147984125e-18,
+          "rhs_norm": 0.03061862178478974,
+          "residual_fraction": 2.1469015362618006e-16,
+          "relative_to_port_coupling": 2.1469015362618006e-16
+        },
+        {
+          "n": 2,
+          "descent_residual_norm": 2.0679085108328083e-17,
+          "rhs_norm": 6.610768524263606e-17,
+          "residual_fraction": 0.31280909371473703,
+          "relative_to_port_coupling": 6.753760915065331e-16
+        },
+        {
+          "n": 3,
+          "descent_residual_norm": 2.6061999813064203e-07,
+          "rhs_norm": 1.430878108102912e-05,
+          "residual_fraction": 0.018213990182306825,
+          "relative_to_port_coupling": 8.51181349580238e-06
+        },
+        {
+          "n": 4,
+          "descent_residual_norm": 2.9754116554556067e-06,
+          "rhs_norm": 0.0001266001998321353,
+          "residual_fraction": 0.023502424635986625,
+          "relative_to_port_coupling": 9.717653774128029e-05
+        },
+        {
+          "n": 5,
+          "descent_residual_norm": 2.293738526330901e-05,
+          "rhs_norm": 0.0008496331497201101,
+          "residual_fraction": 0.026996810648060456,
+          "relative_to_port_coupling": 0.0007491318657165524
+        },
+        {
+          "n": 6,
+          "descent_residual_norm": 0.0001492738892636498,
+          "rhs_norm": 0.005116515148205816,
+          "residual_fraction": 0.029174913967760844,
+          "relative_to_port_coupling": 0.004875264808222161
+        },
+        {
+          "n": 7,
+          "descent_residual_norm": 0.0008857305591443867,
+          "rhs_norm": 0.02911550343929064,
+          "residual_fraction": 0.03042126889515211,
+          "relative_to_port_coupling": 0.028927838926583776
+        }
+      ],
+      "runtime_seconds": 1.7
+    },
+    {
+      "scheme": "b24",
+      "a": 0.0125,
+      "gamma": 1.0,
+      "dim": 29370,
+      "nnz": 405270,
+      "parent_count": 101,
+      "fine_B4": 2424,
+      "fine_B3": 4560,
+      "fine_B2": 2550,
+      "leading_coupling_error": 2.5027256650078056e-16,
+      "moments": [
+        {
+          "n": 1,
+          "descent_residual_norm": 6.5735166147984125e-18,
+          "rhs_norm": 0.03061862178478974,
+          "residual_fraction": 2.1469015362618006e-16,
+          "relative_to_port_coupling": 2.1469015362618006e-16
+        },
+        {
+          "n": 2,
+          "descent_residual_norm": 2.0679085108328083e-17,
+          "rhs_norm": 6.610768524263606e-17,
+          "residual_fraction": 0.31280909371473703,
+          "relative_to_port_coupling": 6.753760915065331e-16
+        },
+        {
+          "n": 3,
+          "descent_residual_norm": 1.0424799950127393e-06,
+          "rhs_norm": 1.4206493288213107e-05,
+          "residual_fraction": 0.07338052916110324,
+          "relative_to_port_coupling": 3.404725406453817e-05
+        },
+        {
+          "n": 4,
+          "descent_residual_norm": 1.1901646618784613e-05,
+          "rhs_norm": 0.00012648143418061319,
+          "residual_fraction": 0.09409797331827593,
+          "relative_to_port_coupling": 0.0003887061508659065
+        },
+        {
+          "n": 5,
+          "descent_residual_norm": 9.175076907128168e-05,
+          "rhs_norm": 0.0008527631166398608,
+          "residual_fraction": 0.10759232814008993,
+          "relative_to_port_coupling": 0.0029965675697676327
+        },
+        {
+          "n": 6,
+          "descent_residual_norm": 0.0005971208718026632,
+          "rhs_norm": 0.005152047154366769,
+          "residual_fraction": 0.11589972954664357,
+          "relative_to_port_coupling": 0.01950188600909829
+        },
+        {
+          "n": 7,
+          "descent_residual_norm": 0.003543232566690334,
+          "rhs_norm": 0.029381563891636642,
+          "residual_fraction": 0.12059373625441709,
+          "relative_to_port_coupling": 0.1157214910453771
+        }
+      ],
+      "runtime_seconds": 1.79
+    },
+    {
+      "scheme": "b24",
+      "a": 0.0125,
+      "gamma": 2.0,
+      "dim": 29370,
+      "nnz": 405270,
+      "parent_count": 101,
+      "fine_B4": 2424,
+      "fine_B3": 4560,
+      "fine_B2": 2550,
+      "leading_coupling_error": 2.5027256650078056e-16,
+      "moments": [
+        {
+          "n": 1,
+          "descent_residual_norm": 6.5735166147984125e-18,
+          "rhs_norm": 0.03061862178478974,
+          "residual_fraction": 2.1469015362618006e-16,
+          "relative_to_port_coupling": 2.1469015362618006e-16
+        },
+        {
+          "n": 2,
+          "descent_residual_norm": 2.0679085108328083e-17,
+          "rhs_norm": 6.610768524263606e-17,
+          "residual_fraction": 0.31280909371473703,
+          "relative_to_port_coupling": 6.753760915065331e-16
+        },
+        {
+          "n": 3,
+          "descent_residual_norm": 4.169919982459352e-06,
+          "rhs_norm": 1.4239577255423294e-05,
+          "residual_fraction": 0.29284015302288513,
+          "relative_to_port_coupling": 0.00013618901633681053
+        },
+        {
+          "n": 4,
+          "descent_residual_norm": 4.760658647505708e-05,
+          "rhs_norm": 0.00013220891621594188,
+          "residual_fraction": 0.36008605045441433,
+          "relative_to_port_coupling": 0.0015548246034609687
+        },
+        {
+          "n": 5,
+          "descent_residual_norm": 0.00036702526892929766,
+          "rhs_norm": 0.0009183023089525402,
+          "residual_fraction": 0.39967804213401614,
+          "relative_to_port_coupling": 0.011986995087794022
+        },
+        {
+          "n": 6,
+          "descent_residual_norm": 0.0023889158712124296,
+          "rhs_norm": 0.0056582701166597174,
+          "residual_fraction": 0.4221989798929383,
+          "relative_to_port_coupling": 0.07802166563875712
+        },
+        {
+          "n": 7,
+          "descent_residual_norm": 0.014178028211693507,
+          "rhs_norm": 0.03266461321211962,
+          "residual_fraction": 0.4340485564492465,
+          "relative_to_port_coupling": 0.4630524623657834
+        }
+      ],
+      "runtime_seconds": 1.76
+    }
+  ]
+}

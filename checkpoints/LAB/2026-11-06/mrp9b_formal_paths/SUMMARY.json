@@ -1,0 +1,106 @@
+{
+  "scope": "Exploratory conditional predictive-fibre chart from certified Q-B1852 H; no GR derivation",
+  "source_sha256": "ebbe56f7d9c0b19b5c7e688e2b69c7acd2f9a271d161cf558e50e52cad86b5c7",
+  "cutoff_moment_results": {
+    "b4": {
+      "cutoffs": [
+        0.05,
+        0.025,
+        0.0125
+      ],
+      "third_order_nonzero": [
+        0.0003637078786575246,
+        4.5463484832348044e-05,
+        5.682935604098116e-06
+      ],
+      "fifth_order_b2_off": [
+        1.5445768123066005e-06,
+        4.8268035884070826e-08,
+        1.5083633597697436e-09
+      ],
+      "D3_power": 2.9999999999905693,
+      "D5_power_b2_off": 5.000005946071439,
+      "coefficient_D3_per_gamma2_a3": 2.9096630292702743,
+      "coefficient_D5_b2_off_per_a5": 4.942646874528851
+    },
+    "b24": {
+      "cutoffs": [
+        0.05,
+        0.025,
+        0.0125
+      ],
+      "third_order_nonzero": [
+        6.671871973186827e-05,
+        8.339839967862629e-06,
+        1.0424799950127393e-06
+      ],
+      "fifth_order_b2_off": [
+        1.4356033647632737e-06,
+        4.4862593671026186e-08,
+        1.4019507631801682e-09
+      ],
+      "D3_power": 3.0000000005519736,
+      "D5_power_b2_off": 5.000002905923501,
+      "coefficient_D3_per_gamma2_a3": 0.5337497579432081,
+      "coefficient_D5_b2_off_per_a5": 4.5939295919130805
+    }
+  },
+  "b2_path_matrix_max_absolute_error": 2.2633917150188486e-15,
+  "b2_path_max_relative_error_nonzero": 4.682763241721062e-09,
+  "formal_first_nonzero_moment_order": 3,
+  "finite_readout_rows": [
+    {
+      "a": 0.05,
+      "finite_readout_row_defect_full": 0.000813783336993474,
+      "finite_readout_row_defect_sink": 4.946402130297659e-07,
+      "finite_readout_row_defect_b2_off": 4.946402134835738e-07
+    },
+    {
+      "a": 0.025,
+      "finite_readout_row_defect_full": 0.00020060467817850373,
+      "finite_readout_row_defect_sink": 3.047303632256322e-08,
+      "finite_readout_row_defect_b2_off": 3.0473036364772213e-08
+    },
+    {
+      "a": 0.0125,
+      "finite_readout_row_defect_full": 4.997499550670908e-05,
+      "finite_readout_row_defect_sink": 1.8977303293080082e-09,
+      "finite_readout_row_defect_b2_off": 1.89773025775985e-09
+    }
+  ],
+  "finite_full_exponent": 2.0126831988795315,
+  "finite_fresh_sink_exponent": 4.012980362151894,
+  "finite_improvement_at_0p025": 6583.02231701045,
+  "local_stinespring_max_one_step_error": 3.1401849173675503e-16,
+  "local_stinespring_max_8step_error": 1.88411095042053e-15,
+  "l2l1_diagnostic": {
+    "0.0": {
+      "a": [
+        0.05,
+        0.025,
+        0.0125
+      ],
+      "norm": [
+        0.17446807733140424,
+        0.17449131097129136,
+        0.1744970985862539
+      ],
+      "intercept_a2_linear_fit": 0.17449904165458086
+    },
+    "1.0": {
+      "a": [
+        0.05,
+        0.025,
+        0.0125
+      ],
+      "norm": [
+        0.17427405250065253,
+        0.1744434111167137,
+        0.1744851624936331
+      ],
+      "intercept_a2_linear_fit": 0.1744994718040035
+    }
+  },
+  "source_complete_checked": true,
+  "interpretation": "a root-native local Kraus capacity, NOT a derived actual Q update or a repair of l2->l1; no nonlinear GR claim"
+}

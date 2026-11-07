@@ -1,0 +1,915 @@
+{
+  "scope": "Q-B1852 *actual H* moments; Q-B1592 chart *conditional transplant*; no GR claim",
+  "source_original_sha256": "ebbe56f7d9c0b19b5c7e688e2b69c7acd2f9a271d161cf558e50e52cad86b5c7",
+  "results": [
+    {
+      "cell": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "face": [
+        0,
+        1,
+        2
+      ],
+      "scheme": "b4",
+      "cutoff": 0.05,
+      "source_q_hash": "ebbe56f7d9c0b19b5c7e688e2b69c7acd2f9a271d161cf558e50e52cad86b5c7",
+      "operator_dim": 5570,
+      "parents": 101,
+      "moments_order": 8,
+      "leading_scalar_relative_error": 1.0991222180778051e-16,
+      "leading_scalar": 0.05,
+      "first_nonzero_abs_order": 3,
+      "formal_obstruction": [
+        {
+          "n": 1,
+          "abs_defect": 2.435628134419441e-17,
+          "relative_rhs_defect": 1.988682044164849e-16,
+          "rank_null": 0,
+          "norm_K_coefficient": 0.07071067811865475,
+          "null_defect_ratio": 2.129367887184514e-16
+        },
+        {
+          "n": 2,
+          "abs_defect": 6.75934367985294e-17,
+          "relative_rhs_defect": 0.5838744234865861,
+          "rank_null": 0,
+          "norm_K_coefficient": 5.426215377354099e-17,
+          "null_defect_ratio": 0.583874423486586
+        },
+        {
+          "n": 3,
+          "abs_defect": 0.0003637078786575246,
+          "relative_rhs_defect": 0.391729755519378,
+          "rank_null": 2,
+          "norm_K_coefficient": 0.0004932093059693733,
+          "null_defect_ratio": 0.391729755519378
+        },
+        {
+          "n": 4,
+          "abs_defect": 0.00415233161466473,
+          "relative_rhs_defect": 0.469261161198323,
+          "rank_null": 2,
+          "norm_K_coefficient": 0.004511352119059817,
+          "null_defect_ratio": 0.469261161198323
+        },
+        {
+          "n": 5,
+          "abs_defect": 0.0320495380626252,
+          "relative_rhs_defect": 0.5122878797114948,
+          "rank_null": 2,
+          "norm_K_coefficient": 0.031020305885536257,
+          "null_defect_ratio": 0.5122878797114947
+        },
+        {
+          "n": 6,
+          "abs_defect": 0.2090823415159985,
+          "relative_rhs_defect": 0.5358677337626551,
+          "rank_null": 2,
+          "norm_K_coefficient": 0.1901940424367404,
+          "null_defect_ratio": 0.5358677337626551
+        },
+        {
+          "n": 7,
+          "abs_defect": 1.2450628612393433,
+          "relative_rhs_defect": 0.5480219740949245,
+          "rank_null": 2,
+          "norm_K_coefficient": 1.097185096419947,
+          "null_defect_ratio": 0.5480219740949245
+        },
+        {
+          "n": 8,
+          "abs_defect": 7.016975949276211,
+          "relative_rhs_defect": 0.5532830126497024,
+          "rank_null": 2,
+          "norm_K_coefficient": 6.0993499888194584,
+          "null_defect_ratio": 0.5532830126497024
+        }
+      ],
+      "finite_readout": {
+        "z": "(2+0.7j)",
+        "row_space_descent_defect": 0.000813783336993474,
+        "null_response_singular_values": [
+          4.141587779614958e-05,
+          4.1308580556946075e-05
+        ],
+        "null_response_rank": 2,
+        "null_map_frobenius": 5.849507467518355e-05,
+        "post_response_frobenius": 0.07188040356207569,
+        "core_input_frobenius": 1.438461773322791
+      },
+      "compute_seconds": 0.33
+    },
+    {
+      "cell": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "face": [
+        0,
+        1,
+        2
+      ],
+      "scheme": "b4",
+      "cutoff": 0.05,
+      "source_q_hash": "ebbe56f7d9c0b19b5c7e688e2b69c7acd2f9a271d161cf558e50e52cad86b5c7",
+      "operator_dim": 5570,
+      "parents": 101,
+      "moments_order": 8,
+      "leading_scalar_relative_error": 1.0991222180778051e-16,
+      "leading_scalar": 0.05,
+      "first_nonzero_abs_order": 3,
+      "formal_obstruction": [
+        {
+          "n": 1,
+          "abs_defect": 2.435628134419441e-17,
+          "relative_rhs_defect": 1.988682044164849e-16,
+          "rank_null": 0,
+          "norm_K_coefficient": 0.07071067811865475,
+          "null_defect_ratio": 2.129367887184514e-16
+        },
+        {
+          "n": 2,
+          "abs_defect": 6.75934367985294e-17,
+          "relative_rhs_defect": 0.5838744234865861,
+          "rank_null": 0,
+          "norm_K_coefficient": 5.426215377354099e-17,
+          "null_defect_ratio": 0.583874423486586
+        },
+        {
+          "n": 3,
+          "abs_defect": 0.0003637078786573938,
+          "relative_rhs_defect": 0.39172975551937367,
+          "rank_null": 2,
+          "norm_K_coefficient": 0.0004932093059692024,
+          "null_defect_ratio": 0.39172975551937367
+        },
+        {
+          "n": 4,
+          "abs_defect": 0.004152331614665846,
+          "relative_rhs_defect": 0.46926116119828504,
+          "rank_null": 2,
+          "norm_K_coefficient": 0.004511352119061497,
+          "null_defect_ratio": 0.46926116119828515
+        },
+        {
+          "n": 5,
+          "abs_defect": 0.032054477983871135,
+          "relative_rhs_defect": 0.5123540510251184,
+          "rank_null": 2,
+          "norm_K_coefficient": 0.03101965435673255,
+          "null_defect_ratio": 0.5123540510251184
+        },
+        {
+          "n": 6,
+          "abs_defect": 0.20918011236113798,
+          "relative_rhs_defect": 0.536063900112383,
+          "rank_null": 2,
+          "norm_K_coefficient": 0.19018529205444962,
+          "null_defect_ratio": 0.536063900112383
+        },
+        {
+          "n": 7,
+          "abs_defect": 1.2462371016049159,
+          "relative_rhs_defect": 0.5484086855128292,
+          "rank_null": 2,
+          "norm_K_coefficient": 1.097112881681676,
+          "null_defect_ratio": 0.5484086855128292
+        },
+        {
+          "n": 8,
+          "abs_defect": 7.028066367012251,
+          "relative_rhs_defect": 0.5539184571028072,
+          "rank_null": 2,
+          "norm_K_coefficient": 6.098887603005092,
+          "null_defect_ratio": 0.5539184571028072
+        }
+      ],
+      "finite_readout": {
+        "z": "(2+0.7j)",
+        "row_space_descent_defect": 0.000815574751121137,
+        "null_response_singular_values": [
+          4.148653196882321e-05,
+          4.142004493817596e-05
+        ],
+        "null_response_rank": 2,
+        "null_map_frobenius": 5.862382158713901e-05,
+        "post_response_frobenius": 0.07188037823210106,
+        "core_input_frobenius": 1.438461639027426
+      },
+      "compute_seconds": 0.33
+    },
+    {
+      "cell": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "face": [
+        0,
+        1,
+        3
+      ],
+      "scheme": "b4",
+      "cutoff": 0.05,
+      "source_q_hash": "ebbe56f7d9c0b19b5c7e688e2b69c7acd2f9a271d161cf558e50e52cad86b5c7",
+      "operator_dim": 5570,
+      "parents": 101,
+      "moments_order": 8,
+      "leading_scalar_relative_error": 2.19595026390318e-16,
+      "leading_scalar": 0.05,
+      "first_nonzero_abs_order": 3,
+      "formal_obstruction": [
+        {
+          "n": 1,
+          "abs_defect": 6.198157791219006e-17,
+          "relative_rhs_defect": 5.060774644580865e-16,
+          "rank_null": 0,
+          "norm_K_coefficient": 0.07071067811865472,
+          "null_defect_ratio": 4.503971950461301e-16
+        },
+        {
+          "n": 2,
+          "abs_defect": 1.1066970117086887e-16,
+          "relative_rhs_defect": 0.4703846140995273,
+          "rank_null": 0,
+          "norm_K_coefficient": 1.1987007402833956e-16,
+          "null_defect_ratio": 0.4703846140995273
+        },
+        {
+          "n": 3,
+          "abs_defect": 0.00036370787865712965,
+          "relative_rhs_defect": 0.3917297555193182,
+          "rank_null": 2,
+          "norm_K_coefficient": 0.0004932093059689265,
+          "null_defect_ratio": 0.3917297555193182
+        },
+        {
+          "n": 4,
+          "abs_defect": 0.004152331614659344,
+          "relative_rhs_defect": 0.46926116119833644,
+          "rank_null": 2,
+          "norm_K_coefficient": 0.004511352119053798,
+          "null_defect_ratio": 0.46926116119833644
+        },
+        {
+          "n": 5,
+          "abs_defect": 0.03205277887930394,
+          "relative_rhs_defect": 0.5123010305464446,
+          "rank_null": 2,
+          "norm_K_coefficient": 0.031022362880194467,
+          "null_defect_ratio": 0.5123010305464446
+        },
+        {
+          "n": 6,
+          "abs_defect": 0.20914978041746177,
+          "relative_rhs_defect": 0.535918162990126,
+          "rank_null": 2,
+          "norm_K_coefficient": 0.19023027395618558,
+          "null_defect_ratio": 0.5359181629901258
+        },
+        {
+          "n": 7,
+          "abs_defect": 1.2459107541119046,
+          "relative_rhs_defect": 0.5481429410263134,
+          "rank_null": 2,
+          "norm_K_coefficient": 1.0975859663618288,
+          "null_defect_ratio": 0.5481429410263133
+        },
+        {
+          "n": 8,
+          "abs_defect": 7.025323390054033,
+          "relative_rhs_defect": 0.5535151001202431,
+          "rank_null": 2,
+          "norm_K_coefficient": 6.102915366442999,
+          "null_defect_ratio": 0.5535151001202431
+        }
+      ],
+      "finite_readout": {
+        "z": "(2+0.7j)",
+        "row_space_descent_defect": 0.0008146062490418325,
+        "null_response_singular_values": [
+          4.1436840778568906e-05,
+          4.1371308829821634e-05
+        ],
+        "null_response_rank": 2,
+        "null_map_frobenius": 5.855422246090327e-05,
+        "post_response_frobenius": 0.07188039930920827,
+        "core_input_frobenius": 1.4384617758265001
+      },
+      "compute_seconds": 0.33
+    },
+    {
+      "cell": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "face": [
+        0,
+        1,
+        2
+      ],
+      "scheme": "b4",
+      "cutoff": 0.025,
+      "source_q_hash": "ebbe56f7d9c0b19b5c7e688e2b69c7acd2f9a271d161cf558e50e52cad86b5c7",
+      "operator_dim": 5570,
+      "parents": 101,
+      "moments_order": 8,
+      "leading_scalar_relative_error": 1.0991222180778051e-16,
+      "leading_scalar": 0.025,
+      "first_nonzero_abs_order": 3,
+      "formal_obstruction": [
+        {
+          "n": 1,
+          "abs_defect": 1.2178140672097204e-17,
+          "relative_rhs_defect": 1.988682044164849e-16,
+          "rank_null": 0,
+          "norm_K_coefficient": 0.035355339059327376,
+          "null_defect_ratio": 2.129367887184514e-16
+        },
+        {
+          "n": 2,
+          "abs_defect": 3.37967183992647e-17,
+          "relative_rhs_defect": 0.5838744234865861,
+          "rank_null": 0,
+          "norm_K_coefficient": 2.7131076886770495e-17,
+          "null_defect_ratio": 0.583874423486586
+        },
+        {
+          "n": 3,
+          "abs_defect": 4.5463484832348044e-05,
+          "relative_rhs_defect": 0.3917297555171481,
+          "rank_null": 2,
+          "norm_K_coefficient": 6.165116324679976e-05,
+          "null_defect_ratio": 0.39172975551714817
+        },
+        {
+          "n": 4,
+          "abs_defect": 0.0005190414518380093,
+          "relative_rhs_defect": 0.46926116120391065,
+          "rank_null": 2,
+          "norm_K_coefficient": 0.0005639190148792094,
+          "null_defect_ratio": 0.46926116120391065
+        },
+        {
+          "n": 5,
+          "abs_defect": 0.004002374838332503,
+          "relative_rhs_defect": 0.5121708589770877,
+          "rank_null": 2,
+          "norm_K_coefficient": 0.003875043388947997,
+          "null_defect_ratio": 0.5121708589770877
+        },
+        {
+          "n": 6,
+          "abs_defect": 0.02606119802563383,
+          "relative_rhs_defect": 0.5355186770617155,
+          "rank_null": 2,
+          "norm_K_coefficient": 0.023728528465227494,
+          "null_defect_ratio": 0.5355186770617155
+        },
+        {
+          "n": 7,
+          "abs_defect": 0.15476128873627099,
+          "relative_rhs_defect": 0.5473339008431891,
+          "rank_null": 2,
+          "norm_K_coefficient": 0.13662506058235985,
+          "null_defect_ratio": 0.5473339008431891
+        },
+        {
+          "n": 8,
+          "abs_defect": 0.869068201359868,
+          "relative_rhs_defect": 0.5521597816371202,
+          "rank_null": 2,
+          "norm_K_coefficient": 0.757631846477833,
+          "null_defect_ratio": 0.5521597816371203
+        }
+      ],
+      "finite_readout": {
+        "z": "(2+0.7j)",
+        "row_space_descent_defect": 0.00020060467817850373,
+        "null_response_singular_values": [
+          5.095991417894085e-06,
+          5.0926942316842784e-06
+        ],
+        "null_response_rank": 2,
+        "null_map_frobenius": 7.204489091440175e-06,
+        "post_response_frobenius": 0.03591386380844726,
+        "core_input_frobenius": 1.4367666775797434
+      },
+      "compute_seconds": 0.34
+    },
+    {
+      "cell": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "face": [
+        0,
+        1,
+        2
+      ],
+      "scheme": "b4",
+      "cutoff": 0.025,
+      "source_q_hash": "ebbe56f7d9c0b19b5c7e688e2b69c7acd2f9a271d161cf558e50e52cad86b5c7",
+      "operator_dim": 5570,
+      "parents": 101,
+      "moments_order": 8,
+      "leading_scalar_relative_error": 1.0991222180778051e-16,
+      "leading_scalar": 0.025,
+      "first_nonzero_abs_order": 3,
+      "formal_obstruction": [
+        {
+          "n": 1,
+          "abs_defect": 1.2178140672097204e-17,
+          "relative_rhs_defect": 1.988682044164849e-16,
+          "rank_null": 0,
+          "norm_K_coefficient": 0.035355339059327376,
+          "null_defect_ratio": 2.129367887184514e-16
+        },
+        {
+          "n": 2,
+          "abs_defect": 3.37967183992647e-17,
+          "relative_rhs_defect": 0.5838744234865861,
+          "rank_null": 0,
+          "norm_K_coefficient": 2.7131076886770495e-17,
+          "null_defect_ratio": 0.583874423486586
+        },
+        {
+          "n": 3,
+          "abs_defect": 4.546348483226954e-05,
+          "relative_rhs_defect": 0.39172975551692024,
+          "rank_null": 2,
+          "norm_K_coefficient": 6.165116324673565e-05,
+          "null_defect_ratio": 0.39172975551692024
+        },
+        {
+          "n": 4,
+          "abs_defect": 0.0005190414518376298,
+          "relative_rhs_defect": 0.46926116120376105,
+          "rank_null": 2,
+          "norm_K_coefficient": 0.0005639190148790277,
+          "null_defect_ratio": 0.46926116120376105
+        },
+        {
+          "n": 5,
+          "abs_defect": 0.004002529218469548,
+          "relative_rhs_defect": 0.5121874171817733,
+          "rank_null": 2,
+          "norm_K_coefficient": 0.0038750230287556784,
+          "null_defect_ratio": 0.5121874171817733
+        },
+        {
+          "n": 6,
+          "abs_defect": 0.026064253855680085,
+          "relative_rhs_defect": 0.5355678614268389,
+          "rank_null": 2,
+          "norm_K_coefficient": 0.023728255017987886,
+          "null_defect_ratio": 0.5355678614268389
+        },
+        {
+          "n": 7,
+          "abs_defect": 0.15479797310248844,
+          "relative_rhs_defect": 0.5474310889921846,
+          "rank_null": 2,
+          "norm_K_coefficient": 0.1366228064647773,
+          "null_defect_ratio": 0.5474310889921846
+        },
+        {
+          "n": 8,
+          "abs_defect": 0.8694143326430239,
+          "relative_rhs_defect": 0.5523199121963391,
+          "rank_null": 2,
+          "norm_K_coefficient": 0.7576174526176882,
+          "null_defect_ratio": 0.5523199121963391
+        }
+      ],
+      "finite_readout": {
+        "z": "(2+0.7j)",
+        "row_space_descent_defect": 0.00020071484347369803,
+        "null_response_singular_values": [
+          5.098164272725256e-06,
+          5.0961168182700324e-06
+        ],
+        "null_response_rank": 2,
+        "null_map_frobenius": 7.208445434152007e-06,
+        "post_response_frobenius": 0.03591386321707997,
+        "core_input_frobenius": 1.4367666723892352
+      },
+      "compute_seconds": 0.32
+    },
+    {
+      "cell": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "face": [
+        0,
+        1,
+        3
+      ],
+      "scheme": "b4",
+      "cutoff": 0.025,
+      "source_q_hash": "ebbe56f7d9c0b19b5c7e688e2b69c7acd2f9a271d161cf558e50e52cad86b5c7",
+      "operator_dim": 5570,
+      "parents": 101,
+      "moments_order": 8,
+      "leading_scalar_relative_error": 2.19595026390318e-16,
+      "leading_scalar": 0.025,
+      "first_nonzero_abs_order": 3,
+      "formal_obstruction": [
+        {
+          "n": 1,
+          "abs_defect": 3.099078895609503e-17,
+          "relative_rhs_defect": 5.060774644580865e-16,
+          "rank_null": 0,
+          "norm_K_coefficient": 0.03535533905932736,
+          "null_defect_ratio": 4.503971950461301e-16
+        },
+        {
+          "n": 2,
+          "abs_defect": 5.5334850585434434e-17,
+          "relative_rhs_defect": 0.4703846140995273,
+          "rank_null": 0,
+          "norm_K_coefficient": 5.993503701416978e-17,
+          "null_defect_ratio": 0.4703846140995273
+        },
+        {
+          "n": 3,
+          "abs_defect": 4.5463484832114575e-05,
+          "relative_rhs_defect": 0.39172975552061867,
+          "rank_null": 2,
+          "norm_K_coefficient": 6.165116324583793e-05,
+          "null_defect_ratio": 0.39172975552061867
+        },
+        {
+          "n": 4,
+          "abs_defect": 0.000519041451832393,
+          "relative_rhs_defect": 0.4692611611958279,
+          "rank_null": 2,
+          "norm_K_coefficient": 0.0005639190148855635,
+          "null_defect_ratio": 0.4692611611958279
+        },
+        {
+          "n": 5,
+          "abs_defect": 0.004002476117419085,
+          "relative_rhs_defect": 0.5121741521059827,
+          "rank_null": 2,
+          "norm_K_coefficient": 0.003875107669764854,
+          "null_defect_ratio": 0.5121741521059827
+        },
+        {
+          "n": 6,
+          "abs_defect": 0.02606330569954827,
+          "relative_rhs_defect": 0.5355313408765902,
+          "rank_null": 2,
+          "norm_K_coefficient": 0.023729660686873526,
+          "null_defect_ratio": 0.53553134087659
+        },
+        {
+          "n": 7,
+          "abs_defect": 0.15478777799448581,
+          "relative_rhs_defect": 0.5473643802171098,
+          "rank_null": 2,
+          "norm_K_coefficient": 0.136637581916684,
+          "null_defect_ratio": 0.5473643802171098
+        },
+        {
+          "n": 8,
+          "abs_defect": 0.8693287721808449,
+          "relative_rhs_defect": 0.5522184789528016,
+          "rank_null": 2,
+          "norm_K_coefficient": 0.7577431154827217,
+          "null_defect_ratio": 0.5522184789528016
+        }
+      ],
+      "finite_readout": {
+        "z": "(2+0.7j)",
+        "row_space_descent_defect": 0.00020065527127827943,
+        "null_response_singular_values": [
+          5.096635654485584e-06,
+          5.094619903433265e-06
+        ],
+        "null_response_rank": 2,
+        "null_map_frobenius": 7.206306054771201e-06,
+        "post_response_frobenius": 0.03591386365712322,
+        "core_input_frobenius": 1.4367666776162606
+      },
+      "compute_seconds": 0.34
+    },
+    {
+      "cell": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "face": [
+        0,
+        1,
+        2
+      ],
+      "scheme": "b4",
+      "cutoff": 0.0125,
+      "source_q_hash": "ebbe56f7d9c0b19b5c7e688e2b69c7acd2f9a271d161cf558e50e52cad86b5c7",
+      "operator_dim": 5570,
+      "parents": 101,
+      "moments_order": 8,
+      "leading_scalar_relative_error": 1.0991222180778051e-16,
+      "leading_scalar": 0.0125,
+      "first_nonzero_abs_order": 3,
+      "formal_obstruction": [
+        {
+          "n": 1,
+          "abs_defect": 6.089070336048602e-18,
+          "relative_rhs_defect": 1.988682044164849e-16,
+          "rank_null": 0,
+          "norm_K_coefficient": 0.017677669529663688,
+          "null_defect_ratio": 2.129367887184514e-16
+        },
+        {
+          "n": 2,
+          "abs_defect": 1.689835919963235e-17,
+          "relative_rhs_defect": 0.5838744234865861,
+          "rank_null": 0,
+          "norm_K_coefficient": 1.3565538443385247e-17,
+          "null_defect_ratio": 0.583874423486586
+        },
+        {
+          "n": 3,
+          "abs_defect": 5.682935604098116e-06,
+          "relative_rhs_defect": 0.3917297554513611,
+          "rank_null": 2,
+          "norm_K_coefficient": 7.706395407452835e-06,
+          "null_defect_ratio": 0.3917297554513611
+        },
+        {
+          "n": 4,
+          "abs_defect": 6.488018147785599e-05,
+          "relative_rhs_defect": 0.46926116121326783,
+          "rank_null": 2,
+          "norm_K_coefficient": 7.048987685603964e-05,
+          "null_defect_ratio": 0.46926116121326783
+        },
+        {
+          "n": 5,
+          "abs_defect": 0.0005001775620802419,
+          "relative_rhs_defect": 0.5121415770136174,
+          "rank_null": 2,
+          "norm_K_coefficient": 0.00048430245967680594,
+          "null_defect_ratio": 0.5121415770136173
+        },
+        {
+          "n": 6,
+          "abs_defect": 0.003255334401771946,
+          "relative_rhs_defect": 0.5354311720020292,
+          "rank_null": 2,
+          "norm_K_coefficient": 0.0029646370949804107,
+          "null_defect_ratio": 0.5354311720020292
+        },
+        {
+          "n": 7,
+          "abs_defect": 0.019317938715138535,
+          "relative_rhs_defect": 0.5471610632963598,
+          "rank_null": 2,
+          "norm_K_coefficient": 0.017061790945631077,
+          "null_defect_ratio": 0.5471610632963598
+        },
+        {
+          "n": 8,
+          "abs_defect": 0.10838220427902172,
+          "relative_rhs_defect": 0.5518770501419852,
+          "rank_null": 2,
+          "norm_K_coefficient": 0.09455451388479359,
+          "null_defect_ratio": 0.5518770501419852
+        }
+      ],
+      "finite_readout": {
+        "z": "(2+0.7j)",
+        "row_space_descent_defect": 4.997499550670908e-05,
+        "null_response_singular_values": [
+          6.34490656391048e-07,
+          6.343880522472461e-07
+        ],
+        "null_response_rank": 2,
+        "null_map_frobenius": 8.972327423147227e-07,
+        "post_response_frobenius": 0.017953633276350574,
+        "core_input_frobenius": 1.4363436158835616
+      },
+      "compute_seconds": 0.35
+    },
+    {
+      "cell": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "face": [
+        0,
+        1,
+        2
+      ],
+      "scheme": "b4",
+      "cutoff": 0.0125,
+      "source_q_hash": "ebbe56f7d9c0b19b5c7e688e2b69c7acd2f9a271d161cf558e50e52cad86b5c7",
+      "operator_dim": 5570,
+      "parents": 101,
+      "moments_order": 8,
+      "leading_scalar_relative_error": 1.0991222180778051e-16,
+      "leading_scalar": 0.0125,
+      "first_nonzero_abs_order": 3,
+      "formal_obstruction": [
+        {
+          "n": 1,
+          "abs_defect": 6.089070336048602e-18,
+          "relative_rhs_defect": 1.988682044164849e-16,
+          "rank_null": 0,
+          "norm_K_coefficient": 0.017677669529663688,
+          "null_defect_ratio": 2.129367887184514e-16
+        },
+        {
+          "n": 2,
+          "abs_defect": 1.689835919963235e-17,
+          "relative_rhs_defect": 0.5838744234865861,
+          "rank_null": 0,
+          "norm_K_coefficient": 1.3565538443385247e-17,
+          "null_defect_ratio": 0.583874423486586
+        },
+        {
+          "n": 3,
+          "abs_defect": 5.6829356041112e-06,
+          "relative_rhs_defect": 0.39172975546407707,
+          "rank_null": 2,
+          "norm_K_coefficient": 7.706395407175074e-06,
+          "null_defect_ratio": 0.39172975546407707
+        },
+        {
+          "n": 4,
+          "abs_defect": 6.488018147811331e-05,
+          "relative_rhs_defect": 0.46926116120763894,
+          "rank_null": 2,
+          "norm_K_coefficient": 7.048987685740352e-05,
+          "null_defect_ratio": 0.46926116120763894
+        },
+        {
+          "n": 5,
+          "abs_defect": 0.0005001823865193739,
+          "relative_rhs_defect": 0.5121457175264741,
+          "rank_null": 2,
+          "norm_K_coefficient": 0.000484301823422323,
+          "null_defect_ratio": 0.5121457175264741
+        },
+        {
+          "n": 6,
+          "abs_defect": 0.003255429900279835,
+          "relative_rhs_defect": 0.5354434770455737,
+          "rank_null": 2,
+          "norm_K_coefficient": 0.0029646285497530248,
+          "null_defect_ratio": 0.5354434770455737
+        },
+        {
+          "n": 7,
+          "abs_defect": 0.01931908501910438,
+          "relative_rhs_defect": 0.5471853924307645,
+          "rank_null": 2,
+          "norm_K_coefficient": 0.01706172052470041,
+          "null_defect_ratio": 0.5471853924307645
+        },
+        {
+          "n": 8,
+          "abs_defect": 0.1083930174227211,
+          "relative_rhs_defect": 0.551917162878807,
+          "rank_null": 2,
+          "norm_K_coefficient": 0.0945540645132413,
+          "null_defect_ratio": 0.551917162878807
+        }
+      ],
+      "finite_readout": {
+        "z": "(2+0.7j)",
+        "row_space_descent_defect": 4.998185274803515e-05,
+        "null_response_singular_values": [
+          6.345582823454963e-07,
+          6.344945348603039e-07
+        ],
+        "null_response_rank": 2,
+        "null_map_frobenius": 8.973558538622568e-07,
+        "post_response_frobenius": 0.017953633259373984,
+        "core_input_frobenius": 1.4363436156072777
+      },
+      "compute_seconds": 0.36
+    },
+    {
+      "cell": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "face": [
+        0,
+        1,
+        3
+      ],
+      "scheme": "b4",
+      "cutoff": 0.0125,
+      "source_q_hash": "ebbe56f7d9c0b19b5c7e688e2b69c7acd2f9a271d161cf558e50e52cad86b5c7",
+      "operator_dim": 5570,
+      "parents": 101,
+      "moments_order": 8,
+      "leading_scalar_relative_error": 2.19595026390318e-16,
+      "leading_scalar": 0.0125,
+      "first_nonzero_abs_order": 3,
+      "formal_obstruction": [
+        {
+          "n": 1,
+          "abs_defect": 1.5495394478047516e-17,
+          "relative_rhs_defect": 5.060774644580865e-16,
+          "rank_null": 0,
+          "norm_K_coefficient": 0.01767766952966368,
+          "null_defect_ratio": 4.503971950461301e-16
+        },
+        {
+          "n": 2,
+          "abs_defect": 2.7667425292717217e-17,
+          "relative_rhs_defect": 0.4703846140995273,
+          "rank_null": 0,
+          "norm_K_coefficient": 2.996751850708489e-17,
+          "null_defect_ratio": 0.4703846140995273
+        },
+        {
+          "n": 3,
+          "abs_defect": 5.68293560400755e-06,
+          "relative_rhs_defect": 0.3917297554513701,
+          "rank_null": 2,
+          "norm_K_coefficient": 7.70639540732981e-06,
+          "null_defect_ratio": 0.3917297554513701
+        },
+        {
+          "n": 4,
+          "abs_defect": 6.488018147680875e-05,
+          "relative_rhs_defect": 0.4692611612025793,
+          "rank_null": 2,
+          "norm_K_coefficient": 7.04898768569608e-05,
+          "null_defect_ratio": 0.4692611612025793
+        },
+        {
+          "n": 5,
+          "abs_defect": 0.000500180727081173,
+          "relative_rhs_defect": 0.5121424006350817,
+          "rank_null": 2,
+          "norm_K_coefficient": 0.0004843044684518171,
+          "null_defect_ratio": 0.5121424006350817
+        },
+        {
+          "n": 6,
+          "abs_defect": 0.0032554002681805354,
+          "relative_rhs_defect": 0.5354343415013111,
+          "rank_null": 2,
+          "norm_K_coefficient": 0.0029646724767825117,
+          "null_defect_ratio": 0.5354343415013111
+        },
+        {
+          "n": 7,
+          "abs_defect": 0.019318766446763534,
+          "relative_rhs_defect": 0.5471686981058904,
+          "rank_null": 2,
+          "norm_K_coefficient": 0.01706218219151132,
+          "null_defect_ratio": 0.5471686981058904
+        },
+        {
+          "n": 8,
+          "abs_defect": 0.10839034487890113,
+          "relative_rhs_defect": 0.5518917671512688,
+          "rank_null": 2,
+          "norm_K_coefficient": 0.09455798987879863,
+          "null_defect_ratio": 0.5518917671512688
+        }
+      ],
+      "finite_readout": {
+        "z": "(2+0.7j)",
+        "row_space_descent_defect": 4.997814460782115e-05,
+        "null_response_singular_values": [
+          6.345107051529449e-07,
+          6.344479622713044e-07
+        ],
+        "null_response_rank": 2,
+        "null_map_frobenius": 8.972892798779543e-07,
+        "post_response_frobenius": 0.017953633271482757,
+        "core_input_frobenius": 1.4363436158841223
+      },
+      "compute_seconds": 0.31
+    }
+  ]
+}
