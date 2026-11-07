@@ -1,0 +1,67 @@
+{
+  "classification": "Comparator adversary; NOT physical TDG update",
+  "J_Q_value": 0.17444341073014363,
+  "TT_directions": 40,
+  "TT_tests": [
+    {
+      "steps": 32,
+      "dt": 0.125,
+      "mean_outside_TT": 0.0030961267269070296,
+      "max_outside_TT": 0.004942330413097894,
+      "mean_vector_pop": 0.003094189210503702,
+      "max_vector_pop": 0.0049422445576951975
+    },
+    {
+      "steps": 128,
+      "dt": 0.03125,
+      "mean_outside_TT": 0.0007770014033873689,
+      "max_outside_TT": 0.001240886451674099,
+      "mean_vector_pop": 0.0007768778923858832,
+      "max_vector_pop": 0.0012408809786434536
+    },
+    {
+      "steps": 512,
+      "dt": 0.0078125,
+      "mean_outside_TT": 0.00019441801817083796,
+      "max_outside_TT": 0.0003105253289214118,
+      "mean_vector_pop": 0.00019441026190899322,
+      "max_vector_pop": 0.0003105249852265524
+    }
+  ],
+  "long_time_noncommutativity": [
+    {
+      "time": 4.0,
+      "dt": 0.1,
+      "steps": 40,
+      "vector_pop": 0.002019805598405425,
+      "purity": 0.9959645542584266
+    },
+    {
+      "time": 40.0,
+      "dt": 0.1,
+      "steps": 400,
+      "vector_pop": 0.019479324669604395,
+      "purity": 0.9614062378597301
+    },
+    {
+      "time": 400.0,
+      "dt": 0.1,
+      "steps": 4000,
+      "vector_pop": 0.1389192626041489,
+      "purity": 0.7329724839219266
+    },
+    {
+      "time": 1600.0,
+      "dt": 0.1,
+      "steps": 16000,
+      "vector_pop": 0.2402560512652697,
+      "purity": 0.4739094508205809
+    }
+  ],
+  "conditional_long_time_limit_vector": 0.25,
+  "limitations": [
+    "The TT projector is imposed from a GR reference, not derived from Q.",
+    "The chiral signs are new active physical interventions, not passive changes of coordinates.",
+    "The weak-step finite-T limit is nonuniform in T; no eternal stability proved."
+  ]
+}

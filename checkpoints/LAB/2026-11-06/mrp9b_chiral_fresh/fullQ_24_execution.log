@@ -1,0 +1,5 @@
+STATIC 24 0.03774130712384741
+FRESH full Q 24 {'steps': 40, 'dt': 0.1, 'vector_probability': 0.002019805611743842, 'distance_from_reference': 0.002440455487057241, 'cp_error': 6.5569639470269176e-18, 'max_unitarity_error': 4.842221687072146e-16, 'state_trace': 0.999999999999996}
+FRESH full Q 24 {'steps': 160, 'dt': 0.025, 'vector_probability': 0.0005066501790159711, 'distance_from_reference': 0.0006117196678020731, 'cp_error': 1.695789385324212e-18, 'max_unitarity_error': 2.4829190029461755e-16, 'state_trace': 0.9999999999999941}
+FRESH full Q 24 {'steps': 640, 'dt': 0.00625, 'vector_probability': 0.0001267614490709677, 'distance_from_reference': 0.0001530231676518307, 'cp_error': 4.465796073181025e-19, 'max_unitarity_error': 4.299880420975095e-16, 'state_trace': 1.0000000000000284}
+SAVED /mnt/data/tdg_lab_2026_11_06_chiral_fresh/fullQ_24_results.json

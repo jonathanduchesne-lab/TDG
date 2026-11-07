@@ -1,0 +1,306 @@
+{
+  "classification": "NEW EXPERIMENTAL QUANTUM CHANNEL: NOT derived Root2 Q update, NOT Einstein equations, NOT validation of future process law",
+  "source_q1852_sha256": "ebbe56f7d9c0b19b5c7e688e2b69c7acd2f9a271d161cf558e50e52cad86b5c7",
+  "source_readout_z": "2+0.7j (conditional finite-z normalization, NOT unique physical coupling)",
+  "original_Q_derived_J_amplitude": [
+    {
+      "a": 0.05,
+      "gamma": 1.0,
+      "J_coefficient": 0.17427404515498224,
+      "A21_norm": 0.17427405250080139,
+      "J_ray_relative_remainder": 0.0002903479377788121,
+      "svd": [
+        0.10062679115795449,
+        0.10062269375368176,
+        0.10060202670949664
+      ],
+      "F_cond": 3.121811220048781
+    },
+    {
+      "a": 0.025,
+      "gamma": 1.0,
+      "J_coefficient": 0.17444341073014363,
+      "A21_norm": 0.17444341116839981,
+      "J_ray_relative_remainder": 7.088457522691963e-05,
+      "svd": [
+        0.10071727183242148,
+        0.1007163368208398,
+        0.10071124243148158
+      ],
+      "F_cond": 3.1756614179620737
+    },
+    {
+      "a": 0.0125,
+      "gamma": 1.0,
+      "J_coefficient": 0.17448516226421795,
+      "A21_norm": 0.17448516229130184,
+      "J_ray_relative_remainder": 1.761941630121601e-05,
+      "svd": [
+        0.10073963092287648,
+        0.10073940230469494,
+        0.10073813302140054
+      ],
+      "F_cond": 3.1891821119131003
+    },
+    {
+      "a": 0.05,
+      "gamma": 0.0,
+      "J_coefficient": 0.1744680761015862,
+      "A21_norm": 0.17446807733791078,
+      "J_ray_relative_remainder": 0.00011904831779644342,
+      "svd": [
+        0.10073508880323093,
+        0.10072844459292643,
+        0.10072404054485769
+      ],
+      "F_cond": 3.1647835455671234
+    },
+    {
+      "a": 0.025,
+      "gamma": 0.0,
+      "J_coefficient": 0.1744913108585569,
+      "A21_norm": 0.17449131093199247,
+      "J_ray_relative_remainder": 2.9012246834662694e-05,
+      "svd": [
+        0.10074405768215106,
+        0.10074240942250502,
+        0.10074134889035918
+      ],
+      "F_cond": 3.186470268618728
+    },
+    {
+      "a": 0.0125,
+      "gamma": 0.0,
+      "J_coefficient": 0.17449709864497936,
+      "A21_norm": 0.17449709864951132,
+      "J_ray_relative_remainder": 7.207192857673979e-06,
+      "svd": [
+        0.1007463085406085,
+        0.10074589744435603,
+        0.10074563464820249
+      ],
+      "F_cond": 3.1918882295081468
+    }
+  ],
+  "chirality_coupling_used": 0.17444341073014363,
+  "cubic_group": {
+    "rotations": 24,
+    "sign_plus": 12,
+    "sign_minus": 12,
+    "full_Q_twirling_error": 2.0030861316495456e-18,
+    "passive_frame_invariance_error": 5.551115123125783e-17,
+    "note": "Passive relabeling is a NO-GO; active stochastic orientation is an additional physical postulate."
+  },
+  "comparator": {
+    "H0_tensor_energy": 1.0,
+    "H0_vector_energy": 1.7,
+    "total_time": 4.0,
+    "initial_state": "(plus+cross)/sqrt(2) for k=z",
+    "static_orientation_mixture": {
+      "vector_probability": 0.0377413068930193,
+      "distance_from_free": 0.05604379210694732,
+      "free_vector_probability": 0.0,
+      "mean_H_H0_error": 0.0,
+      "quadratic_coupling_norm": 0.024846402102169752,
+      "passive_rotation_error": 5.551115123125783e-17
+    },
+    "rows": [
+      {
+        "steps": 10,
+        "dt": 0.4,
+        "p": 0.5,
+        "vector_probability": 0.007941691624817239,
+        "distance_from_free": 0.009630855232325652,
+        "tr": 1.0000000000000007,
+        "min_eigenvalue": -5.342073505618668e-29,
+        "purity": 0.9841850742592338,
+        "cptp_error": 5.46677570584002e-16
+      },
+      {
+        "steps": 20,
+        "dt": 0.2,
+        "p": 0.5,
+        "vector_probability": 0.004019212391004358,
+        "distance_from_free": 0.004861552851974541,
+        "tr": 1.000000000000003,
+        "min_eigenvalue": -1.99178560032329e-28,
+        "purity": 0.9919784123715936,
+        "cptp_error": 4.96638908038786e-16
+      },
+      {
+        "steps": 40,
+        "dt": 0.1,
+        "p": 0.5,
+        "vector_probability": 0.0020198055984054384,
+        "distance_from_free": 0.0024404554777041477,
+        "tr": 1.0000000000000053,
+        "min_eigenvalue": -7.715729195645579e-28,
+        "purity": 0.9959645542584366,
+        "cptp_error": 5.662596601803318e-16
+      },
+      {
+        "steps": 80,
+        "dt": 0.05,
+        "p": 0.5,
+        "vector_probability": 0.00101220903638479,
+        "distance_from_free": 0.0012224091113582397,
+        "tr": 1.000000000000008,
+        "min_eigenvalue": -1.2158007408202583e-26,
+        "purity": 0.9979766172480458,
+        "cptp_error": 3.8466129841879013e-16
+      },
+      {
+        "steps": 160,
+        "dt": 0.025,
+        "p": 0.5,
+        "vector_probability": 0.0005066501756684535,
+        "distance_from_free": 0.0006117196654601759,
+        "tr": 1.0000000000000342,
+        "min_eigenvalue": -1.0860980310617033e-25,
+        "purity": 0.9989869576886559,
+        "cptp_error": 7.364473150291534e-16
+      },
+      {
+        "steps": 320,
+        "dt": 0.0125,
+        "p": 0.5,
+        "vector_probability": 0.000253457611136537,
+        "distance_from_free": 0.00030598480369046653,
+        "tr": 1.0000000000000517,
+        "min_eigenvalue": -4.809376732278426e-26,
+        "purity": 0.9994931491868515,
+        "cptp_error": 3.6822366512770753e-16
+      },
+      {
+        "steps": 640,
+        "dt": 0.00625,
+        "p": 0.5,
+        "vector_probability": 0.00012676144823333646,
+        "distance_from_free": 0.00015302316704783934,
+        "tr": 0.9999999999999915,
+        "min_eigenvalue": -7.680979707746095e-25,
+        "purity": 0.9997464931930766,
+        "cptp_error": 5.324446840123467e-16
+      },
+      {
+        "steps": 1280,
+        "dt": 0.003125,
+        "p": 0.5,
+        "vector_probability": 6.338882365161672e-05,
+        "distance_from_free": 7.651921499523745e-05,
+        "tr": 1.0000000000000733,
+        "min_eigenvalue": -7.673907685892532e-25,
+        "purity": 0.99987322637359,
+        "cptp_error": 1.5700962743581066e-16
+      },
+      {
+        "steps": 10,
+        "dt": 0.4,
+        "p": 0.7,
+        "vector_probability": 0.01287186528674511,
+        "distance_from_free": 0.07998607592855907,
+        "tr": 1.0000000000000007,
+        "min_eigenvalue": -9.540979117993401e-18,
+        "purity": 0.9867785784193697,
+        "cptp_error": 7.711376381716163e-16
+      },
+      {
+        "steps": 20,
+        "dt": 0.2,
+        "p": 0.7,
+        "vector_probability": 0.009651770827698051,
+        "distance_from_free": 0.079868972422782,
+        "tr": 1.0000000000000036,
+        "min_eigenvalue": -3.5561831257643053e-17,
+        "purity": 0.9933039293964725,
+        "cptp_error": 3.147942166937461e-16
+      },
+      {
+        "steps": 40,
+        "dt": 0.1,
+        "p": 0.7,
+        "vector_probability": 0.008016366408072313,
+        "distance_from_free": 0.07989250990797042,
+        "tr": 1.0000000000000024,
+        "min_eigenvalue": -9.25908655307038e-17,
+        "purity": 0.9966341013179085,
+        "cptp_error": 5.439658858487662e-16
+      },
+      {
+        "steps": 80,
+        "dt": 0.05,
+        "p": 0.7,
+        "vector_probability": 0.007193797638378046,
+        "distance_from_free": 0.07992508473416993,
+        "tr": 1.000000000000004,
+        "min_eigenvalue": -8.239936511712301e-18,
+        "purity": 0.9983130332852874,
+        "cptp_error": 3.8463342745862476e-16
+      },
+      {
+        "steps": 160,
+        "dt": 0.025,
+        "p": 0.7,
+        "vector_probability": 0.006781485464027216,
+        "distance_from_free": 0.07994658432210842,
+        "tr": 1.000000000000003,
+        "min_eigenvalue": -1.0950441943592571e-17,
+        "purity": 0.9991555692197546,
+        "cptp_error": 3.1403350210494966e-16
+      },
+      {
+        "steps": 320,
+        "dt": 0.0125,
+        "p": 0.7,
+        "vector_probability": 0.006575096331293903,
+        "distance_from_free": 0.07995863691657869,
+        "tr": 1.0000000000000404,
+        "min_eigenvalue": -2.9923979972660065e-17,
+        "purity": 0.9995775549228576,
+        "cptp_error": 4.965073927860577e-16
+      },
+      {
+        "steps": 640,
+        "dt": 0.00625,
+        "p": 0.7,
+        "vector_probability": 0.0064718465096471845,
+        "distance_from_free": 0.0799649887847278,
+        "tr": 1.0000000000000449,
+        "min_eigenvalue": -1.2322357236155459e-47,
+        "purity": 0.9997887209391407,
+        "cptp_error": 7.140677551702823e-19
+      },
+      {
+        "steps": 1280,
+        "dt": 0.003125,
+        "p": 0.7,
+        "vector_probability": 0.006420208161913352,
+        "distance_from_free": 0.07996824608920308,
+        "tr": 1.0000000000001288,
+        "min_eigenvalue": -3.0226455251268672e-49,
+        "purity": 0.9998943464518368,
+        "cptp_error": 3.8459258186888493e-16
+      }
+    ],
+    "biased_p_0p7_ideal_limit_distance": 0.07997155763084635,
+    "weak_per_step_limit": "p=1/2: Phi_dt = Ad_{exp(-i dt H0)} - dt^2/2 [V,[V,rho]] + O(dt^3) in one step, T steps -> O(T dt) correction",
+    "continuous_unbiased_limit": "Unitary H0 ONLY in finite-T weak-step scaling, not for arbitrary strong-memory scalings"
+  },
+  "q_b2_record_compatibility": {
+    "B2_output_dimension": 1020,
+    "VdagV_eigs": [
+      0.0011811759842764438,
+      0.0011811759842764438
+    ],
+    "one_step_Q_record_isometry_error": 0.0,
+    "chiral_times_record_cptp_error": 5.439784234116222e-16
+  },
+  "firewalls": [
+    "A21 and c are from true Q-B1852 but 8D H0 gap and randomized sign process are newly imposed.",
+    "The new channel does not derive physical TT constraints; two helicities only belong to the reference GR projector.",
+    "A static sign ensemble is not enough; the sign needs physical refresh at rate 1/dt and unbiased conditional weights.",
+    "p bias leaves O(1) forbidden coherent tensor-vector coupling.",
+    "Historical Q STF->gradient obstruction remains nonzero and unaffected in frozen Q.",
+    "Composition of two CP instruments is only algebraic capacity, not one joint selected-future Q-native law."
+  ]
+}

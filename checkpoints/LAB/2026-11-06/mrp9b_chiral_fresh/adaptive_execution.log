@@ -1,0 +1,3 @@
+ADAPTIVE 0.2 {'steps': 12000, 'T': 21.02109824532597, 'quadratic_time_sum': 0.19310070961690545, 'distance': 0.001179962827435134, 'bound': 0.0019587172763191455, 'vector_probability': 0.0009770618917830955, 'state_trace': 1.0000000000027707}
+ADAPTIVE 0.1 {'steps': 12000, 'T': 10.510549122662985, 'quadratic_time_sum': 0.04827517740422636, 'distance': 0.0002954082057718595, 'bound': 0.0004896793190797864, 'vector_probability': 0.00024469592518893134, 'state_trace': 1.0000000000028477}
+DONE /mnt/data/tdg_lab_2026_11_06_chiral_fresh/adaptive_results.json

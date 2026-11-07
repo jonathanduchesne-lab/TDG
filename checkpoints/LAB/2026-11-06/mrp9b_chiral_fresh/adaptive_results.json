@@ -1,0 +1,105 @@
+{
+  "classification": "MATHEMATICAL SUFFICIENT CONDITION for a new nonstationary refresh law; no physical time scaling derived by TDG",
+  "finite_T_source_c": 0.17444341073014363,
+  "p": 0.6,
+  "sum_dt_diverges": true,
+  "sum_dt_squared_converges": true,
+  "proof": "Symmetric random-unitary average cancels O(dt) coupling; one-step trace distance <= ||V||^2 dt^2; telescoping CP contractions gives uniform trace distance <= ||V||^2 a^2 zeta(2p), all finite N. Sum dt = infinite for p<=1.",
+  "op_norm_V": 0.1007149501434049,
+  "zeta_upper_bound": 5.591582658815175,
+  "rows": [
+    {
+      "a": 0.2,
+      "p": 0.6,
+      "history": [
+        {
+          "steps": 10,
+          "T": 0.8902787752589589,
+          "quadratic_time_sum": 0.09870853460688338,
+          "distance": 0.0006034548341709444,
+          "bound": 0.0010012501374967611,
+          "vector_probability": 0.000499749778468428,
+          "state_trace": 1.0000000000000024
+        },
+        {
+          "steps": 100,
+          "T": 2.7705576966712666,
+          "quadratic_time_sum": 0.1441213257295214,
+          "distance": 0.0008809199756895634,
+          "bound": 0.0014618948379448034,
+          "vector_probability": 0.0007294988600074364,
+          "state_trace": 1.0000000000000235
+        },
+        {
+          "steps": 1000,
+          "T": 7.535518407363933,
+          "quadratic_time_sum": 0.1734305917850274,
+          "distance": 0.0010598943166527943,
+          "bound": 0.0017591934128337685,
+          "vector_probability": 0.0008776700366637344,
+          "state_trace": 1.0000000000002336
+        },
+        {
+          "steps": 12000,
+          "T": 21.02109824532597,
+          "quadratic_time_sum": 0.19310070961690545,
+          "distance": 0.001179962827435134,
+          "bound": 0.0019587172763191455,
+          "vector_probability": 0.0009770618917830955,
+          "state_trace": 1.0000000000027707
+        }
+      ],
+      "upper_bound_infinite_horizon_estimate": 0.00209212022247352,
+      "guaranteed_all_horizons_trace_distance_upper_bound": 0.0022687290124445984
+    },
+    {
+      "a": 0.1,
+      "p": 0.6,
+      "history": [
+        {
+          "steps": 10,
+          "T": 0.44513938762947947,
+          "quadratic_time_sum": 0.024677133651720844,
+          "distance": 0.00015102361208556736,
+          "bound": 0.0002503125343741903,
+          "vector_probability": 0.00012510151033365415,
+          "state_trace": 1.0000000000000024
+        },
+        {
+          "steps": 100,
+          "T": 1.3852788483356333,
+          "quadratic_time_sum": 0.03603033143238035,
+          "distance": 0.00022049457392604174,
+          "bound": 0.00036547370948620086,
+          "vector_probability": 0.00018264621838817268,
+          "state_trace": 1.0000000000000229
+        },
+        {
+          "steps": 1000,
+          "T": 3.7677592036819667,
+          "quadratic_time_sum": 0.04335764794625685,
+          "distance": 0.0002653245935354159,
+          "bound": 0.00043979835320844213,
+          "vector_probability": 0.00021977861146635296,
+          "state_trace": 1.0000000000002394
+        },
+        {
+          "steps": 12000,
+          "T": 10.510549122662985,
+          "quadratic_time_sum": 0.04827517740422636,
+          "distance": 0.0002954082057718595,
+          "bound": 0.0004896793190797864,
+          "vector_probability": 0.00024469592518893134,
+          "state_trace": 1.0000000000028477
+        }
+      ],
+      "upper_bound_infinite_horizon_estimate": 0.00052303005561838,
+      "guaranteed_all_horizons_trace_distance_upper_bound": 0.0005671822531111496
+    }
+  ],
+  "firewalls": [
+    "The schedule delta_n=a/n^p is imposed; no TDG proper-time or event-rate law implies it.",
+    "For fixed a>0 there can be a finite accumulated nonunitary correction; only uniform a->0 is proven.",
+    "No Einstein action, HDA or physical SO3 frame dynamics is derived."
+  ]
+}

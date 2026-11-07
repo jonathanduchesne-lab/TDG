@@ -1,0 +1,67 @@
+{
+  "scope": "Actual finite-cutoff Q A21, all 24 active physical cubic orientations; dynamics is newly POSTULATED",
+  "scheme": "b4",
+  "a": 0.025,
+  "spectral_readout": "2+0.7j",
+  "A21_matrix": [
+    [
+      6.01166576304454e-06,
+      3.4488005882449564e-06,
+      2.158696785543878e-06,
+      -1.0979027691991322e-06,
+      -0.10071558455753195
+    ],
+    [
+      -6.022540788587293e-06,
+      4.394408465307653e-07,
+      -2.685891638329179e-06,
+      -0.1007146629700642,
+      3.5077674983991094e-06
+    ],
+    [
+      -4.1101613060303497e-07,
+      3.4227345277695437e-06,
+      -0.10071460290261847,
+      -2.5710684131990162e-06,
+      -4.890764634451779e-06
+    ]
+  ],
+  "A21_norm": 0.17444341116839981,
+  "mean_coupling_norm": 2.0030861316495456e-18,
+  "n_orientations": 24,
+  "static_24_vector_probability": 0.03774130712384741,
+  "fresh_24": [
+    {
+      "steps": 40,
+      "dt": 0.1,
+      "vector_probability": 0.002019805611743842,
+      "distance_from_reference": 0.002440455487057241,
+      "cp_error": 6.5569639470269176e-18,
+      "max_unitarity_error": 4.842221687072146e-16,
+      "state_trace": 0.999999999999996
+    },
+    {
+      "steps": 160,
+      "dt": 0.025,
+      "vector_probability": 0.0005066501790159711,
+      "distance_from_reference": 0.0006117196678020731,
+      "cp_error": 1.695789385324212e-18,
+      "max_unitarity_error": 2.4829190029461755e-16,
+      "state_trace": 0.9999999999999941
+    },
+    {
+      "steps": 640,
+      "dt": 0.00625,
+      "vector_probability": 0.0001267614490709677,
+      "distance_from_reference": 0.0001530231676518307,
+      "cp_error": 4.465796073181025e-19,
+      "max_unitarity_error": 4.299880420975095e-16,
+      "state_trace": 1.0000000000000284
+    }
+  ],
+  "caveats": [
+    "Finite-z A21 is a diagnostic, not a universal physical coupling.",
+    "Physical refresh of octupolar background is added, not derived from Q.",
+    "TT 2-helicity constraint algebra and GR nonlinear dynamics remain open."
+  ]
+}

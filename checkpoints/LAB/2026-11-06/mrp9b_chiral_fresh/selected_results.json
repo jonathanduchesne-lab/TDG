@@ -1,0 +1,91 @@
+{
+  "classification": "Finite-sample selected paths of new Q-inspired 8D two-sign instrument; NOT Root2 fact-selection law",
+  "amplitude_from_Q": 0.17444341073014363,
+  "trials_per_case": 1600,
+  "results": [
+    {
+      "p_plus": 0.5,
+      "steps": 128,
+      "dt": 0.03125,
+      "trials": 1600,
+      "mean_vector_probability": 0.0006444807824797921,
+      "p90_vector_probability": 0.0014442577511613209,
+      "p99_vector_probability": 0.0029550704324123123,
+      "mean_selected_trace_distance": 0.022543512077164252,
+      "p90_selected_trace_distance": 0.0380108298175303,
+      "mean_realized_plus_fraction": 0.498564453125,
+      "state_norm_max_err": 1.2878587085651816e-14
+    },
+    {
+      "p_plus": 0.5,
+      "steps": 512,
+      "dt": 0.0078125,
+      "trials": 1600,
+      "mean_vector_probability": 0.0001541669219054632,
+      "p90_vector_probability": 0.0003476124367560077,
+      "p99_vector_probability": 0.0007467440025437064,
+      "mean_selected_trace_distance": 0.010974022633202709,
+      "p90_selected_trace_distance": 0.018645410318544886,
+      "mean_realized_plus_fraction": 0.50035888671875,
+      "state_norm_max_err": 1.2212453270876722e-14
+    },
+    {
+      "p_plus": 0.5,
+      "steps": 2048,
+      "dt": 0.001953125,
+      "trials": 1600,
+      "mean_vector_probability": 3.9658979869687226e-05,
+      "p90_vector_probability": 9.361664805511479e-05,
+      "p99_vector_probability": 0.00020558133548600712,
+      "mean_selected_trace_distance": 0.005542899018970898,
+      "p90_selected_trace_distance": 0.009675867065594174,
+      "mean_realized_plus_fraction": 0.4999700927734375,
+      "state_norm_max_err": 1.234568003383174e-13
+    },
+    {
+      "p_plus": 0.7,
+      "steps": 128,
+      "dt": 0.03125,
+      "trials": 1600,
+      "mean_vector_probability": 0.006886624790297851,
+      "p90_vector_probability": 0.010472535835710632,
+      "p99_vector_probability": 0.013903885220481485,
+      "mean_selected_trace_distance": 0.08146801681580064,
+      "p90_selected_trace_distance": 0.1026213759143008,
+      "mean_realized_plus_fraction": 0.700830078125,
+      "state_norm_max_err": 1.3322676295501878e-14
+    },
+    {
+      "p_plus": 0.7,
+      "steps": 512,
+      "dt": 0.0078125,
+      "trials": 1600,
+      "mean_vector_probability": 0.006436002288498744,
+      "p90_vector_probability": 0.0081641513138991,
+      "p99_vector_probability": 0.009692053391730916,
+      "mean_selected_trace_distance": 0.07994964544185758,
+      "p90_selected_trace_distance": 0.09058980136628228,
+      "mean_realized_plus_fraction": 0.699029541015625,
+      "state_norm_max_err": 1.3988810110276972e-14
+    },
+    {
+      "p_plus": 0.7,
+      "steps": 2048,
+      "dt": 0.001953125,
+      "trials": 1600,
+      "mean_vector_probability": 0.006411327292333258,
+      "p90_vector_probability": 0.007323195748377527,
+      "p99_vector_probability": 0.008079871791322192,
+      "mean_selected_trace_distance": 0.08011899629155848,
+      "p90_selected_trace_distance": 0.08577961153176641,
+      "mean_realized_plus_fraction": 0.7001663208007812,
+      "state_norm_max_err": 1.2667644710973036e-13
+    }
+  ],
+  "conclusion": "p=1/2 selected histories converge in probability as dt->0 at fixed T, slower (roughly sqrt(dt) in pure-state distance) than unselected density; bias p=.7 fails.",
+  "limitations": [
+    "Sample is Monte Carlo evidence, not a uniform pathwise bound.",
+    "No Born probability or fresh label selection law is derived by original TDG Q.",
+    "At fixed dt and T->infinity, there is no persistent recovery."
+  ]
+}

@@ -69,3 +69,10 @@ Les dépendances historiques complètes se trouvent dans les archives Library do
 - Comparateur « mémoire fraîche » : supprime le terme d'ordre 3 et abaisse le défaut de raccordement de ~6600 fois à `a=.025`, mais reste une loi conditionnelle non dérivée.
 - **Contrôle gravitationnel négatif :** le couplage `l=2 -> l=1` subsiste presque inchangé (environ 0.1745 au continuum dans le diagnostic). Aucun GR/O3/HDA dérivé.
 - Source Q-B1852 et `CURRENT_FRONT_LATEST.md` inchangés, l'ancien historique reste normatif.
+
+
+## 2026-11-06 — Médiateur commun et réorientation chirale (LAB)
+
+- [Rang du médiateur commun](mrp9b_formal_paths/TDG_MRP9B_COMMON_RESPONSE_MEDIATOR_RANK_2026_11_06.md) : borne algébrique dimension 4 dans les neuf cas testés, sans interprétation physique promue.
+- [MRP9B CHIRAL FRESH](mrp9b_chiral_fresh/README.md), [rapport](mrp9b_chiral_fresh/REPORT.md), [sources et résultats](mrp9b_chiral_fresh/), [archive ZIP](mrp9b_chiral_fresh/TDG_MRP9B_CHIRAL_FRESH_2026_11_06.zip) : réorientations physiques proposées, CPTP et mémoire fraîche ; hypothèses supplémentaires non dérivées du Q.
+- Les 19 fichiers de source et données et le ZIP sont byte-exact de la Library, empreintes SHA-256 vérifiées. Aucun changement canonique, ni validation GR/O3/HDA.

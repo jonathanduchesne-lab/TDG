@@ -1,0 +1,8 @@
+TT {'steps': 32, 'dt': 0.125, 'mean_outside_TT': 0.0030961267269070296, 'max_outside_TT': 0.004942330413097894, 'mean_vector_pop': 0.003094189210503702, 'max_vector_pop': 0.0049422445576951975}
+TT {'steps': 128, 'dt': 0.03125, 'mean_outside_TT': 0.0007770014033873689, 'max_outside_TT': 0.001240886451674099, 'mean_vector_pop': 0.0007768778923858832, 'max_vector_pop': 0.0012408809786434536}
+TT {'steps': 512, 'dt': 0.0078125, 'mean_outside_TT': 0.00019441801817083796, 'max_outside_TT': 0.0003105253289214118, 'mean_vector_pop': 0.00019441026190899322, 'max_vector_pop': 0.0003105249852265524}
+LONG {'time': 4.0, 'dt': 0.1, 'steps': 40, 'vector_pop': 0.002019805598405425, 'purity': 0.9959645542584266}
+LONG {'time': 40.0, 'dt': 0.1, 'steps': 400, 'vector_pop': 0.019479324669604395, 'purity': 0.9614062378597301}
+LONG {'time': 400.0, 'dt': 0.1, 'steps': 4000, 'vector_pop': 0.1389192626041489, 'purity': 0.7329724839219266}
+LONG {'time': 1600.0, 'dt': 0.1, 'steps': 16000, 'vector_pop': 0.2402560512652697, 'purity': 0.4739094508205809}
+SAVED /mnt/data/tdg_lab_2026_11_06_chiral_fresh/adversarial_results.json
