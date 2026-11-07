@@ -30,3 +30,13 @@ Les scripts `.py` et sorties `.json`/`.txt` accompagnent les rapports disponible
 - `TDG_MRP9B_TRANSPORT_TWIRLING_SHA256.txt` : empreintes des pièces du checkpoint.
 
 **Classification :** test mathématique de capacité **non Q-dérivé**. MRP9B et récupération de la carte prédictive Q-B1592 **restent ouverts**. Aucune promotion vers GR ni modification des états canoniques.
+
+## 2026-11-06 — MRP9B : réponse de Feshbach / holonomie
+
+- `TDG_LAB_2026_11_06_MRP9B_FESHBACH_HOLONOMY.md` : nouvelle condition de non-factorisation cellule×face, modèle Schur/Feshbach 6×2→2×2, holonomie et loi de raffinement.
+- `tdg_mrp9b_feshbach_holonomy_2026_11_06.py` : source complète exécutable (NumPy / SciPy).
+- `tdg_mrp9b_feshbach_holonomy_resultats_2026_11_06.json` : toutes les données numériques.
+- `tdg_mrp9b_feshbach_holonomy_execution_2026_11_06.txt` : sortie brute.
+- `TDG_MRP9B_FESHBACH_HOLONOMY_SHA256.txt` : empreintes de la sauvegarde locale reproductible.
+
+**Verdict :** construction de capacité bien typée, mais H synthétique et attachage Σ non attesté comme carte réelle Q-B1592. Holonomie non triviale possible sans pseudo-inverse ; attention, ses commutateurs engendrent précisément le secteur vertical SU2 rang3 qui demeure un obstacle à HDA. **MRP9B reste ouvert.** Aucun fichier canonique modifié.

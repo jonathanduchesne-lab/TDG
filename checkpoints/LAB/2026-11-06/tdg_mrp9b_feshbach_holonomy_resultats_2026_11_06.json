@@ -1,0 +1,237 @@
+{
+  "scope": "Synthetic Q-typed B4=C6/B3=C2 exact Schur/Feshbach comparator; NOT the recovered numerical Q-B1592 chart; NOT a current Q derivation.",
+  "provenance": "Uses the recovered port-source ratio R_pe R_ee^-1 and documented bare 6x2 scalar-I2 incidence shape, plus a plainly assumed synthetic Herm2 core.",
+  "rank3_herm2_tangent": 3,
+  "boost_commutator_vertical_su2_rank": 3,
+  "cell_face_factorized_flat_control": {
+    "0.2": {
+      "holonomy_error": 9.478140984859138e-16,
+      "max_link_nontriviality": 0.2030277903256746
+    },
+    "0.1": {
+      "holonomy_error": 2.431499910460759e-16,
+      "max_link_nontriviality": 0.10037586162657039
+    },
+    "0.05": {
+      "holonomy_error": 4.854095435190184e-16,
+      "max_link_nontriviality": 0.050046901873027134
+    }
+  },
+  "lorentz_action_at_a_0_05": {
+    "metric_preservation_error": 1.3326376527987301e-14,
+    "determinant_error": 1.3322676295501878e-14,
+    "matrix": [
+      [
+        1.0000000039160342,
+        -6.249982873482732e-05,
+        6.265646997094177e-05,
+        0.0
+      ],
+      [
+        -6.265646997094265e-05,
+        0.9999968691332964,
+        -0.0025031279321308234,
+        -1.3133736986080102e-18
+      ],
+      [
+        6.249982873482642e-05,
+        0.0025031240160999202,
+        0.9999968691332966,
+        -6.776263578034403e-21
+      ],
+      [
+        0.0,
+        1.3145951341386741e-18,
+        -6.776263578034403e-21,
+        1.0000000000000033
+      ]
+    ]
+  },
+  "tangent_total_norm": 0.12247448716299535,
+  "scalar_bare_source_control": 1.5700924586837752e-16,
+  "curvature_limit_matrix_real": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0
+    ]
+  ],
+  "curvature_limit_matrix_imag": [
+    [
+      -0.5,
+      0.0
+    ],
+    [
+      0.0,
+      0.5
+    ]
+  ],
+  "curvature_limit_norm": 0.7071067811865476,
+  "metrics": {
+    "0.4": {
+      "loop_norm_P_minus_I": 0.12767205771423784,
+      "curvature_log_over_a2_norm": 0.7982840962904814,
+      "curvature_limit_error": 0.22567773411079134,
+      "trace_P_real": 1.9930555555555576,
+      "imaginary_trace_abs": 0.0,
+      "determinant_error": 1.998449630507562e-15,
+      "spin_frame_covariance_error": 1.9867713449664666e-15,
+      "pure_gauge_holonomy_error": 5.468339687737666e-16,
+      "pure_gauge_link_nontriviality": 0.4249182927993989,
+      "exact_resolvent_crossing_identity_error": 1.1518467477470086e-16,
+      "exact_self_energy_projection_error": 3.445910841432017e-17,
+      "common_face_right_factor_cancellation_error": 8.174947649388165e-16
+    },
+    "0.2": {
+      "loop_norm_P_minus_I": 0.029147142087477353,
+      "curvature_log_over_a2_norm": 0.728692401804556,
+      "curvature_limit_error": 0.10304930285177386,
+      "trace_P_real": 1.999591878379761,
+      "imaginary_trace_abs": 3.469446951953614e-18,
+      "determinant_error": 3.9968164411547425e-15,
+      "spin_frame_covariance_error": 2.7631887401700947e-15,
+      "pure_gauge_holonomy_error": 4.993095439896056e-16,
+      "pure_gauge_link_nontriviality": 0.2030277903256747,
+      "exact_resolvent_crossing_identity_error": 3.2112232476628336e-17,
+      "exact_self_energy_projection_error": 3.605706433743708e-18,
+      "common_face_right_factor_cancellation_error": 2.803283079927452e-16
+    },
+    "0.1": {
+      "loop_norm_P_minus_I": 0.00712432256721518,
+      "curvature_log_over_a2_norm": 0.7124330248290447,
+      "curvature_limit_error": 0.05037651789245789,
+      "trace_P_real": 1.9999748745296866,
+      "imaginary_trace_abs": 8.673617379884035e-19,
+      "determinant_error": 3.996803735683421e-15,
+      "spin_frame_covariance_error": 1.6021502183143569e-15,
+      "pure_gauge_holonomy_error": 1.5722175871002447e-16,
+      "pure_gauge_link_nontriviality": 0.10037586162657036,
+      "exact_resolvent_crossing_identity_error": 2.1684721879082727e-17,
+      "exact_self_energy_projection_error": 1.735676152689014e-18,
+      "common_face_right_factor_cancellation_error": 3.1665297075481977e-16
+    },
+    "0.05": {
+      "loop_norm_P_minus_I": 0.0017710849716965277,
+      "curvature_log_over_a2_norm": 0.7084340352042366,
+      "curvature_limit_error": 0.025046922258736858,
+      "trace_P_real": 1.9999984355450457,
+      "imaginary_trace_abs": 0.0,
+      "determinant_error": 3.3306690809340775e-15,
+      "spin_frame_covariance_error": 2.593120101860364e-15,
+      "pure_gauge_holonomy_error": 8.680611503124097e-16,
+      "pure_gauge_link_nontriviality": 0.05004690187302725,
+      "exact_resolvent_crossing_identity_error": 4.2580393899492676e-18,
+      "exact_self_energy_projection_error": 3.070374697962977e-19,
+      "common_face_right_factor_cancellation_error": 2.2988870224469287e-16
+    },
+    "0.025": {
+      "loop_norm_P_minus_I": 0.00044214895239116247,
+      "curvature_log_over_a2_norm": 0.70743832671058,
+      "curvature_limit_error": 0.012505860850465894,
+      "trace_P_real": 1.9999999023132236,
+      "imaginary_trace_abs": 0.0,
+      "determinant_error": 1.6653345378200607e-15,
+      "spin_frame_covariance_error": 2.757819039955278e-15,
+      "pure_gauge_holonomy_error": 4.965373804277682e-16,
+      "pure_gauge_link_nontriviality": 0.025005860214370523,
+      "exact_resolvent_crossing_identity_error": 4.6714449938433844e-18,
+      "exact_self_energy_projection_error": 5.424483920114941e-20,
+      "common_face_right_factor_cancellation_error": 3.2274007746467075e-16
+    },
+    "0.0125": {
+      "loop_norm_P_minus_I": 0.00011049838291524404,
+      "curvature_log_over_a2_norm": 0.7071896508366934,
+      "curvature_limit_error": 0.006250732467961988,
+      "trace_P_real": 1.9999999938960216,
+      "imaginary_trace_abs": 0.0,
+      "determinant_error": 1.3766765505378625e-14,
+      "spin_frame_covariance_error": 6.83460941314899e-15,
+      "pure_gauge_holonomy_error": 4.003436413609803e-16,
+      "pure_gauge_link_nontriviality": 0.012500732448102117,
+      "exact_resolvent_crossing_identity_error": 1.0623366875962663e-18,
+      "exact_self_energy_projection_error": 2.7105274031434675e-20,
+      "common_face_right_factor_cancellation_error": 4.984797211598969e-16
+    }
+  },
+  "source_scaling_adversaries": {
+    "0": {
+      "points": [
+        {
+          "a": 0.2,
+          "norm_logP_over_a2": 1.1580806744652636
+        },
+        {
+          "a": 0.1,
+          "norm_logP_over_a2": 4.6323226978610546
+        },
+        {
+          "a": 0.05,
+          "norm_logP_over_a2": 18.529290791444218
+        },
+        {
+          "a": 0.025,
+          "norm_logP_over_a2": 74.11716316577687
+        }
+      ],
+      "halving_ratios": [
+        4.0,
+        4.0,
+        4.0
+      ]
+    },
+    "1": {
+      "points": [
+        {
+          "a": 0.2,
+          "norm_logP_over_a2": 0.728692401804556
+        },
+        {
+          "a": 0.1,
+          "norm_logP_over_a2": 0.7124330248290447
+        },
+        {
+          "a": 0.05,
+          "norm_logP_over_a2": 0.7084340352042365
+        },
+        {
+          "a": 0.025,
+          "norm_logP_over_a2": 0.70743832671058
+        }
+      ],
+      "halving_ratios": [
+        0.9776869129755628,
+        0.9943868553457811,
+        0.9985944937084094
+      ]
+    },
+    "2": {
+      "points": [
+        {
+          "a": 0.2,
+          "norm_logP_over_a2": 0.028318235772433864
+        },
+        {
+          "a": 0.1,
+          "norm_logP_over_a2": 0.007071598164782252
+        },
+        {
+          "a": 0.05,
+          "norm_logP_over_a2": 0.0017677752394663726
+        },
+        {
+          "a": 0.025,
+          "norm_logP_over_a2": 0.00044194186780725336
+        }
+      ],
+      "halving_ratios": [
+        0.24971888155779948,
+        0.24998242239925206,
+        0.24999890141048678
+      ]
+    }
+  },
+  "conclusion": "Noncentral relative links can occur with scalar-I2 bare incidence after Herm2 Schur dressing. Noncentrality alone insufficient: cell-only charts telescope to flat holonomy. Face-dependent dressed attachments generate O(a^2) loop curvature for an O(a) Herm2 contrast, but this mechanism is hypothetical until same-Q cell/face charts are reconstructed."
+}
