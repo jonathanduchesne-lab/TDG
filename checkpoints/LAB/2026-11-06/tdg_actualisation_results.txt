@@ -1,0 +1,12 @@
+TDG EXACT TOY MODEL TESTS
+-------------------------
+Causal growth linear extensions: [('P', 'A', 'B', 'D'), ('P', 'B', 'A', 'D')]
+Canonical finite causal layers: {'P': 0, 'A': 1, 'B': 1, 'D': 2}
+Global joint P(A,B): {(0, 0): 0.45, (0, 1): 0.05, (1, 0): 0.05, (1, 1): 0.45}
+Global vs A-first vs B-first max absolute error: 0.0
+Inconsistent sequential-order dynamics total-variation distance: 0.15000000000000002
+Quantum CHSH |S|, max signaling, order error: (2.82842712474619, 0.0, 0.0)
+PR-box CHSH |S|, max signaling, order error: (4.0, 0.0, 0.0)
+Two events 4 billion ly apart, delta T_k (years): {0: 0.0, 0.001: 4000000.0, 0.01: 40000000.0, 0.1: 400000000.0}
+CONCLUSION: same factual joint history can be generated globally or in either causal-compatible sequential labeling.
+No preferred foliation follows from that construction; no-signaling and order independence alone do not select quantum statistics.

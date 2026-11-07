@@ -1,0 +1,189 @@
+{
+  "scope": "Diagnostic map and synthetic discrete-geometry repair, NOT a recovered microscopic TDG-Q law or a derivation of nonlinear GR",
+  "model_source": "Canonical J ray in TDG 2026-09-18 formal readout-free checkpoint",
+  "conditional_identification": "Assumes S4 l2 and l1 TDG slots realize physical SO3 STF2 and vector modules",
+  "spin3": {
+    "J_frobenius_norm": 1.0,
+    "full_symmetry_error_max": 0.0,
+    "trace_error_max": 0.0,
+    "nonzero_T_ijk": [
+      [
+        0,
+        1,
+        2,
+        -0.408248290463863
+      ],
+      [
+        0,
+        2,
+        1,
+        -0.408248290463863
+      ],
+      [
+        1,
+        0,
+        2,
+        -0.408248290463863
+      ],
+      [
+        1,
+        2,
+        0,
+        -0.408248290463863
+      ],
+      [
+        2,
+        0,
+        1,
+        -0.408248290463863
+      ],
+      [
+        2,
+        1,
+        0,
+        -0.408248290463863
+      ]
+    ],
+    "harmonic_polynomial": "-sqrt(6)*x*y*z",
+    "laplacian_H": "0",
+    "tetrahedral_halfturn_invariance_error": 1.9229626863835638e-16,
+    "tetrahedral_cyclic_invariance_error": 1.9229626863835638e-16,
+    "quarterturn_sign_reversal_error": 1.9229626863835638e-16,
+    "physical_TT_nonzero_at_kz": 0.5773502691896258,
+    "physical_TT_joint_kernel_at_kz": 1,
+    "random_k_mean_J_on_TT": 0.6312541455443581,
+    "random_k_min_J_on_TT": 0.5774250011492155,
+    "random_k_max_J_on_TT": 0.666308316343394
+  },
+  "octahedral_S4_twist": {
+    "rotations": 24,
+    "regular_vector_intertwinement_fails": "12 of the 24 signed-permutation rotations return -J",
+    "twisted_vector_intertwinement_passes": "chi(R)*R with chi parity of permutation axes",
+    "chi_positive": 12,
+    "chi_negative": 12,
+    "max_twisted_intertwiner_error": 1.9229626863835638e-16,
+    "important_caveat": "This uses a selected embedding of the abstract S4 into proper cubic rotations; mapping these modules to physical rotations in frozen TDG-Q remains a separate unresolved problem."
+  },
+  "octahedral_twirling": {
+    "rotations": 24,
+    "mean_J_norm": 0.0,
+    "mean_JtJ_diagonal": [
+      0.0,
+      0.0,
+      0.3333333333333332,
+      0.3333333333333332,
+      0.3333333333333332
+    ],
+    "mean_JtJ_offdiag_norm": 0.0
+  },
+  "haar_SO3_twirling": {
+    "rotations": 6000,
+    "mean_J_norm": 0.008765455227164043,
+    "quadratic_deviation_from_I5/5": 0.0036409220861998277,
+    "quadratic_diagonal": [
+      0.1982844284030097,
+      0.1992680357010958,
+      0.20147158349735533,
+      0.20145142550397438,
+      0.19952452689456476
+    ],
+    "theoretical_quadratic": 0.2,
+    "renormalized_quadratic_with_c_inf": 23.195138035680202
+  },
+  "discrete_covariant_divergence": {
+    "wave_number": 1,
+    "random_directions": 300,
+    "rows": [
+      {
+        "a": 0.8,
+        "tt_leak_o2": 0.019081964002102082,
+        "cov_defect_o2": 0.04730699852479527,
+        "tt_leak_o4": 0.0021280454107937916,
+        "cov_defect_o4": 0.00651277797216098,
+        "J_TT_leak": 0.6312541455443581,
+        "fit_rate_o2": 1.9907738594861073,
+        "fit_rate_o4": 3.98048265783839
+      },
+      {
+        "a": 0.4,
+        "tt_leak_o2": 0.004874440410297578,
+        "cov_defect_o2": 0.012144333664755065,
+        "tt_leak_o4": 0.00013920572946724843,
+        "cov_defect_o4": 0.00043008931423321083,
+        "J_TT_leak": 0.6312541455443581,
+        "fit_rate_o2": 1.9907738594861073,
+        "fit_rate_o4": 3.98048265783839
+      },
+      {
+        "a": 0.2,
+        "tt_leak_o2": 0.0012251818359806951,
+        "cov_defect_o2": 0.0030562127302987854,
+        "tt_leak_o4": 8.799987485144588e-06,
+        "cov_defect_o4": 2.7252556424969993e-05,
+        "J_TT_leak": 0.6312541455443581,
+        "fit_rate_o2": 1.9907738594861073,
+        "fit_rate_o4": 3.98048265783839
+      },
+      {
+        "a": 0.1,
+        "tt_leak_o2": 0.00030670737062974806,
+        "cov_defect_o2": 0.000765315680096888,
+        "tt_leak_o4": 5.515667071646242e-07,
+        "cov_defect_o4": 1.7091446185468321e-06,
+        "J_TT_leak": 0.6312541455443581,
+        "fit_rate_o2": 1.9907738594861073,
+        "fit_rate_o4": 3.98048265783839
+      },
+      {
+        "a": 0.05,
+        "tt_leak_o2": 7.670260557710978e-05,
+        "cov_defect_o2": 0.00019140789524932014,
+        "tt_leak_o4": 3.449745352717269e-08,
+        "cov_defect_o4": 1.0691328617581003e-07,
+        "J_TT_leak": 0.6312541455443581,
+        "fit_rate_o2": 1.9907738594861073,
+        "fit_rate_o4": 3.98048265783839
+      }
+    ],
+    "fits": {
+      "2": 1.9907738594861073,
+      "4": 3.98048265783839
+    },
+    "limiting_J_TT_leak": 0.6312541455443581,
+    "limiting_discrete_D_TT_leak": "0",
+    "note": "Flat link transport is identity, a true curved-space construction needs covariant Q-generated links"
+  },
+  "orientation_domain_coarsening": [
+    {
+      "domains": 1,
+      "mean_coupling_norm": 1.0,
+      "mean_square": 1.0,
+      "haar_expected_mean_square": 1.0
+    },
+    {
+      "domains": 4,
+      "mean_coupling_norm": 0.4953815407385349,
+      "mean_square": 0.2603311613163847,
+      "haar_expected_mean_square": 0.25
+    },
+    {
+      "domains": 16,
+      "mean_coupling_norm": 0.2395988877891728,
+      "mean_square": 0.06231547103470895,
+      "haar_expected_mean_square": 0.0625
+    },
+    {
+      "domains": 64,
+      "mean_coupling_norm": 0.11989537499380773,
+      "mean_square": 0.015349875956196204,
+      "haar_expected_mean_square": 0.015625
+    },
+    {
+      "domains": 256,
+      "mean_coupling_norm": 0.06011318306092808,
+      "mean_square": 0.0038349818630886378,
+      "haar_expected_mean_square": 0.00390625
+    }
+  ],
+  "conclusion": "A fixed cubic-harmonic spin-3 intertwiner cannot become the O3-natural divergence by mere lattice refinement or an average that discards second moments. Q requires a genuine dynamical transport/derivative or IR suppression of the spin-3 operator."
+}

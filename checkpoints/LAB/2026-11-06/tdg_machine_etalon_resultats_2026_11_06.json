@@ -1,0 +1,193 @@
+{
+  "scope": "Known-GR benchmark and diagnostic comparison, not microscopic GR-from-TDG derivation",
+  "source": {
+    "url": "https://github.com/jonathanduchesne-lab/TDG/blob/main/checkpoints/SENTRY/2026-09-18/TDG_FORMAL_READOUT_FREE_DYNAMIC_L2_TO_L1_NONZERO_2026-09-18.md",
+    "status": "Historical canonical J ray assumed to map to physical STF(3)->vector; identification is conditional"
+  },
+  "gr_linearized": {
+    "tt_dimension": 2,
+    "constraint_divergence_max": 0.0,
+    "energy_relative_variation": 7.69085525999156e-16,
+    "tt_projection_error_max": 0.0,
+    "max_J_source_on_gr_wave": 2.003581098950036
+  },
+  "gr_nonlinear": {
+    "kasner_exponents": [
+      "-1/3",
+      "2/3",
+      "2/3"
+    ],
+    "ricci_matrix": [
+      [
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0",
+        "0",
+        "0"
+      ],
+      [
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    ],
+    "hamiltonian_constraint": "0",
+    "riemann_0101": "-4/(9*t**(8/3))",
+    "riemann_0202": "2/(9*t**(2/3))",
+    "kretschmann": "64/(27*t**4)"
+  },
+  "B5_trace_test": {
+    "maximum_action_on_STF_basis": 0.0,
+    "interpretation": "scalar rank-one correction has zero STF action by type, irrespective of fitted coefficient"
+  },
+  "tdg_J_test": {
+    "J_matrix": [
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.5773502691896258
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        -0.5773502691896258,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        -0.5773502691896258,
+        0.0,
+        0.0
+      ]
+    ],
+    "rank_J": 3,
+    "rank_divergence_kz": 3,
+    "kernel_TT": 2,
+    "intersection_TT_kerJ": 1,
+    "J_TT_fro_norm": 0.5773502691896258,
+    "J_TT_relative_to_J_norm": 0.5773502691896258,
+    "J_divergence_best_fit_relative_error": 1.0,
+    "J_divergence_best_fit_k": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max_gradient_covariance_defect": 1.0546433952442117e-15,
+    "median_J_rotation_defect_relative": 1.4014749917985985,
+    "min_J_rotation_defect_relative": 0.508959884224104,
+    "max_J_rotation_defect_relative": 1.9603290481529105,
+    "octahedral_twirl_mean_norm": 0.0,
+    "octahedral_twirl_single_orientation_mean_square": 1.0,
+    "mean_relative_TT_leak_over_k": 0.6294484268925686,
+    "joint_kernel_dimensions_300_generic_k": [
+      0
+    ],
+    "J_coefficient_formal_inf": 10.769201,
+    "J_D_orthogonality_max": 0.0
+  },
+  "zeno_comparison": {
+    "comment": "Conditional sequence of successful projective constraint checks; TT projector imported from GR, not TDG-derived",
+    "total_time": 6.0,
+    "coupling_strength": 1.0,
+    "measurements": [
+      {
+        "N": 1,
+        "TT_success_probability": 0.7050440522918553,
+        "tensor5_success_probability": 0.7050440522918553
+      },
+      {
+        "N": 2,
+        "TT_success_probability": 0.05738508061981297,
+        "tensor5_success_probability": 0.05738508061981297
+      },
+      {
+        "N": 5,
+        "TT_success_probability": 0.08074943173668947,
+        "tensor5_success_probability": 0.08074943173668947
+      },
+      {
+        "N": 10,
+        "TT_success_probability": 0.2967158509043728,
+        "tensor5_success_probability": 0.2967158509043728
+      },
+      {
+        "N": 20,
+        "TT_success_probability": 0.5477836186594474,
+        "tensor5_success_probability": 0.5477836186594474
+      },
+      {
+        "N": 50,
+        "TT_success_probability": 0.7865334708438398,
+        "tensor5_success_probability": 0.7865334708438398
+      },
+      {
+        "N": 100,
+        "TT_success_probability": 0.8869071329856356,
+        "tensor5_success_probability": 0.8869071329856356
+      },
+      {
+        "N": 500,
+        "TT_success_probability": 0.9762855926035798,
+        "tensor5_success_probability": 0.9762855926035798
+      },
+      {
+        "N": 1000,
+        "TT_success_probability": 0.9880716980409585,
+        "tensor5_success_probability": 0.9880716980409585
+      },
+      {
+        "N": 2000,
+        "TT_success_probability": 0.9940179621902372,
+        "tensor5_success_probability": 0.9940179621902372
+      }
+    ]
+  },
+  "fault_injection": {
+    "equation": "dv/dt=-nu*v+c_inf*(J or D_k)*h_TT(t)",
+    "scope": "diagnostic only, not frozen Q process",
+    "nu": 0.7,
+    "TDG_J_max_vector_norm": 1.239771882056398,
+    "TDG_J_final_vector_norm": 1.0869852247792091,
+    "GR_Dk_max_vector_norm": 0.0,
+    "GR_Dk_final_vector_norm": 0.0,
+    "intervention": "replace fixed J by covariant divergence D_k; requires new Q-derived law"
+  },
+  "decoherence": {
+    "gamma": 0.8,
+    "times": [
+      0,
+      1,
+      2,
+      4,
+      8,
+      16
+    ],
+    "offdiagonal_visibility": [
+      1.0,
+      0.44932896411722156,
+      0.20189651799465538,
+      0.04076220397836621,
+      0.001661557273173934,
+      2.7607725720371986e-06
+    ],
+    "t2_probability_0": 0.5000000000000001,
+    "t2_offdiagonal": 0.10094825899732776,
+    "born_selector_imported": true
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "sources": {
+    "TDG": "jonathanduchesne-lab/TDG, CURRENT_FRONT_LATEST.md and 2026-10-06 B5 v0.3/v0.4 branch stop",
+    "scope": "toy representation tests + exact canonical triad kinematics + exact vacuum pp wave, NOT original Q-MRP9B dynamics"
+  },
+  "obstruction": {
+    "Q_historical_STF_gradient_magnitude_about": 11.6773,
+    "diagnostic_rank": 3,
+    "diagnostic_singular_values": [
+      13.483784596816037,
+      11.6773,
+      11.6773
+    ],
+    "exact_B5_trace_to_STF_error": 1.694510578108348e-16,
+    "exact_cancellation_if_counterterm_minus_A": 0.0,
+    "counterterm_required_rank_at_least": 3,
+    "dynamical_direction_SO3_covariance_error": 1.2719202621569003e-16,
+    "fixed_direction_SO3_covariance_failure": 0.8105450133684386,
+    "orientation_average_first_moment_norm": 0.0037378597130004764,
+    "orientation_average_mean_square": 0.600881038822042,
+    "orientation_average_mean_square_exact": 0.6016666666666667
+  },
+  "cotriad_gauss_completion": {
+    "new_assumption": "independent invertible 3x3 triad with canonical momentum; physical metrics are E.T E",
+    "metric_rotation_error": 7.019609506742339e-16,
+    "momentum_rotation_error": 6.582812753581314e-17,
+    "canonical_oneform_error": 1.3877787807814457e-17,
+    "gauss_algebra_error": 0.0,
+    "gauss_orbit_rank": 3,
+    "phase_dimensions": {
+      "raw": 18,
+      "after_three_Gauss": 12,
+      "after_four_ADM": 4,
+      "config_degrees_freedom": 2
+    },
+    "HDA": "Requires adopting ADM Hamiltonian/diffeomorphism constraints as NEW input; not derived from Q"
+  },
+  "exact_gr_sector": {
+    "metric": "ds^2 = -2 du dv + dx^2+dy^2 + H(u,x,y) du^2",
+    "H": "f(u)*(x^2-y^2)+2*g(u)*x*y",
+    "det_g": "-1",
+    "Ricci_tensor": "Matrix([[0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]])",
+    "Ricci_zero_for_arbitrary_f_g": true,
+    "R_uxux": "-f(u)",
+    "R_uxuy": "-g(u)",
+    "R_uyuy": "f(u)",
+    "classification": "Exact nonlinear vacuum Einstein family, but f(u),g(u) are NOT output by TDG Q"
+  },
+  "decoherence_Zeno_exploration": {
+    "monitoring_t1": [
+      {
+        "monitor_rate": 0.0,
+        "vector_leakage_at_time_1": 0.5750783812456891,
+        "SO3_state_covariance_defect_at_time_1": 0.7399892656259452
+      },
+      {
+        "monitor_rate": 1.0,
+        "vector_leakage_at_time_1": 0.43252023257135713,
+        "SO3_state_covariance_defect_at_time_1": 0.5182912701463837
+      },
+      {
+        "monitor_rate": 5.0,
+        "vector_leakage_at_time_1": 0.20374539317560333,
+        "SO3_state_covariance_defect_at_time_1": 0.223703838128042
+      },
+      {
+        "monitor_rate": 20.0,
+        "vector_leakage_at_time_1": 0.06682436979432713,
+        "SO3_state_covariance_defect_at_time_1": 0.07335985104613282
+      },
+      {
+        "monitor_rate": 100.0,
+        "vector_leakage_at_time_1": 0.014635761373065,
+        "SO3_state_covariance_defect_at_time_1": 0.016206866702199844
+      },
+      {
+        "monitor_rate": 500.0,
+        "vector_leakage_at_time_1": 0.002985088222272599,
+        "SO3_state_covariance_defect_at_time_1": 0.0033131010747729285
+      }
+    ],
+    "noncommuting_limits_exact_two_level": [
+      {
+        "monitor_rate": 20.0,
+        "fixed_time_1_leak": 0.08725719807004972,
+        "time_equals_monitor_rate_leak": 0.4911178371200906
+      },
+      {
+        "monitor_rate": 100.0,
+        "fixed_time_1_leak": 0.019420587128452294,
+        "time_equals_monitor_rate_leak": 0.4908531714046075
+      },
+      {
+        "monitor_rate": 500.0,
+        "fixed_time_1_leak": 0.003976169438270838,
+        "time_equals_monitor_rate_leak": 0.4908426201332581
+      },
+      {
+        "monitor_rate": 1000.0,
+        "fixed_time_1_leak": 0.001994021256283618,
+        "time_equals_monitor_rate_leak": 0.4908422904496687
+      }
+    ],
+    "finite_rate_long_time_2state_leakage": 0.49999999999999506,
+    "interpretation": "Strong monitoring suppresses cross-sector transitions only at fixed time if gamma->infinity. At finite gamma and time->infinity leakage can return."
+  },
+  "dephasing_vs_constraint": {
+    "initial_scalar_population": 0.4,
+    "after_arbitrarily_strong_unselective_dephasing": 0.4,
+    "after_hand_added_amplitude_damping": {
+      "0": 0.4,
+      "0.5": 0.08925206405937193,
+      "1.0": 0.01991482734714558,
+      "2.0": 0.0009915008706665434,
+      "5.0": 1.2236092820073031e-07
+    },
+    "interpretation": "Decoherence alone does not set C0=0; amplitude damping requires new physical coupling."
+  },
+  "memory_beta_ansatz": {
+    "beta_N_equals_1_minus_absolute_coherence": {
+      "0": 0.0,
+      "1": 0.2351578127155115,
+      "2": 0.4150164285498794,
+      "4": 0.6577942211334618,
+      "8": 0.8828952049103459,
+      "16": 0.9862864669670102,
+      "32": 0.9998119390117531,
+      "128": 0.9999999999999988
+    },
+    "status": "Assumed constitutive law, not derived, affects scalar only, does not solve STF or HDA"
+  },
+  "open": [
+    "Q-to-(E,P) physical map satisfying symplectic and quotient descent",
+    "Q-derived first class Gauss law rather than new sector",
+    "Q-derived ADM constraints and their HDA closure",
+    "coupled quantum record backreaction and Born/unique result",
+    "cofinality/refinement and all local observables"
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "scope": "toy quantum long-time/continuum asymptotics + existing certified TDG B5 structural projector; no Q-MRP9B microscopic coupling",
+  "initial_two_path": {
+    "theta_radians": 0.7,
+    "overlap": 0.7648421872844885,
+    "rho_infinite": [
+      [
+        0.5,
+        0.0
+      ],
+      [
+        0.0,
+        0.5
+      ]
+    ],
+    "infinite_trace_distance_to_either_definite_branch": [
+      0.5,
+      0.5
+    ],
+    "environment_fragments_for_90pct_accessible_bit": 6,
+    "redundancy": {
+      "16": 2,
+      "32": 5,
+      "64": 10,
+      "128": 21,
+      "1024": 170
+    },
+    "finite_horizon": [
+      {
+        "N": 0,
+        "visibility": 1.0,
+        "trace_distance_to_classical_mixture": 0.5,
+        "distance_to_branch0_at_infinity": null,
+        "record_information_bits_optimal_m_fragment": 0.0
+      },
+      {
+        "N": 1,
+        "visibility": 0.7648421872844885,
+        "trace_distance_to_classical_mixture": 0.38242109364224425,
+        "distance_to_branch0_at_infinity": null,
+        "record_information_bits_optimal_m_fragment": 0.3245581185433657
+      },
+      {
+        "N": 2,
+        "visibility": 0.5849835714501206,
+        "trace_distance_to_classical_mixture": 0.2924917857250603,
+        "distance_to_branch0_at_infinity": null,
+        "record_information_bits_optimal_m_fragment": 0.5487591037849904
+      },
+      {
+        "N": 4,
+        "visibility": 0.3422057788665383,
+        "trace_distance_to_classical_mixture": 0.17110288943326915,
+        "distance_to_branch0_at_infinity": null,
+        "record_information_bits_optimal_m_fragment": 0.8046687943159405
+      },
+      {
+        "N": 8,
+        "visibility": 0.11710479508965413,
+        "trace_distance_to_classical_mixture": 0.058552397544827064,
+        "distance_to_branch0_at_infinity": null,
+        "record_information_bits_optimal_m_fragment": 0.9668930766950797
+      },
+      {
+        "N": 16,
+        "visibility": 0.013713533032989882,
+        "trace_distance_to_classical_mixture": 0.006856766516494941,
+        "distance_to_branch0_at_infinity": null,
+        "record_information_bits_optimal_m_fragment": 0.9992562258966492
+      },
+      {
+        "N": 32,
+        "visibility": 0.00018806098824690465,
+        "trace_distance_to_classical_mixture": 9.403049412345233e-05,
+        "distance_to_branch0_at_infinity": null,
+        "record_information_bits_optimal_m_fragment": 0.9999997507009593
+      },
+      {
+        "N": 64,
+        "visibility": 3.536693530040241e-08,
+        "trace_distance_to_classical_mixture": 1.7683467650201205e-08,
+        "distance_to_branch0_at_infinity": null,
+        "record_information_bits_optimal_m_fragment": 1.0
+      },
+      {
+        "N": 128,
+        "visibility": 1.2508201125428502e-15,
+        "trace_distance_to_classical_mixture": 6.254100562714251e-16,
+        "distance_to_branch0_at_infinity": null,
+        "record_information_bits_optimal_m_fragment": 1.0
+      },
+      {
+        "N": 1024,
+        "visibility": 5.9918212224142406e-120,
+        "trace_distance_to_classical_mixture": 2.9959106112071203e-120,
+        "distance_to_branch0_at_infinity": 0.5,
+        "record_information_bits_optimal_m_fragment": 1.0
+      }
+    ],
+    "infinite_horizon": "visibility 0, effective improper mixture, no selected ontic outcome derived"
+  },
+  "B5_record_instrument": {
+    "spectrum_of_25D_channel": [
+      -6.04012307878581e-17,
+      -6.04012307878581e-17,
+      -4.332569691113857e-17,
+      -3.4631038657854876e-17,
+      -3.4631038657854876e-17,
+      -3.4163881643535823e-17,
+      -1.8540172052149284e-17,
+      -3.862144483827251e-18,
+      -3.862144483827251e-18,
+      5.5209641057636986e-18,
+      5.5209641057636986e-18,
+      1.3577059378585268e-17,
+      1.3577059378585268e-17,
+      1.9361382058744008e-17,
+      2.2631687847387036e-17,
+      2.7953495021574837e-17,
+      2.7953495021574837e-17,
+      6.256429773785822e-17,
+      8.388606112196735e-17,
+      0.799999999999999,
+      0.7999999999999993,
+      0.7999999999999997,
+      0.7999999999999998,
+      0.7999999999999999,
+      0.9999999999999991
+    ],
+    "unique_fixed_state": "P5/5 within Standard5",
+    "convergence_factor_after_first_step": 0.8,
+    "distance_rows": [
+      {
+        "iterations": 0,
+        "distance_to_P5_over_5": 0.894427190999916,
+        "expected_for_this_initial_state": 0.894427190999916
+      },
+      {
+        "iterations": 1,
+        "distance_to_P5_over_5": 0.7155417527999323,
+        "expected_for_this_initial_state": 0.7155417527999328
+      },
+      {
+        "iterations": 2,
+        "distance_to_P5_over_5": 0.5724334022399459,
+        "expected_for_this_initial_state": 0.5724334022399463
+      },
+      {
+        "iterations": 4,
+        "distance_to_P5_over_5": 0.36635737743356506,
+        "expected_for_this_initial_state": 0.36635737743356567
+      },
+      {
+        "iterations": 8,
+        "distance_to_P5_over_5": 0.15005998179678834,
+        "expected_for_this_initial_state": 0.15005998179678853
+      },
+      {
+        "iterations": 16,
+        "distance_to_P5_over_5": 0.025175887275607767,
+        "expected_for_this_initial_state": 0.025175887275607902
+      },
+      {
+        "iterations": 32,
+        "distance_to_P5_over_5": 0.0007086382284571945,
+        "expected_for_this_initial_state": 0.0007086382284571842
+      },
+      {
+        "iterations": 64,
+        "distance_to_P5_over_5": 5.614410474355022e-07,
+        "expected_for_this_initial_state": 5.614410472802626e-07
+      },
+      {
+        "iterations": 128,
+        "distance_to_P5_over_5": 3.528236400606532e-13,
+        "expected_for_this_initial_state": 3.5242225722002645e-13
+      }
+    ],
+    "physical_notice": "illustrative instrument is not a Q-native detector; discarding measurement outcomes erases sector information"
+  },
+  "continuum_double_scaling": {
+    "g_assumed": 0.3,
+    "T": 1.0,
+    "target_exp_minus_gT": 0.7408182206817179,
+    "scales": [
+      {
+        "a": 0.25,
+        "N_fixed": 16,
+        "V_Nfixed": 0.7394164639615118,
+        "N_slow": 4,
+        "V_slow": 0.9273043116367286,
+        "N_diffusive": 16,
+        "V_diffusive": 0.7394164639615118,
+        "N_fast": 64,
+        "V_fast": 0.2989210269751267
+      },
+      {
+        "a": 0.125,
+        "N_fixed": 16,
+        "V_Nfixed": 0.9276345002150443,
+        "N_slow": 8,
+        "V_slow": 0.9631378407139055,
+        "N_diffusive": 64,
+        "V_diffusive": 0.7404701733006859,
+        "N_fast": 512,
+        "V_fast": 0.0903775483163756
+      },
+      {
+        "a": 0.0625,
+        "N_fixed": 16,
+        "V_Nfixed": 0.9814174951092296,
+        "N_slow": 16,
+        "V_slow": 0.9814174951092296,
+        "N_diffusive": 256,
+        "V_diffusive": 0.7407313568416622,
+        "N_fast": 4096,
+        "V_fast": 0.008214321097600955
+      },
+      {
+        "a": 0.03125,
+        "N_fixed": 16,
+        "V_Nfixed": 0.9953230134880597,
+        "N_slow": 32,
+        "V_slow": 0.9906679011789524,
+        "N_diffusive": 1024,
+        "V_diffusive": 0.7407965139491361,
+        "N_fast": 32768,
+        "V_fast": 6.766526064105084e-05
+      },
+      {
+        "a": 0.015625,
+        "N_fixed": 16,
+        "V_Nfixed": 0.9988287827995285,
+        "N_slow": 64,
+        "V_slow": 0.9953233552719121,
+        "N_diffusive": 4096,
+        "V_diffusive": 0.7408127945750096,
+        "N_fast": 262144,
+        "V_fast": 4.5850319251619355e-09
+      }
+    ],
+    "order_of_limits": {
+      "N_infty_then_a_zero": "V=0",
+      "a_zero_then_N_infty": "V=1",
+      "N=T_over_a_squared": "V=exp(-gT)"
+    },
+    "notice": "a and g are illustrative, no calibration to TDG b4/b24 refinements"
+  },
+  "gravity_firewall": {
+    "B5_pure_trace_on_STF_max_residual": 2.693852775506994e-17,
+    "spectator_tensor_commutator": 0.0,
+    "historical_Q_obstruction": "STF->gradient nonzero ~11.6773; SAME-h ~0.74596 from existing TDG checkpoint, NOT recomputed here",
+    "verdict": "no derived effect on GR obstruction from spectator lens, no GR improvement established"
+  },
+  "open": [
+    "Born rule not derived from TDG",
+    "individual outcome not selected by nonselective decoherence",
+    "no physical threshold of absolute irreversibility",
+    "no new beta!=0 B5 activation",
+    "no MRP9B predictive-fibre chart nor microscopic Q coupling",
+    "no universal foliation",
+    "no nonlinear GR closure"
+  ]
+}

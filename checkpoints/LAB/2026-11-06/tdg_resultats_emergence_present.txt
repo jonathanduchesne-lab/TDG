@@ -1,0 +1,46 @@
+TDG - REAL TEST: DOES CAUSAL ACTUALIZATION FORCE A UNIVERSAL PRESENT?
+Exact arithmetic, finite causal partial orders, standard library only.
+
+EXAMPLE (A causes C; B is causally independent):
+  Single-event growth sequences: 3
+  Admissible ordered-front decompositions: 5
+  Earliest fronts: A=0, B=0, C=1
+  Latest fronts:   A=0, B=1, C=1
+  Both achieve the MINIMUM of 2 fronts, but disagree about whether
+  B is simultaneous with A or with C.
+  All valid foliations:
+    {A,B} | {C}
+    {A} | {B,C}
+    {A} | {B} | {C}
+    {A} | {C} | {B}
+    {B} | {A} | {C}
+
+TWO INDEPENDENT REGIONS (3 causally ordered events each):
+  One-event-at-a-time growth histories: 20
+  All ordered antichain foliations: 63
+  An update-every-ready-event rule gives the three shared layers
+  {A1,B1}, {A2,B2}, {A3,B3}, but that rule has to be added.
+
+EXHAUSTIVE FINITE-POSET SUBFAMILY, N=5:
+  Includes all distinct orders with 0<1<2<3<4 a legal growth ordering.
+  Unique causal orders in this subfamily: 357
+  More than one causally valid layering: 356
+  Earliest and latest MINIMAL-LENGTH layering disagree: 257
+  Unique fronts under new all-eligible-at-once rule: 357
+
+RELATIVITY OF SIMULTANEITY (separation 4 billion light years):
+  boost +0% c: delta t = -0.00 million years
+  boost +1% c: delta t = -40.00 million years
+  boost -1% c: delta t = +40.00 million years
+  boost +10% c: delta t = -402.02 million years
+  boost -10% c: delta t = +402.02 million years
+
+LOGICAL RESULTS:
+  - Causality, order-respecting actualization, and a single factual history
+    do NOT force a unique universal simultaneity relation.
+  - A common actualization front CAN be defined; simultaneous update of
+    all ready events is a POSSIBLE new dynamical law, not a derivation
+    from causality alone.
+  - To make a privileged present necessary, TDG needs an independent
+    selection principle (and consequences compatible with observations).
+  - This toy mathematics is not a proof of or against fundamental TDG.

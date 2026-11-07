@@ -1,0 +1,114 @@
+{
+  "provenance": {
+    "model": "TDG current documented Root2/MRP9B + B5 v0.3/0.4 certified registers",
+    "note": "A diagnostic lens at Sigma and certified B5 operator, NOT execution of full missing MRP9B Q-B1592 chart."
+  },
+  "known_physics": {
+    "theta_radians_assumed": 0.7,
+    "single_fragment_overlap": 0.7648421872844885,
+    "records": [
+      {
+        "N": 0,
+        "visibility_local": 1.0,
+        "holevo_total_bits_upper_bound": 0.0,
+        "accessible_information_bits": 0.0,
+        "R_0p1_disjoint_fragments_via_helstrom": 0
+      },
+      {
+        "N": 1,
+        "visibility_local": 0.7648421872844885,
+        "holevo_total_bits_upper_bound": 0.5223612304933727,
+        "accessible_information_bits": 0.3245581185433657,
+        "R_0p1_disjoint_fragments_via_helstrom": 0
+      },
+      {
+        "N": 2,
+        "visibility_local": 0.5849835714501206,
+        "holevo_total_bits_upper_bound": 0.7366927067432236,
+        "accessible_information_bits": 0.5487591037849904,
+        "R_0p1_disjoint_fragments_via_helstrom": 0
+      },
+      {
+        "N": 4,
+        "visibility_local": 0.3422057788665383,
+        "holevo_total_bits_upper_bound": 0.9137955853933712,
+        "accessible_information_bits": 0.8046687943159405,
+        "R_0p1_disjoint_fragments_via_helstrom": 0
+      },
+      {
+        "N": 8,
+        "visibility_local": 0.11710479508965413,
+        "holevo_total_bits_upper_bound": 0.9900850424537901,
+        "accessible_information_bits": 0.9668930766950797,
+        "R_0p1_disjoint_fragments_via_helstrom": 1
+      },
+      {
+        "N": 16,
+        "visibility_local": 0.013713533032989882,
+        "holevo_total_bits_upper_bound": 0.9998643384201407,
+        "accessible_information_bits": 0.9992562258966492,
+        "R_0p1_disjoint_fragments_via_helstrom": 2
+      },
+      {
+        "N": 32,
+        "visibility_local": 0.00018806098824690465,
+        "holevo_total_bits_upper_bound": 0.9999999744881487,
+        "accessible_information_bits": 0.9999997507009593,
+        "R_0p1_disjoint_fragments_via_helstrom": 5
+      }
+    ],
+    "partial_reversal_at_N16": {
+      "0": 0.013713533032989882,
+      "4": 0.04007393761266146,
+      "8": 0.11710479508965413,
+      "12": 0.3422057788665383,
+      "16": 1.0
+    }
+  },
+  "two_local_detectors": {
+    "joint_probabilities": [
+      [
+        0.4999999999999999,
+        0.0
+      ],
+      [
+        0.0,
+        0.4999999999999999
+      ]
+    ],
+    "max_order_defect": 0.0,
+    "no_signal_defect": 0.0
+  },
+  "B5_exact": {
+    "spectrum": [
+      1.4432899320127035e-15,
+      6.0,
+      6.0,
+      6.0,
+      6.0,
+      6.0
+    ],
+    "naive_singlet_leakage": 0.16666666666666674,
+    "projected_instrument_completeness_defect": 9.718415738830587e-16,
+    "projected_singlet_leakage": 3.252606517456514e-17,
+    "trace_defect": 3.3306690738754696e-16,
+    "permutation_covariance_defect": 3.516657170580683e-16,
+    "outcome_probabilities": [
+      0.833333333333333,
+      0.03333333333333333,
+      0.033333333333333326,
+      0.033333333333333326,
+      0.033333333333333326,
+      0.033333333333333326
+    ],
+    "tt_spectator_defect": 1.1102230246251565e-16,
+    "pure_trace_STF_action_defect": 3.2992823710861884e-17
+  },
+  "limits": [
+    "Born probabilities used as standard input, not derived",
+    "No ontological unique-outcome law derived",
+    "No unique global present or foliation derived",
+    "No Q-native active-to-dark beta coupling generated",
+    "MRP9B original numerical fibre chart source is documented as unrecovered"
+  ]
+}

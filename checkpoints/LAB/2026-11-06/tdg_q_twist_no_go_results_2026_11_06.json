@@ -1,0 +1,36 @@
+{
+  "status": "Exact finite S4/cubic representation diagnosis; not a TDG Q-derived GR bridge",
+  "max_character_homomorphism_error": 0,
+  "max_twisted_intertwiner_error": 1.9229626863835638e-16,
+  "hom_space_3twist_to_3_dimension": 0,
+  "intertwiner_constraint_rank": 9,
+  "min_singular_value_intertwiner_constraints": 6.928203230275509,
+  "four_node_loop_flat_Z2_holonomy": 1,
+  "four_node_loop_frustrated_Z2_holonomy": -1,
+  "TT_J_gram_plus_cross": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.3333333333333333
+    ]
+  ],
+  "TT_canonical_divergence_norm": 0.0,
+  "auxiliary_vector_mass": 5.0,
+  "auxiliary_mixing_c": 1.0,
+  "toy_effective_TT_eigenvalues": [
+    0.9866666666666662,
+    0.9999999999999996
+  ],
+  "toy_effective_TT_split": 0.013333333333333308,
+  "covariant_divergence_TT_eigenvalues": [
+    0.9999999999999996,
+    0.9999999999999996
+  ],
+  "quarter_turn_standard_covariance_defect": 2.0,
+  "generic_sixty_degree_covariance_defect": 1.7320508075688772,
+  "no_go": "Only an S4 sign twist is insufficient to produce a continuous SO3 vector or eliminate physical TT birefringence.",
+  "open": "Needs a Q-generated directional derivative/transport and a first-class nonlinear constraint structure."
+}
