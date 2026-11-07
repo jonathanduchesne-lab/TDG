@@ -20,3 +20,13 @@ La représentation cubique `J` est exactement équivariante vers un vecteur *twi
 Les scripts `.py` et sorties `.json`/`.txt` accompagnent les rapports disponibles. Les fichiers canoniques n'ont pas été modifiés. Les scripts de la première partie du travail sont des modèles d'essai, pas des exécutions du vrai Q microscopique. Le dossier utilise un archivage append-only: ne pas modifier les documents déjà enregistrés; créer de nouveaux checkpoints pour les futurs tests.
 
 **Gap toujours ouvert :** reconstruction exacte de la carte prédictive Q-B1592 / MRP9B.
+
+## 2026-11-06 — MRP9B : transport de repères et twirling
+
+- `TDG_LAB_2026_11_06_MRP9B_TRANSPORT_TWIRLING.md` : démonstration conditionnelle de transport SO(3) localement covariant, limites d'une moyenne cubique/icosaédrique du canal J, tests sur maillage à sept cellules et holonomie.
+- `tdg_mrp9b_transport_twirling_2026_11_06.py` : programme Python reproductible (numpy/scipy).
+- `tdg_mrp9b_transport_twirling_resultats_2026_11_06.json` : valeurs calculées.
+- `tdg_mrp9b_transport_twirling_execution_2026_11_06.txt` : journal d'exécution brut.
+- `TDG_MRP9B_TRANSPORT_TWIRLING_SHA256.txt` : empreintes des pièces du checkpoint.
+
+**Classification :** test mathématique de capacité **non Q-dérivé**. MRP9B et récupération de la carte prédictive Q-B1592 **restent ouverts**. Aucune promotion vers GR ni modification des états canoniques.
