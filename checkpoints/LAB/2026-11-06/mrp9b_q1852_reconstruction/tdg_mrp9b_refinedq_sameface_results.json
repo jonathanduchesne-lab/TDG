@@ -1,0 +1,210 @@
+{
+  "scope": "Certified Q-B1852 full RefinedQ H; candidate Q-B1592 chart transplant, not certified selected-future chart",
+  "source_sha256": "ebbe56f7d9c0b19b5c7e688e2b69c7acd2f9a271d161cf558e50e52cad86b5c7",
+  "results": [
+    {
+      "scheme": "b4",
+      "ac": 0.05,
+      "z": "(2+0.7j)",
+      "dim": 5570,
+      "parents": 101,
+      "b4cells": 404,
+      "sample_cells": 17,
+      "sample_faces": 46,
+      "attachments": 68,
+      "shared_edges": 46,
+      "same_face_triangles": 40,
+      "mixed_face_triangles": 10,
+      "same_face_loop_max": 2.830524433511069e-16,
+      "mixed_face_loop_median": 2.893120680090663e-06,
+      "mixed_face_loop_max": 3.712198283093513e-06,
+      "mixed_face_loop_over_a2": 0.0011572482720362649,
+      "mixed_face_loop_over_a4": 0.46289930881450597,
+      "max_loop_cells": [
+        [
+          0,
+          1,
+          2,
+          4
+        ],
+        [
+          0,
+          2,
+          3,
+          4
+        ],
+        [
+          1,
+          2,
+          3,
+          4
+        ]
+      ],
+      "max_loop_faces": [
+        [
+          0,
+          2,
+          4
+        ],
+        [
+          2,
+          3,
+          4
+        ],
+        [
+          1,
+          2,
+          4
+        ]
+      ],
+      "link_median": 1.2628799463966961e-06,
+      "link_max": 3.2456079033667804e-06,
+      "rowres_max": 0.0008168655663220889,
+      "rowres_median": 0.0008106767406049927,
+      "max_K_condition": 1.0000041504367987,
+      "max_Gf_condition": 1.0000000000000018,
+      "K_det_min": 0.002497026524925396,
+      "K_det_max": 0.002497046416833157,
+      "alternative_right_inverse_relative_median": 0.000540133474821747,
+      "alternative_right_inverse_link_median": 0.0006959599317738882,
+      "alternative_right_inverse_mixed_loop_median": 0.0012465356908893238,
+      "alternative_versus_canonical_loop_ratio": 430.8619752599676
+    },
+    {
+      "scheme": "b4",
+      "ac": 0.025,
+      "z": "(2+0.7j)",
+      "dim": 5570,
+      "parents": 101,
+      "b4cells": 404,
+      "sample_cells": 17,
+      "sample_faces": 46,
+      "attachments": 68,
+      "shared_edges": 46,
+      "same_face_triangles": 40,
+      "mixed_face_triangles": 10,
+      "same_face_loop_max": 3.925231146709537e-16,
+      "mixed_face_loop_median": 1.7763553402323117e-07,
+      "mixed_face_loop_max": 2.2783208312111031e-07,
+      "mixed_face_loop_over_a2": 0.00028421685443716984,
+      "mixed_face_loop_over_a4": 0.4547469670994717,
+      "max_loop_cells": [
+        [
+          0,
+          1,
+          2,
+          4
+        ],
+        [
+          0,
+          2,
+          3,
+          4
+        ],
+        [
+          1,
+          2,
+          3,
+          4
+        ]
+      ],
+      "max_loop_faces": [
+        [
+          0,
+          2,
+          4
+        ],
+        [
+          2,
+          3,
+          4
+        ],
+        [
+          1,
+          2,
+          4
+        ]
+      ],
+      "link_median": 7.763764788563924e-08,
+      "link_max": 1.9938082748194143e-07,
+      "rowres_max": 0.0002007942236497355,
+      "rowres_median": 0.00020041264034320909,
+      "max_K_condition": 1.000000254289502,
+      "max_Gf_condition": 1.0000000000000018,
+      "K_det_min": 0.0006248153572191122,
+      "K_det_max": 0.000624815657714037,
+      "alternative_right_inverse_relative_median": 0.00013363901366305535,
+      "alternative_right_inverse_link_median": 0.0001714213400587534,
+      "alternative_right_inverse_mixed_loop_median": 0.0003070528559885574,
+      "alternative_versus_canonical_loop_ratio": 1728.5553685919679
+    },
+    {
+      "scheme": "b4",
+      "ac": 0.0125,
+      "z": "(2+0.7j)",
+      "dim": 5570,
+      "parents": 101,
+      "b4cells": 404,
+      "sample_cells": 17,
+      "sample_faces": 46,
+      "attachments": 68,
+      "shared_edges": 46,
+      "same_face_triangles": 40,
+      "mixed_face_triangles": 10,
+      "same_face_loop_max": 1.7554167342883504e-16,
+      "mixed_face_loop_median": 1.1052976064579433e-08,
+      "mixed_face_loop_max": 1.417486880482354e-08,
+      "mixed_face_loop_over_a2": 7.073904681330836e-05,
+      "mixed_face_loop_over_a4": 0.4527298996051735,
+      "max_loop_cells": [
+        [
+          0,
+          1,
+          2,
+          4
+        ],
+        [
+          0,
+          2,
+          3,
+          4
+        ],
+        [
+          1,
+          2,
+          3,
+          4
+        ]
+      ],
+      "max_loop_faces": [
+        [
+          0,
+          2,
+          4
+        ],
+        [
+          2,
+          3,
+          4
+        ],
+        [
+          1,
+          2,
+          4
+        ]
+      ],
+      "link_median": 4.832369251341691e-09,
+      "link_max": 1.2407650723133099e-08,
+      "rowres_max": 4.998679395457085e-05,
+      "rowres_median": 4.996302676956103e-05,
+      "max_K_condition": 1.0000000158134614,
+      "max_Gf_condition": 1.0000000000000018,
+      "K_det_min": 0.00015623847761647594,
+      "K_det_max": 0.00015623848227249291,
+      "alternative_right_inverse_relative_median": 3.330614360980067e-05,
+      "alternative_right_inverse_link_median": 4.269628118999028e-05,
+      "alternative_right_inverse_mixed_loop_median": 7.647924915637375e-05,
+      "alternative_versus_canonical_loop_ratio": 6919.3354540466735
+    }
+  ]
+}

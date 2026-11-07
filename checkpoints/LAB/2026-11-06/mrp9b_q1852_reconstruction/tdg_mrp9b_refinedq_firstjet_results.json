@@ -1,0 +1,121 @@
+{
+  "scope": "Q-B1852 exact Q source, source-marked physical perturbations; conditional Q-B1592 chart transplant",
+  "source_sha256": "ebbe56f7d9c0b19b5c7e688e2b69c7acd2f9a271d161cf558e50e52cad86b5c7",
+  "records": [
+    {
+      "a": 0.05,
+      "dim": 5570,
+      "loop_centrality": 3.3513161438250603e-06,
+      "loop_over_a2": 0.001340526457530024,
+      "baseline_rowres_max": 0.0008165924025842428,
+      "marked_source_entries": [
+        {
+          "slot": 0,
+          "loop_response_traceless_norm": 0.0002368903063604518,
+          "local_chart_tangent_norm": 9.911508940933916e-05
+        },
+        {
+          "slot": 1,
+          "loop_response_traceless_norm": 0.00023648745351792595,
+          "local_chart_tangent_norm": 9.903088313710605e-05
+        },
+        {
+          "slot": 2,
+          "loop_response_traceless_norm": 0.00020195661891123296,
+          "local_chart_tangent_norm": 9.93064889296306e-05
+        },
+        {
+          "slot": 3,
+          "loop_response_traceless_norm": 0.00020187255772509302,
+          "local_chart_tangent_norm": 8.476118054883407e-05
+        }
+      ],
+      "median_loop_firstjet_norm": 0.00021922203621457944,
+      "firstjet_singular_values": [
+        0.0001211348604324509,
+        0.00012111168906517434,
+        7.670594510076568e-05,
+        3.527940691382889e-21
+      ],
+      "singlet_tangent_norm": 1.9050299086161604e-05,
+      "imag_rotation_fraction": 0.7039207520916225,
+      "woodbury_sparse_direct_max_rel_error": 9.221208850368784e-16
+    },
+    {
+      "a": 0.025,
+      "dim": 5570,
+      "loop_centrality": 2.0587993134166617e-07,
+      "loop_over_a2": 0.00032940789014666584,
+      "baseline_rowres_max": 0.0002007774096361296,
+      "marked_source_entries": [
+        {
+          "slot": 0,
+          "loop_response_traceless_norm": 5.826805443100233e-05,
+          "local_chart_tangent_norm": 2.4425885358977572e-05
+        },
+        {
+          "slot": 1,
+          "loop_response_traceless_norm": 5.824325497205688e-05,
+          "local_chart_tangent_norm": 2.4420674029422103e-05
+        },
+        {
+          "slot": 2,
+          "loop_response_traceless_norm": 4.98255588763582e-05,
+          "local_chart_tangent_norm": 2.4437645417876106e-05
+        },
+        {
+          "slot": 3,
+          "loop_response_traceless_norm": 4.9820413314494575e-05,
+          "local_chart_tangent_norm": 2.098681967255342e-05
+        }
+      ],
+      "median_loop_firstjet_norm": 5.403440692420754e-05,
+      "firstjet_singular_values": [
+        2.9839941203964603e-05,
+        2.983853366987024e-05,
+        1.9002369953201322e-05,
+        2.3283922814480765e-21
+      ],
+      "singlet_tangent_norm": 4.711370891177767e-06,
+      "imag_rotation_fraction": 0.7114237321821884
+    },
+    {
+      "a": 0.0125,
+      "dim": 5570,
+      "loop_centrality": 1.2812186178599508e-08,
+      "loop_over_a2": 8.199799154303684e-05,
+      "baseline_rowres_max": 4.9985747082101115e-05,
+      "marked_source_entries": [
+        {
+          "slot": 0,
+          "loop_response_traceless_norm": 1.4507891283197222e-05,
+          "local_chart_tangent_norm": 6.08457894338206e-06
+        },
+        {
+          "slot": 1,
+          "loop_response_traceless_norm": 1.4506349112632059e-05,
+          "local_chart_tangent_norm": 6.084254441927979e-06
+        },
+        {
+          "slot": 2,
+          "loop_response_traceless_norm": 1.2415267460400407e-05,
+          "local_chart_tangent_norm": 6.085311270696549e-06
+        },
+        {
+          "slot": 3,
+          "loop_response_traceless_norm": 1.2414946537837681e-05,
+          "local_chart_tangent_norm": 5.23406618571693e-06
+        }
+      ],
+      "median_loop_firstjet_norm": 1.3460808286516233e-05,
+      "firstjet_singular_values": [
+        7.432471659024104e-06,
+        7.432383868927394e-06,
+        4.7397701512160186e-06,
+        2.7273723543433417e-22
+      ],
+      "singlet_tangent_norm": 1.1746626224637318e-06,
+      "imag_rotation_fraction": 0.7132618314368919
+    }
+  ]
+}

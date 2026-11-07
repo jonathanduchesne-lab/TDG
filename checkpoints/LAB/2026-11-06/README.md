@@ -51,3 +51,13 @@ The exact Q-B1852 source was recovered with certified SHA-256 and its final veri
 - MRP9B_Q1852_LAB_WITNESS_2026_11_06.json: compact verified numerical data.
 
 Lab classification: static candidate loops scale as a^4; marked Q-core source response scales as a^2 but is readout dependent and lacks a licensed unique predictive-fibre chart. No GR derivation. Main TDG scientific checkpoint unchanged.
+
+## 2026-11-06 — Archive reproductible MRP9B avec sources historiques retrouvées
+
+L'ensemble des **19 pièces de la session de récupération** est sauvegardé sous [`mrp9b_q1852_reconstruction/`](mrp9b_q1852_reconstruction/README.md), y compris les programmes historiques Q-B1592 et Q-B1852 (originaux byte-exact), les programmes de comparaison, les résultats des deux-cellules, les balayages spectraux, les logs de certification et le manifeste de hachage.
+
+- [Rapport de synthèse](mrp9b_q1852_reconstruction/TDG_MRP9B_Q1852_RECONSTRUCTION_2026_11_06.md)
+- [Manifeste SHA-256 de l'archive](mrp9b_q1852_reconstruction/SHA256_MANIFEST.txt)
+- **Verdict conservateur :** source Q-B1592 récupérée et revalidée ; Q-B1852 revalidé ; la transplantation de la carte et l'identification physique du jet ne sont pas dérivées ; ni O(3), ni HDA, ni GR n'est promue.
+
+Les dépendances historiques complètes se trouvent dans les archives Library dont les chemins et empreintes sont précisés dans le rapport. Aucun fichier canonique n'a été modifié.

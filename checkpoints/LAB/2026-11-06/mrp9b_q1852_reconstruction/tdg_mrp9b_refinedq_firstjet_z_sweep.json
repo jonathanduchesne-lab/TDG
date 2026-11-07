@@ -1,0 +1,80 @@
+[
+  {
+    "a": 0.025,
+    "dim": 5570,
+    "loop_centrality": 7.354626503842368e-08,
+    "loop_over_a2": 0.00011767402406147785,
+    "baseline_rowres_max": 0.00012731423421798475,
+    "marked_source_entries": [
+      {
+        "slot": 0,
+        "loop_response_traceless_norm": 2.989502162172774e-05,
+        "local_chart_tangent_norm": 1.251178036401721e-05
+      },
+      {
+        "slot": 1,
+        "loop_response_traceless_norm": 2.9885104518573798e-05,
+        "local_chart_tangent_norm": 1.2510690832983565e-05
+      },
+      {
+        "slot": 2,
+        "loop_response_traceless_norm": 2.5260015641438206e-05,
+        "local_chart_tangent_norm": 1.2516669952404722e-05
+      },
+      {
+        "slot": 3,
+        "loop_response_traceless_norm": 2.5258495338314658e-05,
+        "local_chart_tangent_norm": 1.0326420905104846e-05
+      }
+    ],
+    "median_loop_firstjet_norm": 2.7572560080006e-05,
+    "firstjet_singular_values": [
+      1.5317213537191414e-05,
+      1.5316576980845284e-05,
+      8.935830299831209e-06,
+      1.2744101011393463e-21
+    ],
+    "singlet_tangent_norm": 2.6124894402304376e-06,
+    "imag_rotation_fraction": 0.8314914235508388,
+    "z": "(1.4+0.5j)"
+  },
+  {
+    "a": 0.025,
+    "dim": 5570,
+    "loop_centrality": 1.0009809103676905e-06,
+    "loop_over_a2": 0.0016015694565883044,
+    "baseline_rowres_max": 0.0004382837136004289,
+    "marked_source_entries": [
+      {
+        "slot": 0,
+        "loop_response_traceless_norm": 0.00012060956592777014,
+        "local_chart_tangent_norm": 5.199116459094801e-05
+      },
+      {
+        "slot": 1,
+        "loop_response_traceless_norm": 0.00012061777652796723,
+        "local_chart_tangent_norm": 5.198123151075947e-05
+      },
+      {
+        "slot": 2,
+        "loop_response_traceless_norm": 0.00012822414244263754,
+        "local_chart_tangent_norm": 5.197659995459181e-05
+      },
+      {
+        "slot": 3,
+        "loop_response_traceless_norm": 0.00012815971159204284,
+        "local_chart_tangent_norm": 6.554154592057945e-05
+      }
+    ],
+    "median_loop_firstjet_norm": 0.00012438874406000503,
+    "firstjet_singular_values": [
+      6.183681051296123e-05,
+      6.179528017360692e-05,
+      6.177599587441192e-05,
+      3.662333550236214e-21
+    ],
+    "singlet_tangent_norm": 1.5359600881627045e-05,
+    "imag_rotation_fraction": 0.57307890094525,
+    "z": "(3+0.8j)"
+  }
+]
